@@ -13,4 +13,21 @@ class Solution:
                 if val in nums[pos+1:]:
                     return True
             return False
-        return iterative(nums)
+        # return iterative(nums)
+
+        '''
+        Alternative idea: 
+        Recursive approach to pop the first element and check if it still in the list,
+        otherwise recursively do the check on the remaining (popped) list.
+        Time complexity: O(n^2)
+        Space complexity: O(1)
+        but worse by a constant factor to handle the recursive context change.
+        '''
+        def recursive(nums: List[int]) -> bool:
+            if len(nums) == 0:
+                return False
+            first = nums.pop()
+            if first in nums:
+                return True
+            return recursive(nums)
+        return recursive(nums)
