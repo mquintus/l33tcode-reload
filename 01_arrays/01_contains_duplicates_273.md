@@ -27,3 +27,13 @@ Output: true
 
 `1 <= nums.length <= 105`
 `-109 <= nums[i] <= 109`
+
+
+
+My submitted solution was to implement a custom hashtable of size n,
+thereby reducing Time Complexity from O(n^2) to O(n) and increasing Space Complexity from O(1) to O(n).
+Interestingly, this solution still beats 96.7 % of all submitted solutions regarding Memory usage
+while being worse than 94.9 % in computation time - presumably because of the 
+constant time it takes to instantiate the hashtable.
+
+![image](https://github.com/mquintus/l33tocde/assets/515945/4c065588-a955-41f3-94ac-ac34f3921768)
