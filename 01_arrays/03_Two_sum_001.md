@@ -41,3 +41,10 @@ Only one valid answer exists.
 ```
 
 **Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?**
+
+
+# Solution
+
+Using a C++ `std::unordered_map` aka. hashmap reduces the time complexity to O(n).
+
+![image](https://github.com/mquintus/l33tcode/assets/515945/41d759a3-ef30-4e26-9558-0fcf727d91f8)
