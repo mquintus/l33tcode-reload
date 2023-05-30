@@ -4,6 +4,12 @@
  * @return {boolean}
  */
 var checkIfInstanceOf = function(obj, classFunction) {
+    /** 
+     * Edge cases:
+     *
+     * - The class function is not a function
+     * - The object is not an object
+     */
     if (classFunction === null || typeof classFunction !== "function") {
         return false;
      }
