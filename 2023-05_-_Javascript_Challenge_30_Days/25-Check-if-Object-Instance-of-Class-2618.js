@@ -4,6 +4,9 @@
  * @return {boolean}
  */
 var checkIfInstanceOf = function(obj, classFunction) {
+    if (classFunction === null || typeof classFunction !== "function") {
+        return false;
+     }
     if (obj === null) {
         return false;
      }
@@ -12,11 +15,11 @@ var checkIfInstanceOf = function(obj, classFunction) {
      }
 
      var myPrototype = Object.getPrototypeOf(obj);
-     if (myPrototype === null) {
-         return false;
-     }
-     if (myPrototype == classFunction.prototype) {
-         return true;
+     while (myPrototype !== null) {
+        if (myPrototype == classFunction.prototype) {
+            return true;
+        }
+        myPrototype = Object.getPrototypeOf(myPrototype);
      }
      return false;
 
