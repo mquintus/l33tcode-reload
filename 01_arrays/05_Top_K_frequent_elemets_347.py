@@ -21,8 +21,11 @@ class Solution:
         A max head keeps the largest element at the top.
 
         At the end, we need to pop from the heap with O(log k)
-        but actually k times to get the k elements. Since k is a constant,
-        O(k * log n) can be reduced to O(log n).
+        but actually k times to get the k elements with O(k log k) as the worst case.
+        Since we are considering the average case,
+        can be reduced to O(log k).
+
+        So the final time complexity is O(n log k).
 
         Another challenge here is to access the Counters in constant time while storing them in the heap.
         So we need a book-keeping structure 
