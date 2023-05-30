@@ -6,6 +6,11 @@ class Solution:
         Naive approach: 
         1. Create a counter for each string
         2. Compare counters: All counters that are identical belong together
+
+        Ideas for optimizing: (not implemented)
+        - Since the alphabet is restricted to 26 letters (lowercase),
+        the Counter could be a highly optimized hashmap
+        - Breadth-first-search parsing all strings in parallel might yield performance advantages (just guessing)
         '''
         myCounters = {}
 
