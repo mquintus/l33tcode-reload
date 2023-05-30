@@ -43,8 +43,7 @@ class Solution:
                 '''Only one elemt: Is already sorted'''
                 return nums
 
-            while len(nums) > 0:
-                mynum = nums.pop()
+            for mynum in nums:
                 ''' Get the next number '''
                 if mynum not in my_counter.keys():
                     ''' 
