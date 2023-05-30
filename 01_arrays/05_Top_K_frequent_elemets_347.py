@@ -23,4 +23,12 @@ class Solution:
         At the end, we need to pop from the heap with O(log k)
         but actually k times to get the k elements. Since k is a constant,
         O(k * log n) can be reduced to O(log n).
+
+        Another challenge here is to access the Counters in constant time while storing them in the heap.
+        So we need a book-keeping structure 
+        for each found number 
+        - with a pointer to the heap element (to update)
+        - with a counter 
+
+        This sounds a lot like a priority queue.
         '''
