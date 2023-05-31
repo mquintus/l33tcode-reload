@@ -4,7 +4,12 @@
  * @return {any}
  */
 Function.prototype.callPolyfill = function(context, ...args) {
-
+    /**
+     * Idea: 
+     * 1. loop the dict "context", extract key and value,
+     * and assign them onto "this[key] = value;"
+     * 2. call this()
+     */
 }
 
 /**
