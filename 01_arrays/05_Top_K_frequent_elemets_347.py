@@ -81,6 +81,58 @@ class Solution:
             and return the number of that task.
             '''
             return [x[1] for x in heapq.nsmallest(k, my_max_heap)]
+        # return heap_solution(nums, k)
 
 
-        return heap_solution(nums, k)
+        '''
+        Let's revisit this challenge.
+        There is a probabilistic approach for unsorted lists: Lomuto's Partition Scheme.
+        It works with two pointers.
+        The basic idea is that we select a "pivot" element from the end of the list and move up
+        as long as the pivot is smaller and move other bigger elements to the left.
+
+        This is an approach to replace the heap. The hashmap is still required.
+        '''
+        def lomuto_solution(nums: List[int], k: int) -> List[int]:
+            # First half: time complexity O(n)
+            counter = {}
+            for i in nums:
+                if i in counter.keys():
+                    counter[i][0] += 1
+                else:
+                    counter[i] = [1, i]
+
+            # Second half
+            def swap(a,b):
+                temp = counter[a]
+                counter[a] = counter[b]
+                counter[b] = temp
+
+            # Through away the counter's index, turn it into a list
+            counter = list(counter.values())
+
+            # Pivot is at the end of the list
+            pivot_position = len(counter) - 1
+            # Store index is at 0
+            store_index = 0
+            target_position = len(counter) - k
+            security_counter = len(counter)
+            while store_index != target_position and security_counter > 0:
+                store_index = 0
+                security_counter -= 1
+                pivot = counter[pivot_position]
+                for j in range(store_index, pivot_position):
+                    other = counter[j]
+                    if other[0] <= pivot[0]:
+                        swap(j, store_index)
+                        store_index += 1
+                swap(pivot_position, store_index)
+                if store_index < target_position:
+                    store_index += 1
+                if store_index > target_position:
+                    pivot_position = store_index - 1
+                    store_index = 0
+                #print("next pivot")
+            
+            return [el[1] for el in counter[-k:]]
+        return lomuto_solution(nums, k)
