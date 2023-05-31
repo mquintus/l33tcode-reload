@@ -12,13 +12,23 @@ Function.prototype.callPolyfill = function(context, ...args) {
      * 2. make "this" a function of my proxyObj
      * 3. call proxyObj."this"
      *
-     * Simplified idea:
+     * Simplyfied idea:
      * 1. use the "context" object directly as my proxyObj
      * 2. context.fn = this
      * 3. return context.fn(...args);
+     *
+     * Problem: 
+     * One of the "submit" testcases fails. It is not allowed to
+     * add an additional object key to the context.
+     *
+     * Solution: 
+     * Set function property "enumerable" to false  o_O
      */
-    context.fn = this;
-    return context.fn(...args);
+    context.not_enumerable_function = this;
+    Object.defineProperty(context, 'not_enumerable_function', {
+        enumerable: false,  
+    });
+    return context.not_enumerable_function(...args);
 }
 
 /**
