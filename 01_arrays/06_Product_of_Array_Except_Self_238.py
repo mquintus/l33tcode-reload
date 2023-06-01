@@ -21,21 +21,47 @@ class Solution:
 
 
         So let's 
-        a) Initialize the result list with 1 values and start multiplying immediately:    O(n)
-        b) If we come from both sides we might get a linear solution: 2*O(n)
-        c) In the final run, we can multiply the left and the right value of each cell: 3*O(n)
+        a) Come from both sides we might get a linear solution: 2*O(n)
+        b) In a final run, multiply the left and the right value of each cell: 3*O(n)
         '''
 
-        total_product_left = [1]
-        for i in range(len(nums) - 1):
-            total_product_left.append(total_product_left[-1] * nums[i])
+        def two_arrays_solution(nums: List[int]) -> List[int]:
+            total_product_left = [1]
+            for i in range(len(nums) - 1):
+                total_product_left.append(total_product_left[-1] * nums[i])
 
-        total_product_right = [1]
-        for i in range(len(nums) - 1, 0, -1):
-            total_product_right.insert(0, total_product_right[0] * nums[i])
+            total_product_right = [1]
+            for i in range(len(nums) - 1, 0, -1):
+                total_product_right.insert(0, total_product_right[0] * nums[i])
 
-        ret = []
-        for i in range(len(nums)):
-            ret.append(total_product_left[i] * total_product_right[i])
+            ret = []
+            for i in range(len(nums)):
+                ret.append(total_product_left[i] * total_product_right[i])
 
-        return ret
+            return ret
+        # return two_arrays_solution(nums)
+
+
+
+        '''
+        c) Reduce space requirements: According to the task description's exra challenge, it's ok
+        to use O(1x n) for space at max.
+
+        To get rid of the second vector, we use a running_number instead for each pass
+        in a distinguished variable.
+        '''
+        def one_array_solution(nums: List[int]) -> List[int]:
+            running_number = 1
+            final_vector = [1]
+            for i in range(0, len(nums) - 1):
+                running_number *= nums[i]
+                final_vector.append(running_number)
+
+            running_number = nums[-1]
+           
+            for i in range(len(nums) - 2, -1, -1):
+                final_vector[i] *= running_number
+                running_number *= nums[i]
+
+            return final_vector
+        return one_array_solution(nums)
