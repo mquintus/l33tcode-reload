@@ -25,3 +25,19 @@ class Solution:
           -> takes at most n*1 checks if not consequtive and 1*n checks if totally consequtive 
         - Keep track of chain length -> return
         '''
+        hashmap = {}
+        for num in nums:
+            hashmap[num] = 1
+        
+        global_max = 0
+        for num in nums:
+            local_max = 1
+            if num - 1 not in hashmap:
+                while num + 1 in hashmap:
+                    local_max += 1
+                    num += 1
+            if local_max > global_max:
+                global_max = local_max
+        return global_max
+
+        
