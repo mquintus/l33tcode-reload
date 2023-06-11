@@ -29,5 +29,5 @@ snapshotArr.get(0,0);  // Get the value of array[0] with snap_id = 0, return 5
 - `1 <= length <= 5 * 104`
 - `0 <= index < length`
 - `0 <= val <= 109`
-- `0 <= snap_id < (the total number of times we call snap())`
+- `0 <= snap_id <` (the total number of times we call `snap()`)
 - At most 5 * 104 calls will be made to `set`, `snap`, and `get`.
