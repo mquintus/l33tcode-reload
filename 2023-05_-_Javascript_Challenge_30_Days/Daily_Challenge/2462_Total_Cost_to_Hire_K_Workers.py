@@ -54,7 +54,7 @@ class Solution:
             next_left = next_worker(1, hired_left)
             next_right = next_worker(-1, hired_right)
             
-            if len(right) == 0 or left[0][0] <= right[0][0]:
+            if len(right) == 0 or len(left) > 0 and left[0][0] <= right[0][0]:
                 left_smallest = left[0]
                 hired_left += 1
 
