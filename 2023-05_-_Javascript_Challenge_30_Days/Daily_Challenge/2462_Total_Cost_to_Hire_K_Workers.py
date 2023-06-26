@@ -11,16 +11,10 @@ class Solution:
         and put them into a minheap.
 
         The annoying thing is when they overlap, removing a worker 
-        from the left list also removes them from the right list,
-        so want I am going to do is, to override that worker with
-        None in the original list and when pulling new workers,
-        check if it is None and skip.
+        from the left list also removes them from the right list
         '''
-
+        number_hired = 0
         total_cost = 0
-        number_hired_left = 0
-        number_hired_right = 0
-
         costs_with_index = []
         for i, v in enumerate(costs):
             costs_with_index.append((v, i,))
@@ -31,50 +25,49 @@ class Solution:
         right = costs_with_index[-candidates:]
         heapq.heapify(right)
 
-        def refill_right(number_hired_right):
-            if len(costs_with_index) > candidates + number_hired_right:
-                not_left = 0
-                new_right = None
-                while new_right is None and len(costs_with_index) > candidates + number_hired_right + not_left:
-                    new_right = costs_with_index[-1 * candidates - number_hired_right - 1 - not_left]
-                    not_left += 1
-                if new_right is not None :
-                    heapq.heappush(right, new_right)      
-                number_hired_right += 1
+        for i in range(len(left)):
+            costs_with_index[i] = None
+        for i in range(len(right)):
+            idx = len(costs_with_index) - 1 - i
+            costs_with_index[idx] = None
 
-        while number_hired_left + number_hired_right < k:
+        def refill(myList, sign='1'):
+            not_found = 0
+            new_el = None
+            while new_el is None and len(costs_with_index) > candidates + not_found:
+                new_el = costs_with_index[sign * (candidates + not_found - 1)]
+                not_found += 1
+            killindex = 0
+            if new_el is not None:
+                new_el = (new_el[0], new_el[1],)
+                heapq.heappush(myList, new_el)
+                killindex = new_el[1]
+            return killindex
+
+        while number_hired < k:
+            number_hired += 1
             left_smallest = heapq.nsmallest(1, left)[0]
             right_smallest = heapq.nsmallest(1, right)[0]
 
             if left_smallest[0] <= right_smallest[0]:
                 heapq.heappop(left)
+                listindex = refill(left, 1)
                 that_index = left_smallest[1]
                 if that_index == right_smallest[1]:
                     heapq.heappop(right)
-                    refill_right(number_hired_right)
+                    listindex2 = refill(right, -1)
+                    costs_with_index[listindex2] = None
                 curr_cost = left_smallest[0]
-                number_hired_left += 1
 
-                costs_with_index[that_index] = None
-
-                # refill heap
-                if len(costs_with_index) > candidates + number_hired_left:
-                    not_right = -1
-                    new_left = None
-                    while new_left is None and candidates + number_hired_left + not_right < len(costs_with_index):
-                        new_left = costs_with_index[candidates + number_hired_left + not_right]
-                        not_right += 1
-                    if new_left is not None:
-                        heapq.heappush(left, new_left)
+                costs_with_index[listindex] = None
             else:
                 heapq.heappop(right)
                 curr_cost = right_smallest[0]
 
-                costs_with_index[right_smallest[1]] = None
 
                 #refill heap
-                refill_right(number_hired_right)
-                number_hired_right += 1
+                listindex2 = refill(right, -1)
+                costs_with_index[listindex2] = None
             total_cost += curr_cost
         
         return total_cost
