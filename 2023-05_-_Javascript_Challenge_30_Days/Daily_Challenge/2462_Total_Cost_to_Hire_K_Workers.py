@@ -51,8 +51,10 @@ class Solution:
 
             if left_smallest[0] <= right_smallest[0]:
                 heapq.heappop(left)
-                listindex = refill(left, 1)
                 that_index = left_smallest[1]
+                listindex = refill(left, 1)
+                if left == []:
+                    left = [i for i in right]
                 if that_index == right_smallest[1]:
                     heapq.heappop(right)
                     listindex2 = refill(right, -1)
