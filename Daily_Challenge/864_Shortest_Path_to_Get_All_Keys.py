@@ -42,7 +42,7 @@ class Solution:
                 ]:
                 if p[0] >= 0 and p[1] >= 0 and p[0] < len(grid[0]) and p[1] < len(grid):
                     cell_value = grid[p[1]][p[0]]
-                    print(p, cell_value)
+#                    print(p, cell_value)
                     if cell_value == '#':
                         continue
                     if cell_value == cell_value.upper() and cell_value.lower() in has_keys:
