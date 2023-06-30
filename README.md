@@ -9,12 +9,23 @@ Approaches:
 ## Daily Challenges
 
 | Date       |   #  | Title                         | Solution | Difficulty |
-|------------|------| ----------------------------- | -------- | ---------- |
+|------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-06-30 | 1970 | [Last Day Where You Can Still Cross](./Daily_Challenge/1970_Last_Day_Where_You_Can_Still_Cross.md) | [Python](./Daily_Challenge/1970_Last_Day_Where_You_Can_Still_Cross.py)|Hard|
+| 2023-06-29 |  864 | [Shortest Path to Get All Keys](./Daily_Challenge/864_Shortest_Path_to_Get_All_Keys.md) | [Python](./Daily_Challenge/864_Shortest_Path_to_Get_All_Keys.py)|Hard|
 | 2023-06-28 | 1514 | [Path with Maximum Probability](./Daily_Challenge/1514_Path_with_Maximum_Probability.md) | [Python](./Daily_Challenge/1514_Path_with_Maximum_Probability.py)|Medium|
 | 2023-06-27 |   74 | [Search a 2D Matrix] | [Python]|Medium|
 | 2023-06-26 |  373 | [Find K Pairs with Smallest Sums](./Daily_Challenge/373_Find_K_Pairs_with_Smallest_Sums.md) | [Python](./Daily_Challenge/373_Find_K_Pairs_with_Smallest_Sums.py)|Medium|
 | 2023-06-25 | 2462 | [Total Cost to Hire K Workers](./Daily_Challenge/2462_Total_Cost_to_Hire_K_Workers.md) | [Python](./Daily_Challenge/2462_Total_Cost_to_Hire_K_Workers.py)|Medium|
 | 2023-06-24 | 1575 | [Count All Possible Routes](./Daily_Challenge/1575_Count_All_Possible_Routes.md) | [Python](./Daily_Challenge/1575_Count_All_Possible_Routes.py)|Hard|
+| 2023-06-23 |       |                              |          |            |
+| 2023-06-22 |       |                              |          |            |
+| 2023-06-21 |       |                              |          |            |
+| 2023-06-20 |       |                              |          |            |
+| 2023-06-19 |       |                              |          |            |
+| 2023-06-18 |       |                              |          |            |
+| 2023-06-17 |       |                              |          |            |
+| 2023-06-16 |       |                              |          |            |
+| 2023-06-15 |       |                              |          |            |
 
 
 ## Neetcode Roadmap
