@@ -18,7 +18,7 @@ Approaches:
 | 2023-06-26 |  373 | [Find K Pairs with Smallest Sums](./Daily_Challenge/373_Find_K_Pairs_with_Smallest_Sums.md) | [Python](./Daily_Challenge/373_Find_K_Pairs_with_Smallest_Sums.py)|Medium|
 | 2023-06-25 | 2462 | [Total Cost to Hire K Workers](./Daily_Challenge/2462_Total_Cost_to_Hire_K_Workers.md) | [Python](./Daily_Challenge/2462_Total_Cost_to_Hire_K_Workers.py)|Medium|
 | 2023-06-24 | 1575 | [Count All Possible Routes](./Daily_Challenge/1575_Count_All_Possible_Routes.md) | [Python](./Daily_Challenge/1575_Count_All_Possible_Routes.py)|Hard|
-| 2023-06-23 |       |                              |          |            |
+| 2023-06-23 |  704 | [Binary Search](./Daily_Challenge/704_Binary_Search.md) | [Python](./Daily_Challenge/704_Binary_Search.py)|Easy|
 | 2023-06-22 |       |                              |          |            |
 | 2023-06-21 |       |                              |          |            |
 | 2023-06-20 |       |                              |          |            |
