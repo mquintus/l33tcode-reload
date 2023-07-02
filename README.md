@@ -10,7 +10,8 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
-| 2023-06-31 | 2305 | [Fair Distribution of Cookies](./Daily_Challenge/2305_Fair_Distribution_of_Cookies.md) | [Python](./Daily_Challenge/2305_Fair_Distribution_of_Cookies.py)|Medium|
+| 2023-07-02 | 1601 | [Maximum Number of Achievable Transfer Requests](./Daily_Challenge/1601_Maximum_Number_Of_Achievable_Transfer_Requests.md) | [Python](./Daily_Challenge/1601_Maximum_Number_Of_Achievable_Transfer_Requests.py) | Hard |
+| 2023-07-01 | 2305 | [Fair Distribution of Cookies](./Daily_Challenge/2305_Fair_Distribution_of_Cookies.md) | [Python](./Daily_Challenge/2305_Fair_Distribution_of_Cookies.py)|Medium|
 | 2023-06-30 | 1970 | [Last Day Where You Can Still Cross](./Daily_Challenge/1970_Last_Day_Where_You_Can_Still_Cross.md) | [Python](./Daily_Challenge/1970_Last_Day_Where_You_Can_Still_Cross.py)|Hard|
 | 2023-06-29 |  864 | [Shortest Path to Get All Keys](./Daily_Challenge/864_Shortest_Path_to_Get_All_Keys.md) | [Python](./Daily_Challenge/864_Shortest_Path_to_Get_All_Keys.py)|Hard|
 | 2023-06-28 | 1514 | [Path with Maximum Probability](./Daily_Challenge/1514_Path_with_Maximum_Probability.md) | [Python](./Daily_Challenge/1514_Path_with_Maximum_Probability.py)|Medium|
