@@ -10,6 +10,8 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-07-04 | 137 | [Single Number II](./Daily_Challenge/137_Single_Number_II.md) | [Python](./Daily_Challenge/137_Single_Number_II.py) | Medium |
+| 2023-07-03 | 859 | [Buddy Strings](./Daily_Challenge/859_Buddy_Strings.md) | [Python](./Daily_Challenge/859_Buddy_Strings.py) | Easy |
 | 2023-07-02 | 1601 | [Maximum Number of Achievable Transfer Requests](./Daily_Challenge/1601_Maximum_Number_of_Achievable_Transfer_Requests.md) | [Python](./Daily_Challenge/1601_Maximum_Number_of_Achievable_Transfer_Requests.py) | Hard |
 | 2023-07-01 | 2305 | [Fair Distribution of Cookies](./Daily_Challenge/2305_Fair_Distribution_of_Cookies.md) | [Python](./Daily_Challenge/2305_Fair_Distribution_of_Cookies.py)|Medium|
 | 2023-06-30 | 1970 | [Last Day Where You Can Still Cross](./Daily_Challenge/1970_Last_Day_Where_You_Can_Still_Cross.md) | [Python](./Daily_Challenge/1970_Last_Day_Where_You_Can_Still_Cross.py)|Hard|
