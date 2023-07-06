@@ -1,4 +1,4 @@
-# l33tccde
+# l33tc0de
 
 My solutions to the leetcode.io challenges.
 
@@ -10,6 +10,8 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-07-06 | 209 | [Minimum Size Subarray Sum](./Daily_Challenge/209_Minimum_Size_Subarray_Sum.md) | [Python](./Daily_Challenge/209_Minimum_Size_Subarray_Sum.py) | Medium |
+| 2023-07-05 | 1493 | [Longest Subarray of 1's After Deleting One Element](./Daily_Challenge/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.md) | [Python](./Daily_Challenge/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.py) | Medium |
 | 2023-07-04 | 137 | [Single Number II](./Daily_Challenge/137_Single_Number_II.md) | [Python](./Daily_Challenge/137_Single_Number_II.py) | Medium |
 | 2023-07-03 | 859 | [Buddy Strings](./Daily_Challenge/859_Buddy_Strings.md) | [Python](./Daily_Challenge/859_Buddy_Strings.py) | Easy |
 | 2023-07-02 | 1601 | [Maximum Number of Achievable Transfer Requests](./Daily_Challenge/1601_Maximum_Number_of_Achievable_Transfer_Requests.md) | [Python](./Daily_Challenge/1601_Maximum_Number_of_Achievable_Transfer_Requests.py) | Hard |
