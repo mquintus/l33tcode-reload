@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-07-08 | 2551 | [Put Marbles in Bags](./Daily_Challenge/2551_Put_Marbles_in_Bags.md) | [Python](./Daily_Challenge/2551_Put_Marbles_in_Bags.py) | Hard |
 | 2023-07-07 | 2024 | [Maximize the Confusion of an Exam](./Daily_Challenge/2024_Maximize_the_Confusion_of_an_Exam.md) | [Python](./Daily_Challenge/2024_Maximize_the_Confusion_of_an_Exam.py) | Medium |
 | 2023-07-06 | 209 | [Minimum Size Subarray Sum](./Daily_Challenge/209_Minimum_Size_Subarray_Sum.md) | [Python](./Daily_Challenge/209_Minimum_Size_Subarray_Sum.py) | Medium |
 | 2023-07-05 | 1493 | [Longest Subarray of 1's After Deleting One Element](./Daily_Challenge/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.md) | [Python](./Daily_Challenge/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.py) | Medium |
