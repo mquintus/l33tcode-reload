@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-07-15 | [1751](https://www.leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [Maximum Number of Events That Can Be Attended II](./Daily_Challenge/1751_Maximum_Number_of_Events_That_Can_Be_Attended_II.md) | [Python](./Daily_Challenge/1751_Maximum_Number_of_Events_That_Can_Be_Attended_II.py) | Hard |
 | 2023-07-14 | [1218](https://www.leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [Longest Arithmetic Subsequence of Given Difference](./Daily_Challenge/1218_Longest_Arithmetic_Subsequence_of_Given_Difference.md) | [Python](./Daily_Challenge/1218_Longest_Arithmetic_Subsequence_of_Given_Difference.py) | Medium |
 | 2023-07-13 | [207](https://www.leetcode.com/problems/course-schedule/) | [Course Schedule](./Daily_Challenge/207_Course_Schedule.md) | [Python](./Daily_Challenge/207_Course_Schedule.py) | Medium |
 | 2023-07-12 | [802](https://www.leetcode.com/problems/find-eventual-safe-states/) | [Find Eventual Safe States](./Daily_Challenge/802_Find_Eventual_Safe_States.md) | [Python](./Daily_Challenge/802_Find_Eventual_Safe_States.py) | Medium |
