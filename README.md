@@ -10,6 +10,11 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-07-20 | [735](https://www.leetcode.com/problems/asteroid-collision/) | [Asteroid Collision](./Daily_Challenge/735_Asteroid_Collision.md) | [Python](./Daily_Challenge/735_Asteroid_Collision.py) | Medium |
+| 2023-07-19 | [435](https://www.leetcode.com/problems/non-overlapping-intervals/) | [Non-overlapping Intervals](./Daily_Challenge/435_Non-overlapping_Intervals.md) | [Python](./Daily_Challenge/435_Non-overlapping_Intervals.py) | Medium |
+| 2023-07-18 | [146](https://www.leetcode.com/problems/lru-cache/) | [LRU Cache](./Daily_Challenge/146_LRU_Cache.md) | [Python](./Daily_Challenge/146_LRU_Cache.py) | Medium |
+| 2023-07-17 | [445](https://www.leetcode.com/problems/add-two-numbers-ii/) | [Add Two Numbers II](./Daily_Challenge/445_Add_Two_Numbers_II.md) | [Python](./Daily_Challenge/445_Add_Two_Numbers_II.py) | Medium |
+| 2023-07-16 | [1125](https://www.leetcode.com/problems/smallest-sufficient-team/) | [Smallest Sufficient Team](./Daily_Challenge/1125_Smallest_Sufficient_Team.md) | [Python](./Daily_Challenge/1125_Smallest_Sufficient_Team.py) | Hard |
 | 2023-07-15 | [1751](https://www.leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [Maximum Number of Events That Can Be Attended II](./Daily_Challenge/1751_Maximum_Number_of_Events_That_Can_Be_Attended_II.md) | [Python](./Daily_Challenge/1751_Maximum_Number_of_Events_That_Can_Be_Attended_II.py) | Hard |
 | 2023-07-14 | [1218](https://www.leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [Longest Arithmetic Subsequence of Given Difference](./Daily_Challenge/1218_Longest_Arithmetic_Subsequence_of_Given_Difference.md) | [Python](./Daily_Challenge/1218_Longest_Arithmetic_Subsequence_of_Given_Difference.py) | Medium |
 | 2023-07-13 | [207](https://www.leetcode.com/problems/course-schedule/) | [Course Schedule](./Daily_Challenge/207_Course_Schedule.md) | [Python](./Daily_Challenge/207_Course_Schedule.py) | Medium |
