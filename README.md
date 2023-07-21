@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-07-21 | [673](https://www.leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Number of Longest Increasing Subsequence](./Daily_Challenge/673_Number_of_Longest_Increasing_Subsequence.md) | [Python](./Daily_Challenge/673_Number_of_Longest_Increasing_Subsequence.py) | Medium |
 | 2023-07-20 | [735](https://www.leetcode.com/problems/asteroid-collision/) | [Asteroid Collision](./Daily_Challenge/735_Asteroid_Collision.md) | [Python](./Daily_Challenge/735_Asteroid_Collision.py) | Medium |
 | 2023-07-19 | [435](https://www.leetcode.com/problems/non-overlapping-intervals/) | [Non-overlapping Intervals](./Daily_Challenge/435_Non-overlapping_Intervals.md) | [Python](./Daily_Challenge/435_Non-overlapping_Intervals.py) | Medium |
 | 2023-07-18 | [146](https://www.leetcode.com/problems/lru-cache/) | [LRU Cache](./Daily_Challenge/146_LRU_Cache.md) | [Python](./Daily_Challenge/146_LRU_Cache.py) | Medium |
