@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-07-24 | [50](https://www.leetcode.com/problems/powx-n/) | [Pow(x, n)](./Daily_Challenge/50_Pow(x,_n).md) | [Python](./Daily_Challenge/50_Pow(x,_n).py) | Medium |
 | 2023-07-23 | [894](https://www.leetcode.com/problems/all-possible-full-binary-trees/) | [All Possible Full Binary Trees](./Daily_Challenge/894_All_Possible_Full_Binary_Trees.md) | [Python](./Daily_Challenge/894_All_Possible_Full_Binary_Trees.py) | Medium |
 | 2023-07-22 | [688](https://www.leetcode.com/problems/knight-probability-in-chessboard/) | [Knight Probability in Chessboard](./Daily_Challenge/688_Knight_Probability_in_Chessboard.md) | [Python](./Daily_Challenge/688_Knight_Probability_in_Chessboard.py) | Medium |
 | 2023-07-21 | [673](https://www.leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Number of Longest Increasing Subsequence](./Daily_Challenge/673_Number_of_Longest_Increasing_Subsequence.md) | [Python](./Daily_Challenge/673_Number_of_Longest_Increasing_Subsequence.py) | Medium |
