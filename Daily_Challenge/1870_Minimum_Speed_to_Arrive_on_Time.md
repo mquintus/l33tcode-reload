@@ -55,3 +55,5 @@
 	<li><code>1 &lt;= hour &lt;= 10<sup>9</sup></code></li>
 	<li>There will be at most two digits after the decimal point in <code>hour</code>.</li>
 </ul>
+
+![image](https://github.com/mquintus/l33tcode-reload/assets/515945/a6a0fd3f-1429-48cf-aa5a-51daed90d40e)
