@@ -60,7 +60,7 @@ Approaches:
 
 Roadmap: https://neetcode.io/roadmap
 
-![image](https://github.com/mquintus/l33tcode-reload/assets/515945/22a51b0b-15c1-4b38-ac51-41c395483d0d)
+![image](https://github.com/mquintus/l33tcode-reload/assets/515945/2195f933-4dbe-4f6f-a260-296a7d10828c)
 
 | Concept    |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- |
