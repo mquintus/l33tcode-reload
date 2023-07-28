@@ -3,15 +3,11 @@ class Solution:
         '''
         The current player will win, if the next player won't.
 
-        This only 20 numbers are in the array, this should be manageable with brute force recursion.
-
+        There are only 20 numbers in the array, this should be manageable with brute force recursion.
         isWinner(n) = ~isWinner(n + 1)
 
-        
-
+        Let's have a counter, maximizing the score in each round, alternating the perspective each round.
         '''
-        dp = []
-
 
         def isWinner(nums, prev_points):
             if len(nums) == 0:
