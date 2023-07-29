@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-07-29 | [808](https://www.leetcode.com/problems/soup-servings/) | [Soup Servings](./Daily_Challenge/808_Soup_Servings.md) | [Python](./Daily_Challenge/808_Soup_Servings.py) | Medium |
 | 2023-07-28 | [486](https://www.leetcode.com/problems/predict-the-winner/) | [Predict the Winner](./Daily_Challenge/486_Predict_the_Winner.md) | [Python](./Daily_Challenge/486_Predict_the_Winner.py) | Medium |
 | 2023-07-27 | [2141](https://www.leetcode.com/problems/maximum-running-time-of-n-computers/) | [Maximum Running Time of N Computers](./Daily_Challenge/2141_Maximum_Running_Time_of_N_Computers.md) | [Python](./Daily_Challenge/2141_Maximum_Running_Time_of_N_Computers.py) | Hard |
 | 2023-07-26 | [1870](https://www.leetcode.com/problems/minimum-speed-to-arrive-on-time/) | [Minimum Speed to Arrive on Time](./Daily_Challenge/1870_Minimum_Speed_to_Arrive_on_Time.md) | [Python](./Daily_Challenge/1870_Minimum_Speed_to_Arrive_on_Time.py) | Medium |
