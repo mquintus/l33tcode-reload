@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-07-31 | [712](https://www.leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Minimum ASCII Delete Sum for Two Strings](./Daily_Challenge/712_Minimum_ASCII_Delete_Sum_for_Two_Strings.md) | [Python](./Daily_Challenge/712_Minimum_ASCII_Delete_Sum_for_Two_Strings.py) | Medium |
 | 2023-07-30 | [664](https://www.leetcode.com/problems/strange-printer/) | [Strange Printer](./Daily_Challenge/664_Strange_Printer.md) | [Python](./Daily_Challenge/664_Strange_Printer.py) | Hard |
 | 2023-07-29 | [808](https://www.leetcode.com/problems/soup-servings/) | [Soup Servings](./Daily_Challenge/808_Soup_Servings.md) | [Python](./Daily_Challenge/808_Soup_Servings.py) | Medium |
 | 2023-07-28 | [486](https://www.leetcode.com/problems/predict-the-winner/) | [Predict the Winner](./Daily_Challenge/486_Predict_the_Winner.md) | [Python](./Daily_Challenge/486_Predict_the_Winner.py) | Medium |
