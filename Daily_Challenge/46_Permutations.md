@@ -21,3 +21,4 @@
 	<li><code>-10 &lt;= nums[i] &lt;= 10</code></li>
 	<li>All the integers of <code>nums</code> are <strong>unique</strong>.</li>
 </ul>
+![image](https://github.com/mquintus/l33tcode-reload/assets/515945/0cf43756-75ba-4214-846a-b9e9bcc74bc3)
