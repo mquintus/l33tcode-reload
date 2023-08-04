@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-08-04 | [139](https://www.leetcode.com/problems/word-break/) | [Word Break](./Daily_Challenge/139_Word_Break.md) | [Python](./Daily_Challenge/139_Word_Break.py) | Medium |
 | 2023-08-03 | [17](https://www.leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Letter Combinations of a Phone Number](./Daily_Challenge/17_Letter_Combinations_of_a_Phone_Number.md) | [Python](./Daily_Challenge/17_Letter_Combinations_of_a_Phone_Number.py) | Medium |
 | 2023-08-02 | [46](https://www.leetcode.com/problems/permutations/) | [Permutations](./Daily_Challenge/46_Permutations.md) | [Python](./Daily_Challenge/46_Permutations.py) | Medium |
 | 2023-08-01 | [77](https://www.leetcode.com/problems/combinations/) | [Combinations](./Daily_Challenge/77_Combinations.md) | [Python](./Daily_Challenge/77_Combinations.py) | Medium |
