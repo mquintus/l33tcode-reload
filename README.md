@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-08-06 | [920](https://www.leetcode.com/problems/number-of-music-playlists/) | [Number of Music Playlists](./Daily_Challenge/920_Number_of_Music_Playlists.md) | [Python](./Daily_Challenge/920_Number_of_Music_Playlists.py) | Hard |
 | 2023-08-05 | [95](https://www.leetcode.com/problems/unique-binary-search-trees-ii/) | [Unique Binary Search Trees II](./Daily_Challenge/95_Unique_Binary_Search_Trees_II.md) | [Python](./Daily_Challenge/95_Unique_Binary_Search_Trees_II.py) | Medium |
 | 2023-08-04 | [139](https://www.leetcode.com/problems/word-break/) | [Word Break](./Daily_Challenge/139_Word_Break.md) | [Python](./Daily_Challenge/139_Word_Break.py) | Medium |
 | 2023-08-03 | [17](https://www.leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Letter Combinations of a Phone Number](./Daily_Challenge/17_Letter_Combinations_of_a_Phone_Number.md) | [Python](./Daily_Challenge/17_Letter_Combinations_of_a_Phone_Number.py) | Medium |
