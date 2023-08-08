@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-08-08 | [33](https://www.leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](./Daily_Challenge/33_Search_in_Rotated_Sorted_Array.md) | [Python](./Daily_Challenge/33_Search_in_Rotated_Sorted_Array.py) | Medium |
 | 2023-08-07 | [74](https://www.leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](./Daily_Challenge/74_Search_a_2D_Matrix.md) | [Python](./Daily_Challenge/74_Search_a_2D_Matrix.py) | Medium |
 | 2023-08-06 | [920](https://www.leetcode.com/problems/number-of-music-playlists/) | [Number of Music Playlists](./Daily_Challenge/920_Number_of_Music_Playlists.md) | [Python](./Daily_Challenge/920_Number_of_Music_Playlists.py) | Hard |
 | 2023-08-05 | [95](https://www.leetcode.com/problems/unique-binary-search-trees-ii/) | [Unique Binary Search Trees II](./Daily_Challenge/95_Unique_Binary_Search_Trees_II.md) | [Python](./Daily_Challenge/95_Unique_Binary_Search_Trees_II.py) | Medium |
