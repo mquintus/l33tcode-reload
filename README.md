@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-08-09 | [2616](https://www.leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [Minimize the Maximum Difference of Pairs](./Daily_Challenge/2616_Minimize_the_Maximum_Difference_of_Pairs.md) | [Python](./Daily_Challenge/2616_Minimize_the_Maximum_Difference_of_Pairs.py) | Medium |
 | 2023-08-08 | [33](https://www.leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](./Daily_Challenge/33_Search_in_Rotated_Sorted_Array.md) | [Python](./Daily_Challenge/33_Search_in_Rotated_Sorted_Array.py) | Medium |
 | 2023-08-07 | [74](https://www.leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](./Daily_Challenge/74_Search_a_2D_Matrix.md) | [Python](./Daily_Challenge/74_Search_a_2D_Matrix.py) | Medium |
 | 2023-08-06 | [920](https://www.leetcode.com/problems/number-of-music-playlists/) | [Number of Music Playlists](./Daily_Challenge/920_Number_of_Music_Playlists.md) | [Python](./Daily_Challenge/920_Number_of_Music_Playlists.py) | Hard |
