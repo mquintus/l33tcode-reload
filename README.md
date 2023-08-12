@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-08-12 | [63](https://www.leetcode.com/problems/unique-paths-ii/) | [Unique Paths II](./Daily_Challenge/63_Unique_Paths_II.md) | [Python](./Daily_Challenge/63_Unique_Paths_II.py) | Medium |
 | 2023-08-11 | [518](https://www.leetcode.com/problems/coin-change-ii/) | [Coin Change II](./Daily_Challenge/518_Coin_Change_II.md) | [Python](./Daily_Challenge/518_Coin_Change_II.py) | Medium |
 | 2023-08-10 | [81](https://www.leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Search in Rotated Sorted Array II](./Daily_Challenge/81_Search_in_Rotated_Sorted_Array_II.md) | [Python](./Daily_Challenge/81_Search_in_Rotated_Sorted_Array_II.py) | Medium |
 | 2023-08-09 | [2616](https://www.leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [Minimize the Maximum Difference of Pairs](./Daily_Challenge/2616_Minimize_the_Maximum_Difference_of_Pairs.md) | [Python](./Daily_Challenge/2616_Minimize_the_Maximum_Difference_of_Pairs.py) | Medium |
