@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-08-15 | [86](https://www.leetcode.com/problems/partition-list/) | [Partition List](./Daily_Challenge/86_Partition_List.md) | [Python](./Daily_Challenge/86_Partition_List.py) | Medium |
 | 2023-08-14 | [215](https://www.leetcode.com/problems/kth-largest-element-in-an-array/) | [Kth Largest Element in an Array](./Daily_Challenge/215_Kth_Largest_Element_in_an_Array.md) | [Python](./Daily_Challenge/215_Kth_Largest_Element_in_an_Array.py) | Medium |
 | 2023-08-13 | [2369](https://www.leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | [Check if There is a Valid Partition For The Array](./Daily_Challenge/2369_Check_if_There_is_a_Valid_Partition_For_The_Array.md) | [Python](./Daily_Challenge/2369_Check_if_There_is_a_Valid_Partition_For_The_Array.py) | Medium |
 | 2023-08-12 | [63](https://www.leetcode.com/problems/unique-paths-ii/) | [Unique Paths II](./Daily_Challenge/63_Unique_Paths_II.md) | [Python](./Daily_Challenge/63_Unique_Paths_II.py) | Medium |
