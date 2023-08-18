@@ -48,3 +48,5 @@
 	<li><code>a<sub>i</sub>&nbsp;!=&nbsp;b<sub>i</sub></code></li>
 	<li>Each&nbsp;pair of cities has <strong>at most one</strong> road connecting them.</li>
 </ul>
+
+![image](https://github.com/mquintus/l33tcode-reload/assets/515945/d0c073c0-2cca-4ff5-8cad-fe4b43cccbc7)
