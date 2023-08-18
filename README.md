@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-08-18 | [1615](https://www.leetcode.com/problems/maximal-network-rank/) | [Maximal Network Rank](./Daily_Challenge/1615_Maximal_Network_Rank.md) | [Python](./Daily_Challenge/1615_Maximal_Network_Rank.py) | Medium |
 | 2023-08-17 | [542](https://www.leetcode.com/problems/01-matrix/) | [01 Matrix](./Daily_Challenge/542_01_Matrix.md) | [Python](./Daily_Challenge/542_01_Matrix.py) | Medium |
 | 2023-08-16 | [239](https://www.leetcode.com/problems/sliding-window-maximum/) | [Sliding Window Maximum](./Daily_Challenge/239_Sliding_Window_Maximum.md) | [Python](./Daily_Challenge/239_Sliding_Window_Maximum.py) | Hard |
 | 2023-08-15 | [86](https://www.leetcode.com/problems/partition-list/) | [Partition List](./Daily_Challenge/86_Partition_List.md) | [Python](./Daily_Challenge/86_Partition_List.py) | Medium |
