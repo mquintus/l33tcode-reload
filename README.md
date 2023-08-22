@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-08-22 | [168](https://www.leetcode.com/problems/excel-sheet-column-title/) | [Excel Sheet Column Title](./Daily_Challenge/168_Excel_Sheet_Column_Title.md) | [Python](./Daily_Challenge/168_Excel_Sheet_Column_Title.py) | Easy |
 | 2023-08-21 | [459](https://www.leetcode.com/problems/repeated-substring-pattern/) | [Repeated Substring Pattern](./Daily_Challenge/459_Repeated_Substring_Pattern.md) | [Python](./Daily_Challenge/459_Repeated_Substring_Pattern.py) | Easy |
 | 2023-08-20 | [1203](https://www.leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [Sort Items by Groups Respecting Dependencies](./Daily_Challenge/1203_Sort_Items_by_Groups_Respecting_Dependencies.md) | [Python](./Daily_Challenge/1203_Sort_Items_by_Groups_Respecting_Dependencies.py) | Hard |
 | 2023-08-19 | [1489](https://www.leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](./Daily_Challenge/1489_Find_Critical_and_Pseudo-Critical_Edges_in_Minimum_Spanning_Tree.md) | [Python](./Daily_Challenge/1489_Find_Critical_and_Pseudo-Critical_Edges_in_Minimum_Spanning_Tree.py) | Hard |
