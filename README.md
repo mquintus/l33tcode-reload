@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-08-24 | [68](https://www.leetcode.com/problems/text-justification/) | [Text Justification](./Daily_Challenge/68_Text_Justification.md) | [Python](./Daily_Challenge/68_Text_Justification.py) | Hard |
 | 2023-08-23 | [767](https://www.leetcode.com/problems/reorganize-string/) | [Reorganize String](./Daily_Challenge/767_Reorganize_String.md) | [Python](./Daily_Challenge/767_Reorganize_String.py) | Medium |
 | 2023-08-22 | [168](https://www.leetcode.com/problems/excel-sheet-column-title/) | [Excel Sheet Column Title](./Daily_Challenge/168_Excel_Sheet_Column_Title.md) | [Python](./Daily_Challenge/168_Excel_Sheet_Column_Title.py) | Easy |
 | 2023-08-21 | [459](https://www.leetcode.com/problems/repeated-substring-pattern/) | [Repeated Substring Pattern](./Daily_Challenge/459_Repeated_Substring_Pattern.md) | [Python](./Daily_Challenge/459_Repeated_Substring_Pattern.py) | Easy |
