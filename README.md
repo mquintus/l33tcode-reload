@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-08-26 | [646](https://www.leetcode.com/problems/maximum-length-of-pair-chain/) | [Maximum Length of Pair Chain](./Daily_Challenge/646_Maximum_Length_of_Pair_Chain.md) | [Python](./Daily_Challenge/646_Maximum_Length_of_Pair_Chain.py) | Medium |
 | 2023-08-25 | [97](https://www.leetcode.com/problems/interleaving-string/) | [Interleaving String](./Daily_Challenge/97_Interleaving_String.md) | [Python](./Daily_Challenge/97_Interleaving_String.py) | Medium |
 | 2023-08-24 | [68](https://www.leetcode.com/problems/text-justification/) | [Text Justification](./Daily_Challenge/68_Text_Justification.md) | [Python](./Daily_Challenge/68_Text_Justification.py) | Hard |
 | 2023-08-23 | [767](https://www.leetcode.com/problems/reorganize-string/) | [Reorganize String](./Daily_Challenge/767_Reorganize_String.md) | [Python](./Daily_Challenge/767_Reorganize_String.py) | Medium |
