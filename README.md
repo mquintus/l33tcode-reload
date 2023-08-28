@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-08-28 | [225](https://www.leetcode.com/problems/implement-stack-using-queues/) | [Implement Stack using Queues](./Daily_Challenge/225_Implement_Stack_using_Queues.md) | [Python](./Daily_Challenge/225_Implement_Stack_using_Queues.py) | Easy |
 | 2023-08-27 | [403](https://www.leetcode.com/problems/frog-jump/) | [Frog Jump](./Daily_Challenge/403_Frog_Jump.md) | [Python](./Daily_Challenge/403_Frog_Jump.py) | Hard |
 | 2023-08-26 | [646](https://www.leetcode.com/problems/maximum-length-of-pair-chain/) | [Maximum Length of Pair Chain](./Daily_Challenge/646_Maximum_Length_of_Pair_Chain.md) | [Python](./Daily_Challenge/646_Maximum_Length_of_Pair_Chain.py) | Medium |
 | 2023-08-25 | [97](https://www.leetcode.com/problems/interleaving-string/) | [Interleaving String](./Daily_Challenge/97_Interleaving_String.md) | [Python](./Daily_Challenge/97_Interleaving_String.py) | Medium |
