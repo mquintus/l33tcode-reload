@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-08-29 | [2483](https://www.leetcode.com/problems/minimum-penalty-for-a-shop/) | [Minimum Penalty for a Shop](./Daily_Challenge/2483_Minimum_Penalty_for_a_Shop.md) | [Python](./Daily_Challenge/2483_Minimum_Penalty_for_a_Shop.py) | Medium |
 | 2023-08-28 | [225](https://www.leetcode.com/problems/implement-stack-using-queues/) | [Implement Stack using Queues](./Daily_Challenge/225_Implement_Stack_using_Queues.md) | [Python](./Daily_Challenge/225_Implement_Stack_using_Queues.py) | Easy |
 | 2023-08-27 | [403](https://www.leetcode.com/problems/frog-jump/) | [Frog Jump](./Daily_Challenge/403_Frog_Jump.md) | [Python](./Daily_Challenge/403_Frog_Jump.py) | Hard |
 | 2023-08-26 | [646](https://www.leetcode.com/problems/maximum-length-of-pair-chain/) | [Maximum Length of Pair Chain](./Daily_Challenge/646_Maximum_Length_of_Pair_Chain.md) | [Python](./Daily_Challenge/646_Maximum_Length_of_Pair_Chain.py) | Medium |
