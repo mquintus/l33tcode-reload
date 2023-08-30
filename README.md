@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-08-30 | [2366](https://www.leetcode.com/problems/minimum-replacements-to-sort-the-array/) | [Minimum Replacements to Sort the Array](./Daily_Challenge/2366_Minimum_Replacements_to_Sort_the_Array.md) | [Python](./Daily_Challenge/2366_Minimum_Replacements_to_Sort_the_Array.py) | Hard |
 | 2023-08-29 | [2483](https://www.leetcode.com/problems/minimum-penalty-for-a-shop/) | [Minimum Penalty for a Shop](./Daily_Challenge/2483_Minimum_Penalty_for_a_Shop.md) | [Python](./Daily_Challenge/2483_Minimum_Penalty_for_a_Shop.py) | Medium |
 | 2023-08-28 | [225](https://www.leetcode.com/problems/implement-stack-using-queues/) | [Implement Stack using Queues](./Daily_Challenge/225_Implement_Stack_using_Queues.md) | [Python](./Daily_Challenge/225_Implement_Stack_using_Queues.py) | Easy |
 | 2023-08-27 | [403](https://www.leetcode.com/problems/frog-jump/) | [Frog Jump](./Daily_Challenge/403_Frog_Jump.md) | [Python](./Daily_Challenge/403_Frog_Jump.py) | Hard |
