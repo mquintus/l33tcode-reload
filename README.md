@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-09-04 | [141](https://www.leetcode.com/problems/linked-list-cycle/) | [Linked List Cycle](./Daily_Challenge/141_Linked_List_Cycle.md) | [Python](./Daily_Challenge/141_Linked_List_Cycle.py) | Easy |
 | 2023-09-03 | [62](https://www.leetcode.com/problems/unique-paths/) | [Unique Paths](./Daily_Challenge/62_Unique_Paths.md) | [Python](./Daily_Challenge/62_Unique_Paths.py) | Medium |
 | 2023-09-02 | [2707](https://www.leetcode.com/problems/extra-characters-in-a-string/) | [Extra Characters in a String](./Daily_Challenge/2707_Extra_Characters_in_a_String.md) | [Python](./Daily_Challenge/2707_Extra_Characters_in_a_String.py) | Medium |
 | 2023-09-01 | [338](https://www.leetcode.com/problems/counting-bits/) | [Counting Bits](./Daily_Challenge/338_Counting_Bits.md) | [Python](./Daily_Challenge/338_Counting_Bits.py) | Easy |
