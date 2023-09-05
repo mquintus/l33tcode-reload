@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-09-05 | [138](https://www.leetcode.com/problems/copy-list-with-random-pointer/) | [Copy List with Random Pointer](./Daily_Challenge/138_Copy_List_with_Random_Pointer.md) | [Python](./Daily_Challenge/138_Copy_List_with_Random_Pointer.py) | Medium |
 | 2023-09-04 | [141](https://www.leetcode.com/problems/linked-list-cycle/) | [Linked List Cycle](./Daily_Challenge/141_Linked_List_Cycle.md) | [Python](./Daily_Challenge/141_Linked_List_Cycle.py) | Easy |
 | 2023-09-03 | [62](https://www.leetcode.com/problems/unique-paths/) | [Unique Paths](./Daily_Challenge/62_Unique_Paths.md) | [Python](./Daily_Challenge/62_Unique_Paths.py) | Medium |
 | 2023-09-02 | [2707](https://www.leetcode.com/problems/extra-characters-in-a-string/) | [Extra Characters in a String](./Daily_Challenge/2707_Extra_Characters_in_a_String.md) | [Python](./Daily_Challenge/2707_Extra_Characters_in_a_String.py) | Medium |
