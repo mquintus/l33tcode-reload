@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-09-07 | [92](https://www.leetcode.com/problems/reverse-linked-list-ii/) | [Reverse Linked List II](./Daily_Challenge/92_Reverse_Linked_List_II.md) | [Python](./Daily_Challenge/92_Reverse_Linked_List_II.py) | Medium |
 | 2023-09-06 | [725](https://www.leetcode.com/problems/split-linked-list-in-parts/) | [Split Linked List in Parts](./Daily_Challenge/725_Split_Linked_List_in_Parts.md) | [Python](./Daily_Challenge/725_Split_Linked_List_in_Parts.py) | Medium |
 | 2023-09-05 | [138](https://www.leetcode.com/problems/copy-list-with-random-pointer/) | [Copy List with Random Pointer](./Daily_Challenge/138_Copy_List_with_Random_Pointer.md) | [Python](./Daily_Challenge/138_Copy_List_with_Random_Pointer.py) | Medium |
 | 2023-09-04 | [141](https://www.leetcode.com/problems/linked-list-cycle/) | [Linked List Cycle](./Daily_Challenge/141_Linked_List_Cycle.md) | [Python](./Daily_Challenge/141_Linked_List_Cycle.py) | Easy |
