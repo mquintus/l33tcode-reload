@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-09-10 | [1359](https://www.leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | [Count All Valid Pickup and Delivery Options](./Daily_Challenge/1359_Count_All_Valid_Pickup_and_Delivery_Options.md) | [Python](./Daily_Challenge/1359_Count_All_Valid_Pickup_and_Delivery_Options.py) | Hard |
 | 2023-09-09 | [377](https://www.leetcode.com/problems/combination-sum-iv/) | [Combination Sum IV](./Daily_Challenge/377_Combination_Sum_IV.md) | [Python](./Daily_Challenge/377_Combination_Sum_IV.py) | Medium |
 | 2023-09-08 | [118](https://www.leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](./Daily_Challenge/118_Pascal's_Triangle.md) | [Python](./Daily_Challenge/118_Pascal's_Triangle.py) | Easy |
 | 2023-09-07 | [92](https://www.leetcode.com/problems/reverse-linked-list-ii/) | [Reverse Linked List II](./Daily_Challenge/92_Reverse_Linked_List_II.md) | [Python](./Daily_Challenge/92_Reverse_Linked_List_II.py) | Medium |
