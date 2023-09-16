@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-09-16 | [1631](https://www.leetcode.com/problems/path-with-minimum-effort/) | [Path With Minimum Effort](./Daily_Challenge/1631_Path_With_Minimum_Effort.md) | [Python](./Daily_Challenge/1631_Path_With_Minimum_Effort.py) | Medium |
 | 2023-09-15 | [1584](https://www.leetcode.com/problems/min-cost-to-connect-all-points/) | [Min Cost to Connect All Points](./Daily_Challenge/1584_Min_Cost_to_Connect_All_Points.md) | [Python](./Daily_Challenge/1584_Min_Cost_to_Connect_All_Points.py) | Medium |
 | 2023-09-14 | [332](https://www.leetcode.com/problems/reconstruct-itinerary/) | [Reconstruct Itinerary](./Daily_Challenge/332_Reconstruct_Itinerary.md) | [Python](./Daily_Challenge/332_Reconstruct_Itinerary.py) | Hard |
 | 2023-09-13 | [135](https://www.leetcode.com/problems/candy/) | [Candy](./Daily_Challenge/135_Candy.md) | [Python](./Daily_Challenge/135_Candy.py) | Hard |
