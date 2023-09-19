@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-09-19 | [287](https://www.leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](./Daily_Challenge/287_Find_the_Duplicate_Number.md) | [Python](./Daily_Challenge/287_Find_the_Duplicate_Number.py) | Medium |
 | 2023-09-17 | [847](https://www.leetcode.com/problems/shortest-path-visiting-all-nodes/) | [Shortest Path Visiting All Nodes](./Daily_Challenge/847_Shortest_Path_Visiting_All_Nodes.md) | [Python](./Daily_Challenge/847_Shortest_Path_Visiting_All_Nodes.py) | Hard |
 | 2023-09-16 | [1631](https://www.leetcode.com/problems/path-with-minimum-effort/) | [Path With Minimum Effort](./Daily_Challenge/1631_Path_With_Minimum_Effort.md) | [Python](./Daily_Challenge/1631_Path_With_Minimum_Effort.py) | Medium |
 | 2023-09-15 | [1584](https://www.leetcode.com/problems/min-cost-to-connect-all-points/) | [Min Cost to Connect All Points](./Daily_Challenge/1584_Min_Cost_to_Connect_All_Points.md) | [Python](./Daily_Challenge/1584_Min_Cost_to_Connect_All_Points.py) | Medium |
