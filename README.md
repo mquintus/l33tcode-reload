@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-09-21 | [4](https://www.leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](./Daily_Challenge/4_Median_of_Two_Sorted_Arrays.md) | [Python](./Daily_Challenge/4_Median_of_Two_Sorted_Arrays.py) | Hard |
 | 2023-09-20 | [1658](https://www.leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Minimum Operations to Reduce X to Zero](./Daily_Challenge/1658_Minimum_Operations_to_Reduce_X_to_Zero.md) | [Python](./Daily_Challenge/1658_Minimum_Operations_to_Reduce_X_to_Zero.py) | Medium |
 | 2023-09-19 | [287](https://www.leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](./Daily_Challenge/287_Find_the_Duplicate_Number.md) | [Python](./Daily_Challenge/287_Find_the_Duplicate_Number.py) | Medium |
 | 2023-09-17 | [847](https://www.leetcode.com/problems/shortest-path-visiting-all-nodes/) | [Shortest Path Visiting All Nodes](./Daily_Challenge/847_Shortest_Path_Visiting_All_Nodes.md) | [Python](./Daily_Challenge/847_Shortest_Path_Visiting_All_Nodes.py) | Hard |
