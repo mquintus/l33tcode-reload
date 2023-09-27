@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-09-27 | [880](https://www.leetcode.com/problems/decoded-string-at-index/) | [Decoded String at Index](./Daily_Challenge/880_Decoded_String_at_Index.md) | [Python](./Daily_Challenge/880_Decoded_String_at_Index.py) | Medium |
 | 2023-09-26 | [316](https://www.leetcode.com/problems/remove-duplicate-letters/) | [Remove Duplicate Letters](./Daily_Challenge/316_Remove_Duplicate_Letters.md) | [Python](./Daily_Challenge/316_Remove_Duplicate_Letters.py) | Medium |
 | 2023-09-25 | [389](https://www.leetcode.com/problems/find-the-difference/) | [Find the Difference](./Daily_Challenge/389_Find_the_Difference.md) | [Python](./Daily_Challenge/389_Find_the_Difference.py) | Easy |
 | 2023-09-24 | [799](https://www.leetcode.com/problems/champagne-tower/) | [Champagne Tower](./Daily_Challenge/799_Champagne_Tower.md) | [Python](./Daily_Challenge/799_Champagne_Tower.py) | Medium |
