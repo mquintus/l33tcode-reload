@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-09-29 | [896](https://www.leetcode.com/problems/monotonic-array/) | [Monotonic Array](./Daily_Challenge/896_Monotonic_Array.md) | [Python](./Daily_Challenge/896_Monotonic_Array.py) | Easy |
 | 2023-09-28 | [905](https://www.leetcode.com/problems/sort-array-by-parity/) | [Sort Array By Parity](./Daily_Challenge/905_Sort_Array_By_Parity.md) | [Python](./Daily_Challenge/905_Sort_Array_By_Parity.py) | Easy |
 | 2023-09-27 | [880](https://www.leetcode.com/problems/decoded-string-at-index/) | [Decoded String at Index](./Daily_Challenge/880_Decoded_String_at_Index.md) | [Python](./Daily_Challenge/880_Decoded_String_at_Index.py) | Medium |
 | 2023-09-26 | [316](https://www.leetcode.com/problems/remove-duplicate-letters/) | [Remove Duplicate Letters](./Daily_Challenge/316_Remove_Duplicate_Letters.md) | [Python](./Daily_Challenge/316_Remove_Duplicate_Letters.py) | Medium |
