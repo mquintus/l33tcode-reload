@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-01 | [557](https://www.leetcode.com/problems/reverse-words-in-a-string-iii/) | [Reverse Words in a String III](./Daily_Challenge/557_Reverse_Words_in_a_String_III.md) | [Python](./Daily_Challenge/557_Reverse_Words_in_a_String_III.py) | Easy |
 | 2023-09-30 | [456](https://www.leetcode.com/problems/132-pattern/) | [132 Pattern](./Daily_Challenge/456_132_Pattern.md) | [Python](./Daily_Challenge/456_132_Pattern.py) | Medium |
 | 2023-09-29 | [896](https://www.leetcode.com/problems/monotonic-array/) | [Monotonic Array](./Daily_Challenge/896_Monotonic_Array.md) | [Python](./Daily_Challenge/896_Monotonic_Array.py) | Easy |
 | 2023-09-28 | [905](https://www.leetcode.com/problems/sort-array-by-parity/) | [Sort Array By Parity](./Daily_Challenge/905_Sort_Array_By_Parity.md) | [Python](./Daily_Challenge/905_Sort_Array_By_Parity.py) | Easy |
