@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-02 | [2038](https://www.leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [Remove Colored Pieces if Both Neighbors are the Same Color](./Daily_Challenge/2038_Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color.md) | [Python](./Daily_Challenge/2038_Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color.py) | Medium |
 | 2023-10-01 | [557](https://www.leetcode.com/problems/reverse-words-in-a-string-iii/) | [Reverse Words in a String III](./Daily_Challenge/557_Reverse_Words_in_a_String_III.md) | [Python](./Daily_Challenge/557_Reverse_Words_in_a_String_III.py) | Easy |
 | 2023-09-30 | [456](https://www.leetcode.com/problems/132-pattern/) | [132 Pattern](./Daily_Challenge/456_132_Pattern.md) | [Python](./Daily_Challenge/456_132_Pattern.py) | Medium |
 | 2023-09-29 | [896](https://www.leetcode.com/problems/monotonic-array/) | [Monotonic Array](./Daily_Challenge/896_Monotonic_Array.md) | [Python](./Daily_Challenge/896_Monotonic_Array.py) | Easy |
