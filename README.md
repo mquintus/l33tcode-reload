@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-04 | [706](https://www.leetcode.com/problems/design-hashmap/) | [Design HashMap](./Daily_Challenge/706_Design_HashMap.md) | [Python](./Daily_Challenge/706_Design_HashMap.py) | Easy |
 | 2023-10-03 | [1512](https://www.leetcode.com/problems/number-of-good-pairs/) | [Number of Good Pairs](./Daily_Challenge/1512_Number_of_Good_Pairs.md) | [Python](./Daily_Challenge/1512_Number_of_Good_Pairs.py) | Easy |
 | 2023-10-02 | [2038](https://www.leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [Remove Colored Pieces if Both Neighbors are the Same Color](./Daily_Challenge/2038_Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color.md) | [Python](./Daily_Challenge/2038_Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color.py) | Medium |
 | 2023-10-01 | [557](https://www.leetcode.com/problems/reverse-words-in-a-string-iii/) | [Reverse Words in a String III](./Daily_Challenge/557_Reverse_Words_in_a_String_III.md) | [Python](./Daily_Challenge/557_Reverse_Words_in_a_String_III.py) | Easy |
