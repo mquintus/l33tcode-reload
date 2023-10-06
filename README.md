@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-06 | [343](https://www.leetcode.com/problems/integer-break/) | [Integer Break](./Daily_Challenge/343_Integer_Break.md) | [Python](./Daily_Challenge/343_Integer_Break.py) | Medium |
 | 2023-10-05 | [229](https://www.leetcode.com/problems/majority-element-ii/) | [Majority Element II](./Daily_Challenge/229_Majority_Element_II.md) | [Python](./Daily_Challenge/229_Majority_Element_II.py) | Medium |
 | 2023-10-04 | [706](https://www.leetcode.com/problems/design-hashmap/) | [Design HashMap](./Daily_Challenge/706_Design_HashMap.md) | [Python](./Daily_Challenge/706_Design_HashMap.py) | Easy |
 | 2023-10-03 | [1512](https://www.leetcode.com/problems/number-of-good-pairs/) | [Number of Good Pairs](./Daily_Challenge/1512_Number_of_Good_Pairs.md) | [Python](./Daily_Challenge/1512_Number_of_Good_Pairs.py) | Easy |
