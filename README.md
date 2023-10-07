@@ -134,7 +134,6 @@ Roadmap: https://neetcode.io/roadmap
 
 | Concept    |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- |
-
 | Arrays     |  273 | [Contains Duplicates](./01_arrays/01_contains_duplicates_273.md) | [Python](./01_arrays/01_contains_duplicates_273.py)|Easy|
 | Arrays     |  242 | [Valid Anagram](./01_arrays/02_valid_anagram_242.md)             | [Python](./01_arrays/02_valid_anagram_242.py)|Easy|
 | Arrays     |    1 | [Two Sum](./01_arrays/03_Two_sum_001.md) | [C++](./01_arrays/03_Two_sum_001.cpp), [Python](./01_arrays/03_Two_sum_001.py)|Easy|
