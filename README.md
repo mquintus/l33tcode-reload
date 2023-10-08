@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-08 | [1458](https://www.leetcode.com/problems/max-dot-product-of-two-subsequences/) | [Max Dot Product of Two Subsequences](./Daily_Challenge/1458_Max_Dot_Product_of_Two_Subsequences.md) | [Python](./Daily_Challenge/1458_Max_Dot_Product_of_Two_Subsequences.py) | Hard |
 | 2023-10-07 | [1420](https://www.leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [Build Array Where You Can Find The Maximum Exactly K Comparisons](./Daily_Challenge/1420_Build_Array_Where_You_Can_Find_The_Maximum_Exactly_K_Comparisons.md) | [Python](./Daily_Challenge/1420_Build_Array_Where_You_Can_Find_The_Maximum_Exactly_K_Comparisons.py) | Hard |
 | 2023-10-06 | [343](https://www.leetcode.com/problems/integer-break/) | [Integer Break](./Daily_Challenge/343_Integer_Break.md) | [Python](./Daily_Challenge/343_Integer_Break.py) | Medium |
 | 2023-10-05 | [229](https://www.leetcode.com/problems/majority-element-ii/) | [Majority Element II](./Daily_Challenge/229_Majority_Element_II.md) | [Python](./Daily_Challenge/229_Majority_Element_II.py) | Medium |
