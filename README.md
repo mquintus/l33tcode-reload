@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-10 | [2009](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [Minimum Number of Operations to Make Array Continuous](./Daily_Challenge/2009_Minimum_Number_of_Operations_to_Make_Array_Continuous.md) | [Python](./Daily_Challenge/2009_Minimum_Number_of_Operations_to_Make_Array_Continuous.py) | Hard |
 | 2023-10-09 | [34](https://www.leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](./Daily_Challenge/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md) | [Python](./Daily_Challenge/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium |
 | 2023-10-08 | [1458](https://www.leetcode.com/problems/max-dot-product-of-two-subsequences/) | [Max Dot Product of Two Subsequences](./Daily_Challenge/1458_Max_Dot_Product_of_Two_Subsequences.md) | [Python](./Daily_Challenge/1458_Max_Dot_Product_of_Two_Subsequences.py) | Hard |
 | 2023-10-07 | [1420](https://www.leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [Build Array Where You Can Find The Maximum Exactly K Comparisons](./Daily_Challenge/1420_Build_Array_Where_You_Can_Find_The_Maximum_Exactly_K_Comparisons.md) | [Python](./Daily_Challenge/1420_Build_Array_Where_You_Can_Find_The_Maximum_Exactly_K_Comparisons.py) | Hard |
