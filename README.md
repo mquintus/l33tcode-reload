@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-12 | [1095](https://www.leetcode.com/problems/find-in-mountain-array/) | [Find in Mountain Array](./Daily_Challenge/1095_Find_in_Mountain_Array.md) | [Python](./Daily_Challenge/1095_Find_in_Mountain_Array.py) | Hard |
 | 2023-10-11 | [2251](https://www.leetcode.com/problems/number-of-flowers-in-full-bloom/) | [Number of Flowers in Full Bloom](./Daily_Challenge/2251_Number_of_Flowers_in_Full_Bloom.md) | [Python](./Daily_Challenge/2251_Number_of_Flowers_in_Full_Bloom.py) | Hard |
 | 2023-10-10 | [2009](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [Minimum Number of Operations to Make Array Continuous](./Daily_Challenge/2009_Minimum_Number_of_Operations_to_Make_Array_Continuous.md) | [Python](./Daily_Challenge/2009_Minimum_Number_of_Operations_to_Make_Array_Continuous.py) | Hard |
 | 2023-10-09 | [34](https://www.leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](./Daily_Challenge/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md) | [Python](./Daily_Challenge/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium |
