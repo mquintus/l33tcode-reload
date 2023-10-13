@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-13 | [746](https://www.leetcode.com/problems/min-cost-climbing-stairs/) | [Min Cost Climbing Stairs](./Daily_Challenge/746_Min_Cost_Climbing_Stairs.md) | [Python](./Daily_Challenge/746_Min_Cost_Climbing_Stairs.py) | Easy |
 | 2023-10-12 | [1095](https://www.leetcode.com/problems/find-in-mountain-array/) | [Find in Mountain Array](./Daily_Challenge/1095_Find_in_Mountain_Array.md) | [Python](./Daily_Challenge/1095_Find_in_Mountain_Array.py) | Hard |
 | 2023-10-11 | [2251](https://www.leetcode.com/problems/number-of-flowers-in-full-bloom/) | [Number of Flowers in Full Bloom](./Daily_Challenge/2251_Number_of_Flowers_in_Full_Bloom.md) | [Python](./Daily_Challenge/2251_Number_of_Flowers_in_Full_Bloom.py) | Hard |
 | 2023-10-10 | [2009](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [Minimum Number of Operations to Make Array Continuous](./Daily_Challenge/2009_Minimum_Number_of_Operations_to_Make_Array_Continuous.md) | [Python](./Daily_Challenge/2009_Minimum_Number_of_Operations_to_Make_Array_Continuous.py) | Hard |
