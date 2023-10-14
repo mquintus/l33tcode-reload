@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-14 | [2742](https://www.leetcode.com/problems/painting-the-walls/) | [Painting the Walls](./Daily_Challenge/2742_Painting_the_Walls.md) | [Python](./Daily_Challenge/2742_Painting_the_Walls.py) | Hard |
 | 2023-10-13 | [746](https://www.leetcode.com/problems/min-cost-climbing-stairs/) | [Min Cost Climbing Stairs](./Daily_Challenge/746_Min_Cost_Climbing_Stairs.md) | [Python](./Daily_Challenge/746_Min_Cost_Climbing_Stairs.py) | Easy |
 | 2023-10-12 | [1095](https://www.leetcode.com/problems/find-in-mountain-array/) | [Find in Mountain Array](./Daily_Challenge/1095_Find_in_Mountain_Array.md) | [Python](./Daily_Challenge/1095_Find_in_Mountain_Array.py) | Hard |
 | 2023-10-11 | [2251](https://www.leetcode.com/problems/number-of-flowers-in-full-bloom/) | [Number of Flowers in Full Bloom](./Daily_Challenge/2251_Number_of_Flowers_in_Full_Bloom.md) | [Python](./Daily_Challenge/2251_Number_of_Flowers_in_Full_Bloom.py) | Hard |
