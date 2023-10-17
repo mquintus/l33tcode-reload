@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-17 | [1361](https://www.leetcode.com/problems/validate-binary-tree-nodes/) | [Validate Binary Tree Nodes](./Daily_Challenge/1361_Validate_Binary_Tree_Nodes.md) | [Python](./Daily_Challenge/1361_Validate_Binary_Tree_Nodes.py) | Medium |
 | 2023-10-16 | [119](https://www.leetcode.com/problems/pascals-triangle-ii/) | [Pascal's Triangle II](./Daily_Challenge/119_Pascal's_Triangle_II.md) | [Python](./Daily_Challenge/119_Pascal's_Triangle_II.py) | Easy |
 | 2023-10-15 | [1269](https://www.leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [Number of Ways to Stay in the Same Place After Some Steps](./Daily_Challenge/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.md) | [Python](./Daily_Challenge/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.py) | Hard |
 | 2023-10-14 | [2742](https://www.leetcode.com/problems/painting-the-walls/) | [Painting the Walls](./Daily_Challenge/2742_Painting_the_Walls.md) | [Python](./Daily_Challenge/2742_Painting_the_Walls.py) | Hard |
