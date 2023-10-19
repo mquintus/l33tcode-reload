@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-19 | [844](https://www.leetcode.com/problems/backspace-string-compare/) | [Backspace String Compare](./Daily_Challenge/844_Backspace_String_Compare.md) | [Python](./Daily_Challenge/844_Backspace_String_Compare.py) | Easy |
 | 2023-10-18 | [2050](https://www.leetcode.com/problems/parallel-courses-iii/) | [Parallel Courses III](./Daily_Challenge/2050_Parallel_Courses_III.md) | [Python](./Daily_Challenge/2050_Parallel_Courses_III.py) | Hard |
 | 2023-10-17 | [1361](https://www.leetcode.com/problems/validate-binary-tree-nodes/) | [Validate Binary Tree Nodes](./Daily_Challenge/1361_Validate_Binary_Tree_Nodes.md) | [Python](./Daily_Challenge/1361_Validate_Binary_Tree_Nodes.py) | Medium |
 | 2023-10-16 | [119](https://www.leetcode.com/problems/pascals-triangle-ii/) | [Pascal's Triangle II](./Daily_Challenge/119_Pascal's_Triangle_II.md) | [Python](./Daily_Challenge/119_Pascal's_Triangle_II.py) | Easy |
