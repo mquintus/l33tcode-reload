@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-21 | [1425](https://www.leetcode.com/problems/constrained-subsequence-sum/) | [Constrained Subsequence Sum](./Daily_Challenge/1425_Constrained_Subsequence_Sum.md) | [Python](./Daily_Challenge/1425_Constrained_Subsequence_Sum.py) | Hard |
 | 2023-10-20 | [341](https://www.leetcode.com/problems/flatten-nested-list-iterator/) | [Flatten Nested List Iterator](./Daily_Challenge/341_Flatten_Nested_List_Iterator.md) | [Python](./Daily_Challenge/341_Flatten_Nested_List_Iterator.py) | Medium |
 | 2023-10-19 | [844](https://www.leetcode.com/problems/backspace-string-compare/) | [Backspace String Compare](./Daily_Challenge/844_Backspace_String_Compare.md) | [Python](./Daily_Challenge/844_Backspace_String_Compare.py) | Easy |
 | 2023-10-18 | [2050](https://www.leetcode.com/problems/parallel-courses-iii/) | [Parallel Courses III](./Daily_Challenge/2050_Parallel_Courses_III.md) | [Python](./Daily_Challenge/2050_Parallel_Courses_III.py) | Hard |
