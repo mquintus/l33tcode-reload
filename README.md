@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-22 | [1793](https://www.leetcode.com/problems/maximum-score-of-a-good-subarray/) | [Maximum Score of a Good Subarray](./Daily_Challenge/1793_Maximum_Score_of_a_Good_Subarray.md) | [Python](./Daily_Challenge/1793_Maximum_Score_of_a_Good_Subarray.py) | Hard |
 | 2023-10-21 | [1425](https://www.leetcode.com/problems/constrained-subsequence-sum/) | [Constrained Subsequence Sum](./Daily_Challenge/1425_Constrained_Subsequence_Sum.md) | [Python](./Daily_Challenge/1425_Constrained_Subsequence_Sum.py) | Hard |
 | 2023-10-20 | [341](https://www.leetcode.com/problems/flatten-nested-list-iterator/) | [Flatten Nested List Iterator](./Daily_Challenge/341_Flatten_Nested_List_Iterator.md) | [Python](./Daily_Challenge/341_Flatten_Nested_List_Iterator.py) | Medium |
 | 2023-10-19 | [844](https://www.leetcode.com/problems/backspace-string-compare/) | [Backspace String Compare](./Daily_Challenge/844_Backspace_String_Compare.md) | [Python](./Daily_Challenge/844_Backspace_String_Compare.py) | Easy |
