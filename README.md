@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-26 | [823](https://www.leetcode.com/problems/binary-trees-with-factors/) | [Binary Trees With Factors](./Daily_Challenge/823_Binary_Trees_With_Factors.md) | [Python](./Daily_Challenge/823_Binary_Trees_With_Factors.py) | Medium |
 | 2023-10-25 | [779](https://www.leetcode.com/problems/k-th-symbol-in-grammar/) | [K-th Symbol in Grammar](./Daily_Challenge/779_K-th_Symbol_in_Grammar.md) | [Python](./Daily_Challenge/779_K-th_Symbol_in_Grammar.py) | Medium |
 | 2023-10-24 | [515](https://www.leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Find Largest Value in Each Tree Row](./Daily_Challenge/515_Find_Largest_Value_in_Each_Tree_Row.md) | [Python](./Daily_Challenge/515_Find_Largest_Value_in_Each_Tree_Row.py) | Medium |
 | 2023-10-23 | [342](https://www.leetcode.com/problems/power-of-four/) | [Power of Four](./Daily_Challenge/342_Power_of_Four.md) | [Python](./Daily_Challenge/342_Power_of_Four.py) | Easy |
