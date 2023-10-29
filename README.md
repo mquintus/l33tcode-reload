@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-10-29 | [458](https://www.leetcode.com/problems/poor-pigs/) | [Poor Pigs](./Daily_Challenge/458_Poor_Pigs.md) | [Python](./Daily_Challenge/458_Poor_Pigs.py) | Hard |
 | 2023-10-28 | [1220](https://www.leetcode.com/problems/count-vowels-permutation/) | [Count Vowels Permutation](./Daily_Challenge/1220_Count_Vowels_Permutation.md) | [Python](./Daily_Challenge/1220_Count_Vowels_Permutation.py) | Hard |
 | 2023-10-27 | [5](https://www.leetcode.com/problems/longest-palindromic-substring/) | [Longest Palindromic Substring](./Daily_Challenge/5_Longest_Palindromic_Substring.md) | [Python](./Daily_Challenge/5_Longest_Palindromic_Substring.py) | Medium |
 | 2023-10-26 | [823](https://www.leetcode.com/problems/binary-trees-with-factors/) | [Binary Trees With Factors](./Daily_Challenge/823_Binary_Trees_With_Factors.md) | [Python](./Daily_Challenge/823_Binary_Trees_With_Factors.py) | Medium |
