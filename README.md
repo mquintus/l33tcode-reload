@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-11-01 | [501](https://www.leetcode.com/problems/find-mode-in-binary-search-tree/) | [Find Mode in Binary Search Tree](./Daily_Challenge/501_Find_Mode_in_Binary_Search_Tree.md) | [Python](./Daily_Challenge/501_Find_Mode_in_Binary_Search_Tree.py) | Easy |
 | 2023-10-31 | [2433](https://www.leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [Find The Original Array of Prefix Xor](./Daily_Challenge/2433_Find_The_Original_Array_of_Prefix_Xor.md) | [Python](./Daily_Challenge/2433_Find_The_Original_Array_of_Prefix_Xor.py) | Medium |
 | 2023-10-30 | [1356](https://www.leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Sort Integers by The Number of 1 Bits](./Daily_Challenge/1356_Sort_Integers_by_The_Number_of_1_Bits.md) | [Python](./Daily_Challenge/1356_Sort_Integers_by_The_Number_of_1_Bits.py) | Easy |
 | 2023-10-29 | [458](https://www.leetcode.com/problems/poor-pigs/) | [Poor Pigs](./Daily_Challenge/458_Poor_Pigs.md) | [Python](./Daily_Challenge/458_Poor_Pigs.py) | Hard |
