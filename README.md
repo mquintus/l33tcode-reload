@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-11-04 | [1503](https://www.leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | [Last Moment Before All Ants Fall Out of a Plank](./Daily_Challenge/1503_Last_Moment_Before_All_Ants_Fall_Out_of_a_Plank.md) | [Python](./Daily_Challenge/1503_Last_Moment_Before_All_Ants_Fall_Out_of_a_Plank.py) | Medium |
 | 2023-11-03 | [1441](https://www.leetcode.com/problems/build-an-array-with-stack-operations/) | [Build an Array With Stack Operations](./Daily_Challenge/1441_Build_an_Array_With_Stack_Operations.md) | [Python](./Daily_Challenge/1441_Build_an_Array_With_Stack_Operations.py) | Medium |
 | 2023-11-02 | [2265](https://www.leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Count Nodes Equal to Average of Subtree](./Daily_Challenge/2265_Count_Nodes_Equal_to_Average_of_Subtree.md) | [Python](./Daily_Challenge/2265_Count_Nodes_Equal_to_Average_of_Subtree.py) | Medium |
 | 2023-11-01 | [501](https://www.leetcode.com/problems/find-mode-in-binary-search-tree/) | [Find Mode in Binary Search Tree](./Daily_Challenge/501_Find_Mode_in_Binary_Search_Tree.md) | [Python](./Daily_Challenge/501_Find_Mode_in_Binary_Search_Tree.py) | Easy |
