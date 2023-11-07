@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-11-07 | [1921](https://www.leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [Eliminate Maximum Number of Monsters](./Daily_Challenge/1921_Eliminate_Maximum_Number_of_Monsters.md) | [Python](./Daily_Challenge/1921_Eliminate_Maximum_Number_of_Monsters.py) | Medium |
 | 2023-11-06 | [1845](https://www.leetcode.com/problems/seat-reservation-manager/) | [Seat Reservation Manager](./Daily_Challenge/1845_Seat_Reservation_Manager.md) | [Python](./Daily_Challenge/1845_Seat_Reservation_Manager.py) | Medium |
 | 2023-11-05 | [1535](https://www.leetcode.com/problems/find-the-winner-of-an-array-game/) | [Find the Winner of an Array Game](./Daily_Challenge/1535_Find_the_Winner_of_an_Array_Game.md) | [Python](./Daily_Challenge/1535_Find_the_Winner_of_an_Array_Game.py) | Medium |
 | 2023-11-04 | [1503](https://www.leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | [Last Moment Before All Ants Fall Out of a Plank](./Daily_Challenge/1503_Last_Moment_Before_All_Ants_Fall_Out_of_a_Plank.md) | [Python](./Daily_Challenge/1503_Last_Moment_Before_All_Ants_Fall_Out_of_a_Plank.py) | Medium |
