@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-11-10 | [1743](https://www.leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | [Restore the Array From Adjacent Pairs](./Daily_Challenge/1743_Restore_the_Array_From_Adjacent_Pairs.md) | [Python](./Daily_Challenge/1743_Restore_the_Array_From_Adjacent_Pairs.py) | Medium |
 | 2023-11-09 | [1759](https://www.leetcode.com/problems/count-number-of-homogenous-substrings/) | [Count Number of Homogenous Substrings](./Daily_Challenge/1759_Count_Number_of_Homogenous_Substrings.md) | [Python](./Daily_Challenge/1759_Count_Number_of_Homogenous_Substrings.py) | Medium |
 | 2023-11-08 | [2849](https://www.leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | [Determine if a Cell Is Reachable at a Given Time](./Daily_Challenge/2849_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time.md) | [Python](./Daily_Challenge/2849_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time.py) | Medium |
 | 2023-11-07 | [1921](https://www.leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [Eliminate Maximum Number of Monsters](./Daily_Challenge/1921_Eliminate_Maximum_Number_of_Monsters.md) | [Python](./Daily_Challenge/1921_Eliminate_Maximum_Number_of_Monsters.py) | Medium |
