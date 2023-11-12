@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-11-12 | [815](https://www.leetcode.com/problems/bus-routes/) | [Bus Routes](./Daily_Challenge/815_Bus_Routes.md) | [Python](./Daily_Challenge/815_Bus_Routes.py) | Hard |
 | 2023-11-11 | [2642](https://www.leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [Design Graph With Shortest Path Calculator](./Daily_Challenge/2642_Design_Graph_With_Shortest_Path_Calculator.md) | [Python](./Daily_Challenge/2642_Design_Graph_With_Shortest_Path_Calculator.py) | Hard |
 | 2023-11-10 | [1743](https://www.leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | [Restore the Array From Adjacent Pairs](./Daily_Challenge/1743_Restore_the_Array_From_Adjacent_Pairs.md) | [Python](./Daily_Challenge/1743_Restore_the_Array_From_Adjacent_Pairs.py) | Medium |
 | 2023-11-09 | [1759](https://www.leetcode.com/problems/count-number-of-homogenous-substrings/) | [Count Number of Homogenous Substrings](./Daily_Challenge/1759_Count_Number_of_Homogenous_Substrings.md) | [Python](./Daily_Challenge/1759_Count_Number_of_Homogenous_Substrings.py) | Medium |
