@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-11-14 | [1930](https://www.leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Unique Length-3 Palindromic Subsequences](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.md) | [Python](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.py) | Medium |
 | 2023-11-13 | [2785](https://www.leetcode.com/problems/sort-vowels-in-a-string/) | [Sort Vowels in a String](./Daily_Challenge/2785_Sort_Vowels_in_a_String.md) | [Python](./Daily_Challenge/2785_Sort_Vowels_in_a_String.py) | Medium |
 | 2023-11-12 | [815](https://www.leetcode.com/problems/bus-routes/) | [Bus Routes](./Daily_Challenge/815_Bus_Routes.md) | [Python](./Daily_Challenge/815_Bus_Routes.py) | Hard |
 | 2023-11-11 | [2642](https://www.leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [Design Graph With Shortest Path Calculator](./Daily_Challenge/2642_Design_Graph_With_Shortest_Path_Calculator.md) | [Python](./Daily_Challenge/2642_Design_Graph_With_Shortest_Path_Calculator.py) | Hard |
