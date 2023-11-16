@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-11-16 | [1980](https://www.leetcode.com/problems/find-unique-binary-string/) | [Find Unique Binary String](./Daily_Challenge/1980_Find_Unique_Binary_String.md) | [Python](./Daily_Challenge/1980_Find_Unique_Binary_String.py) | Medium |
 | 2023-11-15 | [1846](https://www.leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [Maximum Element After Decreasing and Rearranging](./Daily_Challenge/1846_Maximum_Element_After_Decreasing_and_Rearranging.md) | [Python](./Daily_Challenge/1846_Maximum_Element_After_Decreasing_and_Rearranging.py) | Medium |
 | 2023-11-14 | [1930](https://www.leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Unique Length-3 Palindromic Subsequences](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.md) | [Python](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.py) | Medium |
 | 2023-11-13 | [2785](https://www.leetcode.com/problems/sort-vowels-in-a-string/) | [Sort Vowels in a String](./Daily_Challenge/2785_Sort_Vowels_in_a_String.md) | [Python](./Daily_Challenge/2785_Sort_Vowels_in_a_String.py) | Medium |
