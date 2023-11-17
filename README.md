@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-11-17 | [1877](https://www.leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [Minimize Maximum Pair Sum in Array](./Daily_Challenge/1877_Minimize_Maximum_Pair_Sum_in_Array.md) | [Python](./Daily_Challenge/1877_Minimize_Maximum_Pair_Sum_in_Array.py) | Medium |
 | 2023-11-16 | [1980](https://www.leetcode.com/problems/find-unique-binary-string/) | [Find Unique Binary String](./Daily_Challenge/1980_Find_Unique_Binary_String.md) | [Python](./Daily_Challenge/1980_Find_Unique_Binary_String.py) | Medium |
 | 2023-11-15 | [1846](https://www.leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [Maximum Element After Decreasing and Rearranging](./Daily_Challenge/1846_Maximum_Element_After_Decreasing_and_Rearranging.md) | [Python](./Daily_Challenge/1846_Maximum_Element_After_Decreasing_and_Rearranging.py) | Medium |
 | 2023-11-14 | [1930](https://www.leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Unique Length-3 Palindromic Subsequences](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.md) | [Python](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.py) | Medium |
