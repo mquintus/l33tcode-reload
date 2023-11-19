@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-11-19 | [1887](https://www.leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [Reduction Operations to Make the Array Elements Equal](./Daily_Challenge/1887_Reduction_Operations_to_Make_the_Array_Elements_Equal.md) | [Python](./Daily_Challenge/1887_Reduction_Operations_to_Make_the_Array_Elements_Equal.py) | Medium |
 | 2023-11-18 | [1838](https://www.leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Frequency of the Most Frequent Element](./Daily_Challenge/1838_Frequency_of_the_Most_Frequent_Element.md) | [Python](./Daily_Challenge/1838_Frequency_of_the_Most_Frequent_Element.py) | Medium |
 | 2023-11-17 | [1877](https://www.leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [Minimize Maximum Pair Sum in Array](./Daily_Challenge/1877_Minimize_Maximum_Pair_Sum_in_Array.md) | [Python](./Daily_Challenge/1877_Minimize_Maximum_Pair_Sum_in_Array.py) | Medium |
 | 2023-11-16 | [1980](https://www.leetcode.com/problems/find-unique-binary-string/) | [Find Unique Binary String](./Daily_Challenge/1980_Find_Unique_Binary_String.md) | [Python](./Daily_Challenge/1980_Find_Unique_Binary_String.py) | Medium |
