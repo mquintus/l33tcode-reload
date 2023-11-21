@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-11-21 | [1814](https://www.leetcode.com/problems/count-nice-pairs-in-an-array/) | [Count Nice Pairs in an Array](./Daily_Challenge/1814_Count_Nice_Pairs_in_an_Array.md) | [Python](./Daily_Challenge/1814_Count_Nice_Pairs_in_an_Array.py) | Medium |
 | 2023-11-20 | [2391](https://www.leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | [Minimum Amount of Time to Collect Garbage](./Daily_Challenge/2391_Minimum_Amount_of_Time_to_Collect_Garbage.md) | [Python](./Daily_Challenge/2391_Minimum_Amount_of_Time_to_Collect_Garbage.py) | Medium |
 | 2023-11-19 | [1887](https://www.leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [Reduction Operations to Make the Array Elements Equal](./Daily_Challenge/1887_Reduction_Operations_to_Make_the_Array_Elements_Equal.md) | [Python](./Daily_Challenge/1887_Reduction_Operations_to_Make_the_Array_Elements_Equal.py) | Medium |
 | 2023-11-18 | [1838](https://www.leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Frequency of the Most Frequent Element](./Daily_Challenge/1838_Frequency_of_the_Most_Frequent_Element.md) | [Python](./Daily_Challenge/1838_Frequency_of_the_Most_Frequent_Element.py) | Medium |
