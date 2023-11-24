@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-11-24 | [1561](https://www.leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [Maximum Number of Coins You Can Get](./Daily_Challenge/1561_Maximum_Number_of_Coins_You_Can_Get.md) | [Python](./Daily_Challenge/1561_Maximum_Number_of_Coins_You_Can_Get.py) | Medium |
 | 2023-11-23 | [1630](https://www.leetcode.com/problems/arithmetic-subarrays/) | [Arithmetic Subarrays](./Daily_Challenge/1630_Arithmetic_Subarrays.md) | [Python](./Daily_Challenge/1630_Arithmetic_Subarrays.py) | Medium |
 | 2023-11-22 | [1424](https://www.leetcode.com/problems/diagonal-traverse-ii/) | [Diagonal Traverse II](./Daily_Challenge/1424_Diagonal_Traverse_II.md) | [Python](./Daily_Challenge/1424_Diagonal_Traverse_II.py) | Medium |
 | 2023-11-21 | [1814](https://www.leetcode.com/problems/count-nice-pairs-in-an-array/) | [Count Nice Pairs in an Array](./Daily_Challenge/1814_Count_Nice_Pairs_in_an_Array.md) | [Python](./Daily_Challenge/1814_Count_Nice_Pairs_in_an_Array.py) | Medium |
