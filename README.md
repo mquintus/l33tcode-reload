@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-11-26 | [1727](https://www.leetcode.com/problems/largest-submatrix-with-rearrangements/) | [Largest Submatrix With Rearrangements](./Daily_Challenge/1727_Largest_Submatrix_With_Rearrangements.md) | [Python](./Daily_Challenge/1727_Largest_Submatrix_With_Rearrangements.py) | Medium |
 | 2023-11-25 | [1685](https://www.leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [Sum of Absolute Differences in a Sorted Array](./Daily_Challenge/1685_Sum_of_Absolute_Differences_in_a_Sorted_Array.md) | [Python](./Daily_Challenge/1685_Sum_of_Absolute_Differences_in_a_Sorted_Array.py) | Medium |
 | 2023-11-24 | [1561](https://www.leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [Maximum Number of Coins You Can Get](./Daily_Challenge/1561_Maximum_Number_of_Coins_You_Can_Get.md) | [Python](./Daily_Challenge/1561_Maximum_Number_of_Coins_You_Can_Get.py) | Medium |
 | 2023-11-23 | [1630](https://www.leetcode.com/problems/arithmetic-subarrays/) | [Arithmetic Subarrays](./Daily_Challenge/1630_Arithmetic_Subarrays.md) | [Python](./Daily_Challenge/1630_Arithmetic_Subarrays.py) | Medium |
