@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-11-28 | [2147](https://www.leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | [Number of Ways to Divide a Long Corridor](./Daily_Challenge/2147_Number_of_Ways_to_Divide_a_Long_Corridor.md) | [Python](./Daily_Challenge/2147_Number_of_Ways_to_Divide_a_Long_Corridor.py) | Hard |
 | 2023-11-27 | [935](https://www.leetcode.com/problems/knight-dialer/) | [Knight Dialer](./Daily_Challenge/935_Knight_Dialer.md) | [Python](./Daily_Challenge/935_Knight_Dialer.py) | Medium |
 | 2023-11-26 | [1727](https://www.leetcode.com/problems/largest-submatrix-with-rearrangements/) | [Largest Submatrix With Rearrangements](./Daily_Challenge/1727_Largest_Submatrix_With_Rearrangements.md) | [Python](./Daily_Challenge/1727_Largest_Submatrix_With_Rearrangements.py) | Medium |
 | 2023-11-25 | [1685](https://www.leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [Sum of Absolute Differences in a Sorted Array](./Daily_Challenge/1685_Sum_of_Absolute_Differences_in_a_Sorted_Array.md) | [Python](./Daily_Challenge/1685_Sum_of_Absolute_Differences_in_a_Sorted_Array.py) | Medium |
