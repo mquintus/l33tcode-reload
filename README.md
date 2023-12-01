@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-12-01 | [1662](https://www.leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Check If Two String Arrays are Equivalent](./Daily_Challenge/1662_Check_If_Two_String_Arrays_are_Equivalent.md) | [Python](./Daily_Challenge/1662_Check_If_Two_String_Arrays_are_Equivalent.py) | Easy |
 | 2023-11-30 | [1611](https://www.leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [Minimum One Bit Operations to Make Integers Zero](./Daily_Challenge/1611_Minimum_One_Bit_Operations_to_Make_Integers_Zero.md) | [Python](./Daily_Challenge/1611_Minimum_One_Bit_Operations_to_Make_Integers_Zero.py) | Hard |
 | 2023-11-29 | [191](https://www.leetcode.com/problems/number-of-1-bits/) | [Number of 1 Bits](./Daily_Challenge/191_Number_of_1_Bits.md) | [Python](./Daily_Challenge/191_Number_of_1_Bits.py) | Easy |
 | 2023-11-28 | [2147](https://www.leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | [Number of Ways to Divide a Long Corridor](./Daily_Challenge/2147_Number_of_Ways_to_Divide_a_Long_Corridor.md) | [Python](./Daily_Challenge/2147_Number_of_Ways_to_Divide_a_Long_Corridor.py) | Hard |
