@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-12-03 | [1266](https://www.leetcode.com/problems/minimum-time-visiting-all-points/) | [Minimum Time Visiting All Points](./Daily_Challenge/1266_Minimum_Time_Visiting_All_Points.md) | [Python](./Daily_Challenge/1266_Minimum_Time_Visiting_All_Points.py) | Easy |
 | 2023-12-02 | [1160](https://www.leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Find Words That Can Be Formed by Characters](./Daily_Challenge/1160_Find_Words_That_Can_Be_Formed_by_Characters.md) | [Python](./Daily_Challenge/1160_Find_Words_That_Can_Be_Formed_by_Characters.py) | Easy |
 | 2023-12-01 | [1662](https://www.leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Check If Two String Arrays are Equivalent](./Daily_Challenge/1662_Check_If_Two_String_Arrays_are_Equivalent.md) | [Python](./Daily_Challenge/1662_Check_If_Two_String_Arrays_are_Equivalent.py) | Easy |
 | 2023-11-30 | [1611](https://www.leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [Minimum One Bit Operations to Make Integers Zero](./Daily_Challenge/1611_Minimum_One_Bit_Operations_to_Make_Integers_Zero.md) | [Python](./Daily_Challenge/1611_Minimum_One_Bit_Operations_to_Make_Integers_Zero.py) | Hard |
