@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-12-06 | [1716](https://www.leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Calculate Money in Leetcode Bank](./Daily_Challenge/1716_Calculate_Money_in_Leetcode_Bank.md) | [Python](./Daily_Challenge/1716_Calculate_Money_in_Leetcode_Bank.py) | Easy |
 | 2023-12-05 | [1688](https://www.leetcode.com/problems/count-of-matches-in-tournament/) | [Count of Matches in Tournament](./Daily_Challenge/1688_Count_of_Matches_in_Tournament.md) | [Python](./Daily_Challenge/1688_Count_of_Matches_in_Tournament.py) | Easy |
 | 2023-12-04 | [2264](https://www.leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Largest 3-Same-Digit Number in String](./Daily_Challenge/2264_Largest_3-Same-Digit_Number_in_String.md) | [Python](./Daily_Challenge/2264_Largest_3-Same-Digit_Number_in_String.py) | Easy |
 | 2023-12-03 | [1266](https://www.leetcode.com/problems/minimum-time-visiting-all-points/) | [Minimum Time Visiting All Points](./Daily_Challenge/1266_Minimum_Time_Visiting_All_Points.md) | [Python](./Daily_Challenge/1266_Minimum_Time_Visiting_All_Points.py) | Easy |
