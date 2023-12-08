@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-12-08 | [606](https://www.leetcode.com/problems/construct-string-from-binary-tree/) | [Construct String from Binary Tree](./Daily_Challenge/606_Construct_String_from_Binary_Tree.md) | [Python](./Daily_Challenge/606_Construct_String_from_Binary_Tree.py) | Easy |
 | 2023-12-07 | [1903](https://www.leetcode.com/problems/largest-odd-number-in-string/) | [Largest Odd Number in String](./Daily_Challenge/1903_Largest_Odd_Number_in_String.md) | [Python](./Daily_Challenge/1903_Largest_Odd_Number_in_String.py) | Easy |
 | 2023-12-06 | [1716](https://www.leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Calculate Money in Leetcode Bank](./Daily_Challenge/1716_Calculate_Money_in_Leetcode_Bank.md) | [Python](./Daily_Challenge/1716_Calculate_Money_in_Leetcode_Bank.py) | Easy |
 | 2023-12-05 | [1688](https://www.leetcode.com/problems/count-of-matches-in-tournament/) | [Count of Matches in Tournament](./Daily_Challenge/1688_Count_of_Matches_in_Tournament.md) | [Python](./Daily_Challenge/1688_Count_of_Matches_in_Tournament.py) | Easy |
