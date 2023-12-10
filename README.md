@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-12-10 | [867](https://www.leetcode.com/problems/transpose-matrix/) | [Transpose Matrix](./Daily_Challenge/867_Transpose_Matrix.md) | [Python](./Daily_Challenge/867_Transpose_Matrix.py) | Easy |
 | 2023-12-09 | [94](https://www.leetcode.com/problems/binary-tree-inorder-traversal/) | [Binary Tree Inorder Traversal](./Daily_Challenge/94_Binary_Tree_Inorder_Traversal.md) | [Python](./Daily_Challenge/94_Binary_Tree_Inorder_Traversal.py) | Easy |
 | 2023-12-08 | [606](https://www.leetcode.com/problems/construct-string-from-binary-tree/) | [Construct String from Binary Tree](./Daily_Challenge/606_Construct_String_from_Binary_Tree.md) | [Python](./Daily_Challenge/606_Construct_String_from_Binary_Tree.py) | Easy |
 | 2023-12-07 | [1903](https://www.leetcode.com/problems/largest-odd-number-in-string/) | [Largest Odd Number in String](./Daily_Challenge/1903_Largest_Odd_Number_in_String.md) | [Python](./Daily_Challenge/1903_Largest_Odd_Number_in_String.py) | Easy |
