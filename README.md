@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-12-12 | [1464](https://www.leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Maximum Product of Two Elements in an Array](./Daily_Challenge/1464_Maximum_Product_of_Two_Elements_in_an_Array.md) | [Python](./Daily_Challenge/1464_Maximum_Product_of_Two_Elements_in_an_Array.py) | Easy |
 | 2023-12-11 | [1287](https://www.leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Element Appearing More Than 25% In Sorted Array](./Daily_Challenge/1287_Element_Appearing_More_Than_25%25_In_Sorted_Array.md) | [Python](./Daily_Challenge/1287_Element_Appearing_More_Than_25%25_In_Sorted_Array.py) | Easy |
 | 2023-12-10 | [867](https://www.leetcode.com/problems/transpose-matrix/) | [Transpose Matrix](./Daily_Challenge/867_Transpose_Matrix.md) | [Python](./Daily_Challenge/867_Transpose_Matrix.py) | Easy |
 | 2023-12-09 | [94](https://www.leetcode.com/problems/binary-tree-inorder-traversal/) | [Binary Tree Inorder Traversal](./Daily_Challenge/94_Binary_Tree_Inorder_Traversal.md) | [Python](./Daily_Challenge/94_Binary_Tree_Inorder_Traversal.py) | Easy |
