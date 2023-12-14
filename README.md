@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-12-14 | [2482](https://www.leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [Difference Between Ones and Zeros in Row and Column](./Daily_Challenge/2482_Difference_Between_Ones_and_Zeros_in_Row_and_Column.md) | [Python](./Daily_Challenge/2482_Difference_Between_Ones_and_Zeros_in_Row_and_Column.py) | Medium |
 | 2023-12-13 | [1582](https://www.leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Special Positions in a Binary Matrix](./Daily_Challenge/1582_Special_Positions_in_a_Binary_Matrix.md) | [Python](./Daily_Challenge/1582_Special_Positions_in_a_Binary_Matrix.py) | Easy |
 | 2023-12-12 | [1464](https://www.leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Maximum Product of Two Elements in an Array](./Daily_Challenge/1464_Maximum_Product_of_Two_Elements_in_an_Array.md) | [Python](./Daily_Challenge/1464_Maximum_Product_of_Two_Elements_in_an_Array.py) | Easy |
 | 2023-12-11 | [1287](https://www.leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Element Appearing More Than 25% In Sorted Array](./Daily_Challenge/1287_Element_Appearing_More_Than_25%25_In_Sorted_Array.md) | [Python](./Daily_Challenge/1287_Element_Appearing_More_Than_25%25_In_Sorted_Array.py) | Easy |
