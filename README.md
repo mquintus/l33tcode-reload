@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-12-17 | [2353](https://www.leetcode.com/problems/design-a-food-rating-system/) | [Design a Food Rating System](./Daily_Challenge/2353_Design_a_Food_Rating_System.md) | [Python](./Daily_Challenge/2353_Design_a_Food_Rating_System.py) | Medium |
 | 2023-12-16 | [242](https://www.leetcode.com/problems/valid-anagram/) | [Valid Anagram](./Daily_Challenge/242_Valid_Anagram.md) | [Python](./Daily_Challenge/242_Valid_Anagram.py) | Easy |
 | 2023-12-15 | [1436](https://www.leetcode.com/problems/destination-city/) | [Destination City](./Daily_Challenge/1436_Destination_City.md) | [Python](./Daily_Challenge/1436_Destination_City.py) | Easy |
 | 2023-12-14 | [2482](https://www.leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [Difference Between Ones and Zeros in Row and Column](./Daily_Challenge/2482_Difference_Between_Ones_and_Zeros_in_Row_and_Column.md) | [Python](./Daily_Challenge/2482_Difference_Between_Ones_and_Zeros_in_Row_and_Column.py) | Medium |
