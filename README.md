@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-12-22 | [1422](https://www.leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Score After Splitting a String](./Daily_Challenge/1422_Maximum_Score_After_Splitting_a_String.md) | [Python](./Daily_Challenge/1422_Maximum_Score_After_Splitting_a_String.py) | Easy |
 | 2023-12-21 | [1637](https://www.leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Widest Vertical Area Between Two Points Containing No Points](./Daily_Challenge/1637_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.md) | [Python](./Daily_Challenge/1637_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.py) | Medium |
 | 2023-12-20 | [2706](https://www.leetcode.com/problems/buy-two-chocolates/) | [Buy Two Chocolates](./Daily_Challenge/2706_Buy_Two_Chocolates.md) | [Python](./Daily_Challenge/2706_Buy_Two_Chocolates.py) | Easy |
 | 2023-12-19 | [661](https://www.leetcode.com/problems/image-smoother/) | [Image Smoother](./Daily_Challenge/661_Image_Smoother.md) | [Python](./Daily_Challenge/661_Image_Smoother.py) | Easy |
