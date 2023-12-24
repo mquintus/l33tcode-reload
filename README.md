@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-12-24 | [1758](https://www.leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Minimum Changes To Make Alternating Binary String](./Daily_Challenge/1758_Minimum_Changes_To_Make_Alternating_Binary_String.md) | [Python](./Daily_Challenge/1758_Minimum_Changes_To_Make_Alternating_Binary_String.py) | Easy |
 | 2023-12-23 | [1496](https://www.leetcode.com/problems/path-crossing/) | [Path Crossing](./Daily_Challenge/1496_Path_Crossing.md) | [Python](./Daily_Challenge/1496_Path_Crossing.py) | Easy |
 | 2023-12-22 | [1422](https://www.leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Score After Splitting a String](./Daily_Challenge/1422_Maximum_Score_After_Splitting_a_String.md) | [Python](./Daily_Challenge/1422_Maximum_Score_After_Splitting_a_String.py) | Easy |
 | 2023-12-21 | [1637](https://www.leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Widest Vertical Area Between Two Points Containing No Points](./Daily_Challenge/1637_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.md) | [Python](./Daily_Challenge/1637_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.py) | Medium |
