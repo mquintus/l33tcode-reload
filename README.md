@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-12-25 | [91](https://www.leetcode.com/problems/decode-ways/) | [Decode Ways](./Daily_Challenge/91_Decode_Ways.md) | [Python](./Daily_Challenge/91_Decode_Ways.py) | Medium |
 | 2023-12-24 | [1758](https://www.leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Minimum Changes To Make Alternating Binary String](./Daily_Challenge/1758_Minimum_Changes_To_Make_Alternating_Binary_String.md) | [Python](./Daily_Challenge/1758_Minimum_Changes_To_Make_Alternating_Binary_String.py) | Easy |
 | 2023-12-23 | [1496](https://www.leetcode.com/problems/path-crossing/) | [Path Crossing](./Daily_Challenge/1496_Path_Crossing.md) | [Python](./Daily_Challenge/1496_Path_Crossing.py) | Easy |
 | 2023-12-22 | [1422](https://www.leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Score After Splitting a String](./Daily_Challenge/1422_Maximum_Score_After_Splitting_a_String.md) | [Python](./Daily_Challenge/1422_Maximum_Score_After_Splitting_a_String.py) | Easy |
