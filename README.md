@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-12-30 | [1897](https://www.leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Redistribute Characters to Make All Strings Equal](./Daily_Challenge/1897_Redistribute_Characters_to_Make_All_Strings_Equal.md) | [Python](./Daily_Challenge/1897_Redistribute_Characters_to_Make_All_Strings_Equal.py) | Easy |
 | 2023-12-29 | [1335](https://www.leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [Minimum Difficulty of a Job Schedule](./Daily_Challenge/1335_Minimum_Difficulty_of_a_Job_Schedule.md) | [Python](./Daily_Challenge/1335_Minimum_Difficulty_of_a_Job_Schedule.py) | Hard |
 | 2023-12-27 | [1578](https://www.leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Minimum Time to Make Rope Colorful](./Daily_Challenge/1578_Minimum_Time_to_Make_Rope_Colorful.md) | [Python](./Daily_Challenge/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
 | 2023-12-26 | [1155](https://www.leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [Number of Dice Rolls With Target Sum](./Daily_Challenge/1155_Number_of_Dice_Rolls_With_Target_Sum.md) | [Python](./Daily_Challenge/1155_Number_of_Dice_Rolls_With_Target_Sum.py) | Medium |
