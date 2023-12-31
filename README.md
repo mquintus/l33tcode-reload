@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2023-12-31 | [1624](https://www.leetcode.com/problems/largest-substring-between-two-equal-characters/) | [Largest Substring Between Two Equal Characters](./Daily_Challenge/1624_Largest_Substring_Between_Two_Equal_Characters.md) | [Python](./Daily_Challenge/1624_Largest_Substring_Between_Two_Equal_Characters.py) | Easy |
 | 2023-12-30 | [1897](https://www.leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Redistribute Characters to Make All Strings Equal](./Daily_Challenge/1897_Redistribute_Characters_to_Make_All_Strings_Equal.md) | [Python](./Daily_Challenge/1897_Redistribute_Characters_to_Make_All_Strings_Equal.py) | Easy |
 | 2023-12-29 | [1335](https://www.leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [Minimum Difficulty of a Job Schedule](./Daily_Challenge/1335_Minimum_Difficulty_of_a_Job_Schedule.md) | [Python](./Daily_Challenge/1335_Minimum_Difficulty_of_a_Job_Schedule.py) | Hard |
 | 2023-12-27 | [1578](https://www.leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Minimum Time to Make Rope Colorful](./Daily_Challenge/1578_Minimum_Time_to_Make_Rope_Colorful.md) | [Python](./Daily_Challenge/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
