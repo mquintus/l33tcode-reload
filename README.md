@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-01-03 | [2125](https://www.leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Number of Laser Beams in a Bank](./Daily_Challenge/2125_Number_of_Laser_Beams_in_a_Bank.md) | [Python](./Daily_Challenge/2125_Number_of_Laser_Beams_in_a_Bank.py) | Medium |
 | 2024-01-02 | [2610](https://www.leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Convert an Array Into a 2D Array With Conditions](./Daily_Challenge/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.md) | [Python](./Daily_Challenge/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.py) | Medium |
 | 2024-01-01 | [455](https://www.leetcode.com/problems/assign-cookies/) | [Assign Cookies](./Daily_Challenge/455_Assign_Cookies.md) | [Python](./Daily_Challenge/455_Assign_Cookies.py) | Easy |
 | 2023-12-31 | [1624](https://www.leetcode.com/problems/largest-substring-between-two-equal-characters/) | [Largest Substring Between Two Equal Characters](./Daily_Challenge/1624_Largest_Substring_Between_Two_Equal_Characters.md) | [Python](./Daily_Challenge/1624_Largest_Substring_Between_Two_Equal_Characters.py) | Easy |
