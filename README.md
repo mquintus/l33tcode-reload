@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-01-05 | [300](https://www.leetcode.com/problems/longest-increasing-subsequence/) | [Longest Increasing Subsequence](./Daily_Challenge/300_Longest_Increasing_Subsequence.md) | [Python](./Daily_Challenge/300_Longest_Increasing_Subsequence.py) | Medium |
 | 2024-01-04 | [2870](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | [Minimum Number of Operations to Make Array Empty](./Daily_Challenge/2870_Minimum_Number_of_Operations_to_Make_Array_Empty.md) | [Python](./Daily_Challenge/2870_Minimum_Number_of_Operations_to_Make_Array_Empty.py) | Medium |
 | 2024-01-03 | [2125](https://www.leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Number of Laser Beams in a Bank](./Daily_Challenge/2125_Number_of_Laser_Beams_in_a_Bank.md) | [Python](./Daily_Challenge/2125_Number_of_Laser_Beams_in_a_Bank.py) | Medium |
 | 2024-01-02 | [2610](https://www.leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Convert an Array Into a 2D Array With Conditions](./Daily_Challenge/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.md) | [Python](./Daily_Challenge/2610_Convert_an_Array_Into_a_2D_Array_With_Conditions.py) | Medium |
