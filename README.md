@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-01-06 | [1235](https://www.leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Maximum Profit in Job Scheduling](./Daily_Challenge/1235_Maximum_Profit_in_Job_Scheduling.md) | [Python](./Daily_Challenge/1235_Maximum_Profit_in_Job_Scheduling.py) | Hard |
 | 2024-01-05 | [300](https://www.leetcode.com/problems/longest-increasing-subsequence/) | [Longest Increasing Subsequence](./Daily_Challenge/300_Longest_Increasing_Subsequence.md) | [Python](./Daily_Challenge/300_Longest_Increasing_Subsequence.py) | Medium |
 | 2024-01-04 | [2870](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | [Minimum Number of Operations to Make Array Empty](./Daily_Challenge/2870_Minimum_Number_of_Operations_to_Make_Array_Empty.md) | [Python](./Daily_Challenge/2870_Minimum_Number_of_Operations_to_Make_Array_Empty.py) | Medium |
 | 2024-01-03 | [2125](https://www.leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Number of Laser Beams in a Bank](./Daily_Challenge/2125_Number_of_Laser_Beams_in_a_Bank.md) | [Python](./Daily_Challenge/2125_Number_of_Laser_Beams_in_a_Bank.py) | Medium |
