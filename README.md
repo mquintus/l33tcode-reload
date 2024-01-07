@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-01-07 | [446](https://www.leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Arithmetic Slices II - Subsequence](./Daily_Challenge/446_Arithmetic_Slices_II_-_Subsequence.md) | [Python](./Daily_Challenge/446_Arithmetic_Slices_II_-_Subsequence.py) | Hard |
 | 2024-01-06 | [1235](https://www.leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Maximum Profit in Job Scheduling](./Daily_Challenge/1235_Maximum_Profit_in_Job_Scheduling.md) | [Python](./Daily_Challenge/1235_Maximum_Profit_in_Job_Scheduling.py) | Hard |
 | 2024-01-05 | [300](https://www.leetcode.com/problems/longest-increasing-subsequence/) | [Longest Increasing Subsequence](./Daily_Challenge/300_Longest_Increasing_Subsequence.md) | [Python](./Daily_Challenge/300_Longest_Increasing_Subsequence.py) | Medium |
 | 2024-01-04 | [2870](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | [Minimum Number of Operations to Make Array Empty](./Daily_Challenge/2870_Minimum_Number_of_Operations_to_Make_Array_Empty.md) | [Python](./Daily_Challenge/2870_Minimum_Number_of_Operations_to_Make_Array_Empty.py) | Medium |
