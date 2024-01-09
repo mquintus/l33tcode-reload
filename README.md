@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-01-09 | [872](https://www.leetcode.com/problems/leaf-similar-trees/) | [Leaf-Similar Trees](./Daily_Challenge/872_Leaf-Similar_Trees.md) | [Python](./Daily_Challenge/872_Leaf-Similar_Trees.py) | Easy |
 | 2024-01-08 | [938](https://www.leetcode.com/problems/range-sum-of-bst/) | [Range Sum of BST](./Daily_Challenge/938_Range_Sum_of_BST.md) | [Python](./Daily_Challenge/938_Range_Sum_of_BST.py) | Easy |
 | 2024-01-07 | [446](https://www.leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Arithmetic Slices II - Subsequence](./Daily_Challenge/446_Arithmetic_Slices_II_-_Subsequence.md) | [Python](./Daily_Challenge/446_Arithmetic_Slices_II_-_Subsequence.py) | Hard |
 | 2024-01-06 | [1235](https://www.leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Maximum Profit in Job Scheduling](./Daily_Challenge/1235_Maximum_Profit_in_Job_Scheduling.md) | [Python](./Daily_Challenge/1235_Maximum_Profit_in_Job_Scheduling.py) | Hard |
