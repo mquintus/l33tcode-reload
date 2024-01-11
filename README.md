@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-01-11 | [1026](https://www.leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Maximum Difference Between Node and Ancestor](./Daily_Challenge/1026_Maximum_Difference_Between_Node_and_Ancestor.md) | [Python](./Daily_Challenge/1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium |
 | 2024-01-10 | [2385](https://www.leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | [Amount of Time for Binary Tree to Be Infected](./Daily_Challenge/2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.md) | [Python](./Daily_Challenge/2385_Amount_of_Time_for_Binary_Tree_to_Be_Infected.py) | Medium |
 | 2024-01-09 | [872](https://www.leetcode.com/problems/leaf-similar-trees/) | [Leaf-Similar Trees](./Daily_Challenge/872_Leaf-Similar_Trees.md) | [Python](./Daily_Challenge/872_Leaf-Similar_Trees.py) | Easy |
 | 2024-01-08 | [938](https://www.leetcode.com/problems/range-sum-of-bst/) | [Range Sum of BST](./Daily_Challenge/938_Range_Sum_of_BST.md) | [Python](./Daily_Challenge/938_Range_Sum_of_BST.py) | Easy |
