@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-01-14 | [1657](https://www.leetcode.com/problems/determine-if-two-strings-are-close/) | [Determine if Two Strings Are Close](./Daily_Challenge/1657_Determine_if_Two_Strings_Are_Close.md) | [Python](./Daily_Challenge/1657_Determine_if_Two_Strings_Are_Close.py) | Medium |
 | 2024-01-13 | [1347](https://www.leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | [Minimum Number of Steps to Make Two Strings Anagram](./Daily_Challenge/1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.md) | [Python](./Daily_Challenge/1347_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.py) | Medium |
 | 2024-01-12 | [1704](https://www.leetcode.com/problems/determine-if-string-halves-are-alike/) | [Determine if String Halves Are Alike](./Daily_Challenge/1704_Determine_if_String_Halves_Are_Alike.md) | [Python](./Daily_Challenge/1704_Determine_if_String_Halves_Are_Alike.py) | Easy |
 | 2024-01-11 | [1026](https://www.leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Maximum Difference Between Node and Ancestor](./Daily_Challenge/1026_Maximum_Difference_Between_Node_and_Ancestor.md) | [Python](./Daily_Challenge/1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium |
