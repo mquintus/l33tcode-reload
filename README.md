@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-01-17 | [1207](https://www.leetcode.com/problems/unique-number-of-occurrences/) | [Unique Number of Occurrences](./Daily_Challenge/1207_Unique_Number_of_Occurrences.md) | [Python](./Daily_Challenge/1207_Unique_Number_of_Occurrences.py) | Easy |
 | 2024-01-16 | [380](https://www.leetcode.com/problems/insert-delete-getrandom-o1/) | [Insert Delete GetRandom O(1)](./Daily_Challenge/380_Insert_Delete_GetRandom_O(1).md) | [Python](./Daily_Challenge/380_Insert_Delete_GetRandom_O(1).py) | Medium |
 | 2024-01-15 | [2225](https://www.leetcode.com/problems/find-players-with-zero-or-one-losses/) | [Find Players With Zero or One Losses](./Daily_Challenge/2225_Find_Players_With_Zero_or_One_Losses.md) | [Python](./Daily_Challenge/2225_Find_Players_With_Zero_or_One_Losses.py) | Medium |
 | 2024-01-14 | [1657](https://www.leetcode.com/problems/determine-if-two-strings-are-close/) | [Determine if Two Strings Are Close](./Daily_Challenge/1657_Determine_if_Two_Strings_Are_Close.md) | [Python](./Daily_Challenge/1657_Determine_if_Two_Strings_Are_Close.py) | Medium |
