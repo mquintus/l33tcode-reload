@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-01-19 | [931](https://www.leetcode.com/problems/minimum-falling-path-sum/) | [Minimum Falling Path Sum](./Daily_Challenge/931_Minimum_Falling_Path_Sum.md) | [Python](./Daily_Challenge/931_Minimum_Falling_Path_Sum.py) | Medium |
 | 2024-01-18 | [70](https://www.leetcode.com/problems/climbing-stairs/) | [Climbing Stairs](./Daily_Challenge/70_Climbing_Stairs.md) | [Python](./Daily_Challenge/70_Climbing_Stairs.py) | Easy |
 | 2024-01-17 | [1207](https://www.leetcode.com/problems/unique-number-of-occurrences/) | [Unique Number of Occurrences](./Daily_Challenge/1207_Unique_Number_of_Occurrences.md) | [Python](./Daily_Challenge/1207_Unique_Number_of_Occurrences.py) | Easy |
 | 2024-01-16 | [380](https://www.leetcode.com/problems/insert-delete-getrandom-o1/) | [Insert Delete GetRandom O(1)](./Daily_Challenge/380_Insert_Delete_GetRandom_O(1).md) | [Python](./Daily_Challenge/380_Insert_Delete_GetRandom_O(1).py) | Medium |
