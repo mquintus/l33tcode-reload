@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-01-22 | [645](https://www.leetcode.com/problems/set-mismatch/) | [Set Mismatch](./Daily_Challenge/645_Set_Mismatch.md) | [Python](./Daily_Challenge/645_Set_Mismatch.py) | Easy |
 | 2024-01-21 | [198](https://www.leetcode.com/problems/house-robber/) | [House Robber](./Daily_Challenge/198_House_Robber.md) | [Python](./Daily_Challenge/198_House_Robber.py) | Medium |
 | 2024-01-20 | [907](https://www.leetcode.com/problems/sum-of-subarray-minimums/) | [Sum of Subarray Minimums](./Daily_Challenge/907_Sum_of_Subarray_Minimums.md) | [Python](./Daily_Challenge/907_Sum_of_Subarray_Minimums.py) | Medium |
 | 2024-01-19 | [931](https://www.leetcode.com/problems/minimum-falling-path-sum/) | [Minimum Falling Path Sum](./Daily_Challenge/931_Minimum_Falling_Path_Sum.md) | [Python](./Daily_Challenge/931_Minimum_Falling_Path_Sum.py) | Medium |
