@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-01-24 | [1457](https://www.leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [Pseudo-Palindromic Paths in a Binary Tree](./Daily_Challenge/1457_Pseudo-Palindromic_Paths_in_a_Binary_Tree.md) | [Python](./Daily_Challenge/1457_Pseudo-Palindromic_Paths_in_a_Binary_Tree.py) | Medium |
 | 2024-01-23 | [1239](https://www.leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](./Daily_Challenge/1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.md) | [Python](./Daily_Challenge/1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.py) | Medium |
 | 2024-01-22 | [645](https://www.leetcode.com/problems/set-mismatch/) | [Set Mismatch](./Daily_Challenge/645_Set_Mismatch.md) | [Python](./Daily_Challenge/645_Set_Mismatch.py) | Easy |
 | 2024-01-21 | [198](https://www.leetcode.com/problems/house-robber/) | [House Robber](./Daily_Challenge/198_House_Robber.md) | [Python](./Daily_Challenge/198_House_Robber.py) | Medium |
