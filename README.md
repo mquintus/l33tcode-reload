@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-01-27 | [629](https://www.leetcode.com/problems/k-inverse-pairs-array/) | [K Inverse Pairs Array](./Daily_Challenge/629_K_Inverse_Pairs_Array.md) | [Python](./Daily_Challenge/629_K_Inverse_Pairs_Array.py) | Hard |
 | 2024-01-26 | [576](https://www.leetcode.com/problems/out-of-boundary-paths/) | [Out of Boundary Paths](./Daily_Challenge/576_Out_of_Boundary_Paths.md) | [Python](./Daily_Challenge/576_Out_of_Boundary_Paths.py) | Medium |
 | 2024-01-25 | [1143](https://www.leetcode.com/problems/longest-common-subsequence/) | [Longest Common Subsequence](./Daily_Challenge/1143_Longest_Common_Subsequence.md) | [Python](./Daily_Challenge/1143_Longest_Common_Subsequence.py) | Medium |
 | 2024-01-24 | [1457](https://www.leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [Pseudo-Palindromic Paths in a Binary Tree](./Daily_Challenge/1457_Pseudo-Palindromic_Paths_in_a_Binary_Tree.md) | [Python](./Daily_Challenge/1457_Pseudo-Palindromic_Paths_in_a_Binary_Tree.py) | Medium |
