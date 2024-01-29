@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-01-29 | [232](https://www.leetcode.com/problems/implement-queue-using-stacks/) | [Implement Queue using Stacks](./Daily_Challenge/232_Implement_Queue_using_Stacks.md) | [Python](./Daily_Challenge/232_Implement_Queue_using_Stacks.py) | Easy |
 | 2024-01-28 | [1074](https://www.leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Number of Submatrices That Sum to Target](./Daily_Challenge/1074_Number_of_Submatrices_That_Sum_to_Target.md) | [Python](./Daily_Challenge/1074_Number_of_Submatrices_That_Sum_to_Target.py) | Hard |
 | 2024-01-27 | [629](https://www.leetcode.com/problems/k-inverse-pairs-array/) | [K Inverse Pairs Array](./Daily_Challenge/629_K_Inverse_Pairs_Array.md) | [Python](./Daily_Challenge/629_K_Inverse_Pairs_Array.py) | Hard |
 | 2024-01-26 | [576](https://www.leetcode.com/problems/out-of-boundary-paths/) | [Out of Boundary Paths](./Daily_Challenge/576_Out_of_Boundary_Paths.md) | [Python](./Daily_Challenge/576_Out_of_Boundary_Paths.py) | Medium |
