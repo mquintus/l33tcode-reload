@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-01-30 | [150](https://www.leetcode.com/problems/evaluate-reverse-polish-notation/) | [Evaluate Reverse Polish Notation](./Daily_Challenge/150_Evaluate_Reverse_Polish_Notation.md) | [Python](./Daily_Challenge/150_Evaluate_Reverse_Polish_Notation.py) | Medium |
 | 2024-01-29 | [232](https://www.leetcode.com/problems/implement-queue-using-stacks/) | [Implement Queue using Stacks](./Daily_Challenge/232_Implement_Queue_using_Stacks.md) | [Python](./Daily_Challenge/232_Implement_Queue_using_Stacks.py) | Easy |
 | 2024-01-28 | [1074](https://www.leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Number of Submatrices That Sum to Target](./Daily_Challenge/1074_Number_of_Submatrices_That_Sum_to_Target.md) | [Python](./Daily_Challenge/1074_Number_of_Submatrices_That_Sum_to_Target.py) | Hard |
 | 2024-01-27 | [629](https://www.leetcode.com/problems/k-inverse-pairs-array/) | [K Inverse Pairs Array](./Daily_Challenge/629_K_Inverse_Pairs_Array.md) | [Python](./Daily_Challenge/629_K_Inverse_Pairs_Array.py) | Hard |
