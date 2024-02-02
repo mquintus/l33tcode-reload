@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-02-02 | [1291](https://www.leetcode.com/problems/sequential-digits/) | [Sequential Digits](./Daily_Challenge/1291_Sequential_Digits.md) | [Python](./Daily_Challenge/1291_Sequential_Digits.py) | Medium |
 | 2024-02-01 | [2966](https://www.leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | [Divide Array Into Arrays With Max Difference](./Daily_Challenge/2966_Divide_Array_Into_Arrays_With_Max_Difference.md) | [Python](./Daily_Challenge/2966_Divide_Array_Into_Arrays_With_Max_Difference.py) | Medium |
 | 2024-01-31 | [739](https://www.leetcode.com/problems/daily-temperatures/) | [Daily Temperatures](./Daily_Challenge/739_Daily_Temperatures.md) | [Python](./Daily_Challenge/739_Daily_Temperatures.py) | Medium |
 | 2024-01-30 | [150](https://www.leetcode.com/problems/evaluate-reverse-polish-notation/) | [Evaluate Reverse Polish Notation](./Daily_Challenge/150_Evaluate_Reverse_Polish_Notation.md) | [Python](./Daily_Challenge/150_Evaluate_Reverse_Polish_Notation.py) | Medium |
