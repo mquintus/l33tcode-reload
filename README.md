@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-02-04 | [76](https://www.leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](./Daily_Challenge/76_Minimum_Window_Substring.md) | [Python](./Daily_Challenge/76_Minimum_Window_Substring.py) | Hard |
 | 2024-02-03 | [1043](https://www.leetcode.com/problems/partition-array-for-maximum-sum/) | [Partition Array for Maximum Sum](./Daily_Challenge/1043_Partition_Array_for_Maximum_Sum.md) | [Python](./Daily_Challenge/1043_Partition_Array_for_Maximum_Sum.py) | Medium |
 | 2024-02-02 | [1291](https://www.leetcode.com/problems/sequential-digits/) | [Sequential Digits](./Daily_Challenge/1291_Sequential_Digits.md) | [Python](./Daily_Challenge/1291_Sequential_Digits.py) | Medium |
 | 2024-02-01 | [2966](https://www.leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | [Divide Array Into Arrays With Max Difference](./Daily_Challenge/2966_Divide_Array_Into_Arrays_With_Max_Difference.md) | [Python](./Daily_Challenge/2966_Divide_Array_Into_Arrays_With_Max_Difference.py) | Medium |
