@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-02-05 | [387](https://www.leetcode.com/problems/first-unique-character-in-a-string/) | [First Unique Character in a String](./Daily_Challenge/387_First_Unique_Character_in_a_String.md) | [Python](./Daily_Challenge/387_First_Unique_Character_in_a_String.py) | Easy |
 | 2024-02-04 | [76](https://www.leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](./Daily_Challenge/76_Minimum_Window_Substring.md) | [Python](./Daily_Challenge/76_Minimum_Window_Substring.py) | Hard |
 | 2024-02-03 | [1043](https://www.leetcode.com/problems/partition-array-for-maximum-sum/) | [Partition Array for Maximum Sum](./Daily_Challenge/1043_Partition_Array_for_Maximum_Sum.md) | [Python](./Daily_Challenge/1043_Partition_Array_for_Maximum_Sum.py) | Medium |
 | 2024-02-02 | [1291](https://www.leetcode.com/problems/sequential-digits/) | [Sequential Digits](./Daily_Challenge/1291_Sequential_Digits.md) | [Python](./Daily_Challenge/1291_Sequential_Digits.py) | Medium |
