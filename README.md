@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-02-08 | [279](https://www.leetcode.com/problems/perfect-squares/) | [Perfect Squares](./Daily_Challenge/279_Perfect_Squares.md) | [Python](./Daily_Challenge/279_Perfect_Squares.py) | Medium |
 | 2024-02-07 | [451](https://www.leetcode.com/problems/sort-characters-by-frequency/) | [Sort Characters By Frequency](./Daily_Challenge/451_Sort_Characters_By_Frequency.md) | [Python](./Daily_Challenge/451_Sort_Characters_By_Frequency.py) | Medium |
 | 2024-02-06 | [49](https://www.leetcode.com/problems/group-anagrams/) | [Group Anagrams](./Daily_Challenge/49_Group_Anagrams.md) | [Python](./Daily_Challenge/49_Group_Anagrams.py) | Medium |
 | 2024-02-05 | [387](https://www.leetcode.com/problems/first-unique-character-in-a-string/) | [First Unique Character in a String](./Daily_Challenge/387_First_Unique_Character_in_a_String.md) | [Python](./Daily_Challenge/387_First_Unique_Character_in_a_String.py) | Easy |
