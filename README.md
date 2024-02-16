@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-02-16 | [1481](https://www.leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [Least Number of Unique Integers after K Removals](./Daily_Challenge/1481_Least_Number_of_Unique_Integers_after_K_Removals.md) | [Python](./Daily_Challenge/1481_Least_Number_of_Unique_Integers_after_K_Removals.py) | Medium |
 | 2024-02-15 | [2971](https://www.leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | [Find Polygon With the Largest Perimeter](./Daily_Challenge/2971_Find_Polygon_With_the_Largest_Perimeter.md) | [Python](./Daily_Challenge/2971_Find_Polygon_With_the_Largest_Perimeter.py) | Medium |
 | 2024-02-14 | [2149](https://www.leetcode.com/problems/rearrange-array-elements-by-sign/) | [Rearrange Array Elements by Sign](./Daily_Challenge/2149_Rearrange_Array_Elements_by_Sign.md) | [Python](./Daily_Challenge/2149_Rearrange_Array_Elements_by_Sign.py) | Medium |
 | 2024-02-13 | [2108](https://www.leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Find First Palindromic String in the Array](./Daily_Challenge/2108_Find_First_Palindromic_String_in_the_Array.md) | [Python](./Daily_Challenge/2108_Find_First_Palindromic_String_in_the_Array.py) | Easy |
