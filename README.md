@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-02-18 | [2402](https://www.leetcode.com/problems/meeting-rooms-iii/) | [Meeting Rooms III](./Daily_Challenge/2402_Meeting_Rooms_III.md) | [Python](./Daily_Challenge/2402_Meeting_Rooms_III.py) | Hard |
 | 2024-02-17 | [1642](https://www.leetcode.com/problems/furthest-building-you-can-reach/) | [Furthest Building You Can Reach](./Daily_Challenge/1642_Furthest_Building_You_Can_Reach.md) | [Python](./Daily_Challenge/1642_Furthest_Building_You_Can_Reach.py) | Medium |
 | 2024-02-16 | [1481](https://www.leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [Least Number of Unique Integers after K Removals](./Daily_Challenge/1481_Least_Number_of_Unique_Integers_after_K_Removals.md) | [Python](./Daily_Challenge/1481_Least_Number_of_Unique_Integers_after_K_Removals.py) | Medium |
 | 2024-02-15 | [2971](https://www.leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | [Find Polygon With the Largest Perimeter](./Daily_Challenge/2971_Find_Polygon_With_the_Largest_Perimeter.md) | [Python](./Daily_Challenge/2971_Find_Polygon_With_the_Largest_Perimeter.py) | Medium |
