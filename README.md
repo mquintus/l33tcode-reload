@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-02-22 | [997](https://www.leetcode.com/problems/find-the-town-judge/) | [Find the Town Judge](./Daily_Challenge/997_Find_the_Town_Judge.md) | [Python](./Daily_Challenge/997_Find_the_Town_Judge.py) | Easy |
 | 2024-02-21 | [201](https://www.leetcode.com/problems/bitwise-and-of-numbers-range/) | [Bitwise AND of Numbers Range](./Daily_Challenge/201_Bitwise_AND_of_Numbers_Range.md) | [Python](./Daily_Challenge/201_Bitwise_AND_of_Numbers_Range.py) | Medium |
 | 2024-02-20 | [268](https://www.leetcode.com/problems/missing-number/) | [Missing Number](./Daily_Challenge/268_Missing_Number.md) | [Python](./Daily_Challenge/268_Missing_Number.py) | Easy |
 | 2024-02-19 | [231](https://www.leetcode.com/problems/power-of-two/) | [Power of Two](./Daily_Challenge/231_Power_of_Two.md) | [Python](./Daily_Challenge/231_Power_of_Two.py) | Easy |
