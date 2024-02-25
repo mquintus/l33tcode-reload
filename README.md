@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-02-25 | [2709](https://www.leetcode.com/problems/greatest-common-divisor-traversal/) | [Greatest Common Divisor Traversal](./Daily_Challenge/2709_Greatest_Common_Divisor_Traversal.md) | [Python](./Daily_Challenge/2709_Greatest_Common_Divisor_Traversal.py) | Hard |
 | 2024-02-24 | [2092](https://www.leetcode.com/problems/find-all-people-with-secret/) | [Find All People With Secret](./Daily_Challenge/2092_Find_All_People_With_Secret.md) | [Python](./Daily_Challenge/2092_Find_All_People_With_Secret.py) | Hard |
 | 2024-02-23 | [787](https://www.leetcode.com/problems/cheapest-flights-within-k-stops/) | [Cheapest Flights Within K Stops](./Daily_Challenge/787_Cheapest_Flights_Within_K_Stops.md) | [Python](./Daily_Challenge/787_Cheapest_Flights_Within_K_Stops.py) | Medium |
 | 2024-02-22 | [997](https://www.leetcode.com/problems/find-the-town-judge/) | [Find the Town Judge](./Daily_Challenge/997_Find_the_Town_Judge.md) | [Python](./Daily_Challenge/997_Find_the_Town_Judge.py) | Easy |
