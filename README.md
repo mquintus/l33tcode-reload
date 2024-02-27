@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-02-27 | [543](https://www.leetcode.com/problems/diameter-of-binary-tree/) | [Diameter of Binary Tree](./Daily_Challenge/543_Diameter_of_Binary_Tree.md) | [Python](./Daily_Challenge/543_Diameter_of_Binary_Tree.py) | Easy |
 | 2024-02-26 | [100](https://www.leetcode.com/problems/same-tree/) | [Same Tree](./Daily_Challenge/100_Same_Tree.md) | [Python](./Daily_Challenge/100_Same_Tree.py) | Easy |
 | 2024-02-25 | [2709](https://www.leetcode.com/problems/greatest-common-divisor-traversal/) | [Greatest Common Divisor Traversal](./Daily_Challenge/2709_Greatest_Common_Divisor_Traversal.md) | [Python](./Daily_Challenge/2709_Greatest_Common_Divisor_Traversal.py) | Hard |
 | 2024-02-24 | [2092](https://www.leetcode.com/problems/find-all-people-with-secret/) | [Find All People With Secret](./Daily_Challenge/2092_Find_All_People_With_Secret.md) | [Python](./Daily_Challenge/2092_Find_All_People_With_Secret.py) | Hard |
