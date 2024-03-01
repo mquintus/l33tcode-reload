@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-03-01 | [2864](https://www.leetcode.com/problems/maximum-odd-binary-number/) | [Maximum Odd Binary Number](./Daily_Challenge/2864_Maximum_Odd_Binary_Number.md) | [Python](./Daily_Challenge/2864_Maximum_Odd_Binary_Number.py) | Easy |
 | 2024-02-29 | [1609](https://www.leetcode.com/problems/even-odd-tree/) | [Even Odd Tree](./Daily_Challenge/1609_Even_Odd_Tree.md) | [Python](./Daily_Challenge/1609_Even_Odd_Tree.py) | Medium |
 | 2024-02-28 | [513](https://www.leetcode.com/problems/find-bottom-left-tree-value/) | [Find Bottom Left Tree Value](./Daily_Challenge/513_Find_Bottom_Left_Tree_Value.md) | [Python](./Daily_Challenge/513_Find_Bottom_Left_Tree_Value.py) | Medium |
 | 2024-02-27 | [543](https://www.leetcode.com/problems/diameter-of-binary-tree/) | [Diameter of Binary Tree](./Daily_Challenge/543_Diameter_of_Binary_Tree.md) | [Python](./Daily_Challenge/543_Diameter_of_Binary_Tree.py) | Easy |
