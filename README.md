@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-03-05 | [1750](https://www.leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [Minimum Length of String After Deleting Similar Ends](./Daily_Challenge/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.md) | [Python](./Daily_Challenge/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.py) | Medium |
 | 2024-03-04 | [948](https://www.leetcode.com/problems/bag-of-tokens/) | [Bag of Tokens](./Daily_Challenge/948_Bag_of_Tokens.md) | [Python](./Daily_Challenge/948_Bag_of_Tokens.py) | Medium |
 | 2024-03-03 | [19](https://www.leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](./Daily_Challenge/19_Remove_Nth_Node_From_End_of_List.md) | [Python](./Daily_Challenge/19_Remove_Nth_Node_From_End_of_List.py) | Medium |
 | 2024-03-02 | [977](https://www.leetcode.com/problems/squares-of-a-sorted-array/) | [Squares of a Sorted Array](./Daily_Challenge/977_Squares_of_a_Sorted_Array.md) | [Python](./Daily_Challenge/977_Squares_of_a_Sorted_Array.py) | Easy |
