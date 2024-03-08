@@ -10,7 +10,8 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
-| `2024-03-07` | [876](https://www.leetcode.com/problems/middle-of-the-linked-list/) | [Middle of the Linked List](./Daily_Challenge/876_Middle_of_the_Linked_List.md) | [Python](./Daily_Challenge/876_Middle_of_the_Linked_List.py) | Easy |
+| 2024-03-08 | [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Count Elements With Maximum Frequency](./Daily_Challenge/3005_Count_Elements_With_Maximum_Frequency.md) | [Python](./Daily_Challenge/3005_Count_Elements_With_Maximum_Frequency.py) | Easy |
+| 2024-03-07 | [876](https://www.leetcode.com/problems/middle-of-the-linked-list/) | [Middle of the Linked List](./Daily_Challenge/876_Middle_of_the_Linked_List.md) | [Python](./Daily_Challenge/876_Middle_of_the_Linked_List.py) | Easy |
 | 2024-03-06 | [141](https://www.leetcode.com/problems/linked-list-cycle/) | [Linked List Cycle](./Daily_Challenge/141_Linked_List_Cycle.md) | [Python](./Daily_Challenge/141_Linked_List_Cycle.py) | Easy |
 | 2024-03-05 | [1750](https://www.leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [Minimum Length of String After Deleting Similar Ends](./Daily_Challenge/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.md) | [Python](./Daily_Challenge/1750_Minimum_Length_of_String_After_Deleting_Similar_Ends.py) | Medium |
 | 2024-03-04 | [948](https://www.leetcode.com/problems/bag-of-tokens/) | [Bag of Tokens](./Daily_Challenge/948_Bag_of_Tokens.md) | [Python](./Daily_Challenge/948_Bag_of_Tokens.py) | Medium |
