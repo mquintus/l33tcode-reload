@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-03-10 | [349](https://www.leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | [Python](./Daily_Challenge/349_Intersection_of_Two_Arrays.py) | Easy |
 | 2024-03-09 | [3005](https://leetcode.com/problems/minimum-common-value) | [Minimum Common Value](./Daily_Challenge/2540_Minimum_Common_Value.md) | [Python](./Daily_Challenge/2540_Minimum_Common_Value.py) | Easy |
 | 2024-03-08 | [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Count Elements With Maximum Frequency](./Daily_Challenge/3005_Count_Elements_With_Maximum_Frequency.md) | [Python](./Daily_Challenge/3005_Count_Elements_With_Maximum_Frequency.py) | Easy |
 | 2024-03-07 | [876](https://www.leetcode.com/problems/middle-of-the-linked-list/) | [Middle of the Linked List](./Daily_Challenge/876_Middle_of_the_Linked_List.md) | [Python](./Daily_Challenge/876_Middle_of_the_Linked_List.py) | Easy |
