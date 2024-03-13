@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-03-13 | [2485](https://www.leetcode.com/problems/find-the-pivot-integer/) | [Find the Pivot Integer](./Daily_Challenge/2485_Find_the_Pivot_Integer.md) | [Python](./Daily_Challenge/2485_Find_the_Pivot_Integer.py) | Easy |
 | 2024-03-12 | [1171](https://www.leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Remove Zero Sum Consecutive Nodes from Linked List](./Daily_Challenge/1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.md) | [Python](./Daily_Challenge/1171_Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.py) | Medium |
 | 2024-03-10 | [349](https://www.leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | [Python](./Daily_Challenge/349_Intersection_of_Two_Arrays.py) | Easy |
 | 2024-03-09 | [3005](https://leetcode.com/problems/minimum-common-value) | [Minimum Common Value](./Daily_Challenge/2540_Minimum_Common_Value.md) | [Python](./Daily_Challenge/2540_Minimum_Common_Value.py) | Easy |
