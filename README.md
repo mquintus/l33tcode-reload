@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-03-18 | [452](https://www.leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Minimum Number of Arrows to Burst Balloons](./Daily_Challenge/452_Minimum_Number_of_Arrows_to_Burst_Balloons.md) | [Python](./Daily_Challenge/452_Minimum_Number_of_Arrows_to_Burst_Balloons.py) | Medium |
 | 2024-03-17 | [57](https://www.leetcode.com/problems/insert-interval/) | [Insert Interval](./Daily_Challenge/57_Insert_Interval.md) | [Python](./Daily_Challenge/57_Insert_Interval.py) | Medium |
 | 2024-03-16 | [525](https://www.leetcode.com/problems/contiguous-array/) | [Contiguous Array](./Daily_Challenge/525_Contiguous_Array.md) | [Python](./Daily_Challenge/525_Contiguous_Array.py) | Medium |
 | 2024-03-15 | [238](https://www.leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](./Daily_Challenge/238_Product_of_Array_Except_Self.md) | [Python](./Daily_Challenge/238_Product_of_Array_Except_Self.py) | Medium |
