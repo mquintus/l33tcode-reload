@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-03-19 | [621](https://www.leetcode.com/problems/task-scheduler/) | [Task Scheduler](./Daily_Challenge/621_Task_Scheduler.md) | [Python](./Daily_Challenge/621_Task_Scheduler.py) | Medium |
 | 2024-03-18 | [452](https://www.leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Minimum Number of Arrows to Burst Balloons](./Daily_Challenge/452_Minimum_Number_of_Arrows_to_Burst_Balloons.md) | [Python](./Daily_Challenge/452_Minimum_Number_of_Arrows_to_Burst_Balloons.py) | Medium |
 | 2024-03-17 | [57](https://www.leetcode.com/problems/insert-interval/) | [Insert Interval](./Daily_Challenge/57_Insert_Interval.md) | [Python](./Daily_Challenge/57_Insert_Interval.py) | Medium |
 | 2024-03-16 | [525](https://www.leetcode.com/problems/contiguous-array/) | [Contiguous Array](./Daily_Challenge/525_Contiguous_Array.md) | [Python](./Daily_Challenge/525_Contiguous_Array.py) | Medium |
