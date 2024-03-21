@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-03-21 | [206](https://www.leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](./Daily_Challenge/206_Reverse_Linked_List.md) | [Python](./Daily_Challenge/206_Reverse_Linked_List.py) | Easy |
 | 2024-03-20 | [1669](https://www.leetcode.com/problems/merge-in-between-linked-lists/) | [Merge In Between Linked Lists](./Daily_Challenge/1669_Merge_In_Between_Linked_Lists.md) | [Python](./Daily_Challenge/1669_Merge_In_Between_Linked_Lists.py) | Medium |
 | 2024-03-19 | [621](https://www.leetcode.com/problems/task-scheduler/) | [Task Scheduler](./Daily_Challenge/621_Task_Scheduler.md) | [Python](./Daily_Challenge/621_Task_Scheduler.py) | Medium |
 | 2024-03-18 | [452](https://www.leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Minimum Number of Arrows to Burst Balloons](./Daily_Challenge/452_Minimum_Number_of_Arrows_to_Burst_Balloons.md) | [Python](./Daily_Challenge/452_Minimum_Number_of_Arrows_to_Burst_Balloons.py) | Medium |
