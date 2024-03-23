@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-03-23 | [143](https://www.leetcode.com/problems/reorder-list/) | [Reorder List](./Daily_Challenge/143_Reorder_List.md) | [Python](./Daily_Challenge/143_Reorder_List.py) | Medium |
 | 2024-03-22 | [234](https://www.leetcode.com/problems/palindrome-linked-list/) | [Palindrome Linked List](./Daily_Challenge/234_Palindrome_Linked_List.md) | [Python](./Daily_Challenge/234_Palindrome_Linked_List.py) | Easy |
 | 2024-03-21 | [206](https://www.leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](./Daily_Challenge/206_Reverse_Linked_List.md) | [Python](./Daily_Challenge/206_Reverse_Linked_List.py) | Easy |
 | 2024-03-20 | [1669](https://www.leetcode.com/problems/merge-in-between-linked-lists/) | [Merge In Between Linked Lists](./Daily_Challenge/1669_Merge_In_Between_Linked_Lists.md) | [Python](./Daily_Challenge/1669_Merge_In_Between_Linked_Lists.py) | Medium |
