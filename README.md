@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-03-27 | [713](https://www.leetcode.com/problems/subarray-product-less-than-k/) | [Subarray Product Less Than K](./Daily_Challenge/713_Subarray_Product_Less_Than_K.md) | [Python](./Daily_Challenge/713_Subarray_Product_Less_Than_K.py) | Medium |
 | 2024-03-26 | [41](https://www.leetcode.com/problems/first-missing-positive/) | [First Missing Positive](./Daily_Challenge/41_First_Missing_Positive.md) | [Python](./Daily_Challenge/41_First_Missing_Positive.py) | Hard |
 | 2024-03-25 | [442](https://www.leetcode.com/problems/find-all-duplicates-in-an-array/) | [Find All Duplicates in an Array](./Daily_Challenge/442_Find_All_Duplicates_in_an_Array.md) | [Python](./Daily_Challenge/442_Find_All_Duplicates_in_an_Array.py) | Medium |
 | 2024-03-24 | [287](https://www.leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](./Daily_Challenge/287_Find_the_Duplicate_Number.md) | [Python](./Daily_Challenge/287_Find_the_Duplicate_Number.py) | Medium |
