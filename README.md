@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-03-28 | [2958](https://www.leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Length of Longest Subarray With at Most K Frequency](./Daily_Challenge/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.md) | [Python](./Daily_Challenge/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.py) | Medium |
 | 2024-03-27 | [713](https://www.leetcode.com/problems/subarray-product-less-than-k/) | [Subarray Product Less Than K](./Daily_Challenge/713_Subarray_Product_Less_Than_K.md) | [Python](./Daily_Challenge/713_Subarray_Product_Less_Than_K.py) | Medium |
 | 2024-03-26 | [41](https://www.leetcode.com/problems/first-missing-positive/) | [First Missing Positive](./Daily_Challenge/41_First_Missing_Positive.md) | [Python](./Daily_Challenge/41_First_Missing_Positive.py) | Hard |
 | 2024-03-25 | [442](https://www.leetcode.com/problems/find-all-duplicates-in-an-array/) | [Find All Duplicates in an Array](./Daily_Challenge/442_Find_All_Duplicates_in_an_Array.md) | [Python](./Daily_Challenge/442_Find_All_Duplicates_in_an_Array.py) | Medium |
