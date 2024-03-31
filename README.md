@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-03-31 | [2444](https://www.leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Count Subarrays With Fixed Bounds](./Daily_Challenge/2444_Count_Subarrays_With_Fixed_Bounds.md) | [Python](./Daily_Challenge/2444_Count_Subarrays_With_Fixed_Bounds.py) | Hard |
 | 2024-03-30 | [992](https://www.leetcode.com/problems/subarrays-with-k-different-integers/) | [Subarrays with K Different Integers](./Daily_Challenge/992_Subarrays_with_K_Different_Integers.md) | [Python](./Daily_Challenge/992_Subarrays_with_K_Different_Integers.py) | Hard |
 | 2024-03-29 | [2962](https://www.leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | [Count Subarrays Where Max Element Appears at Least K Times](./Daily_Challenge/2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.md) | [Python](./Daily_Challenge/2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.py) | Medium |
 | 2024-03-28 | [2958](https://www.leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Length of Longest Subarray With at Most K Frequency](./Daily_Challenge/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.md) | [Python](./Daily_Challenge/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.py) | Medium |
