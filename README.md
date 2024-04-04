@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-04-04 | [1614](https://www.leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Maximum Nesting Depth of the Parentheses](./Daily_Challenge/1614_Maximum_Nesting_Depth_of_the_Parentheses.md) | [Python](./Daily_Challenge/1614_Maximum_Nesting_Depth_of_the_Parentheses.py) | Easy |
 | 2024-04-03 | [79](https://www.leetcode.com/problems/word-search/) | [Word Search](./Daily_Challenge/79_Word_Search.md) | [Python](./Daily_Challenge/79_Word_Search.py) | Medium |
 | 2024-04-01 | [58](https://www.leetcode.com/problems/length-of-last-word/) | [Length of Last Word](./Daily_Challenge/58_Length_of_Last_Word.md) | [Python](./Daily_Challenge/58_Length_of_Last_Word.py) | Easy |
 | 2024-03-31 | [2444](https://www.leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Count Subarrays With Fixed Bounds](./Daily_Challenge/2444_Count_Subarrays_With_Fixed_Bounds.md) | [Python](./Daily_Challenge/2444_Count_Subarrays_With_Fixed_Bounds.py) | Hard |
