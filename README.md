@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-04-07 | [678](https://www.leetcode.com/problems/valid-parenthesis-string/) | [Valid Parenthesis String](./Daily_Challenge/678_Valid_Parenthesis_String.md) | [Python](./Daily_Challenge/678_Valid_Parenthesis_String.py) | Medium |
 | 2024-04-06 | [1249](https://www.leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Minimum Remove to Make Valid Parentheses](./Daily_Challenge/1249_Minimum_Remove_to_Make_Valid_Parentheses.md) | [Python](./Daily_Challenge/1249_Minimum_Remove_to_Make_Valid_Parentheses.py) | Medium |
 | 2024-04-05 | [1544](https://www.leetcode.com/problems/make-the-string-great/) | [Make The String Great](./Daily_Challenge/1544_Make_The_String_Great.md) | [Python](./Daily_Challenge/1544_Make_The_String_Great.py) | Easy |
 | 2024-04-04 | [1614](https://www.leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Maximum Nesting Depth of the Parentheses](./Daily_Challenge/1614_Maximum_Nesting_Depth_of_the_Parentheses.md) | [Python](./Daily_Challenge/1614_Maximum_Nesting_Depth_of_the_Parentheses.py) | Easy |
