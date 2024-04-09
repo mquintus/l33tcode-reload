@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-04-09 | [2073](https://www.leetcode.com/problems/time-needed-to-buy-tickets/) | [Time Needed to Buy Tickets](./Daily_Challenge/2073_Time_Needed_to_Buy_Tickets.md) | [Python](./Daily_Challenge/2073_Time_Needed_to_Buy_Tickets.py) | Easy |
 | 2024-04-08 | [1700](https://www.leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Number of Students Unable to Eat Lunch](./Daily_Challenge/1700_Number_of_Students_Unable_to_Eat_Lunch.md) | [Python](./Daily_Challenge/1700_Number_of_Students_Unable_to_Eat_Lunch.py) | Easy |
 | 2024-04-07 | [678](https://www.leetcode.com/problems/valid-parenthesis-string/) | [Valid Parenthesis String](./Daily_Challenge/678_Valid_Parenthesis_String.md) | [Python](./Daily_Challenge/678_Valid_Parenthesis_String.py) | Medium |
 | 2024-04-06 | [1249](https://www.leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Minimum Remove to Make Valid Parentheses](./Daily_Challenge/1249_Minimum_Remove_to_Make_Valid_Parentheses.md) | [Python](./Daily_Challenge/1249_Minimum_Remove_to_Make_Valid_Parentheses.py) | Medium |
