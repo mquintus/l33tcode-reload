@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-04-12 | [42](https://www.leetcode.com/problems/trapping-rain-water/) | [Trapping Rain Water](./Daily_Challenge/42_Trapping_Rain_Water.md) | [Python](./Daily_Challenge/42_Trapping_Rain_Water.py) | Hard |
 | 2024-04-11 | [402](https://www.leetcode.com/problems/remove-k-digits/) | [Remove K Digits](./Daily_Challenge/402_Remove_K_Digits.md) | [Python](./Daily_Challenge/402_Remove_K_Digits.py) | Medium |
 | 2024-04-10 | [950](https://www.leetcode.com/problems/reveal-cards-in-increasing-order/) | [Reveal Cards In Increasing Order](./Daily_Challenge/950_Reveal_Cards_In_Increasing_Order.md) | [Python](./Daily_Challenge/950_Reveal_Cards_In_Increasing_Order.py) | Medium |
 | 2024-04-09 | [2073](https://www.leetcode.com/problems/time-needed-to-buy-tickets/) | [Time Needed to Buy Tickets](./Daily_Challenge/2073_Time_Needed_to_Buy_Tickets.md) | [Python](./Daily_Challenge/2073_Time_Needed_to_Buy_Tickets.py) | Easy |
