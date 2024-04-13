@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-04-13 | [85](https://www.leetcode.com/problems/maximal-rectangle/) | [Maximal Rectangle](./Daily_Challenge/85_Maximal_Rectangle.md) | [Python](./Daily_Challenge/85_Maximal_Rectangle.py) | Hard |
 | 2024-04-12 | [42](https://www.leetcode.com/problems/trapping-rain-water/) | [Trapping Rain Water](./Daily_Challenge/42_Trapping_Rain_Water.md) | [Python](./Daily_Challenge/42_Trapping_Rain_Water.py) | Hard |
 | 2024-04-11 | [402](https://www.leetcode.com/problems/remove-k-digits/) | [Remove K Digits](./Daily_Challenge/402_Remove_K_Digits.md) | [Python](./Daily_Challenge/402_Remove_K_Digits.py) | Medium |
 | 2024-04-10 | [950](https://www.leetcode.com/problems/reveal-cards-in-increasing-order/) | [Reveal Cards In Increasing Order](./Daily_Challenge/950_Reveal_Cards_In_Increasing_Order.md) | [Python](./Daily_Challenge/950_Reveal_Cards_In_Increasing_Order.py) | Medium |
