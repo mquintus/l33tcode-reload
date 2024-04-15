@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-04-15 | [129](https://www.leetcode.com/problems/sum-root-to-leaf-numbers/) | [Sum Root to Leaf Numbers](./Daily_Challenge/129_Sum_Root_to_Leaf_Numbers.md) | [Python](./Daily_Challenge/129_Sum_Root_to_Leaf_Numbers.py) | Medium |
 | 2024-04-14 | [404](https://www.leetcode.com/problems/sum-of-left-leaves/) | [Sum of Left Leaves](./Daily_Challenge/404_Sum_of_Left_Leaves.md) | [Python](./Daily_Challenge/404_Sum_of_Left_Leaves.py) | Easy |
 | 2024-04-13 | [85](https://www.leetcode.com/problems/maximal-rectangle/) | [Maximal Rectangle](./Daily_Challenge/85_Maximal_Rectangle.md) | [Python](./Daily_Challenge/85_Maximal_Rectangle.py) | Hard |
 | 2024-04-12 | [42](https://www.leetcode.com/problems/trapping-rain-water/) | [Trapping Rain Water](./Daily_Challenge/42_Trapping_Rain_Water.md) | [Python](./Daily_Challenge/42_Trapping_Rain_Water.py) | Hard |
