@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-04-18 | [463](https://www.leetcode.com/problems/island-perimeter/) | [Island Perimeter](./Daily_Challenge/463_Island_Perimeter.md) | [Python](./Daily_Challenge/463_Island_Perimeter.py) | Easy |
 | 2024-04-17 | [988](https://www.leetcode.com/problems/smallest-string-starting-from-leaf/) | [Smallest String Starting From Leaf](./Daily_Challenge/988_Smallest_String_Starting_From_Leaf.md) | [Python](./Daily_Challenge/988_Smallest_String_Starting_From_Leaf.py) | Medium |
 | 2024-04-16 | [623](https://www.leetcode.com/problems/add-one-row-to-tree/) | [Add One Row to Tree](./Daily_Challenge/623_Add_One_Row_to_Tree.md) | [Python](./Daily_Challenge/623_Add_One_Row_to_Tree.py) | Medium |
 | 2024-04-15 | [129](https://www.leetcode.com/problems/sum-root-to-leaf-numbers/) | [Sum Root to Leaf Numbers](./Daily_Challenge/129_Sum_Root_to_Leaf_Numbers.md) | [Python](./Daily_Challenge/129_Sum_Root_to_Leaf_Numbers.py) | Medium |
