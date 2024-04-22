@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-04-22 | [752](https://www.leetcode.com/problems/open-the-lock/) | [Open the Lock](./Daily_Challenge/752_Open_the_Lock.md) | [Python](./Daily_Challenge/752_Open_the_Lock.py) | Medium |
 | 2024-04-21 | [1971](https://www.leetcode.com/problems/find-if-path-exists-in-graph/) | [Find if Path Exists in Graph](./Daily_Challenge/1971_Find_if_Path_Exists_in_Graph.md) | [Python](./Daily_Challenge/1971_Find_if_Path_Exists_in_Graph.py) | Easy |
 | 2024-04-20 | [1992](https://www.leetcode.com/problems/find-all-groups-of-farmland/) | [Find All Groups of Farmland](./Daily_Challenge/1992_Find_All_Groups_of_Farmland.md) | [Python](./Daily_Challenge/1992_Find_All_Groups_of_Farmland.py) | Medium |
 | 2024-04-19 | [200](https://www.leetcode.com/problems/number-of-islands/) | [Number of Islands](./Daily_Challenge/200_Number_of_Islands.md) | [Python](./Daily_Challenge/200_Number_of_Islands.py) | Medium |
