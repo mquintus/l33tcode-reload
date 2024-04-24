@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-04-24 | [1137](https://www.leetcode.com/problems/n-th-tribonacci-number/) | [N-th Tribonacci Number](./Daily_Challenge/1137_N-th_Tribonacci_Number.md) | [Python](./Daily_Challenge/1137_N-th_Tribonacci_Number.py) | Easy |
 | 2024-04-23 | [310](https://www.leetcode.com/problems/minimum-height-trees/) | [Minimum Height Trees](./Daily_Challenge/310_Minimum_Height_Trees.md) | [Python](./Daily_Challenge/310_Minimum_Height_Trees.py) | Medium |
 | 2024-04-22 | [752](https://www.leetcode.com/problems/open-the-lock/) | [Open the Lock](./Daily_Challenge/752_Open_the_Lock.md) | [Python](./Daily_Challenge/752_Open_the_Lock.py) | Medium |
 | 2024-04-21 | [1971](https://www.leetcode.com/problems/find-if-path-exists-in-graph/) | [Find if Path Exists in Graph](./Daily_Challenge/1971_Find_if_Path_Exists_in_Graph.md) | [Python](./Daily_Challenge/1971_Find_if_Path_Exists_in_Graph.py) | Easy |
