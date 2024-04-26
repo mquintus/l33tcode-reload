@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-04-26 | [1289](https://www.leetcode.com/problems/minimum-falling-path-sum-ii/) | [Minimum Falling Path Sum II](./Daily_Challenge/1289_Minimum_Falling_Path_Sum_II.md) | [Python](./Daily_Challenge/1289_Minimum_Falling_Path_Sum_II.py) | Hard |
 | 2024-04-25 | [2370](https://www.leetcode.com/problems/longest-ideal-subsequence/) | [Longest Ideal Subsequence](./Daily_Challenge/2370_Longest_Ideal_Subsequence.md) | [Python](./Daily_Challenge/2370_Longest_Ideal_Subsequence.py) | Medium |
 | 2024-04-24 | [1137](https://www.leetcode.com/problems/n-th-tribonacci-number/) | [N-th Tribonacci Number](./Daily_Challenge/1137_N-th_Tribonacci_Number.md) | [Python](./Daily_Challenge/1137_N-th_Tribonacci_Number.py) | Easy |
 | 2024-04-23 | [310](https://www.leetcode.com/problems/minimum-height-trees/) | [Minimum Height Trees](./Daily_Challenge/310_Minimum_Height_Trees.md) | [Python](./Daily_Challenge/310_Minimum_Height_Trees.py) | Medium |
