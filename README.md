@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-04-28 | [834](https://www.leetcode.com/problems/sum-of-distances-in-tree/) | [Sum of Distances in Tree](./Daily_Challenge/834_Sum_of_Distances_in_Tree.md) | [Python](./Daily_Challenge/834_Sum_of_Distances_in_Tree.py) | Hard |
 | 2024-04-27 | [514](https://www.leetcode.com/problems/freedom-trail/) | [Freedom Trail](./Daily_Challenge/514_Freedom_Trail.md) | [Python](./Daily_Challenge/514_Freedom_Trail.py) | Hard |
 | 2024-04-26 | [1289](https://www.leetcode.com/problems/minimum-falling-path-sum-ii/) | [Minimum Falling Path Sum II](./Daily_Challenge/1289_Minimum_Falling_Path_Sum_II.md) | [Python](./Daily_Challenge/1289_Minimum_Falling_Path_Sum_II.py) | Hard |
 | 2024-04-25 | [2370](https://www.leetcode.com/problems/longest-ideal-subsequence/) | [Longest Ideal Subsequence](./Daily_Challenge/2370_Longest_Ideal_Subsequence.md) | [Python](./Daily_Challenge/2370_Longest_Ideal_Subsequence.py) | Medium |
