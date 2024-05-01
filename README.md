@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-05-01 | [2000](https://www.leetcode.com/problems/reverse-prefix-of-word/) | [Reverse Prefix of Word](./Daily_Challenge/2000_Reverse_Prefix_of_Word.md) | [Python](./Daily_Challenge/2000_Reverse_Prefix_of_Word.py) | Easy |
 | 2024-04-30 | [1915](https://www.leetcode.com/problems/number-of-wonderful-substrings/) | [Number of Wonderful Substrings](./Daily_Challenge/1915_Number_of_Wonderful_Substrings.md) | [Python](./Daily_Challenge/1915_Number_of_Wonderful_Substrings.py) | Medium |
 | 2024-04-29 | [2997](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | [Minimum Number of Operations to Make Array XOR Equal to K](./Daily_Challenge/2997_Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.md) | [Python](./Daily_Challenge/2997_Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.py) | Medium |
 | 2024-04-28 | [834](https://www.leetcode.com/problems/sum-of-distances-in-tree/) | [Sum of Distances in Tree](./Daily_Challenge/834_Sum_of_Distances_in_Tree.md) | [Python](./Daily_Challenge/834_Sum_of_Distances_in_Tree.py) | Hard |
