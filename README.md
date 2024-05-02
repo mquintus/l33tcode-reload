@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-05-02 | [2441](https://www.leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [Largest Positive Integer That Exists With Its Negative](./Daily_Challenge/2441_Largest_Positive_Integer_That_Exists_With_Its_Negative.md) | [Python](./Daily_Challenge/2441_Largest_Positive_Integer_That_Exists_With_Its_Negative.py) | Easy |
 | 2024-05-01 | [2000](https://www.leetcode.com/problems/reverse-prefix-of-word/) | [Reverse Prefix of Word](./Daily_Challenge/2000_Reverse_Prefix_of_Word.md) | [Python](./Daily_Challenge/2000_Reverse_Prefix_of_Word.py) | Easy |
 | 2024-04-30 | [1915](https://www.leetcode.com/problems/number-of-wonderful-substrings/) | [Number of Wonderful Substrings](./Daily_Challenge/1915_Number_of_Wonderful_Substrings.md) | [Python](./Daily_Challenge/1915_Number_of_Wonderful_Substrings.py) | Medium |
 | 2024-04-29 | [2997](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | [Minimum Number of Operations to Make Array XOR Equal to K](./Daily_Challenge/2997_Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.md) | [Python](./Daily_Challenge/2997_Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.py) | Medium |
