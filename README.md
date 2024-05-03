@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-05-03 | [165](https://www.leetcode.com/problems/compare-version-numbers/) | [Compare Version Numbers](./Daily_Challenge/165_Compare_Version_Numbers.md) | [Python](./Daily_Challenge/165_Compare_Version_Numbers.py) | Medium |
 | 2024-05-02 | [2441](https://www.leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [Largest Positive Integer That Exists With Its Negative](./Daily_Challenge/2441_Largest_Positive_Integer_That_Exists_With_Its_Negative.md) | [Python](./Daily_Challenge/2441_Largest_Positive_Integer_That_Exists_With_Its_Negative.py) | Easy |
 | 2024-05-01 | [2000](https://www.leetcode.com/problems/reverse-prefix-of-word/) | [Reverse Prefix of Word](./Daily_Challenge/2000_Reverse_Prefix_of_Word.md) | [Python](./Daily_Challenge/2000_Reverse_Prefix_of_Word.py) | Easy |
 | 2024-04-30 | [1915](https://www.leetcode.com/problems/number-of-wonderful-substrings/) | [Number of Wonderful Substrings](./Daily_Challenge/1915_Number_of_Wonderful_Substrings.md) | [Python](./Daily_Challenge/1915_Number_of_Wonderful_Substrings.py) | Medium |
