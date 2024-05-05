@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-05-05 | [237](https://www.leetcode.com/problems/delete-node-in-a-linked-list/) | [Delete Node in a Linked List](./Daily_Challenge/237_Delete_Node_in_a_Linked_List.md) | [Python](./Daily_Challenge/237_Delete_Node_in_a_Linked_List.py) | Medium |
 | 2024-05-04 | [881](https://www.leetcode.com/problems/boats-to-save-people/) | [Boats to Save People](./Daily_Challenge/881_Boats_to_Save_People.md) | [Python](./Daily_Challenge/881_Boats_to_Save_People.py) | Medium |
 | 2024-05-03 | [165](https://www.leetcode.com/problems/compare-version-numbers/) | [Compare Version Numbers](./Daily_Challenge/165_Compare_Version_Numbers.md) | [Python](./Daily_Challenge/165_Compare_Version_Numbers.py) | Medium |
 | 2024-05-02 | [2441](https://www.leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [Largest Positive Integer That Exists With Its Negative](./Daily_Challenge/2441_Largest_Positive_Integer_That_Exists_With_Its_Negative.md) | [Python](./Daily_Challenge/2441_Largest_Positive_Integer_That_Exists_With_Its_Negative.py) | Easy |
