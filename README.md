@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-05-09 | [3075](https://www.leetcode.com/problems/maximize-happiness-of-selected-children/) | [Maximize Happiness of Selected Children](./Daily_Challenge/3075_Maximize_Happiness_of_Selected_Children.md) | [Python](./Daily_Challenge/3075_Maximize_Happiness_of_Selected_Children.py) | Medium |
 | 2024-05-08 | [506](https://www.leetcode.com/problems/relative-ranks/) | [Relative Ranks](./Daily_Challenge/506_Relative_Ranks.md) | [Python](./Daily_Challenge/506_Relative_Ranks.py) | Easy |
 | 2024-05-07 | [2816](https://www.leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | [Double a Number Represented as a Linked List](./Daily_Challenge/2816_Double_a_Number_Represented_as_a_Linked_List.md) | [Python](./Daily_Challenge/2816_Double_a_Number_Represented_as_a_Linked_List.py) | Medium |
 | 2024-05-06 | [2487](https://www.leetcode.com/problems/remove-nodes-from-linked-list/) | [Remove Nodes From Linked List](./Daily_Challenge/2487_Remove_Nodes_From_Linked_List.md) | [Python](./Daily_Challenge/2487_Remove_Nodes_From_Linked_List.py) | Medium |
