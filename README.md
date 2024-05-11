@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-05-11 | [857](https://www.leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Minimum Cost to Hire K Workers](./Daily_Challenge/857_Minimum_Cost_to_Hire_K_Workers.md) | [Python](./Daily_Challenge/857_Minimum_Cost_to_Hire_K_Workers.py) | Hard |
 | 2024-05-10 | [786](https://www.leetcode.com/problems/k-th-smallest-prime-fraction/) | [K-th Smallest Prime Fraction](./Daily_Challenge/786_K-th_Smallest_Prime_Fraction.md) | [Python](./Daily_Challenge/786_K-th_Smallest_Prime_Fraction.py) | Medium |
 | 2024-05-09 | [3075](https://www.leetcode.com/problems/maximize-happiness-of-selected-children/) | [Maximize Happiness of Selected Children](./Daily_Challenge/3075_Maximize_Happiness_of_Selected_Children.md) | [Python](./Daily_Challenge/3075_Maximize_Happiness_of_Selected_Children.py) | Medium |
 | 2024-05-08 | [506](https://www.leetcode.com/problems/relative-ranks/) | [Relative Ranks](./Daily_Challenge/506_Relative_Ranks.md) | [Python](./Daily_Challenge/506_Relative_Ranks.py) | Easy |
