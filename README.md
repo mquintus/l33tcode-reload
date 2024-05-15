@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-05-15 | [2812](https://www.leetcode.com/problems/find-the-safest-path-in-a-grid/) | [Find the Safest Path in a Grid](./Daily_Challenge/2812_Find_the_Safest_Path_in_a_Grid.md) | [Python](./Daily_Challenge/2812_Find_the_Safest_Path_in_a_Grid.py) | Medium |
 | 2024-05-14 | [1219](https://www.leetcode.com/problems/path-with-maximum-gold/) | [Path with Maximum Gold](./Daily_Challenge/1219_Path_with_Maximum_Gold.md) | [Python](./Daily_Challenge/1219_Path_with_Maximum_Gold.py) | Medium |
 | 2024-05-13 | [861](https://www.leetcode.com/problems/score-after-flipping-matrix/) | [Score After Flipping Matrix](./Daily_Challenge/861_Score_After_Flipping_Matrix.md) | [Python](./Daily_Challenge/861_Score_After_Flipping_Matrix.py) | Medium |
 | 2024-05-12 | [2373](https://www.leetcode.com/problems/largest-local-values-in-a-matrix/) | [Largest Local Values in a Matrix](./Daily_Challenge/2373_Largest_Local_Values_in_a_Matrix.md) | [Python](./Daily_Challenge/2373_Largest_Local_Values_in_a_Matrix.py) | Easy |
