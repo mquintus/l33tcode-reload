@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-05-18 | [979](https://www.leetcode.com/problems/distribute-coins-in-binary-tree/) | [Distribute Coins in Binary Tree](./Daily_Challenge/979_Distribute_Coins_in_Binary_Tree.md) | [Python](./Daily_Challenge/979_Distribute_Coins_in_Binary_Tree.py) | Medium |
 | 2024-05-17 | [1325](https://www.leetcode.com/problems/delete-leaves-with-a-given-value/) | [Delete Leaves With a Given Value](./Daily_Challenge/1325_Delete_Leaves_With_a_Given_Value.md) | [Python](./Daily_Challenge/1325_Delete_Leaves_With_a_Given_Value.py) | Medium |
 | 2024-05-16 | [2331](https://www.leetcode.com/problems/evaluate-boolean-binary-tree/) | [Evaluate Boolean Binary Tree](./Daily_Challenge/2331_Evaluate_Boolean_Binary_Tree.md) | [Python](./Daily_Challenge/2331_Evaluate_Boolean_Binary_Tree.py) | Easy |
 | 2024-05-15 | [2812](https://www.leetcode.com/problems/find-the-safest-path-in-a-grid/) | [Find the Safest Path in a Grid](./Daily_Challenge/2812_Find_the_Safest_Path_in_a_Grid.md) | [Python](./Daily_Challenge/2812_Find_the_Safest_Path_in_a_Grid.py) | Medium |
