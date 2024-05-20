@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-05-20 | [1863](https://www.leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Sum of All Subset XOR Totals](./Daily_Challenge/1863_Sum_of_All_Subset_XOR_Totals.md) | [Python](./Daily_Challenge/1863_Sum_of_All_Subset_XOR_Totals.py) | Easy |
 | 2024-05-19 | [3068](https://www.leetcode.com/problems/find-the-maximum-sum-of-node-values/) | [Find the Maximum Sum of Node Values](./Daily_Challenge/3068_Find_the_Maximum_Sum_of_Node_Values.md) | [Python](./Daily_Challenge/3068_Find_the_Maximum_Sum_of_Node_Values.py) | Hard |
 | 2024-05-18 | [979](https://www.leetcode.com/problems/distribute-coins-in-binary-tree/) | [Distribute Coins in Binary Tree](./Daily_Challenge/979_Distribute_Coins_in_Binary_Tree.md) | [Python](./Daily_Challenge/979_Distribute_Coins_in_Binary_Tree.py) | Medium |
 | 2024-05-17 | [1325](https://www.leetcode.com/problems/delete-leaves-with-a-given-value/) | [Delete Leaves With a Given Value](./Daily_Challenge/1325_Delete_Leaves_With_a_Given_Value.md) | [Python](./Daily_Challenge/1325_Delete_Leaves_With_a_Given_Value.py) | Medium |
