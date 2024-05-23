@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-05-23 | [2597](https://www.leetcode.com/problems/the-number-of-beautiful-subsets/) | [The Number of Beautiful Subsets](./Daily_Challenge/2597_The_Number_of_Beautiful_Subsets.md) | [Python](./Daily_Challenge/2597_The_Number_of_Beautiful_Subsets.py) | Medium |
 | 2024-05-22 | [131](https://www.leetcode.com/problems/palindrome-partitioning/) | [Palindrome Partitioning](./Daily_Challenge/131_Palindrome_Partitioning.md) | [Python](./Daily_Challenge/131_Palindrome_Partitioning.py) | Medium |
 | 2024-05-21 | [78](https://www.leetcode.com/problems/subsets/) | [Subsets](./Daily_Challenge/78_Subsets.md) | [Python](./Daily_Challenge/78_Subsets.py) | Medium |
 | 2024-05-20 | [1863](https://www.leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Sum of All Subset XOR Totals](./Daily_Challenge/1863_Sum_of_All_Subset_XOR_Totals.md) | [Python](./Daily_Challenge/1863_Sum_of_All_Subset_XOR_Totals.py) | Easy |
