@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-05-26 | [552](https://www.leetcode.com/problems/student-attendance-record-ii/) | [Student Attendance Record II](./Daily_Challenge/552_Student_Attendance_Record_II.md) | [Python](./Daily_Challenge/552_Student_Attendance_Record_II.py) | Hard |
 | 2024-05-25 | [140](https://www.leetcode.com/problems/word-break-ii/) | [Word Break II](./Daily_Challenge/140_Word_Break_II.md) | [Python](./Daily_Challenge/140_Word_Break_II.py) | Hard |
 | 2024-05-24 | [1255](https://www.leetcode.com/problems/maximum-score-words-formed-by-letters/) | [Maximum Score Words Formed by Letters](./Daily_Challenge/1255_Maximum_Score_Words_Formed_by_Letters.md) | [Python](./Daily_Challenge/1255_Maximum_Score_Words_Formed_by_Letters.py) | Hard |
 | 2024-05-23 | [2597](https://www.leetcode.com/problems/the-number-of-beautiful-subsets/) | [The Number of Beautiful Subsets](./Daily_Challenge/2597_The_Number_of_Beautiful_Subsets.md) | [Python](./Daily_Challenge/2597_The_Number_of_Beautiful_Subsets.py) | Medium |
