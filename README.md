@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-05-28 | [1208](https://www.leetcode.com/problems/get-equal-substrings-within-budget/) | [Get Equal Substrings Within Budget](./Daily_Challenge/1208_Get_Equal_Substrings_Within_Budget.md) | [Python](./Daily_Challenge/1208_Get_Equal_Substrings_Within_Budget.py) | Medium |
 | 2024-05-27 | [1608](https://www.leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Special Array With X Elements Greater Than or Equal X](./Daily_Challenge/1608_Special_Array_With_X_Elements_Greater_Than_or_Equal_X.md) | [Python](./Daily_Challenge/1608_Special_Array_With_X_Elements_Greater_Than_or_Equal_X.py) | Easy |
 | 2024-05-26 | [552](https://www.leetcode.com/problems/student-attendance-record-ii/) | [Student Attendance Record II](./Daily_Challenge/552_Student_Attendance_Record_II.md) | [Python](./Daily_Challenge/552_Student_Attendance_Record_II.py) | Hard |
 | 2024-05-25 | [140](https://www.leetcode.com/problems/word-break-ii/) | [Word Break II](./Daily_Challenge/140_Word_Break_II.md) | [Python](./Daily_Challenge/140_Word_Break_II.py) | Hard |
