@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-05-30 | [1442](https://www.leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [Count Triplets That Can Form Two Arrays of Equal XOR](./Daily_Challenge/1442_Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR.md) | [Python](./Daily_Challenge/1442_Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR.py) | Medium |
 | 2024-05-29 | [1404](https://www.leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Number of Steps to Reduce a Number in Binary Representation to One](./Daily_Challenge/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One.md) | [Python](./Daily_Challenge/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One.py) | Medium |
 | 2024-05-28 | [1208](https://www.leetcode.com/problems/get-equal-substrings-within-budget/) | [Get Equal Substrings Within Budget](./Daily_Challenge/1208_Get_Equal_Substrings_Within_Budget.md) | [Python](./Daily_Challenge/1208_Get_Equal_Substrings_Within_Budget.py) | Medium |
 | 2024-05-27 | [1608](https://www.leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Special Array With X Elements Greater Than or Equal X](./Daily_Challenge/1608_Special_Array_With_X_Elements_Greater_Than_or_Equal_X.md) | [Python](./Daily_Challenge/1608_Special_Array_With_X_Elements_Greater_Than_or_Equal_X.py) | Easy |
