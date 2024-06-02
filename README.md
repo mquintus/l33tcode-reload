@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-06-02 | [344](https://www.leetcode.com/problems/reverse-string/) | [Reverse String](./Daily_Challenge/344_Reverse_String.md) | [Python](./Daily_Challenge/344_Reverse_String.py) | Easy |
 | 2024-06-01 | [3110](https://www.leetcode.com/problems/score-of-a-string/) | [Score of a String](./Daily_Challenge/3110_Score_of_a_String.md) | [Python](./Daily_Challenge/3110_Score_of_a_String.py) | Easy |
 | 2024-05-31 | [260](https://www.leetcode.com/problems/single-number-iii/) | [Single Number III](./Daily_Challenge/260_Single_Number_III.md) | [Python](./Daily_Challenge/260_Single_Number_III.py) | Medium |
 | 2024-05-30 | [1442](https://www.leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [Count Triplets That Can Form Two Arrays of Equal XOR](./Daily_Challenge/1442_Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR.md) | [Python](./Daily_Challenge/1442_Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR.py) | Medium |
