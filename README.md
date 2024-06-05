@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-06-05 | [1002](https://www.leetcode.com/problems/find-common-characters/) | [Find Common Characters](./Daily_Challenge/1002_Find_Common_Characters.md) | [Python](./Daily_Challenge/1002_Find_Common_Characters.py) | Easy |
 | 2024-06-04 | [409](https://www.leetcode.com/problems/longest-palindrome/) | [Longest Palindrome](./Daily_Challenge/409_Longest_Palindrome.md) | [Python](./Daily_Challenge/409_Longest_Palindrome.py) | Easy |
 | 2024-06-03 | [2486](https://www.leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | [Append Characters to String to Make Subsequence](./Daily_Challenge/2486_Append_Characters_to_String_to_Make_Subsequence.md) | [Python](./Daily_Challenge/2486_Append_Characters_to_String_to_Make_Subsequence.py) | Medium |
 | 2024-06-02 | [344](https://www.leetcode.com/problems/reverse-string/) | [Reverse String](./Daily_Challenge/344_Reverse_String.md) | [Python](./Daily_Challenge/344_Reverse_String.py) | Easy |
