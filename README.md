@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-06-08 | [523](https://www.leetcode.com/problems/continuous-subarray-sum/) | [Continuous Subarray Sum](./Daily_Challenge/523_Continuous_Subarray_Sum.md) | [Python](./Daily_Challenge/523_Continuous_Subarray_Sum.py) | Medium |
 | 2024-06-07 | [648](https://www.leetcode.com/problems/replace-words/) | [Replace Words](./Daily_Challenge/648_Replace_Words.md) | [Python](./Daily_Challenge/648_Replace_Words.py) | Medium |
 | 2024-06-06 | [846](https://www.leetcode.com/problems/hand-of-straights/) | [Hand of Straights](./Daily_Challenge/846_Hand_of_Straights.md) | [Python](./Daily_Challenge/846_Hand_of_Straights.py) | Medium |
 | 2024-06-05 | [1002](https://www.leetcode.com/problems/find-common-characters/) | [Find Common Characters](./Daily_Challenge/1002_Find_Common_Characters.md) | [Python](./Daily_Challenge/1002_Find_Common_Characters.py) | Easy |
