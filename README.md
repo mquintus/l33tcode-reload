@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-06-10 | [1051](https://www.leetcode.com/problems/height-checker/) | [Height Checker](./Daily_Challenge/1051_Height_Checker.md) | [Python](./Daily_Challenge/1051_Height_Checker.py) | Easy |
 | 2024-06-09 | [974](https://www.leetcode.com/problems/subarray-sums-divisible-by-k/) | [Subarray Sums Divisible by K](./Daily_Challenge/974_Subarray_Sums_Divisible_by_K.md) | [Python](./Daily_Challenge/974_Subarray_Sums_Divisible_by_K.py) | Medium |
 | 2024-06-08 | [523](https://www.leetcode.com/problems/continuous-subarray-sum/) | [Continuous Subarray Sum](./Daily_Challenge/523_Continuous_Subarray_Sum.md) | [Python](./Daily_Challenge/523_Continuous_Subarray_Sum.py) | Medium |
 | 2024-06-07 | [648](https://www.leetcode.com/problems/replace-words/) | [Replace Words](./Daily_Challenge/648_Replace_Words.md) | [Python](./Daily_Challenge/648_Replace_Words.py) | Medium |
