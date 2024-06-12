@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-06-12 | [75](https://www.leetcode.com/problems/sort-colors/) | [Sort Colors](./Daily_Challenge/75_Sort_Colors.md) | [Python](./Daily_Challenge/75_Sort_Colors.py) | Medium |
 | 2024-06-11 | [1122](https://www.leetcode.com/problems/relative-sort-array/) | [Relative Sort Array](./Daily_Challenge/1122_Relative_Sort_Array.md) | [Python](./Daily_Challenge/1122_Relative_Sort_Array.py) | Easy |
 | 2024-06-10 | [1051](https://www.leetcode.com/problems/height-checker/) | [Height Checker](./Daily_Challenge/1051_Height_Checker.md) | [Python](./Daily_Challenge/1051_Height_Checker.py) | Easy |
 | 2024-06-09 | [974](https://www.leetcode.com/problems/subarray-sums-divisible-by-k/) | [Subarray Sums Divisible by K](./Daily_Challenge/974_Subarray_Sums_Divisible_by_K.md) | [Python](./Daily_Challenge/974_Subarray_Sums_Divisible_by_K.py) | Medium |
