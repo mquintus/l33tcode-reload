@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-06-14 | [945](https://www.leetcode.com/problems/minimum-increment-to-make-array-unique/) | [Minimum Increment to Make Array Unique](./Daily_Challenge/945_Minimum_Increment_to_Make_Array_Unique.md) | [Python](./Daily_Challenge/945_Minimum_Increment_to_Make_Array_Unique.py) | Medium |
 | 2024-06-13 | [2037](https://www.leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Minimum Number of Moves to Seat Everyone](./Daily_Challenge/2037_Minimum_Number_of_Moves_to_Seat_Everyone.md) | [Python](./Daily_Challenge/2037_Minimum_Number_of_Moves_to_Seat_Everyone.py) | Easy |
 | 2024-06-12 | [75](https://www.leetcode.com/problems/sort-colors/) | [Sort Colors](./Daily_Challenge/75_Sort_Colors.md) | [Python](./Daily_Challenge/75_Sort_Colors.py) | Medium |
 | 2024-06-11 | [1122](https://www.leetcode.com/problems/relative-sort-array/) | [Relative Sort Array](./Daily_Challenge/1122_Relative_Sort_Array.md) | [Python](./Daily_Challenge/1122_Relative_Sort_Array.py) | Easy |
