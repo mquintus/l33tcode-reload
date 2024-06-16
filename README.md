@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-06-16 | [330](https://www.leetcode.com/problems/patching-array/) | [Patching Array](./Daily_Challenge/330_Patching_Array.md) | [Python](./Daily_Challenge/330_Patching_Array.py) | Hard |
 | 2024-06-15 | [502](https://www.leetcode.com/problems/ipo/) | [IPO](./Daily_Challenge/502_IPO.md) | [Python](./Daily_Challenge/502_IPO.py) | Hard |
 | 2024-06-14 | [945](https://www.leetcode.com/problems/minimum-increment-to-make-array-unique/) | [Minimum Increment to Make Array Unique](./Daily_Challenge/945_Minimum_Increment_to_Make_Array_Unique.md) | [Python](./Daily_Challenge/945_Minimum_Increment_to_Make_Array_Unique.py) | Medium |
 | 2024-06-13 | [2037](https://www.leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Minimum Number of Moves to Seat Everyone](./Daily_Challenge/2037_Minimum_Number_of_Moves_to_Seat_Everyone.md) | [Python](./Daily_Challenge/2037_Minimum_Number_of_Moves_to_Seat_Everyone.py) | Easy |
