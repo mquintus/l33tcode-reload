@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-06-21 | [1052](https://www.leetcode.com/problems/grumpy-bookstore-owner/) | [Grumpy Bookstore Owner](./Daily_Challenge/1052_Grumpy_Bookstore_Owner.md) | [Python](./Daily_Challenge/1052_Grumpy_Bookstore_Owner.py) | Medium |
 | 2024-06-20 | [1552](https://www.leetcode.com/problems/magnetic-force-between-two-balls/) | [Magnetic Force Between Two Balls](./Daily_Challenge/1552_Magnetic_Force_Between_Two_Balls.md) | [Python](./Daily_Challenge/1552_Magnetic_Force_Between_Two_Balls.py) | Medium |
 | 2024-06-19 | [1482](https://www.leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Minimum Number of Days to Make m Bouquets](./Daily_Challenge/1482_Minimum_Number_of_Days_to_Make_m_Bouquets.md) | [Python](./Daily_Challenge/1482_Minimum_Number_of_Days_to_Make_m_Bouquets.py) | Medium |
 | 2024-06-18 | [826](https://www.leetcode.com/problems/most-profit-assigning-work/) | [Most Profit Assigning Work](./Daily_Challenge/826_Most_Profit_Assigning_Work.md) | [Python](./Daily_Challenge/826_Most_Profit_Assigning_Work.py) | Medium |
