@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-06-23 | [1438](https://www.leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./Daily_Challenge/1438_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit.md) | [Python](./Daily_Challenge/1438_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit.py) | Medium |
 | 2024-06-22 | [1248](https://www.leetcode.com/problems/count-number-of-nice-subarrays/) | [Count Number of Nice Subarrays](./Daily_Challenge/1248_Count_Number_of_Nice_Subarrays.md) | [Python](./Daily_Challenge/1248_Count_Number_of_Nice_Subarrays.py) | Medium |
 | 2024-06-21 | [1052](https://www.leetcode.com/problems/grumpy-bookstore-owner/) | [Grumpy Bookstore Owner](./Daily_Challenge/1052_Grumpy_Bookstore_Owner.md) | [Python](./Daily_Challenge/1052_Grumpy_Bookstore_Owner.py) | Medium |
 | 2024-06-20 | [1552](https://www.leetcode.com/problems/magnetic-force-between-two-balls/) | [Magnetic Force Between Two Balls](./Daily_Challenge/1552_Magnetic_Force_Between_Two_Balls.md) | [Python](./Daily_Challenge/1552_Magnetic_Force_Between_Two_Balls.py) | Medium |
