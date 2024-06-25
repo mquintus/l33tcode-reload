@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-06-25 | [1038](https://www.leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Binary Search Tree to Greater Sum Tree](./Daily_Challenge/1038_Binary_Search_Tree_to_Greater_Sum_Tree.md) | [Python](./Daily_Challenge/1038_Binary_Search_Tree_to_Greater_Sum_Tree.py) | Medium |
 | 2024-06-24 | [995](https://www.leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Minimum Number of K Consecutive Bit Flips](./Daily_Challenge/995_Minimum_Number_of_K_Consecutive_Bit_Flips.md) | [Python](./Daily_Challenge/995_Minimum_Number_of_K_Consecutive_Bit_Flips.py) | Hard |
 | 2024-06-23 | [1438](https://www.leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./Daily_Challenge/1438_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit.md) | [Python](./Daily_Challenge/1438_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit.py) | Medium |
 | 2024-06-22 | [1248](https://www.leetcode.com/problems/count-number-of-nice-subarrays/) | [Count Number of Nice Subarrays](./Daily_Challenge/1248_Count_Number_of_Nice_Subarrays.md) | [Python](./Daily_Challenge/1248_Count_Number_of_Nice_Subarrays.py) | Medium |
