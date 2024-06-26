@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-06-26 | [1382](https://www.leetcode.com/problems/balance-a-binary-search-tree/) | [Balance a Binary Search Tree](./Daily_Challenge/1382_Balance_a_Binary_Search_Tree.md) | [Python](./Daily_Challenge/1382_Balance_a_Binary_Search_Tree.py) | Medium |
 | 2024-06-25 | [1038](https://www.leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Binary Search Tree to Greater Sum Tree](./Daily_Challenge/1038_Binary_Search_Tree_to_Greater_Sum_Tree.md) | [Python](./Daily_Challenge/1038_Binary_Search_Tree_to_Greater_Sum_Tree.py) | Medium |
 | 2024-06-24 | [995](https://www.leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Minimum Number of K Consecutive Bit Flips](./Daily_Challenge/995_Minimum_Number_of_K_Consecutive_Bit_Flips.md) | [Python](./Daily_Challenge/995_Minimum_Number_of_K_Consecutive_Bit_Flips.py) | Hard |
 | 2024-06-23 | [1438](https://www.leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./Daily_Challenge/1438_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit.md) | [Python](./Daily_Challenge/1438_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit.py) | Medium |
