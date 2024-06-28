@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-06-28 | [2285](https://www.leetcode.com/problems/maximum-total-importance-of-roads/) | [Maximum Total Importance of Roads](./Daily_Challenge/2285_Maximum_Total_Importance_of_Roads.md) | [Python](./Daily_Challenge/2285_Maximum_Total_Importance_of_Roads.py) | Medium |
 | 2024-06-27 | [1791](https://www.leetcode.com/problems/find-center-of-star-graph/) | [Find Center of Star Graph](./Daily_Challenge/1791_Find_Center_of_Star_Graph.md) | [Python](./Daily_Challenge/1791_Find_Center_of_Star_Graph.py) | Easy |
 | 2024-06-26 | [1382](https://www.leetcode.com/problems/balance-a-binary-search-tree/) | [Balance a Binary Search Tree](./Daily_Challenge/1382_Balance_a_Binary_Search_Tree.md) | [Python](./Daily_Challenge/1382_Balance_a_Binary_Search_Tree.py) | Medium |
 | 2024-06-25 | [1038](https://www.leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Binary Search Tree to Greater Sum Tree](./Daily_Challenge/1038_Binary_Search_Tree_to_Greater_Sum_Tree.md) | [Python](./Daily_Challenge/1038_Binary_Search_Tree_to_Greater_Sum_Tree.py) | Medium |
