@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-06-29 | [2192](https://www.leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | [All Ancestors of a Node in a Directed Acyclic Graph](./Daily_Challenge/2192_All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph.md) | [Python](./Daily_Challenge/2192_All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph.py) | Medium |
 | 2024-06-28 | [2285](https://www.leetcode.com/problems/maximum-total-importance-of-roads/) | [Maximum Total Importance of Roads](./Daily_Challenge/2285_Maximum_Total_Importance_of_Roads.md) | [Python](./Daily_Challenge/2285_Maximum_Total_Importance_of_Roads.py) | Medium |
 | 2024-06-27 | [1791](https://www.leetcode.com/problems/find-center-of-star-graph/) | [Find Center of Star Graph](./Daily_Challenge/1791_Find_Center_of_Star_Graph.md) | [Python](./Daily_Challenge/1791_Find_Center_of_Star_Graph.py) | Easy |
 | 2024-06-26 | [1382](https://www.leetcode.com/problems/balance-a-binary-search-tree/) | [Balance a Binary Search Tree](./Daily_Challenge/1382_Balance_a_Binary_Search_Tree.md) | [Python](./Daily_Challenge/1382_Balance_a_Binary_Search_Tree.py) | Medium |
