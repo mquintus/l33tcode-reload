@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-07-02 | [350](https://www.leetcode.com/problems/intersection-of-two-arrays-ii/) | [Intersection of Two Arrays II](./Daily_Challenge/350_Intersection_of_Two_Arrays_II.md) | [Python](./Daily_Challenge/350_Intersection_of_Two_Arrays_II.py) | Easy |
 | 2024-07-01 | [1550](https://www.leetcode.com/problems/three-consecutive-odds/) | [Three Consecutive Odds](./Daily_Challenge/1550_Three_Consecutive_Odds.md) | [Python](./Daily_Challenge/1550_Three_Consecutive_Odds.py) | Easy |
 | 2024-06-30 | [1579](https://www.leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [Remove Max Number of Edges to Keep Graph Fully Traversable](./Daily_Challenge/1579_Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.md) | [Python](./Daily_Challenge/1579_Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.py) | Hard |
 | 2024-06-29 | [2192](https://www.leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | [All Ancestors of a Node in a Directed Acyclic Graph](./Daily_Challenge/2192_All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph.md) | [Python](./Daily_Challenge/2192_All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph.py) | Medium |
