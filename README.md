@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-07-03 | [1509](https://www.leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [Minimum Difference Between Largest and Smallest Value in Three Moves](./Daily_Challenge/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.md) | [Python](./Daily_Challenge/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.py) | Medium |
 | 2024-07-02 | [350](https://www.leetcode.com/problems/intersection-of-two-arrays-ii/) | [Intersection of Two Arrays II](./Daily_Challenge/350_Intersection_of_Two_Arrays_II.md) | [Python](./Daily_Challenge/350_Intersection_of_Two_Arrays_II.py) | Easy |
 | 2024-07-01 | [1550](https://www.leetcode.com/problems/three-consecutive-odds/) | [Three Consecutive Odds](./Daily_Challenge/1550_Three_Consecutive_Odds.md) | [Python](./Daily_Challenge/1550_Three_Consecutive_Odds.py) | Easy |
 | 2024-06-30 | [1579](https://www.leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [Remove Max Number of Edges to Keep Graph Fully Traversable](./Daily_Challenge/1579_Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.md) | [Python](./Daily_Challenge/1579_Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.py) | Hard |
