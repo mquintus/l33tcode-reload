@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-07-05 | [2058](https://www.leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./Daily_Challenge/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.md) | [Python](./Daily_Challenge/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.py) | Medium |
 | 2024-07-04 | [2181](https://www.leetcode.com/problems/merge-nodes-in-between-zeros/) | [Merge Nodes in Between Zeros](./Daily_Challenge/2181_Merge_Nodes_in_Between_Zeros.md) | [Python](./Daily_Challenge/2181_Merge_Nodes_in_Between_Zeros.py) | Medium |
 | 2024-07-03 | [1509](https://www.leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [Minimum Difference Between Largest and Smallest Value in Three Moves](./Daily_Challenge/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.md) | [Python](./Daily_Challenge/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.py) | Medium |
 | 2024-07-02 | [350](https://www.leetcode.com/problems/intersection-of-two-arrays-ii/) | [Intersection of Two Arrays II](./Daily_Challenge/350_Intersection_of_Two_Arrays_II.md) | [Python](./Daily_Challenge/350_Intersection_of_Two_Arrays_II.py) | Easy |
