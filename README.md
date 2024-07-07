@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-07-07 | [1518](https://www.leetcode.com/problems/water-bottles/) | [Water Bottles](./Daily_Challenge/1518_Water_Bottles.md) | [Python](./Daily_Challenge/1518_Water_Bottles.py) | Easy |
 | 2024-07-06 | [2582](https://www.leetcode.com/problems/pass-the-pillow/) | [Pass the Pillow](./Daily_Challenge/2582_Pass_the_Pillow.md) | [Python](./Daily_Challenge/2582_Pass_the_Pillow.py) | Easy |
 | 2024-07-05 | [2058](https://www.leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./Daily_Challenge/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.md) | [Python](./Daily_Challenge/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.py) | Medium |
 | 2024-07-04 | [2181](https://www.leetcode.com/problems/merge-nodes-in-between-zeros/) | [Merge Nodes in Between Zeros](./Daily_Challenge/2181_Merge_Nodes_in_Between_Zeros.md) | [Python](./Daily_Challenge/2181_Merge_Nodes_in_Between_Zeros.py) | Medium |
