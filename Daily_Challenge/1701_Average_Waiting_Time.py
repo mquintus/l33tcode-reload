@@ -8,6 +8,6 @@ class Solution:
             if busyUntil > arrival:
                 waitingTime += busyUntil - arrival
             busyUntil = max(arrival, busyUntil) + difficulty
-            print(waitingTime)
+            #print(waitingTime)
             overallWaitingTime += waitingTime
         return overallWaitingTime / len(customers)
