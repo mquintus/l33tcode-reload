@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-07-12 | [1717](https://www.leetcode.com/problems/maximum-score-from-removing-substrings/) | [Maximum Score From Removing Substrings](./Daily_Challenge/1717_Maximum_Score_From_Removing_Substrings.md) | [Python](./Daily_Challenge/1717_Maximum_Score_From_Removing_Substrings.py) | Medium |
 | 2024-07-11 | [1190](https://www.leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Reverse Substrings Between Each Pair of Parentheses](./Daily_Challenge/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.md) | [Python](./Daily_Challenge/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.py) | Medium |
 | 2024-07-10 | [1598](https://www.leetcode.com/problems/crawler-log-folder/) | [Crawler Log Folder](./Daily_Challenge/1598_Crawler_Log_Folder.md) | [Python](./Daily_Challenge/1598_Crawler_Log_Folder.py) | Easy |
 | 2024-07-09 | [1701](https://www.leetcode.com/problems/average-waiting-time/) | [Average Waiting Time](./Daily_Challenge/1701_Average_Waiting_Time.md) | [Python](./Daily_Challenge/1701_Average_Waiting_Time.py) | Medium |
