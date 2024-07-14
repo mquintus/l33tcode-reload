@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-07-14 | [726](https://www.leetcode.com/problems/number-of-atoms/) | [Number of Atoms](./Daily_Challenge/726_Number_of_Atoms.md) | [Python](./Daily_Challenge/726_Number_of_Atoms.py) | Hard |
 | 2024-07-13 | [2751](https://www.leetcode.com/problems/robot-collisions/) | [Robot Collisions](./Daily_Challenge/2751_Robot_Collisions.md) | [Python](./Daily_Challenge/2751_Robot_Collisions.py) | Hard |
 | 2024-07-12 | [1717](https://www.leetcode.com/problems/maximum-score-from-removing-substrings/) | [Maximum Score From Removing Substrings](./Daily_Challenge/1717_Maximum_Score_From_Removing_Substrings.md) | [Python](./Daily_Challenge/1717_Maximum_Score_From_Removing_Substrings.py) | Medium |
 | 2024-07-11 | [1190](https://www.leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Reverse Substrings Between Each Pair of Parentheses](./Daily_Challenge/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.md) | [Python](./Daily_Challenge/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.py) | Medium |
