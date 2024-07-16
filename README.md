@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-07-16 | [2096](https://www.leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [Step-By-Step Directions From a Binary Tree Node to Another](./Daily_Challenge/2096_Step-By-Step_Directions_From_a_Binary_Tree_Node_to_Another.md) | [Python](./Daily_Challenge/2096_Step-By-Step_Directions_From_a_Binary_Tree_Node_to_Another.py) | Medium |
 | 2024-07-15 | [2196](https://www.leetcode.com/problems/create-binary-tree-from-descriptions/) | [Create Binary Tree From Descriptions](./Daily_Challenge/2196_Create_Binary_Tree_From_Descriptions.md) | [Python](./Daily_Challenge/2196_Create_Binary_Tree_From_Descriptions.py) | Medium |
 | 2024-07-14 | [726](https://www.leetcode.com/problems/number-of-atoms/) | [Number of Atoms](./Daily_Challenge/726_Number_of_Atoms.md) | [Python](./Daily_Challenge/726_Number_of_Atoms.py) | Hard |
 | 2024-07-13 | [2751](https://www.leetcode.com/problems/robot-collisions/) | [Robot Collisions](./Daily_Challenge/2751_Robot_Collisions.md) | [Python](./Daily_Challenge/2751_Robot_Collisions.py) | Hard |
