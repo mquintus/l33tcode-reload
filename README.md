@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-07-19 | [1380](https://www.leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Lucky Numbers in a Matrix](./Daily_Challenge/1380_Lucky_Numbers_in_a_Matrix.md) | [Python](./Daily_Challenge/1380_Lucky_Numbers_in_a_Matrix.py) | Easy |
 | 2024-07-18 | [1530](https://www.leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | [Number of Good Leaf Nodes Pairs](./Daily_Challenge/1530_Number_of_Good_Leaf_Nodes_Pairs.md) | [Python](./Daily_Challenge/1530_Number_of_Good_Leaf_Nodes_Pairs.py) | Medium |
 | 2024-07-17 | [1110](https://www.leetcode.com/problems/delete-nodes-and-return-forest/) | [Delete Nodes And Return Forest](./Daily_Challenge/1110_Delete_Nodes_And_Return_Forest.md) | [Python](./Daily_Challenge/1110_Delete_Nodes_And_Return_Forest.py) | Medium |
 | 2024-07-16 | [2096](https://www.leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [Step-By-Step Directions From a Binary Tree Node to Another](./Daily_Challenge/2096_Step-By-Step_Directions_From_a_Binary_Tree_Node_to_Another.md) | [Python](./Daily_Challenge/2096_Step-By-Step_Directions_From_a_Binary_Tree_Node_to_Another.py) | Medium |
