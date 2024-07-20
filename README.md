@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-07-20 | [1605](https://www.leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [Find Valid Matrix Given Row and Column Sums](./Daily_Challenge/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums.md) | [Python](./Daily_Challenge/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums.py) | Medium |
 | 2024-07-19 | [1380](https://www.leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Lucky Numbers in a Matrix](./Daily_Challenge/1380_Lucky_Numbers_in_a_Matrix.md) | [Python](./Daily_Challenge/1380_Lucky_Numbers_in_a_Matrix.py) | Easy |
 | 2024-07-18 | [1530](https://www.leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | [Number of Good Leaf Nodes Pairs](./Daily_Challenge/1530_Number_of_Good_Leaf_Nodes_Pairs.md) | [Python](./Daily_Challenge/1530_Number_of_Good_Leaf_Nodes_Pairs.py) | Medium |
 | 2024-07-17 | [1110](https://www.leetcode.com/problems/delete-nodes-and-return-forest/) | [Delete Nodes And Return Forest](./Daily_Challenge/1110_Delete_Nodes_And_Return_Forest.md) | [Python](./Daily_Challenge/1110_Delete_Nodes_And_Return_Forest.py) | Medium |
