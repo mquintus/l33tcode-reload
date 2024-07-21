@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-07-21 | [2392](https://www.leetcode.com/problems/build-a-matrix-with-conditions/) | [Build a Matrix With Conditions](./Daily_Challenge/2392_Build_a_Matrix_With_Conditions.md) | [Python](./Daily_Challenge/2392_Build_a_Matrix_With_Conditions.py) | Hard |
 | 2024-07-20 | [1605](https://www.leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [Find Valid Matrix Given Row and Column Sums](./Daily_Challenge/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums.md) | [Python](./Daily_Challenge/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums.py) | Medium |
 | 2024-07-19 | [1380](https://www.leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Lucky Numbers in a Matrix](./Daily_Challenge/1380_Lucky_Numbers_in_a_Matrix.md) | [Python](./Daily_Challenge/1380_Lucky_Numbers_in_a_Matrix.py) | Easy |
 | 2024-07-18 | [1530](https://www.leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | [Number of Good Leaf Nodes Pairs](./Daily_Challenge/1530_Number_of_Good_Leaf_Nodes_Pairs.md) | [Python](./Daily_Challenge/1530_Number_of_Good_Leaf_Nodes_Pairs.py) | Medium |
