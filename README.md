@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-07-23 | [1636](https://www.leetcode.com/problems/sort-array-by-increasing-frequency/) | [Sort Array by Increasing Frequency](./Daily_Challenge/1636_Sort_Array_by_Increasing_Frequency.md) | [Python](./Daily_Challenge/1636_Sort_Array_by_Increasing_Frequency.py) | Easy |
 | 2024-07-22 | [2418](https://www.leetcode.com/problems/sort-the-people/) | [Sort the People](./Daily_Challenge/2418_Sort_the_People.md) | [Python](./Daily_Challenge/2418_Sort_the_People.py) | Easy |
 | 2024-07-21 | [2392](https://www.leetcode.com/problems/build-a-matrix-with-conditions/) | [Build a Matrix With Conditions](./Daily_Challenge/2392_Build_a_Matrix_With_Conditions.md) | [Python](./Daily_Challenge/2392_Build_a_Matrix_With_Conditions.py) | Hard |
 | 2024-07-20 | [1605](https://www.leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [Find Valid Matrix Given Row and Column Sums](./Daily_Challenge/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums.md) | [Python](./Daily_Challenge/1605_Find_Valid_Matrix_Given_Row_and_Column_Sums.py) | Medium |
