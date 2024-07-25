@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-07-25 | [912](https://www.leetcode.com/problems/sort-an-array/) | [Sort an Array](./Daily_Challenge/912_Sort_an_Array.md) | [Python](./Daily_Challenge/912_Sort_an_Array.py) | Medium |
 | 2024-07-24 | [2191](https://www.leetcode.com/problems/sort-the-jumbled-numbers/) | [Sort the Jumbled Numbers](./Daily_Challenge/2191_Sort_the_Jumbled_Numbers.md) | [Python](./Daily_Challenge/2191_Sort_the_Jumbled_Numbers.py) | Medium |
 | 2024-07-23 | [1636](https://www.leetcode.com/problems/sort-array-by-increasing-frequency/) | [Sort Array by Increasing Frequency](./Daily_Challenge/1636_Sort_Array_by_Increasing_Frequency.md) | [Python](./Daily_Challenge/1636_Sort_Array_by_Increasing_Frequency.py) | Easy |
 | 2024-07-22 | [2418](https://www.leetcode.com/problems/sort-the-people/) | [Sort the People](./Daily_Challenge/2418_Sort_the_People.md) | [Python](./Daily_Challenge/2418_Sort_the_People.py) | Easy |
