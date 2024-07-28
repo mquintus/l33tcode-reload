@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-07-28 | [2045](https://www.leetcode.com/problems/second-minimum-time-to-reach-destination/) | [Second Minimum Time to Reach Destination](./Daily_Challenge/2045_Second_Minimum_Time_to_Reach_Destination.md) | [Python](./Daily_Challenge/2045_Second_Minimum_Time_to_Reach_Destination.py) | Hard |
 | 2024-07-27 | [2976](https://www.leetcode.com/problems/minimum-cost-to-convert-string-i/) | [Minimum Cost to Convert String I](./Daily_Challenge/2976_Minimum_Cost_to_Convert_String_I.md) | [Python](./Daily_Challenge/2976_Minimum_Cost_to_Convert_String_I.py) | Medium |
 | 2024-07-26 | [1334](https://www.leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./Daily_Challenge/1334_Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.md) | [Python](./Daily_Challenge/1334_Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.py) | Medium |
 | 2024-07-25 | [912](https://www.leetcode.com/problems/sort-an-array/) | [Sort an Array](./Daily_Challenge/912_Sort_an_Array.md) | [Python](./Daily_Challenge/912_Sort_an_Array.py) | Medium |
