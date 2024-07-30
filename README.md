@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-07-30 | [1653](https://www.leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [Minimum Deletions to Make String Balanced](./Daily_Challenge/1653_Minimum_Deletions_to_Make_String_Balanced.md) | [Python](./Daily_Challenge/1653_Minimum_Deletions_to_Make_String_Balanced.py) | Medium |
 | 2024-07-29 | [1395](https://www.leetcode.com/problems/count-number-of-teams/) | [Count Number of Teams](./Daily_Challenge/1395_Count_Number_of_Teams.md) | [Python](./Daily_Challenge/1395_Count_Number_of_Teams.py) | Medium |
 | 2024-07-28 | [2045](https://www.leetcode.com/problems/second-minimum-time-to-reach-destination/) | [Second Minimum Time to Reach Destination](./Daily_Challenge/2045_Second_Minimum_Time_to_Reach_Destination.md) | [Python](./Daily_Challenge/2045_Second_Minimum_Time_to_Reach_Destination.py) | Hard |
 | 2024-07-27 | [2976](https://www.leetcode.com/problems/minimum-cost-to-convert-string-i/) | [Minimum Cost to Convert String I](./Daily_Challenge/2976_Minimum_Cost_to_Convert_String_I.md) | [Python](./Daily_Challenge/2976_Minimum_Cost_to_Convert_String_I.py) | Medium |
