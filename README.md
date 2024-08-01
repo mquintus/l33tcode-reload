@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-08-01 | [2678](https://www.leetcode.com/problems/number-of-senior-citizens/) | [Number of Senior Citizens](./Daily_Challenge/2678_Number_of_Senior_Citizens.md) | [Python](./Daily_Challenge/2678_Number_of_Senior_Citizens.py) | Easy |
 | 2024-07-31 | [1105](https://www.leetcode.com/problems/filling-bookcase-shelves/) | [Filling Bookcase Shelves](./Daily_Challenge/1105_Filling_Bookcase_Shelves.md) | [Python](./Daily_Challenge/1105_Filling_Bookcase_Shelves.py) | Medium |
 | 2024-07-30 | [1653](https://www.leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [Minimum Deletions to Make String Balanced](./Daily_Challenge/1653_Minimum_Deletions_to_Make_String_Balanced.md) | [Python](./Daily_Challenge/1653_Minimum_Deletions_to_Make_String_Balanced.py) | Medium |
 | 2024-07-29 | [1395](https://www.leetcode.com/problems/count-number-of-teams/) | [Count Number of Teams](./Daily_Challenge/1395_Count_Number_of_Teams.md) | [Python](./Daily_Challenge/1395_Count_Number_of_Teams.py) | Medium |
