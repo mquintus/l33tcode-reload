@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-08-03 | [1460](https://www.leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | [Make Two Arrays Equal by Reversing Subarrays](./Daily_Challenge/1460_Make_Two_Arrays_Equal_by_Reversing_Subarrays.md) | [Python](./Daily_Challenge/1460_Make_Two_Arrays_Equal_by_Reversing_Subarrays.py) | Easy |
 | 2024-08-02 | [2134](https://www.leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | [Minimum Swaps to Group All 1's Together II](./Daily_Challenge/2134_Minimum_Swaps_to_Group_All_1's_Together_II.md) | [Python](./Daily_Challenge/2134_Minimum_Swaps_to_Group_All_1's_Together_II.py) | Medium |
 | 2024-08-01 | [2678](https://www.leetcode.com/problems/number-of-senior-citizens/) | [Number of Senior Citizens](./Daily_Challenge/2678_Number_of_Senior_Citizens.md) | [Python](./Daily_Challenge/2678_Number_of_Senior_Citizens.py) | Easy |
 | 2024-07-31 | [1105](https://www.leetcode.com/problems/filling-bookcase-shelves/) | [Filling Bookcase Shelves](./Daily_Challenge/1105_Filling_Bookcase_Shelves.md) | [Python](./Daily_Challenge/1105_Filling_Bookcase_Shelves.py) | Medium |
