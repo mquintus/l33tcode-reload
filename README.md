@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-08-05 | [2053](https://www.leetcode.com/problems/kth-distinct-string-in-an-array/) | [Kth Distinct String in an Array](./Daily_Challenge/2053_Kth_Distinct_String_in_an_Array.md) | [Python](./Daily_Challenge/2053_Kth_Distinct_String_in_an_Array.py) | Easy |
 | 2024-08-04 | [1508](https://www.leetcode.com/problems/range-sum-of-sorted-subarray-sums/) | [Range Sum of Sorted Subarray Sums](./Daily_Challenge/1508_Range_Sum_of_Sorted_Subarray_Sums.md) | [Python](./Daily_Challenge/1508_Range_Sum_of_Sorted_Subarray_Sums.py) | Medium |
 | 2024-08-03 | [1460](https://www.leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | [Make Two Arrays Equal by Reversing Subarrays](./Daily_Challenge/1460_Make_Two_Arrays_Equal_by_Reversing_Subarrays.md) | [Python](./Daily_Challenge/1460_Make_Two_Arrays_Equal_by_Reversing_Subarrays.py) | Easy |
 | 2024-08-02 | [2134](https://www.leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | [Minimum Swaps to Group All 1's Together II](./Daily_Challenge/2134_Minimum_Swaps_to_Group_All_1's_Together_II.md) | [Python](./Daily_Challenge/2134_Minimum_Swaps_to_Group_All_1's_Together_II.py) | Medium |
