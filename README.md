@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-08-07 | [273](https://www.leetcode.com/problems/integer-to-english-words/) | [Integer to English Words](./Daily_Challenge/273_Integer_to_English_Words.md) | [Python](./Daily_Challenge/273_Integer_to_English_Words.py) | Hard |
 | 2024-08-06 | [3016](https://www.leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Minimum Number of Pushes to Type Word II](./Daily_Challenge/3016_Minimum_Number_of_Pushes_to_Type_Word_II.md) | [Python](./Daily_Challenge/3016_Minimum_Number_of_Pushes_to_Type_Word_II.py) | Medium |
 | 2024-08-05 | [2053](https://www.leetcode.com/problems/kth-distinct-string-in-an-array/) | [Kth Distinct String in an Array](./Daily_Challenge/2053_Kth_Distinct_String_in_an_Array.md) | [Python](./Daily_Challenge/2053_Kth_Distinct_String_in_an_Array.py) | Easy |
 | 2024-08-04 | [1508](https://www.leetcode.com/problems/range-sum-of-sorted-subarray-sums/) | [Range Sum of Sorted Subarray Sums](./Daily_Challenge/1508_Range_Sum_of_Sorted_Subarray_Sums.md) | [Python](./Daily_Challenge/1508_Range_Sum_of_Sorted_Subarray_Sums.py) | Medium |
