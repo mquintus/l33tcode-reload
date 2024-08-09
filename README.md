@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-08-09 | [840](https://www.leetcode.com/problems/magic-squares-in-grid/) | [Magic Squares In Grid](./Daily_Challenge/840_Magic_Squares_In_Grid.md) | [Python](./Daily_Challenge/840_Magic_Squares_In_Grid.py) | Medium |
 | 2024-08-08 | [885](https://www.leetcode.com/problems/spiral-matrix-iii/) | [Spiral Matrix III](./Daily_Challenge/885_Spiral_Matrix_III.md) | [Python](./Daily_Challenge/885_Spiral_Matrix_III.py) | Medium |
 | 2024-08-07 | [273](https://www.leetcode.com/problems/integer-to-english-words/) | [Integer to English Words](./Daily_Challenge/273_Integer_to_English_Words.md) | [Python](./Daily_Challenge/273_Integer_to_English_Words.py) | Hard |
 | 2024-08-06 | [3016](https://www.leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Minimum Number of Pushes to Type Word II](./Daily_Challenge/3016_Minimum_Number_of_Pushes_to_Type_Word_II.md) | [Python](./Daily_Challenge/3016_Minimum_Number_of_Pushes_to_Type_Word_II.py) | Medium |
