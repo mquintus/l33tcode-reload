@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-08-12 | [703](https://www.leetcode.com/problems/kth-largest-element-in-a-stream/) | [Kth Largest Element in a Stream](./Daily_Challenge/703_Kth_Largest_Element_in_a_Stream.md) | [Python](./Daily_Challenge/703_Kth_Largest_Element_in_a_Stream.py) | Easy |
 | 2024-08-11 | [1568](https://www.leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | [Minimum Number of Days to Disconnect Island](./Daily_Challenge/1568_Minimum_Number_of_Days_to_Disconnect_Island.md) | [Python](./Daily_Challenge/1568_Minimum_Number_of_Days_to_Disconnect_Island.py) | Hard |
 | 2024-08-10 | [959](https://www.leetcode.com/problems/regions-cut-by-slashes/) | [Regions Cut By Slashes](./Daily_Challenge/959_Regions_Cut_By_Slashes.md) | [Python](./Daily_Challenge/959_Regions_Cut_By_Slashes.py) | Medium |
 | 2024-08-09 | [840](https://www.leetcode.com/problems/magic-squares-in-grid/) | [Magic Squares In Grid](./Daily_Challenge/840_Magic_Squares_In_Grid.md) | [Python](./Daily_Challenge/840_Magic_Squares_In_Grid.py) | Medium |
