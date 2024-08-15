@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-08-15 | [860](https://www.leetcode.com/problems/lemonade-change/) | [Lemonade Change](./Daily_Challenge/860_Lemonade_Change.md) | [Python](./Daily_Challenge/860_Lemonade_Change.py) | Easy |
 | 2024-08-14 | [719](https://www.leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Find K-th Smallest Pair Distance](./Daily_Challenge/719_Find_K-th_Smallest_Pair_Distance.md) | [Python](./Daily_Challenge/719_Find_K-th_Smallest_Pair_Distance.py) | Hard |
 | 2024-08-13 | [40](https://www.leetcode.com/problems/combination-sum-ii/) | [Combination Sum II](./Daily_Challenge/40_Combination_Sum_II.md) | [Python](./Daily_Challenge/40_Combination_Sum_II.py) | Medium |
 | 2024-08-12 | [703](https://www.leetcode.com/problems/kth-largest-element-in-a-stream/) | [Kth Largest Element in a Stream](./Daily_Challenge/703_Kth_Largest_Element_in_a_Stream.md) | [Python](./Daily_Challenge/703_Kth_Largest_Element_in_a_Stream.py) | Easy |
