@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-08-16 | [624](https://www.leetcode.com/problems/maximum-distance-in-arrays/) | [Lemonade Change](./Daily_Challenge/624_Maximum_Distance_in_Arrays.md) | [Python](./Daily_Challenge/624_Maximum_Distance_in_Arrays.py) | Medium |
 | 2024-08-15 | [860](https://www.leetcode.com/problems/lemonade-change/) | [Lemonade Change](./Daily_Challenge/860_Lemonade_Change.md) | [Python](./Daily_Challenge/860_Lemonade_Change.py) | Easy |
 | 2024-08-14 | [719](https://www.leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Find K-th Smallest Pair Distance](./Daily_Challenge/719_Find_K-th_Smallest_Pair_Distance.md) | [Python](./Daily_Challenge/719_Find_K-th_Smallest_Pair_Distance.py) | Hard |
 | 2024-08-13 | [40](https://www.leetcode.com/problems/combination-sum-ii/) | [Combination Sum II](./Daily_Challenge/40_Combination_Sum_II.md) | [Python](./Daily_Challenge/40_Combination_Sum_II.py) | Medium |
