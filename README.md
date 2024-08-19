@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-08-19 | [650](https://www.leetcode.com/problems/2-keys-keyboard/) | [2 Keys Keyboard](./Daily_Challenge/650_2_Keys_Keyboard.md) | [Python](./Daily_Challenge/650_2_Keys_Keyboard.py) | Medium |
 | 2024-08-18 | [264](https://www.leetcode.com/problems/ugly-number-ii/) | [Ugly Number II](./Daily_Challenge/264_Ugly_Number_II.md) | [Python](./Daily_Challenge/264_Ugly_Number_II.py) | Medium |
 | 2024-08-17 | [1937](https://www.leetcode.com/problems/maximum-number-of-points-with-cost/) | [Maximum Number of Points with Cost](./Daily_Challenge/1937_Maximum_Number_of_Points_with_Cost.md) | [Python](./Daily_Challenge/1937_Maximum_Number_of_Points_with_Cost.py) | Medium |
 | 2024-08-16 | [624](https://www.leetcode.com/problems/maximum-distance-in-arrays/) | [Maximum Distance in Arrays](./Daily_Challenge/624_Maximum_Distance_in_Arrays.md) | [Python](./Daily_Challenge/624_Maximum_Distance_in_Arrays.py) | Medium |
