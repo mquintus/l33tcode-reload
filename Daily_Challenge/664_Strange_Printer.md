@@ -1,5 +1,3 @@
-# 664. Strange Printer
-
 <p>There is a strange printer with the following two special properties:</p>
 
 <ul>
