@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-08-22 | [476](https://www.leetcode.com/problems/number-complement/) | [Number Complement](./Daily_Challenge/476_Number_Complement.md) | [Python](./Daily_Challenge/476_Number_Complement.py) | Easy |
 | 2024-08-21 | [664](https://www.leetcode.com/problems/strange-printer/) | [Strange Printer](./Daily_Challenge/664_Strange_Printer.md) | [Python](./Daily_Challenge/664_Strange_Printer.py) | Hard |
 | 2024-08-20 | [1140](https://www.leetcode.com/problems/stone-game-ii/) | [Stone Game II](./Daily_Challenge/1140_Stone_Game_II.md) | [Python](./Daily_Challenge/1140_Stone_Game_II.py) | Medium |
 | 2024-08-19 | [650](https://www.leetcode.com/problems/2-keys-keyboard/) | [2 Keys Keyboard](./Daily_Challenge/650_2_Keys_Keyboard.md) | [Python](./Daily_Challenge/650_2_Keys_Keyboard.py) | Medium |
