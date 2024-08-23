@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-08-23 | [592](https://www.leetcode.com/problems/fraction-addition-and-subtraction/) | [Fraction Addition and Subtraction](./Daily_Challenge/592_Fraction_Addition_and_Subtraction.md) | [Python](./Daily_Challenge/592_Fraction_Addition_and_Subtraction.py) | Medium |
 | 2024-08-22 | [476](https://www.leetcode.com/problems/number-complement/) | [Number Complement](./Daily_Challenge/476_Number_Complement.md) | [Python](./Daily_Challenge/476_Number_Complement.py) | Easy |
 | 2024-08-21 | [664](https://www.leetcode.com/problems/strange-printer/) | [Strange Printer](./Daily_Challenge/664_Strange_Printer.md) | [Python](./Daily_Challenge/664_Strange_Printer.py) | Hard |
 | 2024-08-20 | [1140](https://www.leetcode.com/problems/stone-game-ii/) | [Stone Game II](./Daily_Challenge/1140_Stone_Game_II.md) | [Python](./Daily_Challenge/1140_Stone_Game_II.py) | Medium |
