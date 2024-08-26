@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-08-26 | [590](https://www.leetcode.com/problems/n-ary-tree-postorder-traversal/) | [N-ary Tree Postorder Traversal](./Daily_Challenge/590_N-ary_Tree_Postorder_Traversal.md) | [Python](./Daily_Challenge/590_N-ary_Tree_Postorder_Traversal.py) | Easy |
 | 2024-08-25 | [145](https://www.leetcode.com/problems/binary-tree-postorder-traversal/) | [Binary Tree Postorder Traversal](./Daily_Challenge/145_Binary_Tree_Postorder_Traversal.md) | [Python](./Daily_Challenge/145_Binary_Tree_Postorder_Traversal.py) | Easy |
 | 2024-08-24 | [564](https://www.leetcode.com/problems/find-the-closest-palindrome/) | [Find the Closest Palindrome](./Daily_Challenge/564_Find_the_Closest_Palindrome.md) | [Python](./Daily_Challenge/564_Find_the_Closest_Palindrome.py) | Hard |
 | 2024-08-23 | [592](https://www.leetcode.com/problems/fraction-addition-and-subtraction/) | [Fraction Addition and Subtraction](./Daily_Challenge/592_Fraction_Addition_and_Subtraction.md) | [Python](./Daily_Challenge/592_Fraction_Addition_and_Subtraction.py) | Medium |
