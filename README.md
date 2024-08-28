@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-08-28 | [1905](https://www.leetcode.com/problems/count-sub-islands/) | [Count Sub Islands](./Daily_Challenge/1905_Count_Sub_Islands.md) | [Python](./Daily_Challenge/1905_Count_Sub_Islands.py) | Medium |
 | 2024-08-27 | [1514](https://www.leetcode.com/problems/path-with-maximum-probability/) | [Path with Maximum Probability](./Daily_Challenge/1514_Path_with_Maximum_Probability.md) | [Python](./Daily_Challenge/1514_Path_with_Maximum_Probability.py) | Medium |
 | 2024-08-26 | [590](https://www.leetcode.com/problems/n-ary-tree-postorder-traversal/) | [N-ary Tree Postorder Traversal](./Daily_Challenge/590_N-ary_Tree_Postorder_Traversal.md) | [Python](./Daily_Challenge/590_N-ary_Tree_Postorder_Traversal.py) | Easy |
 | 2024-08-25 | [145](https://www.leetcode.com/problems/binary-tree-postorder-traversal/) | [Binary Tree Postorder Traversal](./Daily_Challenge/145_Binary_Tree_Postorder_Traversal.md) | [Python](./Daily_Challenge/145_Binary_Tree_Postorder_Traversal.py) | Easy |
