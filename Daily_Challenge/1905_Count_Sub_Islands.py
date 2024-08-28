@@ -1,1 +1,40 @@
 # 1905 - Count Sub Islands
+class Solution:
+    def countSubIslands(self, grid1: List[List[int]], grid2: List[List[int]]) -> int:
+        m = len(grid2)
+        n = len(grid2[0])
+        def findIsland(col, row) -> set():
+            queue = [[col, row]]
+            land = set()
+            while queue:
+                col, row = queue.pop(0)
+                if (col, row) in land:
+                    continue
+                land.add((col, row))
+                for dc,dr in [[0,-1],[-1,0],[1,0],[0,1]]:
+                    if col+dc >= 0 and col+dc < n and row+dr >= 0 and row+dr < m and grid2[row+dr][col+dc] == 1:
+                        queue.append((col+dc,row+dr))
+                        
+                        grid2[row+dr][col+dc] = 0
+                        
+            return land
+        islands = []
+        for col in range(n):
+            for row in range(m):
+                if grid2[row][col] == 1:
+                    islands.append(findIsland(col, row))
+
+        validIsland = 0
+        #print(len(islands))
+        #print(islands)
+
+        for island in islands:
+            for tile_c, tile_r in island:
+                if grid1[tile_r][tile_c] == 0:
+                    break
+            else:
+                validIsland += 1
+            
+        return validIsland
+
+                        
