@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-08-29 | [947](https://www.leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [Most Stones Removed with Same Row or Column](./Daily_Challenge/947_Most_Stones_Removed_with_Same_Row_or_Column.md) | [Python](./Daily_Challenge/947_Most_Stones_Removed_with_Same_Row_or_Column.py) | Medium |
 | 2024-08-28 | [1905](https://www.leetcode.com/problems/count-sub-islands/) | [Count Sub Islands](./Daily_Challenge/1905_Count_Sub_Islands.md) | [Python](./Daily_Challenge/1905_Count_Sub_Islands.py) | Medium |
 | 2024-08-27 | [1514](https://www.leetcode.com/problems/path-with-maximum-probability/) | [Path with Maximum Probability](./Daily_Challenge/1514_Path_with_Maximum_Probability.md) | [Python](./Daily_Challenge/1514_Path_with_Maximum_Probability.py) | Medium |
 | 2024-08-26 | [590](https://www.leetcode.com/problems/n-ary-tree-postorder-traversal/) | [N-ary Tree Postorder Traversal](./Daily_Challenge/590_N-ary_Tree_Postorder_Traversal.md) | [Python](./Daily_Challenge/590_N-ary_Tree_Postorder_Traversal.py) | Easy |
