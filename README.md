@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-09-01 | [2022](https://www.leetcode.com/problems/convert-1d-array-into-2d-array/) | [Convert 1D Array Into 2D Array](./Daily_Challenge/2022_Convert_1D_Array_Into_2D_Array.md) | [Python](./Daily_Challenge/2022_Convert_1D_Array_Into_2D_Array.py) | Easy |
 | 2024-08-31 | [1514](https://www.leetcode.com/problems/path-with-maximum-probability/) | [Path with Maximum Probability](./Daily_Challenge/1514_Path_with_Maximum_Probability.md) | [Python](./Daily_Challenge/1514_Path_with_Maximum_Probability.py) | Medium |
 | 2024-08-30 | [2699](https://www.leetcode.com/problems/modify-graph-edge-weights/) | [Modify Graph Edge Weights](./Daily_Challenge/2699_Modify_Graph_Edge_Weights.md) | [Python](./Daily_Challenge/2699_Modify_Graph_Edge_Weights.py) | Hard |
 | 2024-08-29 | [947](https://www.leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [Most Stones Removed with Same Row or Column](./Daily_Challenge/947_Most_Stones_Removed_with_Same_Row_or_Column.md) | [Python](./Daily_Challenge/947_Most_Stones_Removed_with_Same_Row_or_Column.py) | Medium |
