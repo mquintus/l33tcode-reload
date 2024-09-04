@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-09-04 | [874](https://www.leetcode.com/problems/walking-robot-simulation/) | [Walking Robot Simulation](./Daily_Challenge/874_Walking_Robot_Simulation.md) | [Python](./Daily_Challenge/874_Walking_Robot_Simulation.py) | Medium |
 | 2024-09-03 | [1945](https://www.leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Sum of Digits of String After Convert](./Daily_Challenge/1945_Sum_of_Digits_of_String_After_Convert.md) | [Python](./Daily_Challenge/1945_Sum_of_Digits_of_String_After_Convert.py) | Easy |
 | 2024-09-02 | [1894](https://www.leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [Find the Student that Will Replace the Chalk](./Daily_Challenge/1894_Find_the_Student_that_Will_Replace_the_Chalk.md) | [Python](./Daily_Challenge/1894_Find_the_Student_that_Will_Replace_the_Chalk.py) | Medium |
 | 2024-09-01 | [2022](https://www.leetcode.com/problems/convert-1d-array-into-2d-array/) | [Convert 1D Array Into 2D Array](./Daily_Challenge/2022_Convert_1D_Array_Into_2D_Array.md) | [Python](./Daily_Challenge/2022_Convert_1D_Array_Into_2D_Array.py) | Easy |
