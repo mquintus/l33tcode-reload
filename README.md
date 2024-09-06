@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-09-06 | [3217](https://www.leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | [Delete Nodes From Linked List Present in Array](./Daily_Challenge/3217_Delete_Nodes_From_Linked_List_Present_in_Array.md) | [Python](./Daily_Challenge/3217_Delete_Nodes_From_Linked_List_Present_in_Array.py) | Medium |
 | 2024-09-05 | [2028](https://www.leetcode.com/problems/find-missing-observations/) | [Find Missing Observations](./Daily_Challenge/2028_Find_Missing_Observations.md) | [Python](./Daily_Challenge/2028_Find_Missing_Observations.py) | Medium |
 | 2024-09-04 | [874](https://www.leetcode.com/problems/walking-robot-simulation/) | [Walking Robot Simulation](./Daily_Challenge/874_Walking_Robot_Simulation.md) | [Python](./Daily_Challenge/874_Walking_Robot_Simulation.py) | Medium |
 | 2024-09-03 | [1945](https://www.leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Sum of Digits of String After Convert](./Daily_Challenge/1945_Sum_of_Digits_of_String_After_Convert.md) | [Python](./Daily_Challenge/1945_Sum_of_Digits_of_String_After_Convert.py) | Easy |
