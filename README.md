@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-09-07 | [1367](https://www.leetcode.com/problems/linked-list-in-binary-tree/) | [Linked List in Binary Tree](./Daily_Challenge/1367_Linked_List_in_Binary_Tree.md) | [Python](./Daily_Challenge/1367_Linked_List_in_Binary_Tree.py) | Medium |
 | 2024-09-06 | [3217](https://www.leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | [Delete Nodes From Linked List Present in Array](./Daily_Challenge/3217_Delete_Nodes_From_Linked_List_Present_in_Array.md) | [Python](./Daily_Challenge/3217_Delete_Nodes_From_Linked_List_Present_in_Array.py) | Medium |
 | 2024-09-05 | [2028](https://www.leetcode.com/problems/find-missing-observations/) | [Find Missing Observations](./Daily_Challenge/2028_Find_Missing_Observations.md) | [Python](./Daily_Challenge/2028_Find_Missing_Observations.py) | Medium |
 | 2024-09-04 | [874](https://www.leetcode.com/problems/walking-robot-simulation/) | [Walking Robot Simulation](./Daily_Challenge/874_Walking_Robot_Simulation.md) | [Python](./Daily_Challenge/874_Walking_Robot_Simulation.py) | Medium |
