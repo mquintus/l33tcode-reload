@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-09-10 | [2807](https://www.leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Insert Greatest Common Divisors in Linked List](./Daily_Challenge/2807_Insert_Greatest_Common_Divisors_in_Linked_List.md) | [Python](./Daily_Challenge/2807_Insert_Greatest_Common_Divisors_in_Linked_List.py) | Medium |
 | 2024-09-09 | [2326](https://www.leetcode.com/problems/spiral-matrix-iv/) | [Spiral Matrix IV](./Daily_Challenge/2326_Spiral_Matrix_IV.md) | [Python](./Daily_Challenge/2326_Spiral_Matrix_IV.py) | Medium |
 | 2024-09-08 | [725](https://www.leetcode.com/problems/split-linked-list-in-parts/) | [Split Linked List in Parts](./Daily_Challenge/725_Split_Linked_List_in_Parts.md) | [Python](./Daily_Challenge/725_Split_Linked_List_in_Parts.py) | Medium |
 | 2024-09-07 | [1367](https://www.leetcode.com/problems/linked-list-in-binary-tree/) | [Linked List in Binary Tree](./Daily_Challenge/1367_Linked_List_in_Binary_Tree.md) | [Python](./Daily_Challenge/1367_Linked_List_in_Binary_Tree.py) | Medium |
