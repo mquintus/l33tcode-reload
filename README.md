@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-09-11 | [2220](https://www.leetcode.com/problems/minimum-bit-flips-to-convert-number/) | [Minimum Bit Flips to Convert Number](./Daily_Challenge/2220_Minimum_Bit_Flips_to_Convert_Number.md) | [Python](./Daily_Challenge/2220_Minimum_Bit_Flips_to_Convert_Number.py) | Easy |
 | 2024-09-10 | [2807](https://www.leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Insert Greatest Common Divisors in Linked List](./Daily_Challenge/2807_Insert_Greatest_Common_Divisors_in_Linked_List.md) | [Python](./Daily_Challenge/2807_Insert_Greatest_Common_Divisors_in_Linked_List.py) | Medium |
 | 2024-09-09 | [2326](https://www.leetcode.com/problems/spiral-matrix-iv/) | [Spiral Matrix IV](./Daily_Challenge/2326_Spiral_Matrix_IV.md) | [Python](./Daily_Challenge/2326_Spiral_Matrix_IV.py) | Medium |
 | 2024-09-08 | [725](https://www.leetcode.com/problems/split-linked-list-in-parts/) | [Split Linked List in Parts](./Daily_Challenge/725_Split_Linked_List_in_Parts.md) | [Python](./Daily_Challenge/725_Split_Linked_List_in_Parts.py) | Medium |
