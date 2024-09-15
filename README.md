@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-09-15 | [1371](https://www.leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [Find the Longest Substring Containing Vowels in Even Counts](./Daily_Challenge/1371_Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts.md) | [Python](./Daily_Challenge/1371_Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts.py) | Medium |
 | 2024-09-14 | [2419](https://www.leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [Longest Subarray With Maximum Bitwise AND](./Daily_Challenge/2419_Longest_Subarray_With_Maximum_Bitwise_AND.md) | [Python](./Daily_Challenge/2419_Longest_Subarray_With_Maximum_Bitwise_AND.py) | Medium |
 | 2024-09-13 | [1310](https://www.leetcode.com/problems/xor-queries-of-a-subarray/) | [XOR Queries of a Subarray](./Daily_Challenge/1310_XOR_Queries_of_a_Subarray.md) | [Python](./Daily_Challenge/1310_XOR_Queries_of_a_Subarray.py) | Medium |
 | 2024-09-12 | [1684](https://www.leetcode.com/problems/count-the-number-of-consistent-strings/) | [Count the Number of Consistent Strings](./Daily_Challenge/1684_Count_the_Number_of_Consistent_Strings.md) | [Python](./Daily_Challenge/1684_Count_the_Number_of_Consistent_Strings.py) | Easy |
