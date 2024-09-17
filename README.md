@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-09-17 | [884](https://www.leetcode.com/problems/uncommon-words-from-two-sentences/) | [Uncommon Words from Two Sentences](./Daily_Challenge/884_Uncommon_Words_from_Two_Sentences.md) | [Python](./Daily_Challenge/884_Uncommon_Words_from_Two_Sentences.py) | Easy |
 | 2024-09-16 | [539](https://www.leetcode.com/problems/minimum-time-difference/) | [Minimum Time Difference](./Daily_Challenge/539_Minimum_Time_Difference.md) | [Python](./Daily_Challenge/539_Minimum_Time_Difference.py) | Medium |
 | 2024-09-15 | [1371](https://www.leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [Find the Longest Substring Containing Vowels in Even Counts](./Daily_Challenge/1371_Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts.md) | [Python](./Daily_Challenge/1371_Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts.py) | Medium |
 | 2024-09-14 | [2419](https://www.leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [Longest Subarray With Maximum Bitwise AND](./Daily_Challenge/2419_Longest_Subarray_With_Maximum_Bitwise_AND.md) | [Python](./Daily_Challenge/2419_Longest_Subarray_With_Maximum_Bitwise_AND.py) | Medium |
