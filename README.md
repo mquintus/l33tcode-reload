@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-09-19 | [241](https://www.leetcode.com/problems/different-ways-to-add-parentheses/) | [Different Ways to Add Parentheses](./Daily_Challenge/241_Different_Ways_to_Add_Parentheses.md) | [Python](./Daily_Challenge/241_Different_Ways_to_Add_Parentheses.py) | Medium |
 | 2024-09-18 | [179](https://www.leetcode.com/problems/largest-number/) | [Largest Number](./Daily_Challenge/179_Largest_Number.md) | [Python](./Daily_Challenge/179_Largest_Number.py) | Medium |
 | 2024-09-17 | [884](https://www.leetcode.com/problems/uncommon-words-from-two-sentences/) | [Uncommon Words from Two Sentences](./Daily_Challenge/884_Uncommon_Words_from_Two_Sentences.md) | [Python](./Daily_Challenge/884_Uncommon_Words_from_Two_Sentences.py) | Easy |
 | 2024-09-16 | [539](https://www.leetcode.com/problems/minimum-time-difference/) | [Minimum Time Difference](./Daily_Challenge/539_Minimum_Time_Difference.md) | [Python](./Daily_Challenge/539_Minimum_Time_Difference.py) | Medium |
