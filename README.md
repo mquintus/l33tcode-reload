@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-09-21 | [386](https://www.leetcode.com/problems/lexicographical-numbers/) | [Lexicographical Numbers](./Daily_Challenge/386_Lexicographical_Numbers.md) | [Python](./Daily_Challenge/386_Lexicographical_Numbers.py) | Medium |
 | 2024-09-20 | [214](https://www.leetcode.com/problems/shortest-palindrome/) | [Shortest Palindrome](./Daily_Challenge/214_Shortest_Palindrome.md) | [Python](./Daily_Challenge/214_Shortest_Palindrome.py) | Hard |
 | 2024-09-19 | [241](https://www.leetcode.com/problems/different-ways-to-add-parentheses/) | [Different Ways to Add Parentheses](./Daily_Challenge/241_Different_Ways_to_Add_Parentheses.md) | [Python](./Daily_Challenge/241_Different_Ways_to_Add_Parentheses.py) | Medium |
 | 2024-09-18 | [179](https://www.leetcode.com/problems/largest-number/) | [Largest Number](./Daily_Challenge/179_Largest_Number.md) | [Python](./Daily_Challenge/179_Largest_Number.py) | Medium |
