@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-09-22 | [440](https://www.leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [K-th Smallest in Lexicographical Order](./Daily_Challenge/440_K-th_Smallest_in_Lexicographical_Order.md) | [Python](./Daily_Challenge/440_K-th_Smallest_in_Lexicographical_Order.py) | Hard |
 | 2024-09-21 | [386](https://www.leetcode.com/problems/lexicographical-numbers/) | [Lexicographical Numbers](./Daily_Challenge/386_Lexicographical_Numbers.md) | [Python](./Daily_Challenge/386_Lexicographical_Numbers.py) | Medium |
 | 2024-09-20 | [214](https://www.leetcode.com/problems/shortest-palindrome/) | [Shortest Palindrome](./Daily_Challenge/214_Shortest_Palindrome.md) | [Python](./Daily_Challenge/214_Shortest_Palindrome.py) | Hard |
 | 2024-09-19 | [241](https://www.leetcode.com/problems/different-ways-to-add-parentheses/) | [Different Ways to Add Parentheses](./Daily_Challenge/241_Different_Ways_to_Add_Parentheses.md) | [Python](./Daily_Challenge/241_Different_Ways_to_Add_Parentheses.py) | Medium |
