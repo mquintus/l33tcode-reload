@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-09-26 | [729](https://www.leetcode.com/problems/my-calendar-i/) | [My Calendar I](./Daily_Challenge/729_My_Calendar_I.md) | [Python](./Daily_Challenge/729_My_Calendar_I.py) | Medium |
 | 2024-09-25 | [2416](https://www.leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [Sum of Prefix Scores of Strings](./Daily_Challenge/2416_Sum_of_Prefix_Scores_of_Strings.md) | [Python](./Daily_Challenge/2416_Sum_of_Prefix_Scores_of_Strings.py) | Hard |
 | 2024-09-24 | [3043](https://www.leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Find the Length of the Longest Common Prefix](./Daily_Challenge/3043_Find_the_Length_of_the_Longest_Common_Prefix.md) | [Python](./Daily_Challenge/3043_Find_the_Length_of_the_Longest_Common_Prefix.py) | Medium |
 | 2024-09-23 | [2707](https://www.leetcode.com/problems/extra-characters-in-a-string/) | [Extra Characters in a String](./Daily_Challenge/2707_Extra_Characters_in_a_String.md) | [Python](./Daily_Challenge/2707_Extra_Characters_in_a_String.py) | Medium |
