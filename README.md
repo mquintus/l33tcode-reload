@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-09-28 | [641](https://www.leetcode.com/problems/design-circular-deque/) | [Design Circular Deque](./Daily_Challenge/641_Design_Circular_Deque.md) | [Python](./Daily_Challenge/641_Design_Circular_Deque.py) | Medium |
 | 2024-09-27 | [731](https://www.leetcode.com/problems/my-calendar-ii/) | [My Calendar II](./Daily_Challenge/731_My_Calendar_II.md) | [Python](./Daily_Challenge/731_My_Calendar_II.py) | Medium |
 | 2024-09-26 | [729](https://www.leetcode.com/problems/my-calendar-i/) | [My Calendar I](./Daily_Challenge/729_My_Calendar_I.md) | [Python](./Daily_Challenge/729_My_Calendar_I.py) | Medium |
 | 2024-09-25 | [2416](https://www.leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [Sum of Prefix Scores of Strings](./Daily_Challenge/2416_Sum_of_Prefix_Scores_of_Strings.md) | [Python](./Daily_Challenge/2416_Sum_of_Prefix_Scores_of_Strings.py) | Hard |
