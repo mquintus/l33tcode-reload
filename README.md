@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-09-30 | [1381](https://www.leetcode.com/problems/design-a-stack-with-increment-operation/) | [Design a Stack With Increment Operation](./Daily_Challenge/1381_Design_a_Stack_With_Increment_Operation.md) | [Python](./Daily_Challenge/1381_Design_a_Stack_With_Increment_Operation.py) | Medium |
 | 2024-09-29 | [432](https://www.leetcode.com/problems/all-oone-data-structure/) | [All O'one Data Structure](./Daily_Challenge/432_All_O`one_Data_Structure.md) | [Python](./Daily_Challenge/432_All_O`one_Data_Structure.py) | Hard |
 | 2024-09-28 | [641](https://www.leetcode.com/problems/design-circular-deque/) | [Design Circular Deque](./Daily_Challenge/641_Design_Circular_Deque.md) | [Python](./Daily_Challenge/641_Design_Circular_Deque.py) | Medium |
 | 2024-09-27 | [731](https://www.leetcode.com/problems/my-calendar-ii/) | [My Calendar II](./Daily_Challenge/731_My_Calendar_II.md) | [Python](./Daily_Challenge/731_My_Calendar_II.py) | Medium |
