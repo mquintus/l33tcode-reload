@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-10-02 | [1331](https://www.leetcode.com/problems/rank-transform-of-an-array/) | [Rank Transform of an Array](./Daily_Challenge/1331_Rank_Transform_of_an_Array.md) | [Python](./Daily_Challenge/1331_Rank_Transform_of_an_Array.py) | Easy |
 | 2024-10-01 | [1497](https://www.leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [Check If Array Pairs Are Divisible by k](./Daily_Challenge/1497_Check_If_Array_Pairs_Are_Divisible_by_k.md) | [Python](./Daily_Challenge/1497_Check_If_Array_Pairs_Are_Divisible_by_k.py) | Medium |
 | 2024-09-30 | [1381](https://www.leetcode.com/problems/design-a-stack-with-increment-operation/) | [Design a Stack With Increment Operation](./Daily_Challenge/1381_Design_a_Stack_With_Increment_Operation.md) | [Python](./Daily_Challenge/1381_Design_a_Stack_With_Increment_Operation.py) | Medium |
 | 2024-09-29 | [432](https://www.leetcode.com/problems/all-oone-data-structure/) | [All O'one Data Structure](./Daily_Challenge/432_All_O`one_Data_Structure.md) | [Python](./Daily_Challenge/432_All_O`one_Data_Structure.py) | Hard |
