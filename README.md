@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-10-04 | [2491](https://www.leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [Divide Players Into Teams of Equal Skill](./Daily_Challenge/2491_Divide_Players_Into_Teams_of_Equal_Skill.md) | [Python](./Daily_Challenge/2491_Divide_Players_Into_Teams_of_Equal_Skill.py) | Medium |
 | 2024-10-03 | [1590](https://www.leetcode.com/problems/make-sum-divisible-by-p/) | [Make Sum Divisible by P](./Daily_Challenge/1590_Make_Sum_Divisible_by_P.md) | [Python](./Daily_Challenge/1590_Make_Sum_Divisible_by_P.py) | Medium |
 | 2024-10-02 | [1331](https://www.leetcode.com/problems/rank-transform-of-an-array/) | [Rank Transform of an Array](./Daily_Challenge/1331_Rank_Transform_of_an_Array.md) | [Python](./Daily_Challenge/1331_Rank_Transform_of_an_Array.py) | Easy |
 | 2024-10-01 | [1497](https://www.leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [Check If Array Pairs Are Divisible by k](./Daily_Challenge/1497_Check_If_Array_Pairs_Are_Divisible_by_k.md) | [Python](./Daily_Challenge/1497_Check_If_Array_Pairs_Are_Divisible_by_k.py) | Medium |
