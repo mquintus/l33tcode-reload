@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-10-05 | [567](https://www.leetcode.com/problems/permutation-in-string/) | [Permutation in String](./Daily_Challenge/567_Permutation_in_String.md) | [Python](./Daily_Challenge/567_Permutation_in_String.py) | Medium |
 | 2024-10-04 | [2491](https://www.leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [Divide Players Into Teams of Equal Skill](./Daily_Challenge/2491_Divide_Players_Into_Teams_of_Equal_Skill.md) | [Python](./Daily_Challenge/2491_Divide_Players_Into_Teams_of_Equal_Skill.py) | Medium |
 | 2024-10-03 | [1590](https://www.leetcode.com/problems/make-sum-divisible-by-p/) | [Make Sum Divisible by P](./Daily_Challenge/1590_Make_Sum_Divisible_by_P.md) | [Python](./Daily_Challenge/1590_Make_Sum_Divisible_by_P.py) | Medium |
 | 2024-10-02 | [1331](https://www.leetcode.com/problems/rank-transform-of-an-array/) | [Rank Transform of an Array](./Daily_Challenge/1331_Rank_Transform_of_an_Array.md) | [Python](./Daily_Challenge/1331_Rank_Transform_of_an_Array.py) | Easy |
