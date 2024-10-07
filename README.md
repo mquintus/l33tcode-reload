@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-10-07 | [2696](https://www.leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Minimum String Length After Removing Substrings](./Daily_Challenge/2696_Minimum_String_Length_After_Removing_Substrings.md) | [Python](./Daily_Challenge/2696_Minimum_String_Length_After_Removing_Substrings.py) | Easy |
 | 2024-10-06 | [1813](https://www.leetcode.com/problems/sentence-similarity-iii/) | [Sentence Similarity III](./Daily_Challenge/1813_Sentence_Similarity_III.md) | [Python](./Daily_Challenge/1813_Sentence_Similarity_III.py) | Medium |
 | 2024-10-05 | [567](https://www.leetcode.com/problems/permutation-in-string/) | [Permutation in String](./Daily_Challenge/567_Permutation_in_String.md) | [Python](./Daily_Challenge/567_Permutation_in_String.py) | Medium |
 | 2024-10-04 | [2491](https://www.leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [Divide Players Into Teams of Equal Skill](./Daily_Challenge/2491_Divide_Players_Into_Teams_of_Equal_Skill.md) | [Python](./Daily_Challenge/2491_Divide_Players_Into_Teams_of_Equal_Skill.py) | Medium |
