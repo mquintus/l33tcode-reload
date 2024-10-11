@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-10-11 | [1942](https://www.leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [The Number of the Smallest Unoccupied Chair](./Daily_Challenge/1942_The_Number_of_the_Smallest_Unoccupied_Chair.md) | [Python](./Daily_Challenge/1942_The_Number_of_the_Smallest_Unoccupied_Chair.py) | Medium |
 | 2024-10-10 | [962](https://www.leetcode.com/problems/maximum-width-ramp/) | [Maximum Width Ramp](./Daily_Challenge/962_Maximum_Width_Ramp.md) | [Python](./Daily_Challenge/962_Maximum_Width_Ramp.py) | Medium |
 | 2024-10-09 | [921](https://www.leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Minimum Add to Make Parentheses Valid](./Daily_Challenge/921_Minimum_Add_to_Make_Parentheses_Valid.md) | [Python](./Daily_Challenge/921_Minimum_Add_to_Make_Parentheses_Valid.py) | Medium |
 | 2024-10-08 | [1963](https://www.leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [Minimum Number of Swaps to Make the String Balanced](./Daily_Challenge/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced.md) | [Python](./Daily_Challenge/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced.py) | Medium |
