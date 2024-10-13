@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-10-13 | [632](https://www.leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Smallest Range Covering Elements from K Lists](./Daily_Challenge/632_Smallest_Range_Covering_Elements_from_K_Lists.md) | [Python](./Daily_Challenge/632_Smallest_Range_Covering_Elements_from_K_Lists.py) | Hard |
 | 2024-10-12 | [2406](https://www.leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | [Divide Intervals Into Minimum Number of Groups](./Daily_Challenge/2406_Divide_Intervals_Into_Minimum_Number_of_Groups.md) | [Python](./Daily_Challenge/2406_Divide_Intervals_Into_Minimum_Number_of_Groups.py) | Medium |
 | 2024-10-11 | [1942](https://www.leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [The Number of the Smallest Unoccupied Chair](./Daily_Challenge/1942_The_Number_of_the_Smallest_Unoccupied_Chair.md) | [Python](./Daily_Challenge/1942_The_Number_of_the_Smallest_Unoccupied_Chair.py) | Medium |
 | 2024-10-10 | [962](https://www.leetcode.com/problems/maximum-width-ramp/) | [Maximum Width Ramp](./Daily_Challenge/962_Maximum_Width_Ramp.md) | [Python](./Daily_Challenge/962_Maximum_Width_Ramp.py) | Medium |
