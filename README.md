@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-10-17 | [670](https://www.leetcode.com/problems/maximum-swap/) | [Maximum Swap](./Daily_Challenge/670_Maximum_Swap.md) | [Python](./Daily_Challenge/670_Maximum_Swap.py) | Medium |
 | 2024-10-16 | [1405](https://www.leetcode.com/problems/longest-happy-string/) | [Longest Happy String](./Daily_Challenge/1405_Longest_Happy_String.md) | [Python](./Daily_Challenge/1405_Longest_Happy_String.py) | Medium |
 | 2024-10-15 | [2938](https://www.leetcode.com/problems/separate-black-and-white-balls/) | [Separate Black and White Balls](./Daily_Challenge/2938_Separate_Black_and_White_Balls.md) | [Python](./Daily_Challenge/2938_Separate_Black_and_White_Balls.py) | Medium |
 | 2024-10-14 | [2530](https://www.leetcode.com/problems/maximal-score-after-applying-k-operations/) | [Maximal Score After Applying K Operations](./Daily_Challenge/2530_Maximal_Score_After_Applying_K_Operations.md) | [Python](./Daily_Challenge/2530_Maximal_Score_After_Applying_K_Operations.py) | Medium |
