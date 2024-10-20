@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-10-20 | [1106](https://www.leetcode.com/problems/parsing-a-boolean-expression/) | [Parsing A Boolean Expression](./Daily_Challenge/1106_Parsing_A_Boolean_Expression.md) | [Python](./Daily_Challenge/1106_Parsing_A_Boolean_Expression.py) | Hard |
 | 2024-10-19 | [1545](https://www.leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Find Kth Bit in Nth Binary String](./Daily_Challenge/1545_Find_Kth_Bit_in_Nth_Binary_String.md) | [Python](./Daily_Challenge/1545_Find_Kth_Bit_in_Nth_Binary_String.py) | Medium |
 | 2024-10-18 | [2044](https://www.leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Count Number of Maximum Bitwise-OR Subsets](./Daily_Challenge/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets.md) | [Python](./Daily_Challenge/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets.py) | Medium |
 | 2024-10-17 | [670](https://www.leetcode.com/problems/maximum-swap/) | [Maximum Swap](./Daily_Challenge/670_Maximum_Swap.md) | [Python](./Daily_Challenge/670_Maximum_Swap.py) | Medium |
