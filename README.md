@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-10-21 | [1593](https://www.leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [Split a String Into the Max Number of Unique Substrings](./Daily_Challenge/1593_Split_a_String_Into_the_Max_Number_of_Unique_Substrings.md) | [Python](./Daily_Challenge/1593_Split_a_String_Into_the_Max_Number_of_Unique_Substrings.py) | Medium |
 | 2024-10-20 | [1106](https://www.leetcode.com/problems/parsing-a-boolean-expression/) | [Parsing A Boolean Expression](./Daily_Challenge/1106_Parsing_A_Boolean_Expression.md) | [Python](./Daily_Challenge/1106_Parsing_A_Boolean_Expression.py) | Hard |
 | 2024-10-19 | [1545](https://www.leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Find Kth Bit in Nth Binary String](./Daily_Challenge/1545_Find_Kth_Bit_in_Nth_Binary_String.md) | [Python](./Daily_Challenge/1545_Find_Kth_Bit_in_Nth_Binary_String.py) | Medium |
 | 2024-10-18 | [2044](https://www.leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Count Number of Maximum Bitwise-OR Subsets](./Daily_Challenge/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets.md) | [Python](./Daily_Challenge/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets.py) | Medium |
