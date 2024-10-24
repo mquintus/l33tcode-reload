@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-10-24 | [951](https://www.leetcode.com/problems/flip-equivalent-binary-trees/) | [Flip Equivalent Binary Trees](./Daily_Challenge/951_Flip_Equivalent_Binary_Trees.md) | [Python](./Daily_Challenge/951_Flip_Equivalent_Binary_Trees.py) | Medium |
 | 2024-10-23 | [2641](https://www.leetcode.com/problems/cousins-in-binary-tree-ii/) | [Cousins in Binary Tree II](./Daily_Challenge/2641_Cousins_in_Binary_Tree_II.md) | [Python](./Daily_Challenge/2641_Cousins_in_Binary_Tree_II.py) | Medium |
 | 2024-10-22 | [2583](https://www.leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Kth Largest Sum in a Binary Tree](./Daily_Challenge/2583_Kth_Largest_Sum_in_a_Binary_Tree.md) | [Python](./Daily_Challenge/2583_Kth_Largest_Sum_in_a_Binary_Tree.py) | Medium |
 | 2024-10-21 | [1593](https://www.leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [Split a String Into the Max Number of Unique Substrings](./Daily_Challenge/1593_Split_a_String_Into_the_Max_Number_of_Unique_Substrings.md) | [Python](./Daily_Challenge/1593_Split_a_String_Into_the_Max_Number_of_Unique_Substrings.py) | Medium |
