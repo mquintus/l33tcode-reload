@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-10-26 | [2458](https://www.leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | [Height of Binary Tree After Subtree Removal Queries](./Daily_Challenge/2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.md) | [Python](./Daily_Challenge/2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.py) | Hard |
 | 2024-10-25 | [1233](https://www.leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [Remove Sub-Folders from the Filesystem](./Daily_Challenge/1233_Remove_Sub-Folders_from_the_Filesystem.md) | [Python](./Daily_Challenge/1233_Remove_Sub-Folders_from_the_Filesystem.py) | Medium |
 | 2024-10-24 | [951](https://www.leetcode.com/problems/flip-equivalent-binary-trees/) | [Flip Equivalent Binary Trees](./Daily_Challenge/951_Flip_Equivalent_Binary_Trees.md) | [Python](./Daily_Challenge/951_Flip_Equivalent_Binary_Trees.py) | Medium |
 | 2024-10-23 | [2641](https://www.leetcode.com/problems/cousins-in-binary-tree-ii/) | [Cousins in Binary Tree II](./Daily_Challenge/2641_Cousins_in_Binary_Tree_II.md) | [Python](./Daily_Challenge/2641_Cousins_in_Binary_Tree_II.py) | Medium |
