@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-10-27 | [1277](https://www.leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Count Square Submatrices with All Ones](./Daily_Challenge/1277_Count_Square_Submatrices_with_All_Ones.md) | [Python](./Daily_Challenge/1277_Count_Square_Submatrices_with_All_Ones.py) | Medium |
 | 2024-10-26 | [2458](https://www.leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | [Height of Binary Tree After Subtree Removal Queries](./Daily_Challenge/2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.md) | [Python](./Daily_Challenge/2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.py) | Hard |
 | 2024-10-25 | [1233](https://www.leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [Remove Sub-Folders from the Filesystem](./Daily_Challenge/1233_Remove_Sub-Folders_from_the_Filesystem.md) | [Python](./Daily_Challenge/1233_Remove_Sub-Folders_from_the_Filesystem.py) | Medium |
 | 2024-10-24 | [951](https://www.leetcode.com/problems/flip-equivalent-binary-trees/) | [Flip Equivalent Binary Trees](./Daily_Challenge/951_Flip_Equivalent_Binary_Trees.md) | [Python](./Daily_Challenge/951_Flip_Equivalent_Binary_Trees.py) | Medium |
