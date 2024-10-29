@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-10-29 | [2684](https://www.leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | [Maximum Number of Moves in a Grid](./Daily_Challenge/2684_Maximum_Number_of_Moves_in_a_Grid.md) | [Python](./Daily_Challenge/2684_Maximum_Number_of_Moves_in_a_Grid.py) | Medium |
 | 2024-10-28 | [2501](https://www.leetcode.com/problems/longest-square-streak-in-an-array/) | [Longest Square Streak in an Array](./Daily_Challenge/2501_Longest_Square_Streak_in_an_Array.md) | [Python](./Daily_Challenge/2501_Longest_Square_Streak_in_an_Array.py) | Medium |
 | 2024-10-27 | [1277](https://www.leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Count Square Submatrices with All Ones](./Daily_Challenge/1277_Count_Square_Submatrices_with_All_Ones.md) | [Python](./Daily_Challenge/1277_Count_Square_Submatrices_with_All_Ones.py) | Medium |
 | 2024-10-26 | [2458](https://www.leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | [Height of Binary Tree After Subtree Removal Queries](./Daily_Challenge/2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.md) | [Python](./Daily_Challenge/2458_Height_of_Binary_Tree_After_Subtree_Removal_Queries.py) | Hard |
