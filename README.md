@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-11-04 | [3163](https://www.leetcode.com/problems/string-compression-iii/) | [String Compression III](./Daily_Challenge/3163_String_Compression_III.md) | [Python](./Daily_Challenge/3163_String_Compression_III.py) | Medium |
 | 2024-11-03 | [796](https://www.leetcode.com/problems/rotate-string/) | [Rotate String](./Daily_Challenge/796_Rotate_String.md) | [Python](./Daily_Challenge/796_Rotate_String.py) | Easy |
 | 2024-11-02 | [2490](https://www.leetcode.com/problems/circular-sentence/) | [Circular Sentence](./Daily_Challenge/2490_Circular_Sentence.md) | [Python](./Daily_Challenge/2490_Circular_Sentence.py) | Easy |
 | 2024-11-01 | [1957](https://www.leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Delete Characters to Make Fancy String](./Daily_Challenge/1957_Delete_Characters_to_Make_Fancy_String.md) | [Python](./Daily_Challenge/1957_Delete_Characters_to_Make_Fancy_String.py) | Easy |
