@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-11-06 | [3011](https://www.leetcode.com/problems/find-if-array-can-be-sorted/) | [Find if Array Can Be Sorted](./Daily_Challenge/3011_Find_if_Array_Can_Be_Sorted.md) | [Python](./Daily_Challenge/3011_Find_if_Array_Can_Be_Sorted.py) | Medium |
 | 2024-11-05 | [2914](https://www.leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [Minimum Number of Changes to Make Binary String Beautiful](./Daily_Challenge/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.md) | [Python](./Daily_Challenge/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.py) | Medium |
 | 2024-11-04 | [3163](https://www.leetcode.com/problems/string-compression-iii/) | [String Compression III](./Daily_Challenge/3163_String_Compression_III.md) | [Python](./Daily_Challenge/3163_String_Compression_III.py) | Medium |
 | 2024-11-03 | [796](https://www.leetcode.com/problems/rotate-string/) | [Rotate String](./Daily_Challenge/796_Rotate_String.md) | [Python](./Daily_Challenge/796_Rotate_String.py) | Easy |
