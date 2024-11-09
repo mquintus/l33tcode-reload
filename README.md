@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-11-09 | [3133](https://www.leetcode.com/problems/minimum-array-end/) | [Minimum Array End](./Daily_Challenge/3133_Minimum_Array_End.md) | [Python](./Daily_Challenge/3133_Minimum_Array_End.py) | Medium |
 | 2024-11-08 | [1829](https://www.leetcode.com/problems/maximum-xor-for-each-query/) | [Maximum XOR for Each Query](./Daily_Challenge/1829_Maximum_XOR_for_Each_Query.md) | [Python](./Daily_Challenge/1829_Maximum_XOR_for_Each_Query.py) | Medium |
 | 2024-11-07 | [2275](https://www.leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [Largest Combination With Bitwise AND Greater Than Zero](./Daily_Challenge/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.md) | [Python](./Daily_Challenge/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py) | Medium |
 | 2024-11-06 | [3011](https://www.leetcode.com/problems/find-if-array-can-be-sorted/) | [Find if Array Can Be Sorted](./Daily_Challenge/3011_Find_if_Array_Can_Be_Sorted.md) | [Python](./Daily_Challenge/3011_Find_if_Array_Can_Be_Sorted.py) | Medium |
