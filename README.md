@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-11-10 | [3097](https://www.leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | [Shortest Subarray With OR at Least K II](./Daily_Challenge/3097_Shortest_Subarray_With_OR_at_Least_K_II.md) | [Python](./Daily_Challenge/3097_Shortest_Subarray_With_OR_at_Least_K_II.py) | Medium |
 | 2024-11-09 | [3133](https://www.leetcode.com/problems/minimum-array-end/) | [Minimum Array End](./Daily_Challenge/3133_Minimum_Array_End.md) | [Python](./Daily_Challenge/3133_Minimum_Array_End.py) | Medium |
 | 2024-11-08 | [1829](https://www.leetcode.com/problems/maximum-xor-for-each-query/) | [Maximum XOR for Each Query](./Daily_Challenge/1829_Maximum_XOR_for_Each_Query.md) | [Python](./Daily_Challenge/1829_Maximum_XOR_for_Each_Query.py) | Medium |
 | 2024-11-07 | [2275](https://www.leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [Largest Combination With Bitwise AND Greater Than Zero](./Daily_Challenge/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.md) | [Python](./Daily_Challenge/2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.py) | Medium |
