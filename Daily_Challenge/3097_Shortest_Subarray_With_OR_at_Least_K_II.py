@@ -43,7 +43,7 @@ class Solution:
         while p2 < n:
             add_bits(getbits(nums[p2])) # [1,1,0,1,0] -> [1 2 4 8 16]
             currnumber = tobytes(currbits)
-            print(p1,p2,currbits,currnumber,k)
+            #print(p1,p2,currbits,currnumber,k)
             while currnumber >= k:
                 result = min(result, p2-p1+1)
                 if result == 1: return 1
