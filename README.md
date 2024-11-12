@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-11-12 | [2070](https://www.leetcode.com/problems/most-beautiful-item-for-each-query/) | [Most Beautiful Item for Each Query](./Daily_Challenge/2070_Most_Beautiful_Item_for_Each_Query.md) | [Python](./Daily_Challenge/2070_Most_Beautiful_Item_for_Each_Query.py) | Medium |
 | 2024-11-11 | [2601](https://www.leetcode.com/problems/prime-subtraction-operation/) | [Prime Subtraction Operation](./Daily_Challenge/2601_Prime_Subtraction_Operation.md) | [Python](./Daily_Challenge/2601_Prime_Subtraction_Operation.py) | Medium |
 | 2024-11-10 | [3097](https://www.leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | [Shortest Subarray With OR at Least K II](./Daily_Challenge/3097_Shortest_Subarray_With_OR_at_Least_K_II.md) | [Python](./Daily_Challenge/3097_Shortest_Subarray_With_OR_at_Least_K_II.py) | Medium |
 | 2024-11-09 | [3133](https://www.leetcode.com/problems/minimum-array-end/) | [Minimum Array End](./Daily_Challenge/3133_Minimum_Array_End.md) | [Python](./Daily_Challenge/3133_Minimum_Array_End.py) | Medium |
