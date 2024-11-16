@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-11-16 | [3254](https://www.leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | [Find the Power of K-Size Subarrays I](./Daily_Challenge/3254_Find_the_Power_of_K-Size_Subarrays_I.md) | [Python](./Daily_Challenge/3254_Find_the_Power_of_K-Size_Subarrays_I.py) | Medium |
 | 2024-11-15 | [1574](https://www.leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | [Shortest Subarray to be Removed to Make Array Sorted](./Daily_Challenge/1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted.md) | [Python](./Daily_Challenge/1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted.py) | Medium |
 | 2024-11-14 | [2064](https://www.leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Minimized Maximum of Products Distributed to Any Store](./Daily_Challenge/2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store.md) | [Python](./Daily_Challenge/2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store.py) | Medium |
 | 2024-11-13 | [2563](https://www.leetcode.com/problems/count-the-number-of-fair-pairs/) | [Count the Number of Fair Pairs](./Daily_Challenge/2563_Count_the_Number_of_Fair_Pairs.md) | [Python](./Daily_Challenge/2563_Count_the_Number_of_Fair_Pairs.py) | Medium |
