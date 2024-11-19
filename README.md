@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-11-19 | [2461](https://www.leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [Maximum Sum of Distinct Subarrays With Length K](./Daily_Challenge/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.md) | [Python](./Daily_Challenge/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py) | Medium |
 | 2024-11-18 | [1652](https://www.leetcode.com/problems/defuse-the-bomb/) | [Defuse the Bomb](./Daily_Challenge/1652_Defuse_the_Bomb.md) | [Python](./Daily_Challenge/1652_Defuse_the_Bomb.py) | Easy |
 | 2024-11-17 | [862](https://www.leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Shortest Subarray with Sum at Least K](./Daily_Challenge/862_Shortest_Subarray_with_Sum_at_Least_K.md) | [Python](./Daily_Challenge/862_Shortest_Subarray_with_Sum_at_Least_K.py) | Hard |
 | 2024-11-16 | [3254](https://www.leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | [Find the Power of K-Size Subarrays I](./Daily_Challenge/3254_Find_the_Power_of_K-Size_Subarrays_I.md) | [Python](./Daily_Challenge/3254_Find_the_Power_of_K-Size_Subarrays_I.py) | Medium |
