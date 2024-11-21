@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-11-21 | [2257](https://www.leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [Count Unguarded Cells in the Grid](./Daily_Challenge/2257_Count_Unguarded_Cells_in_the_Grid.md) | [Python](./Daily_Challenge/2257_Count_Unguarded_Cells_in_the_Grid.py) | Medium |
 | 2024-11-20 | [2516](https://www.leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | [Take K of Each Character From Left and Right](./Daily_Challenge/2516_Take_K_of_Each_Character_From_Left_and_Right.md) | [Python](./Daily_Challenge/2516_Take_K_of_Each_Character_From_Left_and_Right.py) | Medium |
 | 2024-11-19 | [2461](https://www.leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [Maximum Sum of Distinct Subarrays With Length K](./Daily_Challenge/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.md) | [Python](./Daily_Challenge/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.py) | Medium |
 | 2024-11-18 | [1652](https://www.leetcode.com/problems/defuse-the-bomb/) | [Defuse the Bomb](./Daily_Challenge/1652_Defuse_the_Bomb.md) | [Python](./Daily_Challenge/1652_Defuse_the_Bomb.py) | Easy |
