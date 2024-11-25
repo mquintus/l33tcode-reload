@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-11-25 | [773](https://www.leetcode.com/problems/sliding-puzzle/) | [Sliding Puzzle](./Daily_Challenge/773_Sliding_Puzzle.md) | [Python](./Daily_Challenge/773_Sliding_Puzzle.py) | Hard |
 | 2024-11-24 | [1975](https://www.leetcode.com/problems/maximum-matrix-sum/) | [Maximum Matrix Sum](./Daily_Challenge/1975_Maximum_Matrix_Sum.md) | [Python](./Daily_Challenge/1975_Maximum_Matrix_Sum.py) | Medium |
 | 2024-11-23 | [1861](https://www.leetcode.com/problems/rotating-the-box/) | [Rotating the Box](./Daily_Challenge/1861_Rotating_the_Box.md) | [Python](./Daily_Challenge/1861_Rotating_the_Box.py) | Medium |
 | 2024-11-22 | [1072](https://www.leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [Flip Columns For Maximum Number of Equal Rows](./Daily_Challenge/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.md) | [Python](./Daily_Challenge/1072_Flip_Columns_For_Maximum_Number_of_Equal_Rows.py) | Medium |
