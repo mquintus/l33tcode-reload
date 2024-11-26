@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-11-26 | [2924](https://www.leetcode.com/problems/find-champion-ii/) | [Find Champion II](./Daily_Challenge/2924_Find_Champion_II.md) | [Python](./Daily_Challenge/2924_Find_Champion_II.py) | Medium |
 | 2024-11-25 | [773](https://www.leetcode.com/problems/sliding-puzzle/) | [Sliding Puzzle](./Daily_Challenge/773_Sliding_Puzzle.md) | [Python](./Daily_Challenge/773_Sliding_Puzzle.py) | Hard |
 | 2024-11-24 | [1975](https://www.leetcode.com/problems/maximum-matrix-sum/) | [Maximum Matrix Sum](./Daily_Challenge/1975_Maximum_Matrix_Sum.md) | [Python](./Daily_Challenge/1975_Maximum_Matrix_Sum.py) | Medium |
 | 2024-11-23 | [1861](https://www.leetcode.com/problems/rotating-the-box/) | [Rotating the Box](./Daily_Challenge/1861_Rotating_the_Box.md) | [Python](./Daily_Challenge/1861_Rotating_the_Box.py) | Medium |
