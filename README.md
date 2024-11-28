@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-11-28 | [2290](https://www.leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [Minimum Obstacle Removal to Reach Corner](./Daily_Challenge/2290_Minimum_Obstacle_Removal_to_Reach_Corner.md) | [Python](./Daily_Challenge/2290_Minimum_Obstacle_Removal_to_Reach_Corner.py) | Hard |
 | 2024-11-27 | [3243](https://www.leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) | [Shortest Distance After Road Addition Queries I](./Daily_Challenge/3243_Shortest_Distance_After_Road_Addition_Queries_I.md) | [Python](./Daily_Challenge/3243_Shortest_Distance_After_Road_Addition_Queries_I.py) | Medium |
 | 2024-11-26 | [2924](https://www.leetcode.com/problems/find-champion-ii/) | [Find Champion II](./Daily_Challenge/2924_Find_Champion_II.md) | [Python](./Daily_Challenge/2924_Find_Champion_II.py) | Medium |
 | 2024-11-25 | [773](https://www.leetcode.com/problems/sliding-puzzle/) | [Sliding Puzzle](./Daily_Challenge/773_Sliding_Puzzle.md) | [Python](./Daily_Challenge/773_Sliding_Puzzle.py) | Hard |
