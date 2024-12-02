@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-12-02 | [1455](https://www.leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](./Daily_Challenge/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.md) | [Python](./Daily_Challenge/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.py) | Easy |
 | 2024-12-01 | [1346](https://www.leetcode.com/problems/check-if-n-and-its-double-exist/) | [Check If N and Its Double Exist](./Daily_Challenge/1346_Check_If_N_and_Its_Double_Exist.md) | [Python](./Daily_Challenge/1346_Check_If_N_and_Its_Double_Exist.py) | Easy |
 | 2024-11-30 | [2097](https://www.leetcode.com/problems/valid-arrangement-of-pairs/) | [Valid Arrangement of Pairs](./Daily_Challenge/2097_Valid_Arrangement_of_Pairs.md) | [Python](./Daily_Challenge/2097_Valid_Arrangement_of_Pairs.py) | Hard |
 | 2024-11-29 | [2577](https://www.leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | [Minimum Time to Visit a Cell In a Grid](./Daily_Challenge/2577_Minimum_Time_to_Visit_a_Cell_In_a_Grid.md) | [Python](./Daily_Challenge/2577_Minimum_Time_to_Visit_a_Cell_In_a_Grid.py) | Hard |
