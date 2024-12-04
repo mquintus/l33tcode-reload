@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-12-04 | [2825](https://www.leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | [Make String a Subsequence Using Cyclic Increments](./Daily_Challenge/2825_Make_String_a_Subsequence_Using_Cyclic_Increments.md) | [Python](./Daily_Challenge/2825_Make_String_a_Subsequence_Using_Cyclic_Increments.py) | Medium |
 | 2024-12-03 | [2109](https://www.leetcode.com/problems/adding-spaces-to-a-string/) | [Adding Spaces to a String](./Daily_Challenge/2109_Adding_Spaces_to_a_String.md) | [Python](./Daily_Challenge/2109_Adding_Spaces_to_a_String.py) | Medium |
 | 2024-12-02 | [1455](https://www.leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](./Daily_Challenge/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.md) | [Python](./Daily_Challenge/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.py) | Easy |
 | 2024-12-01 | [1346](https://www.leetcode.com/problems/check-if-n-and-its-double-exist/) | [Check If N and Its Double Exist](./Daily_Challenge/1346_Check_If_N_and_Its_Double_Exist.md) | [Python](./Daily_Challenge/1346_Check_If_N_and_Its_Double_Exist.py) | Easy |
