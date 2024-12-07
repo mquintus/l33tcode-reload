@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-12-07 | [1760](https://www.leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [Minimum Limit of Balls in a Bag](./Daily_Challenge/1760_Minimum_Limit_of_Balls_in_a_Bag.md) | [Python](./Daily_Challenge/1760_Minimum_Limit_of_Balls_in_a_Bag.py) | Medium |
 | 2024-12-06 | [2554](https://www.leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | [Maximum Number of Integers to Choose From a Range I](./Daily_Challenge/2554_Maximum_Number_of_Integers_to_Choose_From_a_Range_I.md) | [Python](./Daily_Challenge/2554_Maximum_Number_of_Integers_to_Choose_From_a_Range_I.py) | Medium |
 | 2024-12-05 | [2337](https://www.leetcode.com/problems/move-pieces-to-obtain-a-string/) | [Move Pieces to Obtain a String](./Daily_Challenge/2337_Move_Pieces_to_Obtain_a_String.md) | [Python](./Daily_Challenge/2337_Move_Pieces_to_Obtain_a_String.py) | Medium |
 | 2024-12-04 | [2825](https://www.leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | [Make String a Subsequence Using Cyclic Increments](./Daily_Challenge/2825_Make_String_a_Subsequence_Using_Cyclic_Increments.md) | [Python](./Daily_Challenge/2825_Make_String_a_Subsequence_Using_Cyclic_Increments.py) | Medium |
