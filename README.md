@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-12-11 | [2779](https://www.leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | [Maximum Beauty of an Array After Applying Operation](./Daily_Challenge/2779_Maximum_Beauty_of_an_Array_After_Applying_Operation.md) | [Python](./Daily_Challenge/2779_Maximum_Beauty_of_an_Array_After_Applying_Operation.py) | Medium |
 | 2024-12-10 | [2981](https://www.leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | [Find Longest Special Substring That Occurs Thrice I](./Daily_Challenge/2981_Find_Longest_Special_Substring_That_Occurs_Thrice_I.md) | [Python](./Daily_Challenge/2981_Find_Longest_Special_Substring_That_Occurs_Thrice_I.py) | Medium |
 | 2024-12-09 | [3152](https://www.leetcode.com/problems/special-array-ii/) | [Special Array II](./Daily_Challenge/3152_Special_Array_II.md) | [Python](./Daily_Challenge/3152_Special_Array_II.py) | Medium |
 | 2024-12-08 | [2054](https://www.leetcode.com/problems/two-best-non-overlapping-events/) | [Two Best Non-Overlapping Events](./Daily_Challenge/2054_Two_Best_Non-Overlapping_Events.md) | [Python](./Daily_Challenge/2054_Two_Best_Non-Overlapping_Events.py) | Medium |
