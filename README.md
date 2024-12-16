@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-12-16 | [3264](https://www.leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | [Final Array State After K Multiplication Operations I](./Daily_Challenge/3264_Final_Array_State_After_K_Multiplication_Operations_I.md) | [Python](./Daily_Challenge/3264_Final_Array_State_After_K_Multiplication_Operations_I.py) | Easy |
 | 2024-12-15 | [1792](https://www.leetcode.com/problems/maximum-average-pass-ratio/) | [Maximum Average Pass Ratio](./Daily_Challenge/1792_Maximum_Average_Pass_Ratio.md) | [Python](./Daily_Challenge/1792_Maximum_Average_Pass_Ratio.py) | Medium |
 | 2024-12-14 | [2762](https://www.leetcode.com/problems/continuous-subarrays/) | [Continuous Subarrays](./Daily_Challenge/2762_Continuous_Subarrays.md) | [Python](./Daily_Challenge/2762_Continuous_Subarrays.py) | Medium |
 | 2024-12-13 | [2593](https://www.leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | [Find Score of an Array After Marking All Elements](./Daily_Challenge/2593_Find_Score_of_an_Array_After_Marking_All_Elements.md) | [Python](./Daily_Challenge/2593_Find_Score_of_an_Array_After_Marking_All_Elements.py) | Medium |
