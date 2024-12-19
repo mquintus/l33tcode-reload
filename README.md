@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-12-19 | [769](https://www.leetcode.com/problems/max-chunks-to-make-sorted/) | [Max Chunks To Make Sorted](./Daily_Challenge/769_Max_Chunks_To_Make_Sorted.md) | [Python](./Daily_Challenge/769_Max_Chunks_To_Make_Sorted.py) | Medium |
 | 2024-12-18 | [1475](https://www.leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [Final Prices With a Special Discount in a Shop](./Daily_Challenge/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.md) | [Python](./Daily_Challenge/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.py) | Easy |
 | 2024-12-17 | [2182](https://www.leetcode.com/problems/construct-string-with-repeat-limit/) | [Construct String With Repeat Limit](./Daily_Challenge/2182_Construct_String_With_Repeat_Limit.md) | [Python](./Daily_Challenge/2182_Construct_String_With_Repeat_Limit.py) | Medium |
 | 2024-12-16 | [3264](https://www.leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | [Final Array State After K Multiplication Operations I](./Daily_Challenge/3264_Final_Array_State_After_K_Multiplication_Operations_I.md) | [Python](./Daily_Challenge/3264_Final_Array_State_After_K_Multiplication_Operations_I.py) | Easy |
