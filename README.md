@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-12-21 | [2872](https://www.leetcode.com/problems/maximum-number-of-k-divisible-components/) | [Maximum Number of K-Divisible Components](./Daily_Challenge/2872_Maximum_Number_of_K-Divisible_Components.md) | [Python](./Daily_Challenge/2872_Maximum_Number_of_K-Divisible_Components.py) | Hard |
 | 2024-12-20 | [2415](https://www.leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | [Reverse Odd Levels of Binary Tree](./Daily_Challenge/2415_Reverse_Odd_Levels_of_Binary_Tree.md) | [Python](./Daily_Challenge/2415_Reverse_Odd_Levels_of_Binary_Tree.py) | Medium |
 | 2024-12-19 | [769](https://www.leetcode.com/problems/max-chunks-to-make-sorted/) | [Max Chunks To Make Sorted](./Daily_Challenge/769_Max_Chunks_To_Make_Sorted.md) | [Python](./Daily_Challenge/769_Max_Chunks_To_Make_Sorted.py) | Medium |
 | 2024-12-18 | [1475](https://www.leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [Final Prices With a Special Discount in a Shop](./Daily_Challenge/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.md) | [Python](./Daily_Challenge/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.py) | Easy |
