@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-12-25 | [515](https://www.leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Find Largest Value in Each Tree Row](./Daily_Challenge/515_Find_Largest_Value_in_Each_Tree_Row.md) | [Python](./Daily_Challenge/515_Find_Largest_Value_in_Each_Tree_Row.py) | Medium |
 | 2024-12-24 | [3203](https://www.leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | [Find Minimum Diameter After Merging Two Trees](./Daily_Challenge/3203_Find_Minimum_Diameter_After_Merging_Two_Trees.md) | [Python](./Daily_Challenge/3203_Find_Minimum_Diameter_After_Merging_Two_Trees.py) | Hard |
 | 2024-12-23 | [2471](https://www.leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | [Minimum Number of Operations to Sort a Binary Tree by Level](./Daily_Challenge/2471_Minimum_Number_of_Operations_to_Sort_a_Binary_Tree_by_Level.md) | [Python](./Daily_Challenge/2471_Minimum_Number_of_Operations_to_Sort_a_Binary_Tree_by_Level.py) | Medium |
 | 2024-12-22 | [2940](https://www.leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [Find Building Where Alice and Bob Can Meet](./Daily_Challenge/2940_Find_Building_Where_Alice_and_Bob_Can_Meet.md) | [Python](./Daily_Challenge/2940_Find_Building_Where_Alice_and_Bob_Can_Meet.py) | Hard |
