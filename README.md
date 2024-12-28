@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2024-12-28 | [689](https://www.leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Maximum Sum of 3 Non-Overlapping Subarrays](./Daily_Challenge/689_Maximum_Sum_of_3_Non-Overlapping_Subarrays.md) | [Python](./Daily_Challenge/689_Maximum_Sum_of_3_Non-Overlapping_Subarrays.py) | Hard |
 | 2024-12-27 | [1014](https://www.leetcode.com/problems/best-sightseeing-pair/) | [Best Sightseeing Pair](./Daily_Challenge/1014_Best_Sightseeing_Pair.md) | [Python](./Daily_Challenge/1014_Best_Sightseeing_Pair.py) | Medium |
 | 2024-12-26 | [494](https://www.leetcode.com/problems/target-sum/) | [Target Sum](./Daily_Challenge/494_Target_Sum.md) | [Python](./Daily_Challenge/494_Target_Sum.py) | Medium |
 | 2024-12-25 | [515](https://www.leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Find Largest Value in Each Tree Row](./Daily_Challenge/515_Find_Largest_Value_in_Each_Tree_Row.md) | [Python](./Daily_Challenge/515_Find_Largest_Value_in_Each_Tree_Row.py) | Medium |
