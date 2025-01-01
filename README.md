@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-01 | [1422](https://www.leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Score After Splitting a String](./Daily_Challenge/1422_Maximum_Score_After_Splitting_a_String.md) | [Python](./Daily_Challenge/1422_Maximum_Score_After_Splitting_a_String.py) | Easy |
 | 2024-12-31 | [983](https://www.leetcode.com/problems/minimum-cost-for-tickets/) | [Minimum Cost For Tickets](./Daily_Challenge/983_Minimum_Cost_For_Tickets.md) | [Python](./Daily_Challenge/983_Minimum_Cost_For_Tickets.py) | Medium |
 | 2024-12-30 | [2466](https://www.leetcode.com/problems/count-ways-to-build-good-strings/) | [Count Ways To Build Good Strings](./Daily_Challenge/2466_Count_Ways_To_Build_Good_Strings.md) | [Python](./Daily_Challenge/2466_Count_Ways_To_Build_Good_Strings.py) | Medium |
 | 2024-12-29 | [1639](https://www.leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | [Number of Ways to Form a Target String Given a Dictionary](./Daily_Challenge/1639_Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary.md) | [Python](./Daily_Challenge/1639_Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary.py) | Hard |
