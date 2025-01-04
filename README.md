@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-04 | [1930](https://www.leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Unique Length-3 Palindromic Subsequences](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.md) | [Python](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.py) | Medium |
 | 2025-01-03 | [2270](https://www.leetcode.com/problems/number-of-ways-to-split-array/) | [Number of Ways to Split Array](./Daily_Challenge/2270_Number_of_Ways_to_Split_Array.md) | [Python](./Daily_Challenge/2270_Number_of_Ways_to_Split_Array.py) | Medium |
 | 2025-01-02 | [2559](https://www.leetcode.com/problems/count-vowel-strings-in-ranges/) | [Count Vowel Strings in Ranges](./Daily_Challenge/2559_Count_Vowel_Strings_in_Ranges.md) | [Python](./Daily_Challenge/2559_Count_Vowel_Strings_in_Ranges.py) | Medium |
 | 2025-01-01 | [1422](https://www.leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Score After Splitting a String](./Daily_Challenge/1422_Maximum_Score_After_Splitting_a_String.md) | [Python](./Daily_Challenge/1422_Maximum_Score_After_Splitting_a_String.py) | Easy |
