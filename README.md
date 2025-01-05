@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-05 | [2381](https://www.leetcode.com/problems/shifting-letters-ii/) | [Shifting Letters II](./Daily_Challenge/2381_Shifting_Letters_II.md) | [Python](./Daily_Challenge/2381_Shifting_Letters_II.py) | Medium |
 | 2025-01-04 | [1930](https://www.leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Unique Length-3 Palindromic Subsequences](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.md) | [Python](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.py) | Medium |
 | 2025-01-03 | [2270](https://www.leetcode.com/problems/number-of-ways-to-split-array/) | [Number of Ways to Split Array](./Daily_Challenge/2270_Number_of_Ways_to_Split_Array.md) | [Python](./Daily_Challenge/2270_Number_of_Ways_to_Split_Array.py) | Medium |
 | 2025-01-02 | [2559](https://www.leetcode.com/problems/count-vowel-strings-in-ranges/) | [Count Vowel Strings in Ranges](./Daily_Challenge/2559_Count_Vowel_Strings_in_Ranges.md) | [Python](./Daily_Challenge/2559_Count_Vowel_Strings_in_Ranges.py) | Medium |
