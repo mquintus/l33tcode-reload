@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-07 | [1408](https://www.leetcode.com/problems/string-matching-in-an-array/) | [String Matching in an Array](./Daily_Challenge/1408_String_Matching_in_an_Array.md) | [Python](./Daily_Challenge/1408_String_Matching_in_an_Array.py) | Easy |
 | 2025-01-06 | [1769](https://www.leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Minimum Number of Operations to Move All Balls to Each Box](./Daily_Challenge/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.md) | [Python](./Daily_Challenge/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.py) | Medium |
 | 2025-01-05 | [2381](https://www.leetcode.com/problems/shifting-letters-ii/) | [Shifting Letters II](./Daily_Challenge/2381_Shifting_Letters_II.md) | [Python](./Daily_Challenge/2381_Shifting_Letters_II.py) | Medium |
 | 2025-01-04 | [1930](https://www.leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Unique Length-3 Palindromic Subsequences](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.md) | [Python](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.py) | Medium |
