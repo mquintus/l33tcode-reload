@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-09 | [2185](https://www.leetcode.com/problems/counting-words-with-a-given-prefix/) | [Counting Words With a Given Prefix](./Daily_Challenge/2185_Counting_Words_With_a_Given_Prefix.md) | [Python](./Daily_Challenge/2185_Counting_Words_With_a_Given_Prefix.py) | Easy |
 | 2025-01-08 | [3042](https://www.leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | [Count Prefix and Suffix Pairs I](./Daily_Challenge/3042_Count_Prefix_and_Suffix_Pairs_I.md) | [Python](./Daily_Challenge/3042_Count_Prefix_and_Suffix_Pairs_I.py) | Easy |
 | 2025-01-07 | [1408](https://www.leetcode.com/problems/string-matching-in-an-array/) | [String Matching in an Array](./Daily_Challenge/1408_String_Matching_in_an_Array.md) | [Python](./Daily_Challenge/1408_String_Matching_in_an_Array.py) | Easy |
 | 2025-01-06 | [1769](https://www.leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Minimum Number of Operations to Move All Balls to Each Box](./Daily_Challenge/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.md) | [Python](./Daily_Challenge/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.py) | Medium |
