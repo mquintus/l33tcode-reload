@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-11 | [1400](https://www.leetcode.com/problems/construct-k-palindrome-strings/) | [Construct K Palindrome Strings](./Daily_Challenge/1400_Construct_K_Palindrome_Strings.md) | [Python](./Daily_Challenge/1400_Construct_K_Palindrome_Strings.py) | Medium |
 | 2025-01-10 | [916](https://www.leetcode.com/problems/word-subsets/) | [Word Subsets](./Daily_Challenge/916_Word_Subsets.md) | [Python](./Daily_Challenge/916_Word_Subsets.py) | Medium |
 | 2025-01-09 | [2185](https://www.leetcode.com/problems/counting-words-with-a-given-prefix/) | [Counting Words With a Given Prefix](./Daily_Challenge/2185_Counting_Words_With_a_Given_Prefix.md) | [Python](./Daily_Challenge/2185_Counting_Words_With_a_Given_Prefix.py) | Easy |
 | 2025-01-08 | [3042](https://www.leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | [Count Prefix and Suffix Pairs I](./Daily_Challenge/3042_Count_Prefix_and_Suffix_Pairs_I.md) | [Python](./Daily_Challenge/3042_Count_Prefix_and_Suffix_Pairs_I.py) | Easy |
