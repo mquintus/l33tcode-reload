@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-12 | [2116](https://www.leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | [Check if a Parentheses String Can Be Valid](./Daily_Challenge/2116_Check_if_a_Parentheses_String_Can_Be_Valid.md) | [Python](./Daily_Challenge/2116_Check_if_a_Parentheses_String_Can_Be_Valid.py) | Medium |
 | 2025-01-11 | [1400](https://www.leetcode.com/problems/construct-k-palindrome-strings/) | [Construct K Palindrome Strings](./Daily_Challenge/1400_Construct_K_Palindrome_Strings.md) | [Python](./Daily_Challenge/1400_Construct_K_Palindrome_Strings.py) | Medium |
 | 2025-01-10 | [916](https://www.leetcode.com/problems/word-subsets/) | [Word Subsets](./Daily_Challenge/916_Word_Subsets.md) | [Python](./Daily_Challenge/916_Word_Subsets.py) | Medium |
 | 2025-01-09 | [2185](https://www.leetcode.com/problems/counting-words-with-a-given-prefix/) | [Counting Words With a Given Prefix](./Daily_Challenge/2185_Counting_Words_With_a_Given_Prefix.md) | [Python](./Daily_Challenge/2185_Counting_Words_With_a_Given_Prefix.py) | Easy |
