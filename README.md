@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-13 | [3223](https://www.leetcode.com/problems/minimum-length-of-string-after-operations/) | [Minimum Length of String After Operations](./Daily_Challenge/3223_Minimum_Length_of_String_After_Operations.md) | [Python](./Daily_Challenge/3223_Minimum_Length_of_String_After_Operations.py) | Medium |
 | 2025-01-12 | [2116](https://www.leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | [Check if a Parentheses String Can Be Valid](./Daily_Challenge/2116_Check_if_a_Parentheses_String_Can_Be_Valid.md) | [Python](./Daily_Challenge/2116_Check_if_a_Parentheses_String_Can_Be_Valid.py) | Medium |
 | 2025-01-11 | [1400](https://www.leetcode.com/problems/construct-k-palindrome-strings/) | [Construct K Palindrome Strings](./Daily_Challenge/1400_Construct_K_Palindrome_Strings.md) | [Python](./Daily_Challenge/1400_Construct_K_Palindrome_Strings.py) | Medium |
 | 2025-01-10 | [916](https://www.leetcode.com/problems/word-subsets/) | [Word Subsets](./Daily_Challenge/916_Word_Subsets.md) | [Python](./Daily_Challenge/916_Word_Subsets.py) | Medium |
