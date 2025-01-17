@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-17 | [2683](https://www.leetcode.com/problems/neighboring-bitwise-xor/) | [Neighboring Bitwise XOR](./Daily_Challenge/2683_Neighboring_Bitwise_XOR.md) | [Python](./Daily_Challenge/2683_Neighboring_Bitwise_XOR.py) | Medium |
 | 2025-01-16 | [2425](https://www.leetcode.com/problems/bitwise-xor-of-all-pairings/) | [Bitwise XOR of All Pairings](./Daily_Challenge/2425_Bitwise_XOR_of_All_Pairings.md) | [Python](./Daily_Challenge/2425_Bitwise_XOR_of_All_Pairings.py) | Medium |
 | 2025-01-15 | [2429](https://www.leetcode.com/problems/minimize-xor/) | [Minimize XOR](./Daily_Challenge/2429_Minimize_XOR.md) | [Python](./Daily_Challenge/2429_Minimize_XOR.py) | Medium |
 | 2025-01-14 | [2657](https://www.leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Find the Prefix Common Array of Two Arrays](./Daily_Challenge/2657_Find_the_Prefix_Common_Array_of_Two_Arrays.md) | [Python](./Daily_Challenge/2657_Find_the_Prefix_Common_Array_of_Two_Arrays.py) | Medium |
