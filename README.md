@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-18 | [1368](https://www.leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | [Minimum Cost to Make at Least One Valid Path in a Grid](./Daily_Challenge/1368_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid.md) | [Python](./Daily_Challenge/1368_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid.py) | Hard |
 | 2025-01-17 | [2683](https://www.leetcode.com/problems/neighboring-bitwise-xor/) | [Neighboring Bitwise XOR](./Daily_Challenge/2683_Neighboring_Bitwise_XOR.md) | [Python](./Daily_Challenge/2683_Neighboring_Bitwise_XOR.py) | Medium |
 | 2025-01-16 | [2425](https://www.leetcode.com/problems/bitwise-xor-of-all-pairings/) | [Bitwise XOR of All Pairings](./Daily_Challenge/2425_Bitwise_XOR_of_All_Pairings.md) | [Python](./Daily_Challenge/2425_Bitwise_XOR_of_All_Pairings.py) | Medium |
 | 2025-01-15 | [2429](https://www.leetcode.com/problems/minimize-xor/) | [Minimize XOR](./Daily_Challenge/2429_Minimize_XOR.md) | [Python](./Daily_Challenge/2429_Minimize_XOR.py) | Medium |
