@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-20 | [2661](https://www.leetcode.com/problems/first-completely-painted-row-or-column/) | [First Completely Painted Row or Column](./Daily_Challenge/2661_First_Completely_Painted_Row_or_Column.md) | [Python](./Daily_Challenge/2661_First_Completely_Painted_Row_or_Column.py) | Medium |
 | 2025-01-19 | [407](https://www.leetcode.com/problems/trapping-rain-water-ii/) | [Trapping Rain Water II](./Daily_Challenge/407_Trapping_Rain_Water_II.md) | [Python](./Daily_Challenge/407_Trapping_Rain_Water_II.py) | Hard |
 | 2025-01-18 | [1368](https://www.leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | [Minimum Cost to Make at Least One Valid Path in a Grid](./Daily_Challenge/1368_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid.md) | [Python](./Daily_Challenge/1368_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid.py) | Hard |
 | 2025-01-17 | [2683](https://www.leetcode.com/problems/neighboring-bitwise-xor/) | [Neighboring Bitwise XOR](./Daily_Challenge/2683_Neighboring_Bitwise_XOR.md) | [Python](./Daily_Challenge/2683_Neighboring_Bitwise_XOR.py) | Medium |
