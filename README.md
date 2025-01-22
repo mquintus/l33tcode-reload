@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-22 | [1765](https://www.leetcode.com/problems/map-of-highest-peak/) | [Map of Highest Peak](./Daily_Challenge/1765_Map_of_Highest_Peak.md) | [Python](./Daily_Challenge/1765_Map_of_Highest_Peak.py) | Medium |
 | 2025-01-21 | [2017](https://www.leetcode.com/problems/grid-game/) | [Grid Game](./Daily_Challenge/2017_Grid_Game.md) | [Python](./Daily_Challenge/2017_Grid_Game.py) | Medium |
 | 2025-01-20 | [2661](https://www.leetcode.com/problems/first-completely-painted-row-or-column/) | [First Completely Painted Row or Column](./Daily_Challenge/2661_First_Completely_Painted_Row_or_Column.md) | [Python](./Daily_Challenge/2661_First_Completely_Painted_Row_or_Column.py) | Medium |
 | 2025-01-19 | [407](https://www.leetcode.com/problems/trapping-rain-water-ii/) | [Trapping Rain Water II](./Daily_Challenge/407_Trapping_Rain_Water_II.md) | [Python](./Daily_Challenge/407_Trapping_Rain_Water_II.py) | Hard |
