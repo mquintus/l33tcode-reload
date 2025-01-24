@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-24 | [802](https://www.leetcode.com/problems/find-eventual-safe-states/) | [Find Eventual Safe States](./Daily_Challenge/802_Find_Eventual_Safe_States.md) | [Python](./Daily_Challenge/802_Find_Eventual_Safe_States.py) | Medium |
 | 2025-01-23 | [1267](https://www.leetcode.com/problems/count-servers-that-communicate/) | [Count Servers that Communicate](./Daily_Challenge/1267_Count_Servers_that_Communicate.md) | [Python](./Daily_Challenge/1267_Count_Servers_that_Communicate.py) | Medium |
 | 2025-01-22 | [1765](https://www.leetcode.com/problems/map-of-highest-peak/) | [Map of Highest Peak](./Daily_Challenge/1765_Map_of_Highest_Peak.md) | [Python](./Daily_Challenge/1765_Map_of_Highest_Peak.py) | Medium |
 | 2025-01-21 | [2017](https://www.leetcode.com/problems/grid-game/) | [Grid Game](./Daily_Challenge/2017_Grid_Game.md) | [Python](./Daily_Challenge/2017_Grid_Game.py) | Medium |
