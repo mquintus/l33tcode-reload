@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-26 | [2127](https://www.leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) | [Maximum Employees to Be Invited to a Meeting](./Daily_Challenge/2127_Maximum_Employees_to_Be_Invited_to_a_Meeting.md) | [Python](./Daily_Challenge/2127_Maximum_Employees_to_Be_Invited_to_a_Meeting.py) | Hard |
 | 2025-01-25 | [2948](https://www.leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Make Lexicographically Smallest Array by Swapping Elements](./Daily_Challenge/2948_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.md) | [Python](./Daily_Challenge/2948_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.py) | Medium |
 | 2025-01-24 | [802](https://www.leetcode.com/problems/find-eventual-safe-states/) | [Find Eventual Safe States](./Daily_Challenge/802_Find_Eventual_Safe_States.md) | [Python](./Daily_Challenge/802_Find_Eventual_Safe_States.py) | Medium |
 | 2025-01-23 | [1267](https://www.leetcode.com/problems/count-servers-that-communicate/) | [Count Servers that Communicate](./Daily_Challenge/1267_Count_Servers_that_Communicate.md) | [Python](./Daily_Challenge/1267_Count_Servers_that_Communicate.py) | Medium |
