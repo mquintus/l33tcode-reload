@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-28 | [2658](https://www.leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | [Maximum Number of Fish in a Grid](./Daily_Challenge/2658_Maximum_Number_of_Fish_in_a_Grid.md) | [Python](./Daily_Challenge/2658_Maximum_Number_of_Fish_in_a_Grid.py) | Medium |
 | 2025-01-27 | [1462](https://www.leetcode.com/problems/course-schedule-iv/) | [Course Schedule IV](./Daily_Challenge/1462_Course_Schedule_IV.md) | [Python](./Daily_Challenge/1462_Course_Schedule_IV.py) | Medium |
 | 2025-01-26 | [2127](https://www.leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) | [Maximum Employees to Be Invited to a Meeting](./Daily_Challenge/2127_Maximum_Employees_to_Be_Invited_to_a_Meeting.md) | [Python](./Daily_Challenge/2127_Maximum_Employees_to_Be_Invited_to_a_Meeting.py) | Hard |
 | 2025-01-25 | [2948](https://www.leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Make Lexicographically Smallest Array by Swapping Elements](./Daily_Challenge/2948_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.md) | [Python](./Daily_Challenge/2948_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.py) | Medium |
