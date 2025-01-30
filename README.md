@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-01-30 | [2493](https://www.leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/) | [Divide Nodes Into the Maximum Number of Groups](./Daily_Challenge/2493_Divide_Nodes_Into_the_Maximum_Number_of_Groups.md) | [Python](./Daily_Challenge/2493_Divide_Nodes_Into_the_Maximum_Number_of_Groups.py) | Hard |
 | 2025-01-29 | [684](https://www.leetcode.com/problems/redundant-connection/) | [Redundant Connection](./Daily_Challenge/684_Redundant_Connection.md) | [Python](./Daily_Challenge/684_Redundant_Connection.py) | Medium |
 | 2025-01-28 | [2658](https://www.leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | [Maximum Number of Fish in a Grid](./Daily_Challenge/2658_Maximum_Number_of_Fish_in_a_Grid.md) | [Python](./Daily_Challenge/2658_Maximum_Number_of_Fish_in_a_Grid.py) | Medium |
 | 2025-01-27 | [1462](https://www.leetcode.com/problems/course-schedule-iv/) | [Course Schedule IV](./Daily_Challenge/1462_Course_Schedule_IV.md) | [Python](./Daily_Challenge/1462_Course_Schedule_IV.py) | Medium |
