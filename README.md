@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-02-01 | [3151](https://www.leetcode.com/problems/special-array-i/) | [Special Array I](./Daily_Challenge/3151_Special_Array_I.md) | [Python](./Daily_Challenge/3151_Special_Array_I.py) | Easy |
 | 2025-01-31 | [827](https://www.leetcode.com/problems/making-a-large-island/) | [Making A Large Island](./Daily_Challenge/827_Making_A_Large_Island.md) | [Python](./Daily_Challenge/827_Making_A_Large_Island.py) | Hard |
 | 2025-01-30 | [2493](https://www.leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/) | [Divide Nodes Into the Maximum Number of Groups](./Daily_Challenge/2493_Divide_Nodes_Into_the_Maximum_Number_of_Groups.md) | [Python](./Daily_Challenge/2493_Divide_Nodes_Into_the_Maximum_Number_of_Groups.py) | Hard |
 | 2025-01-29 | [684](https://www.leetcode.com/problems/redundant-connection/) | [Redundant Connection](./Daily_Challenge/684_Redundant_Connection.md) | [Python](./Daily_Challenge/684_Redundant_Connection.py) | Medium |
