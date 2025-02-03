@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-02-03 | [3105](https://www.leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Longest Strictly Increasing or Strictly Decreasing Subarray](./Daily_Challenge/3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.md) | [Python](./Daily_Challenge/3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.py) | Easy |
 | 2025-02-02 | [1752](https://www.leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Check if Array Is Sorted and Rotated](./Daily_Challenge/1752_Check_if_Array_Is_Sorted_and_Rotated.md) | [Python](./Daily_Challenge/1752_Check_if_Array_Is_Sorted_and_Rotated.py) | Easy |
 | 2025-02-01 | [3151](https://www.leetcode.com/problems/special-array-i/) | [Special Array I](./Daily_Challenge/3151_Special_Array_I.md) | [Python](./Daily_Challenge/3151_Special_Array_I.py) | Easy |
 | 2025-01-31 | [827](https://www.leetcode.com/problems/making-a-large-island/) | [Making A Large Island](./Daily_Challenge/827_Making_A_Large_Island.md) | [Python](./Daily_Challenge/827_Making_A_Large_Island.py) | Hard |
