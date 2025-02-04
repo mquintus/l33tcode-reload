@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-02-04 | [1800](https://www.leetcode.com/problems/maximum-ascending-subarray-sum/) | [Maximum Ascending Subarray Sum](./Daily_Challenge/1800_Maximum_Ascending_Subarray_Sum.md) | [Python](./Daily_Challenge/1800_Maximum_Ascending_Subarray_Sum.py) | Easy |
 | 2025-02-03 | [3105](https://www.leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Longest Strictly Increasing or Strictly Decreasing Subarray](./Daily_Challenge/3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.md) | [Python](./Daily_Challenge/3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.py) | Easy |
 | 2025-02-02 | [1752](https://www.leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Check if Array Is Sorted and Rotated](./Daily_Challenge/1752_Check_if_Array_Is_Sorted_and_Rotated.md) | [Python](./Daily_Challenge/1752_Check_if_Array_Is_Sorted_and_Rotated.py) | Easy |
 | 2025-02-01 | [3151](https://www.leetcode.com/problems/special-array-i/) | [Special Array I](./Daily_Challenge/3151_Special_Array_I.md) | [Python](./Daily_Challenge/3151_Special_Array_I.py) | Easy |
