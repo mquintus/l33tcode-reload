@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-02-07 | [3160](https://www.leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) | [Find the Number of Distinct Colors Among the Balls](./Daily_Challenge/3160_Find_the_Number_of_Distinct_Colors_Among_the_Balls.md) | [Python](./Daily_Challenge/3160_Find_the_Number_of_Distinct_Colors_Among_the_Balls.py) | Medium |
 | 2025-02-06 | [1726](https://www.leetcode.com/problems/tuple-with-same-product/) | [Tuple with Same Product](./Daily_Challenge/1726_Tuple_with_Same_Product.md) | [Python](./Daily_Challenge/1726_Tuple_with_Same_Product.py) | Medium |
 | 2025-02-05 | [1790](https://www.leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Check if One String Swap Can Make Strings Equal](./Daily_Challenge/1790_Check_if_One_String_Swap_Can_Make_Strings_Equal.md) | [Python](./Daily_Challenge/1790_Check_if_One_String_Swap_Can_Make_Strings_Equal.py) | Easy |
 | 2025-02-04 | [1800](https://www.leetcode.com/problems/maximum-ascending-subarray-sum/) | [Maximum Ascending Subarray Sum](./Daily_Challenge/1800_Maximum_Ascending_Subarray_Sum.md) | [Python](./Daily_Challenge/1800_Maximum_Ascending_Subarray_Sum.py) | Easy |
