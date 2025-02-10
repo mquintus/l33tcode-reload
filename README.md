@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-02-10 | [3174](https://www.leetcode.com/problems/clear-digits/) | [Clear Digits](./Daily_Challenge/3174_Clear_Digits.md) | [Python](./Daily_Challenge/3174_Clear_Digits.py) | Easy |
 | 2025-02-09 | [2364](https://www.leetcode.com/problems/count-number-of-bad-pairs/) | [Count Number of Bad Pairs](./Daily_Challenge/2364_Count_Number_of_Bad_Pairs.md) | [Python](./Daily_Challenge/2364_Count_Number_of_Bad_Pairs.py) | Medium |
 | 2025-02-08 | [2349](https://www.leetcode.com/problems/design-a-number-container-system/) | [Design a Number Container System](./Daily_Challenge/2349_Design_a_Number_Container_System.md) | [Python](./Daily_Challenge/2349_Design_a_Number_Container_System.py) | Medium |
 | 2025-02-07 | [3160](https://www.leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) | [Find the Number of Distinct Colors Among the Balls](./Daily_Challenge/3160_Find_the_Number_of_Distinct_Colors_Among_the_Balls.md) | [Python](./Daily_Challenge/3160_Find_the_Number_of_Distinct_Colors_Among_the_Balls.py) | Medium |
