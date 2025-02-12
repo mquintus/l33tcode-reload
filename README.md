@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-02-12 | [2342](https://www.leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [Max Sum of a Pair With Equal Sum of Digits](./Daily_Challenge/2342_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.md) | [Python](./Daily_Challenge/2342_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.py) | Medium |
 | 2025-02-11 | [1910](https://www.leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [Remove All Occurrences of a Substring](./Daily_Challenge/1910_Remove_All_Occurrences_of_a_Substring.md) | [Python](./Daily_Challenge/1910_Remove_All_Occurrences_of_a_Substring.py) | Medium |
 | 2025-02-10 | [3174](https://www.leetcode.com/problems/clear-digits/) | [Clear Digits](./Daily_Challenge/3174_Clear_Digits.md) | [Python](./Daily_Challenge/3174_Clear_Digits.py) | Easy |
 | 2025-02-09 | [2364](https://www.leetcode.com/problems/count-number-of-bad-pairs/) | [Count Number of Bad Pairs](./Daily_Challenge/2364_Count_Number_of_Bad_Pairs.md) | [Python](./Daily_Challenge/2364_Count_Number_of_Bad_Pairs.py) | Medium |
