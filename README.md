@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-02-14 | [1352](https://www.leetcode.com/problems/product-of-the-last-k-numbers/) | [Product of the Last K Numbers](./Daily_Challenge/1352_Product_of_the_Last_K_Numbers.md) | [Python](./Daily_Challenge/1352_Product_of_the_Last_K_Numbers.py) | Medium |
 | 2025-02-13 | [3066](https://www.leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | [Minimum Operations to Exceed Threshold Value II](./Daily_Challenge/3066_Minimum_Operations_to_Exceed_Threshold_Value_II.md) | [Python](./Daily_Challenge/3066_Minimum_Operations_to_Exceed_Threshold_Value_II.py) | Medium |
 | 2025-02-12 | [2342](https://www.leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [Max Sum of a Pair With Equal Sum of Digits](./Daily_Challenge/2342_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.md) | [Python](./Daily_Challenge/2342_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.py) | Medium |
 | 2025-02-11 | [1910](https://www.leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [Remove All Occurrences of a Substring](./Daily_Challenge/1910_Remove_All_Occurrences_of_a_Substring.md) | [Python](./Daily_Challenge/1910_Remove_All_Occurrences_of_a_Substring.py) | Medium |
