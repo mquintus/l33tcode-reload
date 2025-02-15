@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-02-15 | [2698](https://www.leetcode.com/problems/find-the-punishment-number-of-an-integer/) | [Find the Punishment Number of an Integer](./Daily_Challenge/2698_Find_the_Punishment_Number_of_an_Integer.md) | [Python](./Daily_Challenge/2698_Find_the_Punishment_Number_of_an_Integer.py) | Medium |
 | 2025-02-14 | [1352](https://www.leetcode.com/problems/product-of-the-last-k-numbers/) | [Product of the Last K Numbers](./Daily_Challenge/1352_Product_of_the_Last_K_Numbers.md) | [Python](./Daily_Challenge/1352_Product_of_the_Last_K_Numbers.py) | Medium |
 | 2025-02-13 | [3066](https://www.leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | [Minimum Operations to Exceed Threshold Value II](./Daily_Challenge/3066_Minimum_Operations_to_Exceed_Threshold_Value_II.md) | [Python](./Daily_Challenge/3066_Minimum_Operations_to_Exceed_Threshold_Value_II.py) | Medium |
 | 2025-02-12 | [2342](https://www.leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [Max Sum of a Pair With Equal Sum of Digits](./Daily_Challenge/2342_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.md) | [Python](./Daily_Challenge/2342_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.py) | Medium |
