@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-02-17 | [1079](https://www.leetcode.com/problems/letter-tile-possibilities/) | [Letter Tile Possibilities](./Daily_Challenge/1079_Letter_Tile_Possibilities.md) | [Python](./Daily_Challenge/1079_Letter_Tile_Possibilities.py) | Medium |
 | 2025-02-16 | [1718](https://www.leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | [Construct the Lexicographically Largest Valid Sequence](./Daily_Challenge/1718_Construct_the_Lexicographically_Largest_Valid_Sequence.md) | [Python](./Daily_Challenge/1718_Construct_the_Lexicographically_Largest_Valid_Sequence.py) | Medium |
 | 2025-02-15 | [2698](https://www.leetcode.com/problems/find-the-punishment-number-of-an-integer/) | [Find the Punishment Number of an Integer](./Daily_Challenge/2698_Find_the_Punishment_Number_of_an_Integer.md) | [Python](./Daily_Challenge/2698_Find_the_Punishment_Number_of_an_Integer.py) | Medium |
 | 2025-02-14 | [1352](https://www.leetcode.com/problems/product-of-the-last-k-numbers/) | [Product of the Last K Numbers](./Daily_Challenge/1352_Product_of_the_Last_K_Numbers.md) | [Python](./Daily_Challenge/1352_Product_of_the_Last_K_Numbers.py) | Medium |
