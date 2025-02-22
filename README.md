@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-02-22 | [1028](https://www.leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [Recover a Tree From Preorder Traversal](./Daily_Challenge/1028_Recover_a_Tree_From_Preorder_Traversal.md) | [Python](./Daily_Challenge/1028_Recover_a_Tree_From_Preorder_Traversal.py) | Hard |
 | 2025-02-21 | [1261](https://www.leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | [Find Elements in a Contaminated Binary Tree](./Daily_Challenge/1261_Find_Elements_in_a_Contaminated_Binary_Tree.md) | [Python](./Daily_Challenge/1261_Find_Elements_in_a_Contaminated_Binary_Tree.py) | Medium |
 | 2025-02-20 | [1980](https://www.leetcode.com/problems/find-unique-binary-string/) | [Find Unique Binary String](./Daily_Challenge/1980_Find_Unique_Binary_String.md) | [Python](./Daily_Challenge/1980_Find_Unique_Binary_String.py) | Medium |
 | 2025-02-19 | [1415](https://www.leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](./Daily_Challenge/1415_The_k-th_Lexicographical_String_of_All_Happy_Strings_of_Length_n.md) | [Python](./Daily_Challenge/1415_The_k-th_Lexicographical_String_of_All_Happy_Strings_of_Length_n.py) | Medium |
