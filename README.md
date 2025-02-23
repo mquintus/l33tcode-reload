@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-02-23 | [889](https://www.leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Construct Binary Tree from Preorder and Postorder Traversal](./Daily_Challenge/889_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal.md) | [Python](./Daily_Challenge/889_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal.py) | Medium |
 | 2025-02-22 | [1028](https://www.leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [Recover a Tree From Preorder Traversal](./Daily_Challenge/1028_Recover_a_Tree_From_Preorder_Traversal.md) | [Python](./Daily_Challenge/1028_Recover_a_Tree_From_Preorder_Traversal.py) | Hard |
 | 2025-02-21 | [1261](https://www.leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | [Find Elements in a Contaminated Binary Tree](./Daily_Challenge/1261_Find_Elements_in_a_Contaminated_Binary_Tree.md) | [Python](./Daily_Challenge/1261_Find_Elements_in_a_Contaminated_Binary_Tree.py) | Medium |
 | 2025-02-20 | [1980](https://www.leetcode.com/problems/find-unique-binary-string/) | [Find Unique Binary String](./Daily_Challenge/1980_Find_Unique_Binary_String.md) | [Python](./Daily_Challenge/1980_Find_Unique_Binary_String.py) | Medium |
