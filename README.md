@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-02-25 | [1524](https://www.leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [Number of Sub-arrays With Odd Sum](./Daily_Challenge/1524_Number_of_Sub-arrays_With_Odd_Sum.md) | [Python](./Daily_Challenge/1524_Number_of_Sub-arrays_With_Odd_Sum.py) | Medium |
 | 2025-02-24 | [2467](https://www.leetcode.com/problems/most-profitable-path-in-a-tree/) | [Most Profitable Path in a Tree](./Daily_Challenge/2467_Most_Profitable_Path_in_a_Tree.md) | [Python](./Daily_Challenge/2467_Most_Profitable_Path_in_a_Tree.py) | Medium |
 | 2025-02-23 | [889](https://www.leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Construct Binary Tree from Preorder and Postorder Traversal](./Daily_Challenge/889_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal.md) | [Python](./Daily_Challenge/889_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal.py) | Medium |
 | 2025-02-22 | [1028](https://www.leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [Recover a Tree From Preorder Traversal](./Daily_Challenge/1028_Recover_a_Tree_From_Preorder_Traversal.md) | [Python](./Daily_Challenge/1028_Recover_a_Tree_From_Preorder_Traversal.py) | Hard |
