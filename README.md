@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-02-28 | [1092](https://www.leetcode.com/problems/shortest-common-supersequence/) | [Shortest Common Supersequence ](./Daily_Challenge/1092_Shortest_Common_Supersequence_.md) | [Python](./Daily_Challenge/1092_Shortest_Common_Supersequence_.py) | Hard |
 | 2025-02-27 | [873](https://www.leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [Length of Longest Fibonacci Subsequence](./Daily_Challenge/873_Length_of_Longest_Fibonacci_Subsequence.md) | [Python](./Daily_Challenge/873_Length_of_Longest_Fibonacci_Subsequence.py) | Medium |
 | 2025-02-26 | [1749](https://www.leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | [Maximum Absolute Sum of Any Subarray](./Daily_Challenge/1749_Maximum_Absolute_Sum_of_Any_Subarray.md) | [Python](./Daily_Challenge/1749_Maximum_Absolute_Sum_of_Any_Subarray.py) | Medium |
 | 2025-02-25 | [1524](https://www.leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [Number of Sub-arrays With Odd Sum](./Daily_Challenge/1524_Number_of_Sub-arrays_With_Odd_Sum.md) | [Python](./Daily_Challenge/1524_Number_of_Sub-arrays_With_Odd_Sum.py) | Medium |
