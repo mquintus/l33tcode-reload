@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-03-01 | [2460](https://www.leetcode.com/problems/apply-operations-to-an-array/) | [Apply Operations to an Array](./Daily_Challenge/2460_Apply_Operations_to_an_Array.md) | [Python](./Daily_Challenge/2460_Apply_Operations_to_an_Array.py) | Easy |
 | 2025-02-28 | [1092](https://www.leetcode.com/problems/shortest-common-supersequence/) | [Shortest Common Supersequence ](./Daily_Challenge/1092_Shortest_Common_Supersequence_.md) | [Python](./Daily_Challenge/1092_Shortest_Common_Supersequence_.py) | Hard |
 | 2025-02-27 | [873](https://www.leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [Length of Longest Fibonacci Subsequence](./Daily_Challenge/873_Length_of_Longest_Fibonacci_Subsequence.md) | [Python](./Daily_Challenge/873_Length_of_Longest_Fibonacci_Subsequence.py) | Medium |
 | 2025-02-26 | [1749](https://www.leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | [Maximum Absolute Sum of Any Subarray](./Daily_Challenge/1749_Maximum_Absolute_Sum_of_Any_Subarray.md) | [Python](./Daily_Challenge/1749_Maximum_Absolute_Sum_of_Any_Subarray.py) | Medium |
