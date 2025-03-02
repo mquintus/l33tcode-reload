@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-03-02 | [2570](https://www.leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [Merge Two 2D Arrays by Summing Values](./Daily_Challenge/2570_Merge_Two_2D_Arrays_by_Summing_Values.md) | [Python](./Daily_Challenge/2570_Merge_Two_2D_Arrays_by_Summing_Values.py) | Easy |
 | 2025-03-01 | [2460](https://www.leetcode.com/problems/apply-operations-to-an-array/) | [Apply Operations to an Array](./Daily_Challenge/2460_Apply_Operations_to_an_Array.md) | [Python](./Daily_Challenge/2460_Apply_Operations_to_an_Array.py) | Easy |
 | 2025-02-28 | [1092](https://www.leetcode.com/problems/shortest-common-supersequence/) | [Shortest Common Supersequence ](./Daily_Challenge/1092_Shortest_Common_Supersequence_.md) | [Python](./Daily_Challenge/1092_Shortest_Common_Supersequence_.py) | Hard |
 | 2025-02-27 | [873](https://www.leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [Length of Longest Fibonacci Subsequence](./Daily_Challenge/873_Length_of_Longest_Fibonacci_Subsequence.md) | [Python](./Daily_Challenge/873_Length_of_Longest_Fibonacci_Subsequence.py) | Medium |
