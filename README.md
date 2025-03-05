@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-03-05 | [2579](https://www.leetcode.com/problems/count-total-number-of-colored-cells/) | [Count Total Number of Colored Cells](./Daily_Challenge/2579_Count_Total_Number_of_Colored_Cells.md) | [Python](./Daily_Challenge/2579_Count_Total_Number_of_Colored_Cells.py) | Medium |
 | 2025-03-04 | [1780](https://www.leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [Check if Number is a Sum of Powers of Three](./Daily_Challenge/1780_Check_if_Number_is_a_Sum_of_Powers_of_Three.md) | [Python](./Daily_Challenge/1780_Check_if_Number_is_a_Sum_of_Powers_of_Three.py) | Medium |
 | 2025-03-03 | [2161](https://www.leetcode.com/problems/partition-array-according-to-given-pivot/) | [Partition Array According to Given Pivot](./Daily_Challenge/2161_Partition_Array_According_to_Given_Pivot.md) | [Python](./Daily_Challenge/2161_Partition_Array_According_to_Given_Pivot.py) | Medium |
 | 2025-03-02 | [2570](https://www.leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [Merge Two 2D Arrays by Summing Values](./Daily_Challenge/2570_Merge_Two_2D_Arrays_by_Summing_Values.md) | [Python](./Daily_Challenge/2570_Merge_Two_2D_Arrays_by_Summing_Values.py) | Easy |
