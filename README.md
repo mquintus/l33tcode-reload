@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-03-08 | [2379](https://www.leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | [Minimum Recolors to Get K Consecutive Black Blocks](./Daily_Challenge/2379_Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks.md) | [Python](./Daily_Challenge/2379_Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks.py) | Easy |
 | 2025-03-07 | [2523](https://www.leetcode.com/problems/closest-prime-numbers-in-range/) | [Closest Prime Numbers in Range](./Daily_Challenge/2523_Closest_Prime_Numbers_in_Range.md) | [Python](./Daily_Challenge/2523_Closest_Prime_Numbers_in_Range.py) | Medium |
 | 2025-03-06 | [2965](https://www.leetcode.com/problems/find-missing-and-repeated-values/) | [Find Missing and Repeated Values](./Daily_Challenge/2965_Find_Missing_and_Repeated_Values.md) | [Python](./Daily_Challenge/2965_Find_Missing_and_Repeated_Values.py) | Easy |
 | 2025-03-05 | [2579](https://www.leetcode.com/problems/count-total-number-of-colored-cells/) | [Count Total Number of Colored Cells](./Daily_Challenge/2579_Count_Total_Number_of_Colored_Cells.md) | [Python](./Daily_Challenge/2579_Count_Total_Number_of_Colored_Cells.py) | Medium |
