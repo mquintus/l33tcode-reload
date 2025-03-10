@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-03-10 | [3306](https://www.leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | [Count of Substrings Containing Every Vowel and K Consonants II](./Daily_Challenge/3306_Count_of_Substrings_Containing_Every_Vowel_and_K_Consonants_II.md) | [Python](./Daily_Challenge/3306_Count_of_Substrings_Containing_Every_Vowel_and_K_Consonants_II.py) | Medium |
 | 2025-03-09 | [3208](https://www.leetcode.com/problems/alternating-groups-ii/) | [Alternating Groups II](./Daily_Challenge/3208_Alternating_Groups_II.md) | [Python](./Daily_Challenge/3208_Alternating_Groups_II.py) | Medium |
 | 2025-03-08 | [2379](https://www.leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | [Minimum Recolors to Get K Consecutive Black Blocks](./Daily_Challenge/2379_Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks.md) | [Python](./Daily_Challenge/2379_Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks.py) | Easy |
 | 2025-03-07 | [2523](https://www.leetcode.com/problems/closest-prime-numbers-in-range/) | [Closest Prime Numbers in Range](./Daily_Challenge/2523_Closest_Prime_Numbers_in_Range.md) | [Python](./Daily_Challenge/2523_Closest_Prime_Numbers_in_Range.py) | Medium |
