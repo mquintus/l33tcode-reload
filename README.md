@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-03-12 | [2529](https://www.leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [Maximum Count of Positive Integer and Negative Integer](./Daily_Challenge/2529_Maximum_Count_of_Positive_Integer_and_Negative_Integer.md) | [Python](./Daily_Challenge/2529_Maximum_Count_of_Positive_Integer_and_Negative_Integer.py) | Easy |
 | 2025-03-11 | [1358](https://www.leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Number of Substrings Containing All Three Characters](./Daily_Challenge/1358_Number_of_Substrings_Containing_All_Three_Characters.md) | [Python](./Daily_Challenge/1358_Number_of_Substrings_Containing_All_Three_Characters.py) | Medium |
 | 2025-03-10 | [3306](https://www.leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | [Count of Substrings Containing Every Vowel and K Consonants II](./Daily_Challenge/3306_Count_of_Substrings_Containing_Every_Vowel_and_K_Consonants_II.md) | [Python](./Daily_Challenge/3306_Count_of_Substrings_Containing_Every_Vowel_and_K_Consonants_II.py) | Medium |
 | 2025-03-09 | [3208](https://www.leetcode.com/problems/alternating-groups-ii/) | [Alternating Groups II](./Daily_Challenge/3208_Alternating_Groups_II.md) | [Python](./Daily_Challenge/3208_Alternating_Groups_II.py) | Medium |
