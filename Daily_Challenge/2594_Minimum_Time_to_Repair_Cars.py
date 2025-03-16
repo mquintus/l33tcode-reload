@@ -1,17 +1,24 @@
 # 2594 - Minimum Time to Repair Cars
 class Solution:
     def repairCars(self, ranks: List[int], cars: int) -> int:
-        price_of_next = [(1 * r, 1, r, p) for p,r in enumerate(ranks)]
-        amounts = [0]* len(ranks)
-        times = [0]* len(ranks)
-        heapq.heapify(price_of_next)
-        time = 0
-        for i in range(cars, 0, -1):
-            price, new_amount, rank, pos = heapq.heappop(price_of_next)
-            amounts[pos] = new_amount
-            time = max(time, price)
-            new_amount += 1
-            heapq.heappush(price_of_next, (rank*new_amount*new_amount, new_amount, rank, pos))
-            times[pos] = price
+        def is_possible(time):
+            #print("Is it possible in", time)
+            n = cars
+            for r in ranks:
+                a = int((time // r)**0.5)
+                n -= a
+                #print(f"Rank {r} repaired {a} cars, {n} remaining")
+                if n <=0 : return True
+            return False
 
-        return time
+        start = 0
+        end = cars*cars*max(ranks)
+        while start <= end:
+            mid = (start + end) // 2
+            ip = is_possible(mid)
+            if ip:
+                if not is_possible(mid-1):
+                    return mid
+                end = mid
+            else:
+                start = mid + 1
