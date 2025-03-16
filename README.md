@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-03-16 | [2594](https://www.leetcode.com/problems/minimum-time-to-repair-cars/) | [Minimum Time to Repair Cars](./Daily_Challenge/2594_Minimum_Time_to_Repair_Cars.md) | [Python](./Daily_Challenge/2594_Minimum_Time_to_Repair_Cars.py) | Medium |
 | 2025-03-15 | [2560](https://www.leetcode.com/problems/house-robber-iv/) | [House Robber IV](./Daily_Challenge/2560_House_Robber_IV.md) | [Python](./Daily_Challenge/2560_House_Robber_IV.py) | Medium |
 | 2025-03-14 | [2226](https://www.leetcode.com/problems/maximum-candies-allocated-to-k-children/) | [Maximum Candies Allocated to K Children](./Daily_Challenge/2226_Maximum_Candies_Allocated_to_K_Children.md) | [Python](./Daily_Challenge/2226_Maximum_Candies_Allocated_to_K_Children.py) | Medium |
 | 2025-03-13 | [3356](https://www.leetcode.com/problems/zero-array-transformation-ii/) | [Zero Array Transformation II](./Daily_Challenge/3356_Zero_Array_Transformation_II.md) | [Python](./Daily_Challenge/3356_Zero_Array_Transformation_II.py) | Medium |
