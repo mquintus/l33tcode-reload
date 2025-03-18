@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-03-18 | [2401](https://www.leetcode.com/problems/longest-nice-subarray/) | [Longest Nice Subarray](./Daily_Challenge/2401_Longest_Nice_Subarray.md) | [Python](./Daily_Challenge/2401_Longest_Nice_Subarray.py) | Medium |
 | 2025-03-17 | [2206](https://www.leetcode.com/problems/divide-array-into-equal-pairs/) | [Divide Array Into Equal Pairs](./Daily_Challenge/2206_Divide_Array_Into_Equal_Pairs.md) | [Python](./Daily_Challenge/2206_Divide_Array_Into_Equal_Pairs.py) | Easy |
 | 2025-03-16 | [2594](https://www.leetcode.com/problems/minimum-time-to-repair-cars/) | [Minimum Time to Repair Cars](./Daily_Challenge/2594_Minimum_Time_to_Repair_Cars.md) | [Python](./Daily_Challenge/2594_Minimum_Time_to_Repair_Cars.py) | Medium |
 | 2025-03-15 | [2560](https://www.leetcode.com/problems/house-robber-iv/) | [House Robber IV](./Daily_Challenge/2560_House_Robber_IV.md) | [Python](./Daily_Challenge/2560_House_Robber_IV.py) | Medium |
