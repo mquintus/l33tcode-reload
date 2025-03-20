@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-03-20 | [3108](https://www.leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [Minimum Cost Walk in Weighted Graph](./Daily_Challenge/3108_Minimum_Cost_Walk_in_Weighted_Graph.md) | [Python](./Daily_Challenge/3108_Minimum_Cost_Walk_in_Weighted_Graph.py) | Hard |
 | 2025-03-19 | [3191](https://www.leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | [Minimum Operations to Make Binary Array Elements Equal to One I](./Daily_Challenge/3191_Minimum_Operations_to_Make_Binary_Array_Elements_Equal_to_One_I.md) | [Python](./Daily_Challenge/3191_Minimum_Operations_to_Make_Binary_Array_Elements_Equal_to_One_I.py) | Medium |
 | 2025-03-18 | [2401](https://www.leetcode.com/problems/longest-nice-subarray/) | [Longest Nice Subarray](./Daily_Challenge/2401_Longest_Nice_Subarray.md) | [Python](./Daily_Challenge/2401_Longest_Nice_Subarray.py) | Medium |
 | 2025-03-17 | [2206](https://www.leetcode.com/problems/divide-array-into-equal-pairs/) | [Divide Array Into Equal Pairs](./Daily_Challenge/2206_Divide_Array_Into_Equal_Pairs.md) | [Python](./Daily_Challenge/2206_Divide_Array_Into_Equal_Pairs.py) | Easy |
