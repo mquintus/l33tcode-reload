@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-03-23 | [1976](https://www.leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [Number of Ways to Arrive at Destination](./Daily_Challenge/1976_Number_of_Ways_to_Arrive_at_Destination.md) | [Python](./Daily_Challenge/1976_Number_of_Ways_to_Arrive_at_Destination.py) | Medium |
 | 2025-03-22 | [2685](https://www.leetcode.com/problems/count-the-number-of-complete-components/) | [Count the Number of Complete Components](./Daily_Challenge/2685_Count_the_Number_of_Complete_Components.md) | [Python](./Daily_Challenge/2685_Count_the_Number_of_Complete_Components.py) | Medium |
 | 2025-03-21 | [2115](https://www.leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | [Find All Possible Recipes from Given Supplies](./Daily_Challenge/2115_Find_All_Possible_Recipes_from_Given_Supplies.md) | [Python](./Daily_Challenge/2115_Find_All_Possible_Recipes_from_Given_Supplies.py) | Medium |
 | 2025-03-20 | [3108](https://www.leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [Minimum Cost Walk in Weighted Graph](./Daily_Challenge/3108_Minimum_Cost_Walk_in_Weighted_Graph.md) | [Python](./Daily_Challenge/3108_Minimum_Cost_Walk_in_Weighted_Graph.py) | Hard |
