@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-03-26 | [2033](https://www.leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Minimum Operations to Make a Uni-Value Grid](./Daily_Challenge/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid.md) | [Python](./Daily_Challenge/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid.py) | Medium |
 | 2025-03-25 | [3394](https://www.leetcode.com/problems/check-if-grid-can-be-cut-into-sections/) | [Check if Grid can be Cut into Sections](./Daily_Challenge/3394_Check_if_Grid_can_be_Cut_into_Sections.md) | [Python](./Daily_Challenge/3394_Check_if_Grid_can_be_Cut_into_Sections.py) | Medium |
 | 2025-03-24 | [3169](https://www.leetcode.com/problems/count-days-without-meetings/) | [Count Days Without Meetings](./Daily_Challenge/3169_Count_Days_Without_Meetings.md) | [Python](./Daily_Challenge/3169_Count_Days_Without_Meetings.py) | Medium |
 | 2025-03-23 | [1976](https://www.leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [Number of Ways to Arrive at Destination](./Daily_Challenge/1976_Number_of_Ways_to_Arrive_at_Destination.md) | [Python](./Daily_Challenge/1976_Number_of_Ways_to_Arrive_at_Destination.py) | Medium |
