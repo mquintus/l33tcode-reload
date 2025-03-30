@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-03-30 | [763](https://www.leetcode.com/problems/partition-labels/) | [Partition Labels](./Daily_Challenge/763_Partition_Labels.md) | [Python](./Daily_Challenge/763_Partition_Labels.py) | Medium |
 | 2025-03-29 | [2818](https://www.leetcode.com/problems/apply-operations-to-maximize-score/) | [Apply Operations to Maximize Score](./Daily_Challenge/2818_Apply_Operations_to_Maximize_Score.md) | [Python](./Daily_Challenge/2818_Apply_Operations_to_Maximize_Score.py) | Hard |
 | 2025-03-28 | [2503](https://www.leetcode.com/problems/maximum-number-of-points-from-grid-queries/) | [Maximum Number of Points From Grid Queries](./Daily_Challenge/2503_Maximum_Number_of_Points_From_Grid_Queries.md) | [Python](./Daily_Challenge/2503_Maximum_Number_of_Points_From_Grid_Queries.py) | Hard |
 | 2025-03-27 | [2780](https://www.leetcode.com/problems/minimum-index-of-a-valid-split/) | [Minimum Index of a Valid Split](./Daily_Challenge/2780_Minimum_Index_of_a_Valid_Split.md) | [Python](./Daily_Challenge/2780_Minimum_Index_of_a_Valid_Split.py) | Medium |
