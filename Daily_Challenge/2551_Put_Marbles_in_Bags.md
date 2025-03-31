@@ -1,60 +1,42 @@
-# 2551. Put Marbles in Bags
+<p>You have <code>k</code> bags. You are given a <strong>0-indexed</strong> integer array <code>weights</code> where <code>weights[i]</code> is the weight of the <code>i<sup>th</sup></code> marble. You are also given the integer <code>k.</code></p>
 
-You have `k` bags. You are given a **0-indexed** integer array `weights` where `weights[i]` is the weight of the `ith` marble. You are also given the integer `k.`
+<p>Divide the marbles into the <code>k</code> bags according to the following rules:</p>
 
+<ul>
+	<li>No bag is empty.</li>
+	<li>If the <code>i<sup>th</sup></code> marble and <code>j<sup>th</sup></code> marble are in a bag, then all marbles with an index between the <code>i<sup>th</sup></code> and <code>j<sup>th</sup></code> indices should also be in that same bag.</li>
+	<li>If a bag consists of all the marbles with an index from <code>i</code> to <code>j</code> inclusively, then the cost of the bag is <code>weights[i] + weights[j]</code>.</li>
+</ul>
 
-Divide the marbles into the `k` bags according to the following rules:
+<p>The <strong>score</strong> after distributing the marbles is the sum of the costs of all the <code>k</code> bags.</p>
 
+<p>Return <em>the <strong>difference</strong> between the <strong>maximum</strong> and <strong>minimum</strong> scores among marble distributions</em>.</p>
 
-* No bag is empty.
-* If the `ith` marble and `jth` marble are in a bag, then all marbles with an index between the `ith` and `jth` indices should also be in that same bag.
-* If a bag consists of all the marbles with an index from `i` to `j` inclusively, then the cost of the bag is `weights[i] + weights[j]`.
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-
-The **score** after distributing the marbles is the sum of the costs of all the `k` bags.
-
-
-Return *the **difference** between the **maximum** and **minimum** scores among marble distributions*.
-
-
- 
-
-
-**Example 1:**
-
-
-
-```
-
-**Input:** weights = [1,3,5,1], k = 2
-**Output:** 4
-**Explanation:** 
+<pre>
+<strong>Input:</strong> weights = [1,3,5,1], k = 2
+<strong>Output:</strong> 4
+<strong>Explanation:</strong> 
 The distribution [1],[3,5,1] results in the minimal score of (1+1) + (3+1) = 6. 
 The distribution [1,3],[5,1], results in the maximal score of (1+3) + (5+1) = 10. 
 Thus, we return their difference 10 - 6 = 4.
+</pre>
 
-```
+<p><strong class="example">Example 2:</strong></p>
 
-**Example 2:**
-
-
-
-```
-
-**Input:** weights = [1, 3], k = 2
-**Output:** 0
-**Explanation:** The only distribution possible is [1],[3]. 
+<pre>
+<strong>Input:</strong> weights = [1, 3], k = 2
+<strong>Output:</strong> 0
+<strong>Explanation:</strong> The only distribution possible is [1],[3]. 
 Since both the maximal and minimal score are the same, we return 0.
+</pre>
 
-```
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
- 
-
-
-**Constraints:**
-
-
-* `1 <= k <= weights.length <= 105`
-* `1 <= weights[i] <= 109`
-
-
+<ul>
+	<li><code>1 &lt;= k &lt;= weights.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= weights[i] &lt;= 10<sup>9</sup></code></li>
+</ul>
