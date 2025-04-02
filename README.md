@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-04-02 | [2873](https://www.leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | [Maximum Value of an Ordered Triplet I](./Daily_Challenge/2873_Maximum_Value_of_an_Ordered_Triplet_I.md) | [Python](./Daily_Challenge/2873_Maximum_Value_of_an_Ordered_Triplet_I.py) | Easy |
 | 2025-04-01 | [2140](https://www.leetcode.com/problems/solving-questions-with-brainpower/) | [Solving Questions With Brainpower](./Daily_Challenge/2140_Solving_Questions_With_Brainpower.md) | [Python](./Daily_Challenge/2140_Solving_Questions_With_Brainpower.py) | Medium |
 | 2025-03-31 | [2551](https://www.leetcode.com/problems/put-marbles-in-bags/) | [Put Marbles in Bags](./Daily_Challenge/2551_Put_Marbles_in_Bags.md) | [Python](./Daily_Challenge/2551_Put_Marbles_in_Bags.py) | Hard |
 | 2025-03-30 | [763](https://www.leetcode.com/problems/partition-labels/) | [Partition Labels](./Daily_Challenge/763_Partition_Labels.md) | [Python](./Daily_Challenge/763_Partition_Labels.py) | Medium |
