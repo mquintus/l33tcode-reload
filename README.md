@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-04-04 | [1123](https://www.leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [Lowest Common Ancestor of Deepest Leaves](./Daily_Challenge/1123_Lowest_Common_Ancestor_of_Deepest_Leaves.md) | [Python](./Daily_Challenge/1123_Lowest_Common_Ancestor_of_Deepest_Leaves.py) | Medium |
 | 2025-04-03 | [2874](https://www.leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) | [Maximum Value of an Ordered Triplet II](./Daily_Challenge/2874_Maximum_Value_of_an_Ordered_Triplet_II.md) | [Python](./Daily_Challenge/2874_Maximum_Value_of_an_Ordered_Triplet_II.py) | Medium |
 | 2025-04-02 | [2873](https://www.leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | [Maximum Value of an Ordered Triplet I](./Daily_Challenge/2873_Maximum_Value_of_an_Ordered_Triplet_I.md) | [Python](./Daily_Challenge/2873_Maximum_Value_of_an_Ordered_Triplet_I.py) | Easy |
 | 2025-04-01 | [2140](https://www.leetcode.com/problems/solving-questions-with-brainpower/) | [Solving Questions With Brainpower](./Daily_Challenge/2140_Solving_Questions_With_Brainpower.md) | [Python](./Daily_Challenge/2140_Solving_Questions_With_Brainpower.py) | Medium |
