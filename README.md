@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-04-05 | [1863](https://www.leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Sum of All Subset XOR Totals](./Daily_Challenge/1863_Sum_of_All_Subset_XOR_Totals.md) | [Python](./Daily_Challenge/1863_Sum_of_All_Subset_XOR_Totals.py) | Easy |
 | 2025-04-04 | [1123](https://www.leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [Lowest Common Ancestor of Deepest Leaves](./Daily_Challenge/1123_Lowest_Common_Ancestor_of_Deepest_Leaves.md) | [Python](./Daily_Challenge/1123_Lowest_Common_Ancestor_of_Deepest_Leaves.py) | Medium |
 | 2025-04-03 | [2874](https://www.leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) | [Maximum Value of an Ordered Triplet II](./Daily_Challenge/2874_Maximum_Value_of_an_Ordered_Triplet_II.md) | [Python](./Daily_Challenge/2874_Maximum_Value_of_an_Ordered_Triplet_II.py) | Medium |
 | 2025-04-02 | [2873](https://www.leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | [Maximum Value of an Ordered Triplet I](./Daily_Challenge/2873_Maximum_Value_of_an_Ordered_Triplet_I.md) | [Python](./Daily_Challenge/2873_Maximum_Value_of_an_Ordered_Triplet_I.py) | Easy |
