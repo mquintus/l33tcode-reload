@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-04-07 | [416](https://www.leetcode.com/problems/partition-equal-subset-sum/) | [Partition Equal Subset Sum](./Daily_Challenge/416_Partition_Equal_Subset_Sum.md) | [Python](./Daily_Challenge/416_Partition_Equal_Subset_Sum.py) | Medium |
 | 2025-04-06 | [368](https://www.leetcode.com/problems/largest-divisible-subset/) | [Largest Divisible Subset](./Daily_Challenge/368_Largest_Divisible_Subset.md) | [Python](./Daily_Challenge/368_Largest_Divisible_Subset.py) | Medium |
 | 2025-04-05 | [1863](https://www.leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Sum of All Subset XOR Totals](./Daily_Challenge/1863_Sum_of_All_Subset_XOR_Totals.md) | [Python](./Daily_Challenge/1863_Sum_of_All_Subset_XOR_Totals.py) | Easy |
 | 2025-04-04 | [1123](https://www.leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [Lowest Common Ancestor of Deepest Leaves](./Daily_Challenge/1123_Lowest_Common_Ancestor_of_Deepest_Leaves.md) | [Python](./Daily_Challenge/1123_Lowest_Common_Ancestor_of_Deepest_Leaves.py) | Medium |
