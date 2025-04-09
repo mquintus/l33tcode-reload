@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-04-09 | [3375](https://www.leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | [Minimum Operations to Make Array Values Equal to K](./Daily_Challenge/3375_Minimum_Operations_to_Make_Array_Values_Equal_to_K.md) | [Python](./Daily_Challenge/3375_Minimum_Operations_to_Make_Array_Values_Equal_to_K.py) | Easy |
 | 2025-04-08 | [3396](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | [Minimum Number of Operations to Make Elements in Array Distinct](./Daily_Challenge/3396_Minimum_Number_of_Operations_to_Make_Elements_in_Array_Distinct.md) | [Python](./Daily_Challenge/3396_Minimum_Number_of_Operations_to_Make_Elements_in_Array_Distinct.py) | Easy |
 | 2025-04-07 | [416](https://www.leetcode.com/problems/partition-equal-subset-sum/) | [Partition Equal Subset Sum](./Daily_Challenge/416_Partition_Equal_Subset_Sum.md) | [Python](./Daily_Challenge/416_Partition_Equal_Subset_Sum.py) | Medium |
 | 2025-04-06 | [368](https://www.leetcode.com/problems/largest-divisible-subset/) | [Largest Divisible Subset](./Daily_Challenge/368_Largest_Divisible_Subset.md) | [Python](./Daily_Challenge/368_Largest_Divisible_Subset.py) | Medium |
