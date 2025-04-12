@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-04-12 | [3272](https://www.leetcode.com/problems/find-the-count-of-good-integers/) | [Find the Count of Good Integers](./Daily_Challenge/3272_Find_the_Count_of_Good_Integers.md) | [Python](./Daily_Challenge/3272_Find_the_Count_of_Good_Integers.py) | Hard |
 | 2025-04-11 | [2843](https://www.leetcode.com/problems/count-symmetric-integers/) | [  Count Symmetric Integers](./Daily_Challenge/2843___Count_Symmetric_Integers.md) | [Python](./Daily_Challenge/2843___Count_Symmetric_Integers.py) | Easy |
 | 2025-04-10 | [2999](https://www.leetcode.com/problems/count-the-number-of-powerful-integers/) | [Count the Number of Powerful Integers](./Daily_Challenge/2999_Count_the_Number_of_Powerful_Integers.md) | [Python](./Daily_Challenge/2999_Count_the_Number_of_Powerful_Integers.py) | Hard |
 | 2025-04-09 | [3375](https://www.leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | [Minimum Operations to Make Array Values Equal to K](./Daily_Challenge/3375_Minimum_Operations_to_Make_Array_Values_Equal_to_K.md) | [Python](./Daily_Challenge/3375_Minimum_Operations_to_Make_Array_Values_Equal_to_K.py) | Easy |
