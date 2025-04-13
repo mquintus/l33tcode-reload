@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-04-13 | [1922](https://www.leetcode.com/problems/count-good-numbers/) | [Count Good Numbers](./Daily_Challenge/1922_Count_Good_Numbers.md) | [Python](./Daily_Challenge/1922_Count_Good_Numbers.py) | Medium |
 | 2025-04-12 | [3272](https://www.leetcode.com/problems/find-the-count-of-good-integers/) | [Find the Count of Good Integers](./Daily_Challenge/3272_Find_the_Count_of_Good_Integers.md) | [Python](./Daily_Challenge/3272_Find_the_Count_of_Good_Integers.py) | Hard |
 | 2025-04-11 | [2843](https://www.leetcode.com/problems/count-symmetric-integers/) | [  Count Symmetric Integers](./Daily_Challenge/2843___Count_Symmetric_Integers.md) | [Python](./Daily_Challenge/2843___Count_Symmetric_Integers.py) | Easy |
 | 2025-04-10 | [2999](https://www.leetcode.com/problems/count-the-number-of-powerful-integers/) | [Count the Number of Powerful Integers](./Daily_Challenge/2999_Count_the_Number_of_Powerful_Integers.md) | [Python](./Daily_Challenge/2999_Count_the_Number_of_Powerful_Integers.py) | Hard |
