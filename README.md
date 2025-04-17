@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-04-17 | [2176](https://www.leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | [Count Equal and Divisible Pairs in an Array](./Daily_Challenge/2176_Count_Equal_and_Divisible_Pairs_in_an_Array.md) | [Python](./Daily_Challenge/2176_Count_Equal_and_Divisible_Pairs_in_an_Array.py) | Easy |
 | 2025-04-16 | [2537](https://www.leetcode.com/problems/count-the-number-of-good-subarrays/) | [Count the Number of Good Subarrays](./Daily_Challenge/2537_Count_the_Number_of_Good_Subarrays.md) | [Python](./Daily_Challenge/2537_Count_the_Number_of_Good_Subarrays.py) | Medium |
 | 2025-04-15 | [2179](https://www.leetcode.com/problems/count-good-triplets-in-an-array/) | [Count Good Triplets in an Array](./Daily_Challenge/2179_Count_Good_Triplets_in_an_Array.md) | [Python](./Daily_Challenge/2179_Count_Good_Triplets_in_an_Array.py) | Hard |
 | 2025-04-14 | [1534](https://www.leetcode.com/problems/count-good-triplets/) | [Count Good Triplets](./Daily_Challenge/1534_Count_Good_Triplets.md) | [Python](./Daily_Challenge/1534_Count_Good_Triplets.py) | Easy |
