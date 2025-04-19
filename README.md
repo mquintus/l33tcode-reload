@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-04-19 | [2563](https://www.leetcode.com/problems/count-the-number-of-fair-pairs/) | [Count the Number of Fair Pairs](./Daily_Challenge/2563_Count_the_Number_of_Fair_Pairs.md) | [Python](./Daily_Challenge/2563_Count_the_Number_of_Fair_Pairs.py) | Medium |
 | 2025-04-18 | [38](https://www.leetcode.com/problems/count-and-say/) | [Count and Say](./Daily_Challenge/38_Count_and_Say.md) | [Python](./Daily_Challenge/38_Count_and_Say.py) | Medium |
 | 2025-04-17 | [2176](https://www.leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | [Count Equal and Divisible Pairs in an Array](./Daily_Challenge/2176_Count_Equal_and_Divisible_Pairs_in_an_Array.md) | [Python](./Daily_Challenge/2176_Count_Equal_and_Divisible_Pairs_in_an_Array.py) | Easy |
 | 2025-04-16 | [2537](https://www.leetcode.com/problems/count-the-number-of-good-subarrays/) | [Count the Number of Good Subarrays](./Daily_Challenge/2537_Count_the_Number_of_Good_Subarrays.md) | [Python](./Daily_Challenge/2537_Count_the_Number_of_Good_Subarrays.py) | Medium |
