@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-04-23 | [1399](https://www.leetcode.com/problems/count-largest-group/) | [Count Largest Group](./Daily_Challenge/1399_Count_Largest_Group.md) | [Python](./Daily_Challenge/1399_Count_Largest_Group.py) | Easy |
 | 2025-04-22 | [2338](https://www.leetcode.com/problems/count-the-number-of-ideal-arrays/) | [Count the Number of Ideal Arrays](./Daily_Challenge/2338_Count_the_Number_of_Ideal_Arrays.md) | [Python](./Daily_Challenge/2338_Count_the_Number_of_Ideal_Arrays.py) | Hard |
 | 2025-04-21 | [2145](https://www.leetcode.com/problems/count-the-hidden-sequences/) | [Count the Hidden Sequences](./Daily_Challenge/2145_Count_the_Hidden_Sequences.md) | [Python](./Daily_Challenge/2145_Count_the_Hidden_Sequences.py) | Medium |
 | 2025-04-20 | [781](https://www.leetcode.com/problems/rabbits-in-forest/) | [Rabbits in Forest](./Daily_Challenge/781_Rabbits_in_Forest.md) | [Python](./Daily_Challenge/781_Rabbits_in_Forest.py) | Medium |
