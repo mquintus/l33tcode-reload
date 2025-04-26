@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-04-26 | [2444](https://www.leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Count Subarrays With Fixed Bounds](./Daily_Challenge/2444_Count_Subarrays_With_Fixed_Bounds.md) | [Python](./Daily_Challenge/2444_Count_Subarrays_With_Fixed_Bounds.py) | Hard |
 | 2025-04-25 | [2845](https://www.leetcode.com/problems/count-of-interesting-subarrays/) | [Count of Interesting Subarrays](./Daily_Challenge/2845_Count_of_Interesting_Subarrays.md) | [Python](./Daily_Challenge/2845_Count_of_Interesting_Subarrays.py) | Medium |
 | 2025-04-24 | [2799](https://www.leetcode.com/problems/count-complete-subarrays-in-an-array/) | [Count Complete Subarrays in an Array](./Daily_Challenge/2799_Count_Complete_Subarrays_in_an_Array.md) | [Python](./Daily_Challenge/2799_Count_Complete_Subarrays_in_an_Array.py) | Medium |
 | 2025-04-23 | [1399](https://www.leetcode.com/problems/count-largest-group/) | [Count Largest Group](./Daily_Challenge/1399_Count_Largest_Group.md) | [Python](./Daily_Challenge/1399_Count_Largest_Group.py) | Easy |
