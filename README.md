@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-04-28 | [2302](https://www.leetcode.com/problems/count-subarrays-with-score-less-than-k/) | [Count Subarrays With Score Less Than K](./Daily_Challenge/2302_Count_Subarrays_With_Score_Less_Than_K.md) | [Python](./Daily_Challenge/2302_Count_Subarrays_With_Score_Less_Than_K.py) | Hard |
 | 2025-04-27 | [3392](https://www.leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [Count Subarrays of Length Three With a Condition](./Daily_Challenge/3392_Count_Subarrays_of_Length_Three_With_a_Condition.md) | [Python](./Daily_Challenge/3392_Count_Subarrays_of_Length_Three_With_a_Condition.py) | Easy |
 | 2025-04-26 | [2444](https://www.leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Count Subarrays With Fixed Bounds](./Daily_Challenge/2444_Count_Subarrays_With_Fixed_Bounds.md) | [Python](./Daily_Challenge/2444_Count_Subarrays_With_Fixed_Bounds.py) | Hard |
 | 2025-04-25 | [2845](https://www.leetcode.com/problems/count-of-interesting-subarrays/) | [Count of Interesting Subarrays](./Daily_Challenge/2845_Count_of_Interesting_Subarrays.md) | [Python](./Daily_Challenge/2845_Count_of_Interesting_Subarrays.py) | Medium |
