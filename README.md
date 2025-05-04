@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-05-04 | [1128](https://www.leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Number of Equivalent Domino Pairs](./Daily_Challenge/1128_Number_of_Equivalent_Domino_Pairs.md) | [Python](./Daily_Challenge/1128_Number_of_Equivalent_Domino_Pairs.py) | Easy |
 | 2025-05-03 | [1007](https://www.leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Minimum Domino Rotations For Equal Row](./Daily_Challenge/1007_Minimum_Domino_Rotations_For_Equal_Row.md) | [Python](./Daily_Challenge/1007_Minimum_Domino_Rotations_For_Equal_Row.py) | Medium |
 | 2025-05-02 | [838](https://www.leetcode.com/problems/push-dominoes/) | [Push Dominoes](./Daily_Challenge/838_Push_Dominoes.md) | [Python](./Daily_Challenge/838_Push_Dominoes.py) | Medium |
 | 2025-05-01 | [2071](https://www.leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | [Maximum Number of Tasks You Can Assign](./Daily_Challenge/2071_Maximum_Number_of_Tasks_You_Can_Assign.md) | [Python](./Daily_Challenge/2071_Maximum_Number_of_Tasks_You_Can_Assign.py) | Hard |
