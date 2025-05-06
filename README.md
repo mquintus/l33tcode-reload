@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-05-06 | [1920](https://www.leetcode.com/problems/build-array-from-permutation/) | [Build Array from Permutation](./Daily_Challenge/1920_Build_Array_from_Permutation.md) | [Python](./Daily_Challenge/1920_Build_Array_from_Permutation.py) | Easy |
 | 2025-05-05 | [790](https://www.leetcode.com/problems/domino-and-tromino-tiling/) | [Domino and Tromino Tiling](./Daily_Challenge/790_Domino_and_Tromino_Tiling.md) | [Python](./Daily_Challenge/790_Domino_and_Tromino_Tiling.py) | Medium |
 | 2025-05-04 | [1128](https://www.leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Number of Equivalent Domino Pairs](./Daily_Challenge/1128_Number_of_Equivalent_Domino_Pairs.md) | [Python](./Daily_Challenge/1128_Number_of_Equivalent_Domino_Pairs.py) | Easy |
 | 2025-05-03 | [1007](https://www.leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Minimum Domino Rotations For Equal Row](./Daily_Challenge/1007_Minimum_Domino_Rotations_For_Equal_Row.md) | [Python](./Daily_Challenge/1007_Minimum_Domino_Rotations_For_Equal_Row.py) | Medium |
