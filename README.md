@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-05-09 | [3343](https://www.leetcode.com/problems/count-number-of-balanced-permutations/) | [Count Number of Balanced Permutations](./Daily_Challenge/3343_Count_Number_of_Balanced_Permutations.md) | [Python](./Daily_Challenge/3343_Count_Number_of_Balanced_Permutations.py) | Hard |
 | 2025-05-08 | [3342](https://www.leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | [Find Minimum Time to Reach Last Room II](./Daily_Challenge/3342_Find_Minimum_Time_to_Reach_Last_Room_II.md) | [Python](./Daily_Challenge/3342_Find_Minimum_Time_to_Reach_Last_Room_II.py) | Medium |
 | 2025-05-07 | [3341](https://www.leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | [Find Minimum Time to Reach Last Room I](./Daily_Challenge/3341_Find_Minimum_Time_to_Reach_Last_Room_I.md) | [Python](./Daily_Challenge/3341_Find_Minimum_Time_to_Reach_Last_Room_I.py) | Medium |
 | 2025-05-06 | [1920](https://www.leetcode.com/problems/build-array-from-permutation/) | [Build Array from Permutation](./Daily_Challenge/1920_Build_Array_from_Permutation.md) | [Python](./Daily_Challenge/1920_Build_Array_from_Permutation.py) | Easy |
