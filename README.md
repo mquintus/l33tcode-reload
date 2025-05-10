@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-05-10 | [2918](https://www.leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | [Minimum Equal Sum of Two Arrays After Replacing Zeros](./Daily_Challenge/2918_Minimum_Equal_Sum_of_Two_Arrays_After_Replacing_Zeros.md) | [Python](./Daily_Challenge/2918_Minimum_Equal_Sum_of_Two_Arrays_After_Replacing_Zeros.py) | Medium |
 | 2025-05-09 | [3343](https://www.leetcode.com/problems/count-number-of-balanced-permutations/) | [Count Number of Balanced Permutations](./Daily_Challenge/3343_Count_Number_of_Balanced_Permutations.md) | [Python](./Daily_Challenge/3343_Count_Number_of_Balanced_Permutations.py) | Hard |
 | 2025-05-08 | [3342](https://www.leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | [Find Minimum Time to Reach Last Room II](./Daily_Challenge/3342_Find_Minimum_Time_to_Reach_Last_Room_II.md) | [Python](./Daily_Challenge/3342_Find_Minimum_Time_to_Reach_Last_Room_II.py) | Medium |
 | 2025-05-07 | [3341](https://www.leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | [Find Minimum Time to Reach Last Room I](./Daily_Challenge/3341_Find_Minimum_Time_to_Reach_Last_Room_I.md) | [Python](./Daily_Challenge/3341_Find_Minimum_Time_to_Reach_Last_Room_I.py) | Medium |
