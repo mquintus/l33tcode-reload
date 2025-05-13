@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-05-13 | [3335](https://www.leetcode.com/problems/total-characters-in-string-after-transformations-i/) | [Total Characters in String After Transformations I](./Daily_Challenge/3335_Total_Characters_in_String_After_Transformations_I.md) | [Python](./Daily_Challenge/3335_Total_Characters_in_String_After_Transformations_I.py) | Medium |
 | 2025-05-12 | [2094](https://www.leetcode.com/problems/finding-3-digit-even-numbers/) | [Finding 3-Digit Even Numbers](./Daily_Challenge/2094_Finding_3-Digit_Even_Numbers.md) | [Python](./Daily_Challenge/2094_Finding_3-Digit_Even_Numbers.py) | Easy |
 | 2025-05-11 | [1550](https://www.leetcode.com/problems/three-consecutive-odds/) | [Three Consecutive Odds](./Daily_Challenge/1550_Three_Consecutive_Odds.md) | [Python](./Daily_Challenge/1550_Three_Consecutive_Odds.py) | Easy |
 | 2025-05-10 | [2918](https://www.leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | [Minimum Equal Sum of Two Arrays After Replacing Zeros](./Daily_Challenge/2918_Minimum_Equal_Sum_of_Two_Arrays_After_Replacing_Zeros.md) | [Python](./Daily_Challenge/2918_Minimum_Equal_Sum_of_Two_Arrays_After_Replacing_Zeros.py) | Medium |
