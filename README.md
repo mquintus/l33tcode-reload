@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-05-14 | [3337](https://www.leetcode.com/problems/total-characters-in-string-after-transformations-ii/) | [Total Characters in String After Transformations II](./Daily_Challenge/3337_Total_Characters_in_String_After_Transformations_II.md) | [Python](./Daily_Challenge/3337_Total_Characters_in_String_After_Transformations_II.py) | Hard |
 | 2025-05-13 | [3335](https://www.leetcode.com/problems/total-characters-in-string-after-transformations-i/) | [Total Characters in String After Transformations I](./Daily_Challenge/3335_Total_Characters_in_String_After_Transformations_I.md) | [Python](./Daily_Challenge/3335_Total_Characters_in_String_After_Transformations_I.py) | Medium |
 | 2025-05-12 | [2094](https://www.leetcode.com/problems/finding-3-digit-even-numbers/) | [Finding 3-Digit Even Numbers](./Daily_Challenge/2094_Finding_3-Digit_Even_Numbers.md) | [Python](./Daily_Challenge/2094_Finding_3-Digit_Even_Numbers.py) | Easy |
 | 2025-05-11 | [1550](https://www.leetcode.com/problems/three-consecutive-odds/) | [Three Consecutive Odds](./Daily_Challenge/1550_Three_Consecutive_Odds.md) | [Python](./Daily_Challenge/1550_Three_Consecutive_Odds.py) | Easy |
