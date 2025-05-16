@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-05-16 | [2901](https://www.leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | [Longest Unequal Adjacent Groups Subsequence II](./Daily_Challenge/2901_Longest_Unequal_Adjacent_Groups_Subsequence_II.md) | [Python](./Daily_Challenge/2901_Longest_Unequal_Adjacent_Groups_Subsequence_II.py) | Medium |
 | 2025-05-15 | [2900](https://www.leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | [Longest Unequal Adjacent Groups Subsequence I](./Daily_Challenge/2900_Longest_Unequal_Adjacent_Groups_Subsequence_I.md) | [Python](./Daily_Challenge/2900_Longest_Unequal_Adjacent_Groups_Subsequence_I.py) | Easy |
 | 2025-05-14 | [3337](https://www.leetcode.com/problems/total-characters-in-string-after-transformations-ii/) | [Total Characters in String After Transformations II](./Daily_Challenge/3337_Total_Characters_in_String_After_Transformations_II.md) | [Python](./Daily_Challenge/3337_Total_Characters_in_String_After_Transformations_II.py) | Hard |
 | 2025-05-13 | [3335](https://www.leetcode.com/problems/total-characters-in-string-after-transformations-i/) | [Total Characters in String After Transformations I](./Daily_Challenge/3335_Total_Characters_in_String_After_Transformations_I.md) | [Python](./Daily_Challenge/3335_Total_Characters_in_String_After_Transformations_I.py) | Medium |
