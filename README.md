@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-05-20 | [3355](https://www.leetcode.com/problems/zero-array-transformation-i/) | [Zero Array Transformation I](./Daily_Challenge/3355_Zero_Array_Transformation_I.md) | [Python](./Daily_Challenge/3355_Zero_Array_Transformation_I.py) | Medium |
 | 2025-05-19 | [3024](https://www.leetcode.com/problems/type-of-triangle/) | [Type of Triangle](./Daily_Challenge/3024_Type_of_Triangle.md) | [Python](./Daily_Challenge/3024_Type_of_Triangle.py) | Easy |
 | 2025-05-18 | [1931](https://www.leetcode.com/problems/painting-a-grid-with-three-different-colors/) | [Painting a Grid With Three Different Colors](./Daily_Challenge/1931_Painting_a_Grid_With_Three_Different_Colors.md) | [Python](./Daily_Challenge/1931_Painting_a_Grid_With_Three_Different_Colors.py) | Hard |
 | 2025-05-17 | [75](https://www.leetcode.com/problems/sort-colors/) | [Sort Colors](./Daily_Challenge/75_Sort_Colors.md) | [Python](./Daily_Challenge/75_Sort_Colors.py) | Medium |
