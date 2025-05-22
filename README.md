@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-05-22 | [3362](https://www.leetcode.com/problems/zero-array-transformation-iii/) | [Zero Array Transformation III](./Daily_Challenge/3362_Zero_Array_Transformation_III.md) | [Python](./Daily_Challenge/3362_Zero_Array_Transformation_III.py) | Medium |
 | 2025-05-21 | [73](https://www.leetcode.com/problems/set-matrix-zeroes/) | [Set Matrix Zeroes](./Daily_Challenge/73_Set_Matrix_Zeroes.md) | [Python](./Daily_Challenge/73_Set_Matrix_Zeroes.py) | Medium |
 | 2025-05-20 | [3355](https://www.leetcode.com/problems/zero-array-transformation-i/) | [Zero Array Transformation I](./Daily_Challenge/3355_Zero_Array_Transformation_I.md) | [Python](./Daily_Challenge/3355_Zero_Array_Transformation_I.py) | Medium |
 | 2025-05-19 | [3024](https://www.leetcode.com/problems/type-of-triangle/) | [Type of Triangle](./Daily_Challenge/3024_Type_of_Triangle.md) | [Python](./Daily_Challenge/3024_Type_of_Triangle.py) | Easy |
