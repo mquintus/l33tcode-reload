@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-05-25 | [2131](https://www.leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | [Longest Palindrome by Concatenating Two Letter Words](./Daily_Challenge/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words.md) | [Python](./Daily_Challenge/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words.py) | Medium |
 | 2025-05-24 | [2942](https://www.leetcode.com/problems/find-words-containing-character/) | [Find Words Containing Character](./Daily_Challenge/2942_Find_Words_Containing_Character.md) | [Python](./Daily_Challenge/2942_Find_Words_Containing_Character.py) | Easy |
 | 2025-05-23 | [3068](https://www.leetcode.com/problems/find-the-maximum-sum-of-node-values/) | [Find the Maximum Sum of Node Values](./Daily_Challenge/3068_Find_the_Maximum_Sum_of_Node_Values.md) | [Python](./Daily_Challenge/3068_Find_the_Maximum_Sum_of_Node_Values.py) | Hard |
 | 2025-05-22 | [3362](https://www.leetcode.com/problems/zero-array-transformation-iii/) | [Zero Array Transformation III](./Daily_Challenge/3362_Zero_Array_Transformation_III.md) | [Python](./Daily_Challenge/3362_Zero_Array_Transformation_III.py) | Medium |
