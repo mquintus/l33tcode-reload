@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-05-27 | [2894](https://www.leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Divisible and Non-divisible Sums Difference](./Daily_Challenge/2894_Divisible_and_Non-divisible_Sums_Difference.md) | [Python](./Daily_Challenge/2894_Divisible_and_Non-divisible_Sums_Difference.py) | Easy |
 | 2025-05-26 | [1857](https://www.leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Largest Color Value in a Directed Graph](./Daily_Challenge/1857_Largest_Color_Value_in_a_Directed_Graph.md) | [Python](./Daily_Challenge/1857_Largest_Color_Value_in_a_Directed_Graph.py) | Hard |
 | 2025-05-25 | [2131](https://www.leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | [Longest Palindrome by Concatenating Two Letter Words](./Daily_Challenge/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words.md) | [Python](./Daily_Challenge/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words.py) | Medium |
 | 2025-05-24 | [2942](https://www.leetcode.com/problems/find-words-containing-character/) | [Find Words Containing Character](./Daily_Challenge/2942_Find_Words_Containing_Character.md) | [Python](./Daily_Challenge/2942_Find_Words_Containing_Character.py) | Easy |
