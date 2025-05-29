@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-05-29 | [3373](https://www.leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | [Maximize the Number of Target Nodes After Connecting Trees II](./Daily_Challenge/3373_Maximize_the_Number_of_Target_Nodes_After_Connecting_Trees_II.md) | [Python](./Daily_Challenge/3373_Maximize_the_Number_of_Target_Nodes_After_Connecting_Trees_II.py) | Hard |
 | 2025-05-28 | [3372](https://www.leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | [Maximize the Number of Target Nodes After Connecting Trees I](./Daily_Challenge/3372_Maximize_the_Number_of_Target_Nodes_After_Connecting_Trees_I.md) | [Python](./Daily_Challenge/3372_Maximize_the_Number_of_Target_Nodes_After_Connecting_Trees_I.py) | Medium |
 | 2025-05-27 | [2894](https://www.leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Divisible and Non-divisible Sums Difference](./Daily_Challenge/2894_Divisible_and_Non-divisible_Sums_Difference.md) | [Python](./Daily_Challenge/2894_Divisible_and_Non-divisible_Sums_Difference.py) | Easy |
 | 2025-05-26 | [1857](https://www.leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Largest Color Value in a Directed Graph](./Daily_Challenge/1857_Largest_Color_Value_in_a_Directed_Graph.md) | [Python](./Daily_Challenge/1857_Largest_Color_Value_in_a_Directed_Graph.py) | Hard |
