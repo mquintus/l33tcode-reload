@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-05-30 | [2359](https://www.leetcode.com/problems/find-closest-node-to-given-two-nodes/) | [Find Closest Node to Given Two Nodes](./Daily_Challenge/2359_Find_Closest_Node_to_Given_Two_Nodes.md) | [Python](./Daily_Challenge/2359_Find_Closest_Node_to_Given_Two_Nodes.py) | Medium |
 | 2025-05-29 | [3373](https://www.leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | [Maximize the Number of Target Nodes After Connecting Trees II](./Daily_Challenge/3373_Maximize_the_Number_of_Target_Nodes_After_Connecting_Trees_II.md) | [Python](./Daily_Challenge/3373_Maximize_the_Number_of_Target_Nodes_After_Connecting_Trees_II.py) | Hard |
 | 2025-05-28 | [3372](https://www.leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | [Maximize the Number of Target Nodes After Connecting Trees I](./Daily_Challenge/3372_Maximize_the_Number_of_Target_Nodes_After_Connecting_Trees_I.md) | [Python](./Daily_Challenge/3372_Maximize_the_Number_of_Target_Nodes_After_Connecting_Trees_I.py) | Medium |
 | 2025-05-27 | [2894](https://www.leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Divisible and Non-divisible Sums Difference](./Daily_Challenge/2894_Divisible_and_Non-divisible_Sums_Difference.md) | [Python](./Daily_Challenge/2894_Divisible_and_Non-divisible_Sums_Difference.py) | Easy |
