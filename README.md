@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-06-01 | [2929](https://www.leetcode.com/problems/distribute-candies-among-children-ii/) | [Distribute Candies Among Children II](./Daily_Challenge/2929_Distribute_Candies_Among_Children_II.md) | [Python](./Daily_Challenge/2929_Distribute_Candies_Among_Children_II.py) | Medium |
 | 2025-05-31 | [909](https://www.leetcode.com/problems/snakes-and-ladders/) | [Snakes and Ladders](./Daily_Challenge/909_Snakes_and_Ladders.md) | [Python](./Daily_Challenge/909_Snakes_and_Ladders.py) | Medium |
 | 2025-05-30 | [2359](https://www.leetcode.com/problems/find-closest-node-to-given-two-nodes/) | [Find Closest Node to Given Two Nodes](./Daily_Challenge/2359_Find_Closest_Node_to_Given_Two_Nodes.md) | [Python](./Daily_Challenge/2359_Find_Closest_Node_to_Given_Two_Nodes.py) | Medium |
 | 2025-05-29 | [3373](https://www.leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | [Maximize the Number of Target Nodes After Connecting Trees II](./Daily_Challenge/3373_Maximize_the_Number_of_Target_Nodes_After_Connecting_Trees_II.md) | [Python](./Daily_Challenge/3373_Maximize_the_Number_of_Target_Nodes_After_Connecting_Trees_II.py) | Hard |
