@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-06-03 | [1298](https://www.leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | [Maximum Candies You Can Get from Boxes](./Daily_Challenge/1298_Maximum_Candies_You_Can_Get_from_Boxes.md) | [Python](./Daily_Challenge/1298_Maximum_Candies_You_Can_Get_from_Boxes.py) | Hard |
 | 2025-06-02 | [135](https://www.leetcode.com/problems/candy/) | [Candy](./Daily_Challenge/135_Candy.md) | [Python](./Daily_Challenge/135_Candy.py) | Hard |
 | 2025-06-01 | [2929](https://www.leetcode.com/problems/distribute-candies-among-children-ii/) | [Distribute Candies Among Children II](./Daily_Challenge/2929_Distribute_Candies_Among_Children_II.md) | [Python](./Daily_Challenge/2929_Distribute_Candies_Among_Children_II.py) | Medium |
 | 2025-05-31 | [909](https://www.leetcode.com/problems/snakes-and-ladders/) | [Snakes and Ladders](./Daily_Challenge/909_Snakes_and_Ladders.md) | [Python](./Daily_Challenge/909_Snakes_and_Ladders.py) | Medium |
