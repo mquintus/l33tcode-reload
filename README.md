@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-06-06 | [2434](https://www.leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Using a Robot to Print the Lexicographically Smallest String](./Daily_Challenge/2434_Using_a_Robot_to_Print_the_Lexicographically_Smallest_String.md) | [Python](./Daily_Challenge/2434_Using_a_Robot_to_Print_the_Lexicographically_Smallest_String.py) | Medium |
 | 2025-06-05 | [1061](https://www.leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Lexicographically Smallest Equivalent String](./Daily_Challenge/1061_Lexicographically_Smallest_Equivalent_String.md) | [Python](./Daily_Challenge/1061_Lexicographically_Smallest_Equivalent_String.py) | Medium |
 | 2025-06-04 | [3403](https://www.leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | [Find the Lexicographically Largest String From the Box I](./Daily_Challenge/3403_Find_the_Lexicographically_Largest_String_From_the_Box_I.md) | [Python](./Daily_Challenge/3403_Find_the_Lexicographically_Largest_String_From_the_Box_I.py) | Medium |
 | 2025-06-03 | [1298](https://www.leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | [Maximum Candies You Can Get from Boxes](./Daily_Challenge/1298_Maximum_Candies_You_Can_Get_from_Boxes.md) | [Python](./Daily_Challenge/1298_Maximum_Candies_You_Can_Get_from_Boxes.py) | Hard |
