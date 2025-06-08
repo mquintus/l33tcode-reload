@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-06-08 | [386](https://www.leetcode.com/problems/lexicographical-numbers/) | [Lexicographical Numbers](./Daily_Challenge/386_Lexicographical_Numbers.md) | [Python](./Daily_Challenge/386_Lexicographical_Numbers.py) | Medium |
 | 2025-06-07 | [3170](https://www.leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | [Lexicographically Minimum String After Removing Stars](./Daily_Challenge/3170_Lexicographically_Minimum_String_After_Removing_Stars.md) | [Python](./Daily_Challenge/3170_Lexicographically_Minimum_String_After_Removing_Stars.py) | Medium |
 | 2025-06-06 | [2434](https://www.leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Using a Robot to Print the Lexicographically Smallest String](./Daily_Challenge/2434_Using_a_Robot_to_Print_the_Lexicographically_Smallest_String.md) | [Python](./Daily_Challenge/2434_Using_a_Robot_to_Print_the_Lexicographically_Smallest_String.py) | Medium |
 | 2025-06-05 | [1061](https://www.leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Lexicographically Smallest Equivalent String](./Daily_Challenge/1061_Lexicographically_Smallest_Equivalent_String.md) | [Python](./Daily_Challenge/1061_Lexicographically_Smallest_Equivalent_String.py) | Medium |
