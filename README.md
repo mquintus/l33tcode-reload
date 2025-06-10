@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-06-10 | [3442](https://www.leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Maximum Difference Between Even and Odd Frequency I](./Daily_Challenge/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.md) | [Python](./Daily_Challenge/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.py) | Easy |
 | 2025-06-09 | [440](https://www.leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [K-th Smallest in Lexicographical Order](./Daily_Challenge/440_K-th_Smallest_in_Lexicographical_Order.md) | [Python](./Daily_Challenge/440_K-th_Smallest_in_Lexicographical_Order.py) | Hard |
 | 2025-06-08 | [386](https://www.leetcode.com/problems/lexicographical-numbers/) | [Lexicographical Numbers](./Daily_Challenge/386_Lexicographical_Numbers.md) | [Python](./Daily_Challenge/386_Lexicographical_Numbers.py) | Medium |
 | 2025-06-07 | [3170](https://www.leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | [Lexicographically Minimum String After Removing Stars](./Daily_Challenge/3170_Lexicographically_Minimum_String_After_Removing_Stars.md) | [Python](./Daily_Challenge/3170_Lexicographically_Minimum_String_After_Removing_Stars.py) | Medium |
