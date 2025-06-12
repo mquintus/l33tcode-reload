@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-06-12 | [3423](https://www.leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | [Maximum Difference Between Adjacent Elements in a Circular Array](./Daily_Challenge/3423_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.md) | [Python](./Daily_Challenge/3423_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.py) | Easy |
 | 2025-06-11 | [3445](https://www.leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | [Maximum Difference Between Even and Odd Frequency II](./Daily_Challenge/3445_Maximum_Difference_Between_Even_and_Odd_Frequency_II.md) | [Python](./Daily_Challenge/3445_Maximum_Difference_Between_Even_and_Odd_Frequency_II.py) | Hard |
 | 2025-06-10 | [3442](https://www.leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Maximum Difference Between Even and Odd Frequency I](./Daily_Challenge/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.md) | [Python](./Daily_Challenge/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I.py) | Easy |
 | 2025-06-09 | [440](https://www.leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [K-th Smallest in Lexicographical Order](./Daily_Challenge/440_K-th_Smallest_in_Lexicographical_Order.md) | [Python](./Daily_Challenge/440_K-th_Smallest_in_Lexicographical_Order.py) | Hard |
