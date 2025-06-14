@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-06-14 | [2566](https://www.leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Maximum Difference by Remapping a Digit](./Daily_Challenge/2566_Maximum_Difference_by_Remapping_a_Digit.md) | [Python](./Daily_Challenge/2566_Maximum_Difference_by_Remapping_a_Digit.py) | Easy |
 | 2025-06-13 | [2616](https://www.leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [Minimize the Maximum Difference of Pairs](./Daily_Challenge/2616_Minimize_the_Maximum_Difference_of_Pairs.md) | [Python](./Daily_Challenge/2616_Minimize_the_Maximum_Difference_of_Pairs.py) | Medium |
 | 2025-06-12 | [3423](https://www.leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | [Maximum Difference Between Adjacent Elements in a Circular Array](./Daily_Challenge/3423_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.md) | [Python](./Daily_Challenge/3423_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.py) | Easy |
 | 2025-06-11 | [3445](https://www.leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | [Maximum Difference Between Even and Odd Frequency II](./Daily_Challenge/3445_Maximum_Difference_Between_Even_and_Odd_Frequency_II.md) | [Python](./Daily_Challenge/3445_Maximum_Difference_Between_Even_and_Odd_Frequency_II.py) | Hard |
