@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-06-18 | [2966](https://www.leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | [Divide Array Into Arrays With Max Difference](./Daily_Challenge/2966_Divide_Array_Into_Arrays_With_Max_Difference.md) | [Python](./Daily_Challenge/2966_Divide_Array_Into_Arrays_With_Max_Difference.py) | Medium |
 | 2025-06-17 | [3405](https://www.leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | [Count the Number of Arrays with K Matching Adjacent Elements](./Daily_Challenge/3405_Count_the_Number_of_Arrays_with_K_Matching_Adjacent_Elements.md) | [Python](./Daily_Challenge/3405_Count_the_Number_of_Arrays_with_K_Matching_Adjacent_Elements.py) | Hard |
 | 2025-06-16 | [2016](https://www.leetcode.com/problems/maximum-difference-between-increasing-elements/) | [Maximum Difference Between Increasing Elements](./Daily_Challenge/2016_Maximum_Difference_Between_Increasing_Elements.md) | [Python](./Daily_Challenge/2016_Maximum_Difference_Between_Increasing_Elements.py) | Easy |
 | 2025-06-15 | [1432](https://www.leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [Max Difference You Can Get From Changing an Integer](./Daily_Challenge/1432_Max_Difference_You_Can_Get_From_Changing_an_Integer.md) | [Python](./Daily_Challenge/1432_Max_Difference_You_Can_Get_From_Changing_an_Integer.py) | Medium |
