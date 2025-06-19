@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-06-19 | [2294](https://www.leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | [Partition Array Such That Maximum Difference Is K](./Daily_Challenge/2294_Partition_Array_Such_That_Maximum_Difference_Is_K.md) | [Python](./Daily_Challenge/2294_Partition_Array_Such_That_Maximum_Difference_Is_K.py) | Medium |
 | 2025-06-18 | [2966](https://www.leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | [Divide Array Into Arrays With Max Difference](./Daily_Challenge/2966_Divide_Array_Into_Arrays_With_Max_Difference.md) | [Python](./Daily_Challenge/2966_Divide_Array_Into_Arrays_With_Max_Difference.py) | Medium |
 | 2025-06-17 | [3405](https://www.leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | [Count the Number of Arrays with K Matching Adjacent Elements](./Daily_Challenge/3405_Count_the_Number_of_Arrays_with_K_Matching_Adjacent_Elements.md) | [Python](./Daily_Challenge/3405_Count_the_Number_of_Arrays_with_K_Matching_Adjacent_Elements.py) | Hard |
 | 2025-06-16 | [2016](https://www.leetcode.com/problems/maximum-difference-between-increasing-elements/) | [Maximum Difference Between Increasing Elements](./Daily_Challenge/2016_Maximum_Difference_Between_Increasing_Elements.md) | [Python](./Daily_Challenge/2016_Maximum_Difference_Between_Increasing_Elements.py) | Easy |
