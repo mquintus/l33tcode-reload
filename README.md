@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-06-22 | [2138](https://www.leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | [Divide a String Into Groups of Size k](./Daily_Challenge/2138_Divide_a_String_Into_Groups_of_Size_k.md) | [Python](./Daily_Challenge/2138_Divide_a_String_Into_Groups_of_Size_k.py) | Easy |
 | 2025-06-21 | [3085](https://www.leetcode.com/problems/minimum-deletions-to-make-string-k-special/) | [Minimum Deletions to Make String K-Special](./Daily_Challenge/3085_Minimum_Deletions_to_Make_String_K-Special.md) | [Python](./Daily_Challenge/3085_Minimum_Deletions_to_Make_String_K-Special.py) | Medium |
 | 2025-06-20 | [3443](https://www.leetcode.com/problems/maximum-manhattan-distance-after-k-changes/) | [Maximum Manhattan Distance After K Changes](./Daily_Challenge/3443_Maximum_Manhattan_Distance_After_K_Changes.md) | [Python](./Daily_Challenge/3443_Maximum_Manhattan_Distance_After_K_Changes.py) | Medium |
 | 2025-06-19 | [2294](https://www.leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | [Partition Array Such That Maximum Difference Is K](./Daily_Challenge/2294_Partition_Array_Such_That_Maximum_Difference_Is_K.md) | [Python](./Daily_Challenge/2294_Partition_Array_Such_That_Maximum_Difference_Is_K.py) | Medium |
