@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-06-26 | [2311](https://www.leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | [Longest Binary Subsequence Less Than or Equal to K](./Daily_Challenge/2311_Longest_Binary_Subsequence_Less_Than_or_Equal_to_K.md) | [Python](./Daily_Challenge/2311_Longest_Binary_Subsequence_Less_Than_or_Equal_to_K.py) | Medium |
 | 2025-06-25 | [2040](https://www.leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/) | [Kth Smallest Product of Two Sorted Arrays](./Daily_Challenge/2040_Kth_Smallest_Product_of_Two_Sorted_Arrays.md) | [Python](./Daily_Challenge/2040_Kth_Smallest_Product_of_Two_Sorted_Arrays.py) | Hard |
 | 2025-06-24 | [2200](https://www.leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | [Find All K-Distant Indices in an Array](./Daily_Challenge/2200_Find_All_K-Distant_Indices_in_an_Array.md) | [Python](./Daily_Challenge/2200_Find_All_K-Distant_Indices_in_an_Array.py) | Easy |
 | 2025-06-23 | [2081](https://www.leetcode.com/problems/sum-of-k-mirror-numbers/) | [Sum of k-Mirror Numbers](./Daily_Challenge/2081_Sum_of_k-Mirror_Numbers.md) | [Python](./Daily_Challenge/2081_Sum_of_k-Mirror_Numbers.py) | Hard |
