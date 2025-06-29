@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-06-29 | [1498](https://www.leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [Number of Subsequences That Satisfy the Given Sum Condition](./Daily_Challenge/1498_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.md) | [Python](./Daily_Challenge/1498_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.py) | Medium |
 | 2025-06-28 | [2099](https://www.leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [Find Subsequence of Length K With the Largest Sum](./Daily_Challenge/2099_Find_Subsequence_of_Length_K_With_the_Largest_Sum.md) | [Python](./Daily_Challenge/2099_Find_Subsequence_of_Length_K_With_the_Largest_Sum.py) | Easy |
 | 2025-06-27 | [2014](https://www.leetcode.com/problems/longest-subsequence-repeated-k-times/) | [Longest Subsequence Repeated k Times](./Daily_Challenge/2014_Longest_Subsequence_Repeated_k_Times.md) | [Python](./Daily_Challenge/2014_Longest_Subsequence_Repeated_k_Times.py) | Hard |
 | 2025-06-26 | [2311](https://www.leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | [Longest Binary Subsequence Less Than or Equal to K](./Daily_Challenge/2311_Longest_Binary_Subsequence_Less_Than_or_Equal_to_K.md) | [Python](./Daily_Challenge/2311_Longest_Binary_Subsequence_Less_Than_or_Equal_to_K.py) | Medium |
