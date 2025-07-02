@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-02 | [3333](https://www.leetcode.com/problems/find-the-original-typed-string-ii/) | [Find the Original Typed String II](./Daily_Challenge/3333_Find_the_Original_Typed_String_II.md) | [Python](./Daily_Challenge/3333_Find_the_Original_Typed_String_II.py) | Hard |
 | 2025-07-01 | [3330](https://www.leetcode.com/problems/find-the-original-typed-string-i/) | [Find the Original Typed String I](./Daily_Challenge/3330_Find_the_Original_Typed_String_I.md) | [Python](./Daily_Challenge/3330_Find_the_Original_Typed_String_I.py) | Easy |
 | 2025-06-30 | [594](https://www.leetcode.com/problems/longest-harmonious-subsequence/) | [Longest Harmonious Subsequence](./Daily_Challenge/594_Longest_Harmonious_Subsequence.md) | [Python](./Daily_Challenge/594_Longest_Harmonious_Subsequence.py) | Easy |
 | 2025-06-29 | [1498](https://www.leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [Number of Subsequences That Satisfy the Given Sum Condition](./Daily_Challenge/1498_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.md) | [Python](./Daily_Challenge/1498_Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.py) | Medium |
