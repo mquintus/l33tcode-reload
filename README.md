@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-03 | [3304](https://www.leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | [Find the K-th Character in String Game I](./Daily_Challenge/3304_Find_the_K-th_Character_in_String_Game_I.md) | [Python](./Daily_Challenge/3304_Find_the_K-th_Character_in_String_Game_I.py) | Easy |
 | 2025-07-02 | [3333](https://www.leetcode.com/problems/find-the-original-typed-string-ii/) | [Find the Original Typed String II](./Daily_Challenge/3333_Find_the_Original_Typed_String_II.md) | [Python](./Daily_Challenge/3333_Find_the_Original_Typed_String_II.py) | Hard |
 | 2025-07-01 | [3330](https://www.leetcode.com/problems/find-the-original-typed-string-i/) | [Find the Original Typed String I](./Daily_Challenge/3330_Find_the_Original_Typed_String_I.md) | [Python](./Daily_Challenge/3330_Find_the_Original_Typed_String_I.py) | Easy |
 | 2025-06-30 | [594](https://www.leetcode.com/problems/longest-harmonious-subsequence/) | [Longest Harmonious Subsequence](./Daily_Challenge/594_Longest_Harmonious_Subsequence.md) | [Python](./Daily_Challenge/594_Longest_Harmonious_Subsequence.py) | Easy |
