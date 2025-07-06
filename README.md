@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-06 | [1865](https://www.leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [Finding Pairs With a Certain Sum](./Daily_Challenge/1865_Finding_Pairs_With_a_Certain_Sum.md) | [Python](./Daily_Challenge/1865_Finding_Pairs_With_a_Certain_Sum.py) | Medium |
 | 2025-07-05 | [1394](https://www.leetcode.com/problems/find-lucky-integer-in-an-array/) | [Find Lucky Integer in an Array](./Daily_Challenge/1394_Find_Lucky_Integer_in_an_Array.md) | [Python](./Daily_Challenge/1394_Find_Lucky_Integer_in_an_Array.py) | Easy |
 | 2025-07-04 | [3307](https://www.leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | [Find the K-th Character in String Game II](./Daily_Challenge/3307_Find_the_K-th_Character_in_String_Game_II.md) | [Python](./Daily_Challenge/3307_Find_the_K-th_Character_in_String_Game_II.py) | Hard |
 | 2025-07-03 | [3304](https://www.leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | [Find the K-th Character in String Game I](./Daily_Challenge/3304_Find_the_K-th_Character_in_String_Game_I.md) | [Python](./Daily_Challenge/3304_Find_the_K-th_Character_in_String_Game_I.py) | Easy |
