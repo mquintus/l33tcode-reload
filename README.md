@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-08 | [1751](https://www.leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [Maximum Number of Events That Can Be Attended II](./Daily_Challenge/1751_Maximum_Number_of_Events_That_Can_Be_Attended_II.md) | [Python](./Daily_Challenge/1751_Maximum_Number_of_Events_That_Can_Be_Attended_II.py) | Hard |
 | 2025-07-07 | [1353](https://www.leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [Maximum Number of Events That Can Be Attended](./Daily_Challenge/1353_Maximum_Number_of_Events_That_Can_Be_Attended.md) | [Python](./Daily_Challenge/1353_Maximum_Number_of_Events_That_Can_Be_Attended.py) | Medium |
 | 2025-07-06 | [1865](https://www.leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [Finding Pairs With a Certain Sum](./Daily_Challenge/1865_Finding_Pairs_With_a_Certain_Sum.md) | [Python](./Daily_Challenge/1865_Finding_Pairs_With_a_Certain_Sum.py) | Medium |
 | 2025-07-05 | [1394](https://www.leetcode.com/problems/find-lucky-integer-in-an-array/) | [Find Lucky Integer in an Array](./Daily_Challenge/1394_Find_Lucky_Integer_in_an_Array.md) | [Python](./Daily_Challenge/1394_Find_Lucky_Integer_in_an_Array.py) | Easy |
