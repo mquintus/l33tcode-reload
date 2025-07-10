@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-10 | [3440](https://www.leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/) | [Reschedule Meetings for Maximum Free Time II](./Daily_Challenge/3440_Reschedule_Meetings_for_Maximum_Free_Time_II.md) | [Python](./Daily_Challenge/3440_Reschedule_Meetings_for_Maximum_Free_Time_II.py) | Medium |
 | 2025-07-09 | [3439](https://www.leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | [Reschedule Meetings for Maximum Free Time I](./Daily_Challenge/3439_Reschedule_Meetings_for_Maximum_Free_Time_I.md) | [Python](./Daily_Challenge/3439_Reschedule_Meetings_for_Maximum_Free_Time_I.py) | Medium |
 | 2025-07-08 | [1751](https://www.leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [Maximum Number of Events That Can Be Attended II](./Daily_Challenge/1751_Maximum_Number_of_Events_That_Can_Be_Attended_II.md) | [Python](./Daily_Challenge/1751_Maximum_Number_of_Events_That_Can_Be_Attended_II.py) | Hard |
 | 2025-07-07 | [1353](https://www.leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [Maximum Number of Events That Can Be Attended](./Daily_Challenge/1353_Maximum_Number_of_Events_That_Can_Be_Attended.md) | [Python](./Daily_Challenge/1353_Maximum_Number_of_Events_That_Can_Be_Attended.py) | Medium |
