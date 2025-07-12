@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-12 | [1900](https://www.leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/) | [The Earliest and Latest Rounds Where Players Compete](./Daily_Challenge/1900_The_Earliest_and_Latest_Rounds_Where_Players_Compete.md) | [Python](./Daily_Challenge/1900_The_Earliest_and_Latest_Rounds_Where_Players_Compete.py) | Hard |
 | 2025-07-11 | [2402](https://www.leetcode.com/problems/meeting-rooms-iii/) | [Meeting Rooms III](./Daily_Challenge/2402_Meeting_Rooms_III.md) | [Python](./Daily_Challenge/2402_Meeting_Rooms_III.py) | Hard |
 | 2025-07-10 | [3440](https://www.leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/) | [Reschedule Meetings for Maximum Free Time II](./Daily_Challenge/3440_Reschedule_Meetings_for_Maximum_Free_Time_II.md) | [Python](./Daily_Challenge/3440_Reschedule_Meetings_for_Maximum_Free_Time_II.py) | Medium |
 | 2025-07-09 | [3439](https://www.leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | [Reschedule Meetings for Maximum Free Time I](./Daily_Challenge/3439_Reschedule_Meetings_for_Maximum_Free_Time_I.md) | [Python](./Daily_Challenge/3439_Reschedule_Meetings_for_Maximum_Free_Time_I.py) | Medium |
