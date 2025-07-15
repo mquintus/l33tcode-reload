@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-15 | [3136](https://www.leetcode.com/problems/valid-word/) | [Valid Word](./Daily_Challenge/3136_Valid_Word.md) | [Python](./Daily_Challenge/3136_Valid_Word.py) | Easy |
 | 2025-07-14 | [1290](https://www.leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Convert Binary Number in a Linked List to Integer](./Daily_Challenge/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.md) | [Python](./Daily_Challenge/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.py) | Easy |
 | 2025-07-13 | [2410](https://www.leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [Maximum Matching of Players With Trainers](./Daily_Challenge/2410_Maximum_Matching_of_Players_With_Trainers.md) | [Python](./Daily_Challenge/2410_Maximum_Matching_of_Players_With_Trainers.py) | Medium |
 | 2025-07-12 | [1900](https://www.leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/) | [The Earliest and Latest Rounds Where Players Compete](./Daily_Challenge/1900_The_Earliest_and_Latest_Rounds_Where_Players_Compete.md) | [Python](./Daily_Challenge/1900_The_Earliest_and_Latest_Rounds_Where_Players_Compete.py) | Hard |
