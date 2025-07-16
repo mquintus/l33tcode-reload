@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-16 | [3201](https://www.leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | [Find the Maximum Length of Valid Subsequence I](./Daily_Challenge/3201_Find_the_Maximum_Length_of_Valid_Subsequence_I.md) | [Python](./Daily_Challenge/3201_Find_the_Maximum_Length_of_Valid_Subsequence_I.py) | Medium |
 | 2025-07-15 | [3136](https://www.leetcode.com/problems/valid-word/) | [Valid Word](./Daily_Challenge/3136_Valid_Word.md) | [Python](./Daily_Challenge/3136_Valid_Word.py) | Easy |
 | 2025-07-14 | [1290](https://www.leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Convert Binary Number in a Linked List to Integer](./Daily_Challenge/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.md) | [Python](./Daily_Challenge/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.py) | Easy |
 | 2025-07-13 | [2410](https://www.leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [Maximum Matching of Players With Trainers](./Daily_Challenge/2410_Maximum_Matching_of_Players_With_Trainers.md) | [Python](./Daily_Challenge/2410_Maximum_Matching_of_Players_With_Trainers.py) | Medium |
