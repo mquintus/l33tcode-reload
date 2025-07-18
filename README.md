@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-18 | [2163](https://www.leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/) | [Minimum Difference in Sums After Removal of Elements](./Daily_Challenge/2163_Minimum_Difference_in_Sums_After_Removal_of_Elements.md) | [Python](./Daily_Challenge/2163_Minimum_Difference_in_Sums_After_Removal_of_Elements.py) | Hard |
 | 2025-07-17 | [3202](https://www.leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/) | [Find the Maximum Length of Valid Subsequence II](./Daily_Challenge/3202_Find_the_Maximum_Length_of_Valid_Subsequence_II.md) | [Python](./Daily_Challenge/3202_Find_the_Maximum_Length_of_Valid_Subsequence_II.py) | Medium |
 | 2025-07-16 | [3201](https://www.leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | [Find the Maximum Length of Valid Subsequence I](./Daily_Challenge/3201_Find_the_Maximum_Length_of_Valid_Subsequence_I.md) | [Python](./Daily_Challenge/3201_Find_the_Maximum_Length_of_Valid_Subsequence_I.py) | Medium |
 | 2025-07-15 | [3136](https://www.leetcode.com/problems/valid-word/) | [Valid Word](./Daily_Challenge/3136_Valid_Word.md) | [Python](./Daily_Challenge/3136_Valid_Word.py) | Easy |
