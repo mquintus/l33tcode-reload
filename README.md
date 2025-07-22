@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-22 | [1695](https://www.leetcode.com/problems/maximum-erasure-value/) | [Maximum Erasure Value](./Daily_Challenge/1695_Maximum_Erasure_Value.md) | [Python](./Daily_Challenge/1695_Maximum_Erasure_Value.py) | Medium |
 | 2025-07-21 | [1957](https://www.leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Delete Characters to Make Fancy String](./Daily_Challenge/1957_Delete_Characters_to_Make_Fancy_String.md) | [Python](./Daily_Challenge/1957_Delete_Characters_to_Make_Fancy_String.py) | Easy |
 | 2025-07-20 | [1948](https://www.leetcode.com/problems/delete-duplicate-folders-in-system/) | [Delete Duplicate Folders in System](./Daily_Challenge/1948_Delete_Duplicate_Folders_in_System.md) | [Python](./Daily_Challenge/1948_Delete_Duplicate_Folders_in_System.py) | Hard |
 | 2025-07-19 | [1233](https://www.leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [Remove Sub-Folders from the Filesystem](./Daily_Challenge/1233_Remove_Sub-Folders_from_the_Filesystem.md) | [Python](./Daily_Challenge/1233_Remove_Sub-Folders_from_the_Filesystem.py) | Medium |
