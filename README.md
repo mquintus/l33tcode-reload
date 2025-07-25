@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-25 | [3487](https://www.leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Maximum Unique Subarray Sum After Deletion](./Daily_Challenge/3487_Maximum_Unique_Subarray_Sum_After_Deletion.md) | [Python](./Daily_Challenge/3487_Maximum_Unique_Subarray_Sum_After_Deletion.py) | Easy |
 | 2025-07-24 | [2322](https://www.leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Minimum Score After Removals on a Tree](./Daily_Challenge/2322_Minimum_Score_After_Removals_on_a_Tree.md) | [Python](./Daily_Challenge/2322_Minimum_Score_After_Removals_on_a_Tree.py) | Hard |
 | 2025-07-23 | [1717](https://www.leetcode.com/problems/maximum-score-from-removing-substrings/) | [Maximum Score From Removing Substrings](./Daily_Challenge/1717_Maximum_Score_From_Removing_Substrings.md) | [Python](./Daily_Challenge/1717_Maximum_Score_From_Removing_Substrings.py) | Medium |
 | 2025-07-22 | [1695](https://www.leetcode.com/problems/maximum-erasure-value/) | [Maximum Erasure Value](./Daily_Challenge/1695_Maximum_Erasure_Value.md) | [Python](./Daily_Challenge/1695_Maximum_Erasure_Value.py) | Medium |
