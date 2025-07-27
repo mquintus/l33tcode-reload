@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-27 | [2210](https://www.leetcode.com/problems/count-hills-and-valleys-in-an-array/) | [Count Hills and Valleys in an Array](./Daily_Challenge/2210_Count_Hills_and_Valleys_in_an_Array.md) | [Python](./Daily_Challenge/2210_Count_Hills_and_Valleys_in_an_Array.py) | Easy |
 | 2025-07-26 | [3480](https://www.leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [Maximize Subarrays After Removing One Conflicting Pair](./Daily_Challenge/3480_Maximize_Subarrays_After_Removing_One_Conflicting_Pair.md) | [Python](./Daily_Challenge/3480_Maximize_Subarrays_After_Removing_One_Conflicting_Pair.py) | Hard |
 | 2025-07-25 | [3487](https://www.leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Maximum Unique Subarray Sum After Deletion](./Daily_Challenge/3487_Maximum_Unique_Subarray_Sum_After_Deletion.md) | [Python](./Daily_Challenge/3487_Maximum_Unique_Subarray_Sum_After_Deletion.py) | Easy |
 | 2025-07-24 | [2322](https://www.leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Minimum Score After Removals on a Tree](./Daily_Challenge/2322_Minimum_Score_After_Removals_on_a_Tree.md) | [Python](./Daily_Challenge/2322_Minimum_Score_After_Removals_on_a_Tree.py) | Hard |
