@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-28 | [2044](https://www.leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Count Number of Maximum Bitwise-OR Subsets](./Daily_Challenge/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets.md) | [Python](./Daily_Challenge/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets.py) | Medium |
 | 2025-07-27 | [2210](https://www.leetcode.com/problems/count-hills-and-valleys-in-an-array/) | [Count Hills and Valleys in an Array](./Daily_Challenge/2210_Count_Hills_and_Valleys_in_an_Array.md) | [Python](./Daily_Challenge/2210_Count_Hills_and_Valleys_in_an_Array.py) | Easy |
 | 2025-07-26 | [3480](https://www.leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [Maximize Subarrays After Removing One Conflicting Pair](./Daily_Challenge/3480_Maximize_Subarrays_After_Removing_One_Conflicting_Pair.md) | [Python](./Daily_Challenge/3480_Maximize_Subarrays_After_Removing_One_Conflicting_Pair.py) | Hard |
 | 2025-07-25 | [3487](https://www.leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Maximum Unique Subarray Sum After Deletion](./Daily_Challenge/3487_Maximum_Unique_Subarray_Sum_After_Deletion.md) | [Python](./Daily_Challenge/3487_Maximum_Unique_Subarray_Sum_After_Deletion.py) | Easy |
