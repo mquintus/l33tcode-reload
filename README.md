@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-29 | [2411](https://www.leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | [Smallest Subarrays With Maximum Bitwise OR](./Daily_Challenge/2411_Smallest_Subarrays_With_Maximum_Bitwise_OR.md) | [Python](./Daily_Challenge/2411_Smallest_Subarrays_With_Maximum_Bitwise_OR.py) | Medium |
 | 2025-07-28 | [2044](https://www.leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Count Number of Maximum Bitwise-OR Subsets](./Daily_Challenge/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets.md) | [Python](./Daily_Challenge/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets.py) | Medium |
 | 2025-07-27 | [2210](https://www.leetcode.com/problems/count-hills-and-valleys-in-an-array/) | [Count Hills and Valleys in an Array](./Daily_Challenge/2210_Count_Hills_and_Valleys_in_an_Array.md) | [Python](./Daily_Challenge/2210_Count_Hills_and_Valleys_in_an_Array.py) | Easy |
 | 2025-07-26 | [3480](https://www.leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [Maximize Subarrays After Removing One Conflicting Pair](./Daily_Challenge/3480_Maximize_Subarrays_After_Removing_One_Conflicting_Pair.md) | [Python](./Daily_Challenge/3480_Maximize_Subarrays_After_Removing_One_Conflicting_Pair.py) | Hard |
