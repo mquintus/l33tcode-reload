@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-07-31 | [898](https://www.leetcode.com/problems/bitwise-ors-of-subarrays/) | [Bitwise ORs of Subarrays](./Daily_Challenge/898_Bitwise_ORs_of_Subarrays.md) | [Python](./Daily_Challenge/898_Bitwise_ORs_of_Subarrays.py) | Medium |
 | 2025-07-30 | [2419](https://www.leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [Longest Subarray With Maximum Bitwise AND](./Daily_Challenge/2419_Longest_Subarray_With_Maximum_Bitwise_AND.md) | [Python](./Daily_Challenge/2419_Longest_Subarray_With_Maximum_Bitwise_AND.py) | Medium |
 | 2025-07-29 | [2411](https://www.leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | [Smallest Subarrays With Maximum Bitwise OR](./Daily_Challenge/2411_Smallest_Subarrays_With_Maximum_Bitwise_OR.md) | [Python](./Daily_Challenge/2411_Smallest_Subarrays_With_Maximum_Bitwise_OR.py) | Medium |
 | 2025-07-28 | [2044](https://www.leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Count Number of Maximum Bitwise-OR Subsets](./Daily_Challenge/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets.md) | [Python](./Daily_Challenge/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets.py) | Medium |
