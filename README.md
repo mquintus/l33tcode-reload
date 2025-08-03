@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-08-03 | [2106](https://www.leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [Maximum Fruits Harvested After at Most K Steps](./Daily_Challenge/2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps.md) | [Python](./Daily_Challenge/2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps.py) | Hard |
 | 2025-08-02 | [2561](https://www.leetcode.com/problems/rearranging-fruits/) | [Rearranging Fruits](./Daily_Challenge/2561_Rearranging_Fruits.md) | [Python](./Daily_Challenge/2561_Rearranging_Fruits.py) | Hard |
 | 2025-08-01 | [118](https://www.leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](./Daily_Challenge/118_Pascal's_Triangle.md) | [Python](./Daily_Challenge/118_Pascal's_Triangle.py) | Easy |
 | 2025-07-31 | [898](https://www.leetcode.com/problems/bitwise-ors-of-subarrays/) | [Bitwise ORs of Subarrays](./Daily_Challenge/898_Bitwise_ORs_of_Subarrays.md) | [Python](./Daily_Challenge/898_Bitwise_ORs_of_Subarrays.py) | Medium |
