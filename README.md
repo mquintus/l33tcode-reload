@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-08-05 | [3477](https://www.leetcode.com/problems/fruits-into-baskets-ii/) | [Fruits Into Baskets II](./Daily_Challenge/3477_Fruits_Into_Baskets_II.md) | [Python](./Daily_Challenge/3477_Fruits_Into_Baskets_II.py) | Easy |
 | 2025-08-04 | [904](https://www.leetcode.com/problems/fruit-into-baskets/) | [Fruit Into Baskets](./Daily_Challenge/904_Fruit_Into_Baskets.md) | [Python](./Daily_Challenge/904_Fruit_Into_Baskets.py) | Medium |
 | 2025-08-03 | [2106](https://www.leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [Maximum Fruits Harvested After at Most K Steps](./Daily_Challenge/2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps.md) | [Python](./Daily_Challenge/2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps.py) | Hard |
 | 2025-08-02 | [2561](https://www.leetcode.com/problems/rearranging-fruits/) | [Rearranging Fruits](./Daily_Challenge/2561_Rearranging_Fruits.md) | [Python](./Daily_Challenge/2561_Rearranging_Fruits.py) | Hard |
