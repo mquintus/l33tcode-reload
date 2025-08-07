@@ -1,62 +1,59 @@
 class Solution:
-    def minCost(self, nums: List[int], cost: List[int]) -> int:
-        '''
-        There are two factors that can make moving a number expensive:
-        - if it is far away from all the other numbers.
-        - if its cost is high.
+    def maxValue(self, n: int, index: int, maxSum: int) -> int:
+        left = 1
+        right = maxSum+1
 
-        The brute force approach is to calculate moving all other numbers j!=i
-        for each number i.
-        Doesn't scale though, we need to pre-select.
+        def getSum(mid):
+            #print("If index",index,"has a value of",mid,"...")
+            myIndex = index
+            if myIndex == 0:
+                leftHalf = mid
+            elif myIndex == mid-1:
+                leftHalf = (mid*(mid+1))//2
+            elif myIndex > mid-1:
+                leftHalf = (mid*(mid+1))//2 + (myIndex-mid+1)
+            elif myIndex < mid-1:
+                missing = mid-myIndex-1
+                leftHalf = (mid*(mid+1))//2 - (missing*(missing+1))//2
+                #print("Left half: ", (mid*(mid+1))//2, "-", (missing*(missing+1))//2, "=", leftHalf)
+            #print("n",n,"index",myIndex, "Left half: ",leftHalf)
+            rightHalf = leftHalf
 
-        The candidates for the target value are ...
-        those with the highest cost
-        those far from the median
-        '''      
-        most_expensive = sorted(zip(cost, nums))
-        candidates = list(list(zip(*most_expensive[-20:]))[1])
+            leftHalf = 0
+            myIndex = n - 2 - myIndex
+            #print("index from the other side", myIndex)
+            if index < n-1 and myIndex <= n-1:
+                mid -= 1
+                if mid <= 1:
+                    leftHalf = 1 * (myIndex +1)
+                elif myIndex == 0:
+                    leftHalf = mid
+                elif myIndex == mid-1:
+                    leftHalf = (mid*(mid+1))//2
+                elif myIndex > mid-1:
+                    leftHalf = (mid*(mid+1))//2 + (myIndex-mid+1)
+                elif myIndex < mid-1:
+                    missing = mid-myIndex-1
+                    leftHalf = (mid*(mid+1))//2 - (missing*(missing+1))//2
 
-        # These candidates are not good enough.
-        # Better to weigh numbers by locality and weight 
-        # Just to think
-        # If there are a million ""light"" elements at position zero
-        # and just one heavy element (weight 1000) at position 10,
-        # moving the million lightweight elements to the heavy element
-        # will cost 10 million while moving the heavy element will only 
-        # cost 10 thousand.
-        # Therefore: If we add up all numbers times their weight, divide by the accumulated weight
-        # then we end up close to the "most heavy" position.
-        weighted_nums = [i * c for i,c in most_expensive]
-        weighted_average = sum(weighted_nums) / sum(cost)
-        #print(weighted_average)
-        distance = [abs(i - weighted_average) for i in nums]
-        far_numbers_zipped = sorted(zip(distance, nums))
-        far_numbers = list(zip(*far_numbers_zipped))[1]
-        #
-        # The question is, how many numbers to we need to test?
-        # Maybe 20% ?
-        #
+            #print("If index from the right",myIndex,"has a value of",mid,"the array in total would have a sum of leftHalf + rightHalf",rightHalf, "+", leftHalf, "=", leftHalf + rightHalf)
+            return leftHalf + rightHalf
 
-        #
-        # Let's try something else.
-        # Binary search.
-        # The problem here is that we need an array without local minima
-        # In fact: The problem doesn't have local minima.
-        min_movements = float('inf')
-        bestBestNum = -1
-        bin_start = min(nums)
-        bin_end = max(nums) + 1
-        while bin_start < bin_end:
-            bin_mid = bin_start + (bin_end-bin_start)//2
-            guessedNum = bin_mid
-            a = sum([abs(nums[i] - (guessedNum - 1)) * cost[i] for i in range(len(nums))])
-            b = sum([abs(nums[i] - (guessedNum)) * cost[i] for i in range(len(nums))])
-            if a > b:
-                bin_start = bin_mid + 1
-            else:
-                bin_end = bin_mid
+        while left < right:
+            mid = (left+right)//2
+            #print('---------------')
+            #print("Trying",mid,"for index",index)
 
-            min_movements = min(min_movements, b)
+            totalSum = getSum(mid)
+            if totalSum > maxSum:
+                right = mid
+            elif totalSum <= maxSum:
+                if getSum(mid+1) > maxSum:
+                    return mid
+                else:
+                    left = mid + 1
 
-        return min_movements
-            
+        return mid
+
+        
+        
