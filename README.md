@@ -791,6 +791,10 @@ Approaches:
 | 2023-06-17 |       |                              |          |            |
 | 2023-06-16 |       |                              |          |            |
 | 2023-06-15 |       |                              |          |            |
+| 2023-06-10 |  1802 | [Binary Search](./Daily_Challenge/1802_Maximum_Value_at_a_Given_Index_in_a_Bounded_Array.md) | [Python](./Daily_Challenge/1802_Maximum_Value_at_a_Given_Index_in_a_Bounded_Array.py)|Medium|
+| 2023-06-02 | 2101  | [Binary Search](./Daily_Challenge/2101_Detonate_the_Maximum_Bombs.md) | [Python](./Daily_Challenge/2101_Detonate_the_Maximum_Bombs.py)|Medium|
+| 2023-06-01 |  1091 | [Binary Search](./Daily_Challenge/1091_Shortest_Path_in_Binary_Matrix.md) | [Python](./Daily_Challenge/1091_Shortest_Path_in_Binary_Matrix.py)|Medium|
+
 
 
 ## Neetcode Roadmap
