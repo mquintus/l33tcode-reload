@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-08-09 | [231](https://www.leetcode.com/problems/power-of-two/) | [Power of Two](./Daily_Challenge/231_Power_of_Two.md) | [Python](./Daily_Challenge/231_Power_of_Two.py) | Easy |
 | 2025-08-08 | [808](https://www.leetcode.com/problems/soup-servings/) | [Soup Servings](./Daily_Challenge/808_Soup_Servings.md) | [Python](./Daily_Challenge/808_Soup_Servings.py) | Medium |
 | 2025-08-07 | [3363](https://www.leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | [Find the Maximum Number of Fruits Collected](./Daily_Challenge/3363_Find_the_Maximum_Number_of_Fruits_Collected.md) | [Python](./Daily_Challenge/3363_Find_the_Maximum_Number_of_Fruits_Collected.py) | Hard |
 | 2025-08-06 | [3479](https://www.leetcode.com/problems/fruits-into-baskets-iii/) | [Fruits Into Baskets III](./Daily_Challenge/3479_Fruits_Into_Baskets_III.md) | [Python](./Daily_Challenge/3479_Fruits_Into_Baskets_III.py) | Medium |
