@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-08-13 | [326](https://www.leetcode.com/problems/power-of-three/) | [Power of Three](./Daily_Challenge/326_Power_of_Three.md) | [Python](./Daily_Challenge/326_Power_of_Three.py) | Easy |
 | 2025-08-12 | [2787](https://www.leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | [Ways to Express an Integer as Sum of Powers](./Daily_Challenge/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers.md) | [Python](./Daily_Challenge/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers.py) | Medium |
 | 2025-08-11 | [2438](https://www.leetcode.com/problems/range-product-queries-of-powers/) | [Range Product Queries of Powers](./Daily_Challenge/2438_Range_Product_Queries_of_Powers.md) | [Python](./Daily_Challenge/2438_Range_Product_Queries_of_Powers.py) | Medium |
 | 2025-08-10 | [869](https://www.leetcode.com/problems/reordered-power-of-2/) | [Reordered Power of 2](./Daily_Challenge/869_Reordered_Power_of_2.md) | [Python](./Daily_Challenge/869_Reordered_Power_of_2.py) | Medium |
