@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-08-15 | [342](https://www.leetcode.com/problems/power-of-four/) | [Power of Four](./Daily_Challenge/342_Power_of_Four.md) | [Python](./Daily_Challenge/342_Power_of_Four.py) | Easy |
 | 2025-08-14 | [2264](https://www.leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Largest 3-Same-Digit Number in String](./Daily_Challenge/2264_Largest_3-Same-Digit_Number_in_String.md) | [Python](./Daily_Challenge/2264_Largest_3-Same-Digit_Number_in_String.py) | Easy |
 | 2025-08-13 | [326](https://www.leetcode.com/problems/power-of-three/) | [Power of Three](./Daily_Challenge/326_Power_of_Three.md) | [Python](./Daily_Challenge/326_Power_of_Three.py) | Easy |
 | 2025-08-12 | [2787](https://www.leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | [Ways to Express an Integer as Sum of Powers](./Daily_Challenge/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers.md) | [Python](./Daily_Challenge/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers.py) | Medium |
