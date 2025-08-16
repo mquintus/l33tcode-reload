@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-08-16 | [1323](https://www.leetcode.com/problems/maximum-69-number/) | [Maximum 69 Number](./Daily_Challenge/1323_Maximum_69_Number.md) | [Python](./Daily_Challenge/1323_Maximum_69_Number.py) | Easy |
 | 2025-08-15 | [342](https://www.leetcode.com/problems/power-of-four/) | [Power of Four](./Daily_Challenge/342_Power_of_Four.md) | [Python](./Daily_Challenge/342_Power_of_Four.py) | Easy |
 | 2025-08-14 | [2264](https://www.leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Largest 3-Same-Digit Number in String](./Daily_Challenge/2264_Largest_3-Same-Digit_Number_in_String.md) | [Python](./Daily_Challenge/2264_Largest_3-Same-Digit_Number_in_String.py) | Easy |
 | 2025-08-13 | [326](https://www.leetcode.com/problems/power-of-three/) | [Power of Three](./Daily_Challenge/326_Power_of_Three.md) | [Python](./Daily_Challenge/326_Power_of_Three.py) | Easy |
