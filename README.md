@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-08-18 | [679](https://www.leetcode.com/problems/24-game/) | [24 Game](./Daily_Challenge/679_24_Game.md) | [Python](./Daily_Challenge/679_24_Game.py) | Hard |
 | 2025-08-17 | [837](https://www.leetcode.com/problems/new-21-game/) | [New 21 Game](./Daily_Challenge/837_New_21_Game.md) | [Python](./Daily_Challenge/837_New_21_Game.py) | Medium |
 | 2025-08-16 | [1323](https://www.leetcode.com/problems/maximum-69-number/) | [Maximum 69 Number](./Daily_Challenge/1323_Maximum_69_Number.md) | [Python](./Daily_Challenge/1323_Maximum_69_Number.py) | Easy |
 | 2025-08-15 | [342](https://www.leetcode.com/problems/power-of-four/) | [Power of Four](./Daily_Challenge/342_Power_of_Four.md) | [Python](./Daily_Challenge/342_Power_of_Four.py) | Easy |
