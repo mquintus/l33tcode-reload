@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-08-19 | [2348](https://www.leetcode.com/problems/number-of-zero-filled-subarrays/) | [Number of Zero-Filled Subarrays](./Daily_Challenge/2348_Number_of_Zero-Filled_Subarrays.md) | [Python](./Daily_Challenge/2348_Number_of_Zero-Filled_Subarrays.py) | Medium |
 | 2025-08-18 | [679](https://www.leetcode.com/problems/24-game/) | [24 Game](./Daily_Challenge/679_24_Game.md) | [Python](./Daily_Challenge/679_24_Game.py) | Hard |
 | 2025-08-17 | [837](https://www.leetcode.com/problems/new-21-game/) | [New 21 Game](./Daily_Challenge/837_New_21_Game.md) | [Python](./Daily_Challenge/837_New_21_Game.py) | Medium |
 | 2025-08-16 | [1323](https://www.leetcode.com/problems/maximum-69-number/) | [Maximum 69 Number](./Daily_Challenge/1323_Maximum_69_Number.md) | [Python](./Daily_Challenge/1323_Maximum_69_Number.py) | Easy |
