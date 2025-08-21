@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-08-21 | [1504](https://www.leetcode.com/problems/count-submatrices-with-all-ones/) | [Count Submatrices With All Ones](./Daily_Challenge/1504_Count_Submatrices_With_All_Ones.md) | [Python](./Daily_Challenge/1504_Count_Submatrices_With_All_Ones.py) | Medium |
 | 2025-08-20 | [1277](https://www.leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Count Square Submatrices with All Ones](./Daily_Challenge/1277_Count_Square_Submatrices_with_All_Ones.md) | [Python](./Daily_Challenge/1277_Count_Square_Submatrices_with_All_Ones.py) | Medium |
 | 2025-08-19 | [2348](https://www.leetcode.com/problems/number-of-zero-filled-subarrays/) | [Number of Zero-Filled Subarrays](./Daily_Challenge/2348_Number_of_Zero-Filled_Subarrays.md) | [Python](./Daily_Challenge/2348_Number_of_Zero-Filled_Subarrays.py) | Medium |
 | 2025-08-18 | [679](https://www.leetcode.com/problems/24-game/) | [24 Game](./Daily_Challenge/679_24_Game.md) | [Python](./Daily_Challenge/679_24_Game.py) | Hard |
