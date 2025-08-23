@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-08-23 | [3197](https://www.leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [Find the Minimum Area to Cover All Ones II](./Daily_Challenge/3197_Find_the_Minimum_Area_to_Cover_All_Ones_II.md) | [Python](./Daily_Challenge/3197_Find_the_Minimum_Area_to_Cover_All_Ones_II.py) | Hard |
 | 2025-08-22 | [3195](https://www.leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) | [Find the Minimum Area to Cover All Ones I](./Daily_Challenge/3195_Find_the_Minimum_Area_to_Cover_All_Ones_I.md) | [Python](./Daily_Challenge/3195_Find_the_Minimum_Area_to_Cover_All_Ones_I.py) | Medium |
 | 2025-08-21 | [1504](https://www.leetcode.com/problems/count-submatrices-with-all-ones/) | [Count Submatrices With All Ones](./Daily_Challenge/1504_Count_Submatrices_With_All_Ones.md) | [Python](./Daily_Challenge/1504_Count_Submatrices_With_All_Ones.py) | Medium |
 | 2025-08-20 | [1277](https://www.leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Count Square Submatrices with All Ones](./Daily_Challenge/1277_Count_Square_Submatrices_with_All_Ones.md) | [Python](./Daily_Challenge/1277_Count_Square_Submatrices_with_All_Ones.py) | Medium |
