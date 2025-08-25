@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-08-25 | [498](https://www.leetcode.com/problems/diagonal-traverse/) | [Diagonal Traverse](./Daily_Challenge/498_Diagonal_Traverse.md) | [Python](./Daily_Challenge/498_Diagonal_Traverse.py) | Medium |
 | 2025-08-24 | [1493](https://www.leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Longest Subarray of 1's After Deleting One Element](./Daily_Challenge/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.md) | [Python](./Daily_Challenge/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.py) | Medium |
 | 2025-08-23 | [3197](https://www.leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [Find the Minimum Area to Cover All Ones II](./Daily_Challenge/3197_Find_the_Minimum_Area_to_Cover_All_Ones_II.md) | [Python](./Daily_Challenge/3197_Find_the_Minimum_Area_to_Cover_All_Ones_II.py) | Hard |
 | 2025-08-22 | [3195](https://www.leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) | [Find the Minimum Area to Cover All Ones I](./Daily_Challenge/3195_Find_the_Minimum_Area_to_Cover_All_Ones_I.md) | [Python](./Daily_Challenge/3195_Find_the_Minimum_Area_to_Cover_All_Ones_I.py) | Medium |
