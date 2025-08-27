@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-08-27 | [3459](https://www.leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | [Length of Longest V-Shaped Diagonal Segment](./Daily_Challenge/3459_Length_of_Longest_V-Shaped_Diagonal_Segment.md) | [Python](./Daily_Challenge/3459_Length_of_Longest_V-Shaped_Diagonal_Segment.py) | Hard |
 | 2025-08-26 | [3000](https://www.leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [Maximum Area of Longest Diagonal Rectangle](./Daily_Challenge/3000_Maximum_Area_of_Longest_Diagonal_Rectangle.md) | [Python](./Daily_Challenge/3000_Maximum_Area_of_Longest_Diagonal_Rectangle.py) | Easy |
 | 2025-08-25 | [498](https://www.leetcode.com/problems/diagonal-traverse/) | [Diagonal Traverse](./Daily_Challenge/498_Diagonal_Traverse.md) | [Python](./Daily_Challenge/498_Diagonal_Traverse.py) | Medium |
 | 2025-08-24 | [1493](https://www.leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Longest Subarray of 1's After Deleting One Element](./Daily_Challenge/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.md) | [Python](./Daily_Challenge/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.py) | Medium |
