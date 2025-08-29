@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-08-29 | [3021](https://www.leetcode.com/problems/alice-and-bob-playing-flower-game/) | [Alice and Bob Playing Flower Game](./Daily_Challenge/3021_Alice_and_Bob_Playing_Flower_Game.md) | [Python](./Daily_Challenge/3021_Alice_and_Bob_Playing_Flower_Game.py) | Medium |
 | 2025-08-28 | [3446](https://www.leetcode.com/problems/sort-matrix-by-diagonals/) | [Sort Matrix by Diagonals](./Daily_Challenge/3446_Sort_Matrix_by_Diagonals.md) | [Python](./Daily_Challenge/3446_Sort_Matrix_by_Diagonals.py) | Medium |
 | 2025-08-27 | [3459](https://www.leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | [Length of Longest V-Shaped Diagonal Segment](./Daily_Challenge/3459_Length_of_Longest_V-Shaped_Diagonal_Segment.md) | [Python](./Daily_Challenge/3459_Length_of_Longest_V-Shaped_Diagonal_Segment.py) | Hard |
 | 2025-08-26 | [3000](https://www.leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [Maximum Area of Longest Diagonal Rectangle](./Daily_Challenge/3000_Maximum_Area_of_Longest_Diagonal_Rectangle.md) | [Python](./Daily_Challenge/3000_Maximum_Area_of_Longest_Diagonal_Rectangle.py) | Easy |
