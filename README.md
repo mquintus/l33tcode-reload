@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-08-31 | [37](https://www.leetcode.com/problems/sudoku-solver/) | [Sudoku Solver](./Daily_Challenge/37_Sudoku_Solver.md) | [Python](./Daily_Challenge/37_Sudoku_Solver.py) | Hard |
 | 2025-08-30 | [36](https://www.leetcode.com/problems/valid-sudoku/) | [Valid Sudoku](./Daily_Challenge/36_Valid_Sudoku.md) | [Python](./Daily_Challenge/36_Valid_Sudoku.py) | Medium |
 | 2025-08-29 | [3021](https://www.leetcode.com/problems/alice-and-bob-playing-flower-game/) | [Alice and Bob Playing Flower Game](./Daily_Challenge/3021_Alice_and_Bob_Playing_Flower_Game.md) | [Python](./Daily_Challenge/3021_Alice_and_Bob_Playing_Flower_Game.py) | Medium |
 | 2025-08-28 | [3446](https://www.leetcode.com/problems/sort-matrix-by-diagonals/) | [Sort Matrix by Diagonals](./Daily_Challenge/3446_Sort_Matrix_by_Diagonals.md) | [Python](./Daily_Challenge/3446_Sort_Matrix_by_Diagonals.py) | Medium |
