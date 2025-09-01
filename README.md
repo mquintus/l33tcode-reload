@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-09-01 | [1792](https://www.leetcode.com/problems/maximum-average-pass-ratio/) | [Maximum Average Pass Ratio](./Daily_Challenge/1792_Maximum_Average_Pass_Ratio.md) | [Python](./Daily_Challenge/1792_Maximum_Average_Pass_Ratio.py) | Medium |
 | 2025-08-31 | [37](https://www.leetcode.com/problems/sudoku-solver/) | [Sudoku Solver](./Daily_Challenge/37_Sudoku_Solver.md) | [Python](./Daily_Challenge/37_Sudoku_Solver.py) | Hard |
 | 2025-08-30 | [36](https://www.leetcode.com/problems/valid-sudoku/) | [Valid Sudoku](./Daily_Challenge/36_Valid_Sudoku.md) | [Python](./Daily_Challenge/36_Valid_Sudoku.py) | Medium |
 | 2025-08-29 | [3021](https://www.leetcode.com/problems/alice-and-bob-playing-flower-game/) | [Alice and Bob Playing Flower Game](./Daily_Challenge/3021_Alice_and_Bob_Playing_Flower_Game.md) | [Python](./Daily_Challenge/3021_Alice_and_Bob_Playing_Flower_Game.py) | Medium |
