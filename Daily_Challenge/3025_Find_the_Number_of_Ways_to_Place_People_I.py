@@ -1,3 +1,4 @@
+# 3025 - Find the Number of Ways to Place People I
 class Solution:
     def numberOfPairs(self, points: List[List[int]]) -> int:
         count = 0
@@ -10,4 +11,4 @@ class Solution:
                             break
                     else:
                         count += 1
-        return count# 3025 - Find the Number of Ways to Place People I
+        return count
