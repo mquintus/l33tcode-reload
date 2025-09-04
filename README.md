@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-09-04 | [3516](https://www.leetcode.com/problems/find-closest-person/) | [Find Closest Person](./Daily_Challenge/3516_Find_Closest_Person.md) | [Python](./Daily_Challenge/3516_Find_Closest_Person.py) | Easy |
 | 2025-09-03 | [3027](https://www.leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | [Find the Number of Ways to Place People II](./Daily_Challenge/3027_Find_the_Number_of_Ways_to_Place_People_II.md) | [Python](./Daily_Challenge/3027_Find_the_Number_of_Ways_to_Place_People_II.py) | Hard |
 | 2025-09-02 | [3025](https://www.leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | [Find the Number of Ways to Place People I](./Daily_Challenge/3025_Find_the_Number_of_Ways_to_Place_People_I.md) | [Python](./Daily_Challenge/3025_Find_the_Number_of_Ways_to_Place_People_I.py) | Medium |
 | 2025-09-01 | [1792](https://www.leetcode.com/problems/maximum-average-pass-ratio/) | [Maximum Average Pass Ratio](./Daily_Challenge/1792_Maximum_Average_Pass_Ratio.md) | [Python](./Daily_Challenge/1792_Maximum_Average_Pass_Ratio.py) | Medium |
