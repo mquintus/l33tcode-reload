@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-09-07 | [1304](https://www.leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Find N Unique Integers Sum up to Zero](./Daily_Challenge/1304_Find_N_Unique_Integers_Sum_up_to_Zero.md) | [Python](./Daily_Challenge/1304_Find_N_Unique_Integers_Sum_up_to_Zero.py) | Easy |
 | 2025-09-06 | [3495](https://www.leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | [Minimum Operations to Make Array Elements Zero](./Daily_Challenge/3495_Minimum_Operations_to_Make_Array_Elements_Zero.md) | [Python](./Daily_Challenge/3495_Minimum_Operations_to_Make_Array_Elements_Zero.py) | Hard |
 | 2025-09-05 | [2749](https://www.leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [Minimum Operations to Make the Integer Zero](./Daily_Challenge/2749_Minimum_Operations_to_Make_the_Integer_Zero.md) | [Python](./Daily_Challenge/2749_Minimum_Operations_to_Make_the_Integer_Zero.py) | Medium |
 | 2025-09-04 | [3516](https://www.leetcode.com/problems/find-closest-person/) | [Find Closest Person](./Daily_Challenge/3516_Find_Closest_Person.md) | [Python](./Daily_Challenge/3516_Find_Closest_Person.py) | Easy |
