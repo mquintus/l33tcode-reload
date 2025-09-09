@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-09-09 | [2327](https://www.leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Number of People Aware of a Secret](./Daily_Challenge/2327_Number_of_People_Aware_of_a_Secret.md) | [Python](./Daily_Challenge/2327_Number_of_People_Aware_of_a_Secret.py) | Medium |
 | 2025-09-08 | [1317](https://www.leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Convert Integer to the Sum of Two No-Zero Integers](./Daily_Challenge/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.md) | [Python](./Daily_Challenge/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.py) | Easy |
 | 2025-09-07 | [1304](https://www.leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Find N Unique Integers Sum up to Zero](./Daily_Challenge/1304_Find_N_Unique_Integers_Sum_up_to_Zero.md) | [Python](./Daily_Challenge/1304_Find_N_Unique_Integers_Sum_up_to_Zero.py) | Easy |
 | 2025-09-06 | [3495](https://www.leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | [Minimum Operations to Make Array Elements Zero](./Daily_Challenge/3495_Minimum_Operations_to_Make_Array_Elements_Zero.md) | [Python](./Daily_Challenge/3495_Minimum_Operations_to_Make_Array_Elements_Zero.py) | Hard |
