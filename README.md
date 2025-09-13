@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-09-13 | [3541](https://www.leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | [Find Most Frequent Vowel and Consonant](./Daily_Challenge/3541_Find_Most_Frequent_Vowel_and_Consonant.md) | [Python](./Daily_Challenge/3541_Find_Most_Frequent_Vowel_and_Consonant.py) | Easy |
 | 2025-09-12 | [3227](https://www.leetcode.com/problems/vowels-game-in-a-string/) | [Vowels Game in a String](./Daily_Challenge/3227_Vowels_Game_in_a_String.md) | [Python](./Daily_Challenge/3227_Vowels_Game_in_a_String.py) | Medium |
 | 2025-09-11 | [2785](https://www.leetcode.com/problems/sort-vowels-in-a-string/) | [Sort Vowels in a String](./Daily_Challenge/2785_Sort_Vowels_in_a_String.md) | [Python](./Daily_Challenge/2785_Sort_Vowels_in_a_String.py) | Medium |
 | 2025-09-10 | [1733](https://www.leetcode.com/problems/minimum-number-of-people-to-teach/) | [Minimum Number of People to Teach](./Daily_Challenge/1733_Minimum_Number_of_People_to_Teach.md) | [Python](./Daily_Challenge/1733_Minimum_Number_of_People_to_Teach.py) | Medium |
