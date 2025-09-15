@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-09-15 | [1935](https://www.leetcode.com/problems/maximum-number-of-words-you-can-type/) | [Maximum Number of Words You Can Type](./Daily_Challenge/1935_Maximum_Number_of_Words_You_Can_Type.md) | [Python](./Daily_Challenge/1935_Maximum_Number_of_Words_You_Can_Type.py) | Easy |
 | 2025-09-14 | [966](https://www.leetcode.com/problems/vowel-spellchecker/) | [Vowel Spellchecker](./Daily_Challenge/966_Vowel_Spellchecker.md) | [Python](./Daily_Challenge/966_Vowel_Spellchecker.py) | Medium |
 | 2025-09-13 | [3541](https://www.leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | [Find Most Frequent Vowel and Consonant](./Daily_Challenge/3541_Find_Most_Frequent_Vowel_and_Consonant.md) | [Python](./Daily_Challenge/3541_Find_Most_Frequent_Vowel_and_Consonant.py) | Easy |
 | 2025-09-12 | [3227](https://www.leetcode.com/problems/vowels-game-in-a-string/) | [Vowels Game in a String](./Daily_Challenge/3227_Vowels_Game_in_a_String.md) | [Python](./Daily_Challenge/3227_Vowels_Game_in_a_String.py) | Medium |
