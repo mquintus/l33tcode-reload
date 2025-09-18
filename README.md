@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-09-18 | [3408](https://www.leetcode.com/problems/design-task-manager/) | [Design Task Manager](./Daily_Challenge/3408_Design_Task_Manager.md) | [Python](./Daily_Challenge/3408_Design_Task_Manager.py) | Medium |
 | 2025-09-17 | [2353](https://www.leetcode.com/problems/design-a-food-rating-system/) | [Design a Food Rating System](./Daily_Challenge/2353_Design_a_Food_Rating_System.md) | [Python](./Daily_Challenge/2353_Design_a_Food_Rating_System.py) | Medium |
 | 2025-09-16 | [2197](https://www.leetcode.com/problems/replace-non-coprime-numbers-in-array/) | [Replace Non-Coprime Numbers in Array](./Daily_Challenge/2197_Replace_Non-Coprime_Numbers_in_Array.md) | [Python](./Daily_Challenge/2197_Replace_Non-Coprime_Numbers_in_Array.py) | Hard |
 | 2025-09-15 | [1935](https://www.leetcode.com/problems/maximum-number-of-words-you-can-type/) | [Maximum Number of Words You Can Type](./Daily_Challenge/1935_Maximum_Number_of_Words_You_Can_Type.md) | [Python](./Daily_Challenge/1935_Maximum_Number_of_Words_You_Can_Type.py) | Easy |
