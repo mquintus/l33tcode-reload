@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-09-20 | [3508](https://www.leetcode.com/problems/implement-router/) | [Implement Router](./Daily_Challenge/3508_Implement_Router.md) | [Python](./Daily_Challenge/3508_Implement_Router.py) | Medium |
 | 2025-09-19 | [3484](https://www.leetcode.com/problems/design-spreadsheet/) | [Design Spreadsheet](./Daily_Challenge/3484_Design_Spreadsheet.md) | [Python](./Daily_Challenge/3484_Design_Spreadsheet.py) | Medium |
 | 2025-09-18 | [3408](https://www.leetcode.com/problems/design-task-manager/) | [Design Task Manager](./Daily_Challenge/3408_Design_Task_Manager.md) | [Python](./Daily_Challenge/3408_Design_Task_Manager.py) | Medium |
 | 2025-09-17 | [2353](https://www.leetcode.com/problems/design-a-food-rating-system/) | [Design a Food Rating System](./Daily_Challenge/2353_Design_a_Food_Rating_System.md) | [Python](./Daily_Challenge/2353_Design_a_Food_Rating_System.py) | Medium |
