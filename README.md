@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-09-21 | [1912](https://www.leetcode.com/problems/design-movie-rental-system/) | [Design Movie Rental System](./Daily_Challenge/1912_Design_Movie_Rental_System.md) | [Python](./Daily_Challenge/1912_Design_Movie_Rental_System.py) | Hard |
 | 2025-09-20 | [3508](https://www.leetcode.com/problems/implement-router/) | [Implement Router](./Daily_Challenge/3508_Implement_Router.md) | [Python](./Daily_Challenge/3508_Implement_Router.py) | Medium |
 | 2025-09-19 | [3484](https://www.leetcode.com/problems/design-spreadsheet/) | [Design Spreadsheet](./Daily_Challenge/3484_Design_Spreadsheet.md) | [Python](./Daily_Challenge/3484_Design_Spreadsheet.py) | Medium |
 | 2025-09-18 | [3408](https://www.leetcode.com/problems/design-task-manager/) | [Design Task Manager](./Daily_Challenge/3408_Design_Task_Manager.md) | [Python](./Daily_Challenge/3408_Design_Task_Manager.py) | Medium |
