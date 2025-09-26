@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-09-26 | [611](https://www.leetcode.com/problems/valid-triangle-number/) | [Valid Triangle Number](./Daily_Challenge/611_Valid_Triangle_Number.md) | [Python](./Daily_Challenge/611_Valid_Triangle_Number.py) | Medium |
 | 2025-09-25 | [120](https://www.leetcode.com/problems/triangle/) | [Triangle](./Daily_Challenge/120_Triangle.md) | [Python](./Daily_Challenge/120_Triangle.py) | Medium |
 | 2025-09-24 | [166](https://www.leetcode.com/problems/fraction-to-recurring-decimal/) | [Fraction to Recurring Decimal](./Daily_Challenge/166_Fraction_to_Recurring_Decimal.md) | [Python](./Daily_Challenge/166_Fraction_to_Recurring_Decimal.py) | Medium |
 | 2025-09-23 | [165](https://www.leetcode.com/problems/compare-version-numbers/) | [Compare Version Numbers](./Daily_Challenge/165_Compare_Version_Numbers.md) | [Python](./Daily_Challenge/165_Compare_Version_Numbers.py) | Medium |
