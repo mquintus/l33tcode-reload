@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-09-28 | [976](https://www.leetcode.com/problems/largest-perimeter-triangle/) | [Largest Perimeter Triangle](./Daily_Challenge/976_Largest_Perimeter_Triangle.md) | [Python](./Daily_Challenge/976_Largest_Perimeter_Triangle.py) | Easy |
 | 2025-09-27 | [812](https://www.leetcode.com/problems/largest-triangle-area/) | [Largest Triangle Area](./Daily_Challenge/812_Largest_Triangle_Area.md) | [Python](./Daily_Challenge/812_Largest_Triangle_Area.py) | Easy |
 | 2025-09-26 | [611](https://www.leetcode.com/problems/valid-triangle-number/) | [Valid Triangle Number](./Daily_Challenge/611_Valid_Triangle_Number.md) | [Python](./Daily_Challenge/611_Valid_Triangle_Number.py) | Medium |
 | 2025-09-25 | [120](https://www.leetcode.com/problems/triangle/) | [Triangle](./Daily_Challenge/120_Triangle.md) | [Python](./Daily_Challenge/120_Triangle.py) | Medium |
