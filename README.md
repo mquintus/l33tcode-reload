@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-09-30 | [2221](https://www.leetcode.com/problems/find-triangular-sum-of-an-array/) | [Find Triangular Sum of an Array](./Daily_Challenge/2221_Find_Triangular_Sum_of_an_Array.md) | [Python](./Daily_Challenge/2221_Find_Triangular_Sum_of_an_Array.py) | Medium |
 | 2025-09-29 | [1039](https://www.leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [Minimum Score Triangulation of Polygon](./Daily_Challenge/1039_Minimum_Score_Triangulation_of_Polygon.md) | [Python](./Daily_Challenge/1039_Minimum_Score_Triangulation_of_Polygon.py) | Medium |
 | 2025-09-28 | [976](https://www.leetcode.com/problems/largest-perimeter-triangle/) | [Largest Perimeter Triangle](./Daily_Challenge/976_Largest_Perimeter_Triangle.md) | [Python](./Daily_Challenge/976_Largest_Perimeter_Triangle.py) | Easy |
 | 2025-09-27 | [812](https://www.leetcode.com/problems/largest-triangle-area/) | [Largest Triangle Area](./Daily_Challenge/812_Largest_Triangle_Area.md) | [Python](./Daily_Challenge/812_Largest_Triangle_Area.py) | Easy |
