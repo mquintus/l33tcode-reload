@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-10-02 | [3100](https://www.leetcode.com/problems/water-bottles-ii/) | [Water Bottles II](./Daily_Challenge/3100_Water_Bottles_II.md) | [Python](./Daily_Challenge/3100_Water_Bottles_II.py) | Medium |
 | 2025-10-01 | [1518](https://www.leetcode.com/problems/water-bottles/) | [Water Bottles](./Daily_Challenge/1518_Water_Bottles.md) | [Python](./Daily_Challenge/1518_Water_Bottles.py) | Easy |
 | 2025-09-30 | [2221](https://www.leetcode.com/problems/find-triangular-sum-of-an-array/) | [Find Triangular Sum of an Array](./Daily_Challenge/2221_Find_Triangular_Sum_of_an_Array.md) | [Python](./Daily_Challenge/2221_Find_Triangular_Sum_of_an_Array.py) | Medium |
 | 2025-09-29 | [1039](https://www.leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [Minimum Score Triangulation of Polygon](./Daily_Challenge/1039_Minimum_Score_Triangulation_of_Polygon.md) | [Python](./Daily_Challenge/1039_Minimum_Score_Triangulation_of_Polygon.py) | Medium |
