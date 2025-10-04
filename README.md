@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-10-04 | [11](https://www.leetcode.com/problems/container-with-most-water/) | [Container With Most Water](./Daily_Challenge/11_Container_With_Most_Water.md) | [Python](./Daily_Challenge/11_Container_With_Most_Water.py) | Medium |
 | 2025-10-03 | [407](https://www.leetcode.com/problems/trapping-rain-water-ii/) | [Trapping Rain Water II](./Daily_Challenge/407_Trapping_Rain_Water_II.md) | [Python](./Daily_Challenge/407_Trapping_Rain_Water_II.py) | Hard |
 | 2025-10-02 | [3100](https://www.leetcode.com/problems/water-bottles-ii/) | [Water Bottles II](./Daily_Challenge/3100_Water_Bottles_II.md) | [Python](./Daily_Challenge/3100_Water_Bottles_II.py) | Medium |
 | 2025-10-01 | [1518](https://www.leetcode.com/problems/water-bottles/) | [Water Bottles](./Daily_Challenge/1518_Water_Bottles.md) | [Python](./Daily_Challenge/1518_Water_Bottles.py) | Easy |
