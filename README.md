@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-10-07 | [1488](https://www.leetcode.com/problems/avoid-flood-in-the-city/) | [Avoid Flood in The City](./Daily_Challenge/1488_Avoid_Flood_in_The_City.md) | [Python](./Daily_Challenge/1488_Avoid_Flood_in_The_City.py) | Medium |
 | 2025-10-06 | [778](https://www.leetcode.com/problems/swim-in-rising-water/) | [Swim in Rising Water](./Daily_Challenge/778_Swim_in_Rising_Water.md) | [Python](./Daily_Challenge/778_Swim_in_Rising_Water.py) | Hard |
 | 2025-10-05 | [417](https://www.leetcode.com/problems/pacific-atlantic-water-flow/) | [Pacific Atlantic Water Flow](./Daily_Challenge/417_Pacific_Atlantic_Water_Flow.md) | [Python](./Daily_Challenge/417_Pacific_Atlantic_Water_Flow.py) | Medium |
 | 2025-10-04 | [11](https://www.leetcode.com/problems/container-with-most-water/) | [Container With Most Water](./Daily_Challenge/11_Container_With_Most_Water.md) | [Python](./Daily_Challenge/11_Container_With_Most_Water.py) | Medium |
