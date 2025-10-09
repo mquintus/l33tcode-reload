@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-10-09 | [3494](https://www.leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) | [Find the Minimum Amount of Time to Brew Potions](./Daily_Challenge/3494_Find_the_Minimum_Amount_of_Time_to_Brew_Potions.md) | [Python](./Daily_Challenge/3494_Find_the_Minimum_Amount_of_Time_to_Brew_Potions.py) | Medium |
 | 2025-10-08 | [2300](https://www.leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Successful Pairs of Spells and Potions](./Daily_Challenge/2300_Successful_Pairs_of_Spells_and_Potions.md) | [Python](./Daily_Challenge/2300_Successful_Pairs_of_Spells_and_Potions.py) | Medium |
 | 2025-10-07 | [1488](https://www.leetcode.com/problems/avoid-flood-in-the-city/) | [Avoid Flood in The City](./Daily_Challenge/1488_Avoid_Flood_in_The_City.md) | [Python](./Daily_Challenge/1488_Avoid_Flood_in_The_City.py) | Medium |
 | 2025-10-06 | [778](https://www.leetcode.com/problems/swim-in-rising-water/) | [Swim in Rising Water](./Daily_Challenge/778_Swim_in_Rising_Water.md) | [Python](./Daily_Challenge/778_Swim_in_Rising_Water.py) | Hard |
