@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-10-13 | [2273](https://www.leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | [Find Resultant Array After Removing Anagrams](./Daily_Challenge/2273_Find_Resultant_Array_After_Removing_Anagrams.md) | [Python](./Daily_Challenge/2273_Find_Resultant_Array_After_Removing_Anagrams.py) | Easy |
 | 2025-10-12 | [3539](https://www.leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | [Find Sum of Array Product of Magical Sequences](./Daily_Challenge/3539_Find_Sum_of_Array_Product_of_Magical_Sequences.md) | [Python](./Daily_Challenge/3539_Find_Sum_of_Array_Product_of_Magical_Sequences.py) | Hard |
 | 2025-10-11 | [3186](https://www.leetcode.com/problems/maximum-total-damage-with-spell-casting/) | [Maximum Total Damage With Spell Casting](./Daily_Challenge/3186_Maximum_Total_Damage_With_Spell_Casting.md) | [Python](./Daily_Challenge/3186_Maximum_Total_Damage_With_Spell_Casting.py) | Medium |
 | 2025-10-10 | [3147](https://www.leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | [Taking Maximum Energy From the Mystic Dungeon](./Daily_Challenge/3147_Taking_Maximum_Energy_From_the_Mystic_Dungeon.md) | [Python](./Daily_Challenge/3147_Taking_Maximum_Energy_From_the_Mystic_Dungeon.py) | Medium |
