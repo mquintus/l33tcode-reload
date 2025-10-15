@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-10-15 | [3350](https://www.leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) | [Adjacent Increasing Subarrays Detection II](./Daily_Challenge/3350_Adjacent_Increasing_Subarrays_Detection_II.md) | [Python](./Daily_Challenge/3350_Adjacent_Increasing_Subarrays_Detection_II.py) | Medium |
 | 2025-10-14 | [3349](https://www.leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [Adjacent Increasing Subarrays Detection I](./Daily_Challenge/3349_Adjacent_Increasing_Subarrays_Detection_I.md) | [Python](./Daily_Challenge/3349_Adjacent_Increasing_Subarrays_Detection_I.py) | Easy |
 | 2025-10-13 | [2273](https://www.leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | [Find Resultant Array After Removing Anagrams](./Daily_Challenge/2273_Find_Resultant_Array_After_Removing_Anagrams.md) | [Python](./Daily_Challenge/2273_Find_Resultant_Array_After_Removing_Anagrams.py) | Easy |
 | 2025-10-12 | [3539](https://www.leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | [Find Sum of Array Product of Magical Sequences](./Daily_Challenge/3539_Find_Sum_of_Array_Product_of_Magical_Sequences.md) | [Python](./Daily_Challenge/3539_Find_Sum_of_Array_Product_of_Magical_Sequences.py) | Hard |
