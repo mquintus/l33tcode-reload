@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-10-17 | [3003](https://www.leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | [Maximize the Number of Partitions After Operations](./Daily_Challenge/3003_Maximize_the_Number_of_Partitions_After_Operations.md) | [Python](./Daily_Challenge/3003_Maximize_the_Number_of_Partitions_After_Operations.py) | Hard |
 | 2025-10-16 | [2598](https://www.leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | [Smallest Missing Non-negative Integer After Operations](./Daily_Challenge/2598_Smallest_Missing_Non-negative_Integer_After_Operations.md) | [Python](./Daily_Challenge/2598_Smallest_Missing_Non-negative_Integer_After_Operations.py) | Medium |
 | 2025-10-15 | [3350](https://www.leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) | [Adjacent Increasing Subarrays Detection II](./Daily_Challenge/3350_Adjacent_Increasing_Subarrays_Detection_II.md) | [Python](./Daily_Challenge/3350_Adjacent_Increasing_Subarrays_Detection_II.py) | Medium |
 | 2025-10-14 | [3349](https://www.leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [Adjacent Increasing Subarrays Detection I](./Daily_Challenge/3349_Adjacent_Increasing_Subarrays_Detection_I.md) | [Python](./Daily_Challenge/3349_Adjacent_Increasing_Subarrays_Detection_I.py) | Easy |
