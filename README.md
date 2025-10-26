@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-10-26 | [2043](https://www.leetcode.com/problems/simple-bank-system/) | [Simple Bank System](./Daily_Challenge/2043_Simple_Bank_System.md) | [Python](./Daily_Challenge/2043_Simple_Bank_System.py) | Medium |
 | 2025-10-25 | [1716](https://www.leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Calculate Money in Leetcode Bank](./Daily_Challenge/1716_Calculate_Money_in_Leetcode_Bank.md) | [Python](./Daily_Challenge/1716_Calculate_Money_in_Leetcode_Bank.py) | Easy |
 | 2025-10-24 | [2048](https://www.leetcode.com/problems/next-greater-numerically-balanced-number/) | [Next Greater Numerically Balanced Number](./Daily_Challenge/2048_Next_Greater_Numerically_Balanced_Number.md) | [Python](./Daily_Challenge/2048_Next_Greater_Numerically_Balanced_Number.py) | Medium |
 | 2025-10-23 | [3461](https://www.leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | [Check If Digits Are Equal in String After Operations I](./Daily_Challenge/3461_Check_If_Digits_Are_Equal_in_String_After_Operations_I.md) | [Python](./Daily_Challenge/3461_Check_If_Digits_Are_Equal_in_String_After_Operations_I.py) | Easy |
