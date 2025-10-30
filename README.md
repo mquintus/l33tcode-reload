@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-10-30 | [1526](https://www.leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | [Minimum Number of Increments on Subarrays to Form a Target Array](./Daily_Challenge/1526_Minimum_Number_of_Increments_on_Subarrays_to_Form_a_Target_Array.md) | [Python](./Daily_Challenge/1526_Minimum_Number_of_Increments_on_Subarrays_to_Form_a_Target_Array.py) | Hard |
 | 2025-10-29 | [3370](https://www.leetcode.com/problems/smallest-number-with-all-set-bits/) | [Smallest Number With All Set Bits](./Daily_Challenge/3370_Smallest_Number_With_All_Set_Bits.md) | [Python](./Daily_Challenge/3370_Smallest_Number_With_All_Set_Bits.py) | Easy |
 | 2025-10-28 | [3354](https://www.leetcode.com/problems/make-array-elements-equal-to-zero/) | [Make Array Elements Equal to Zero](./Daily_Challenge/3354_Make_Array_Elements_Equal_to_Zero.md) | [Python](./Daily_Challenge/3354_Make_Array_Elements_Equal_to_Zero.py) | Easy |
 | 2025-10-27 | [2125](https://www.leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Number of Laser Beams in a Bank](./Daily_Challenge/2125_Number_of_Laser_Beams_in_a_Bank.md) | [Python](./Daily_Challenge/2125_Number_of_Laser_Beams_in_a_Bank.py) | Medium |
