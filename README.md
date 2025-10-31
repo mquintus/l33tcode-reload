@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-10-31 | [3289](https://www.leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | [The Two Sneaky Numbers of Digitville](./Daily_Challenge/3289_The_Two_Sneaky_Numbers_of_Digitville.md) | [Python](./Daily_Challenge/3289_The_Two_Sneaky_Numbers_of_Digitville.py) | Easy |
 | 2025-10-30 | [1526](https://www.leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | [Minimum Number of Increments on Subarrays to Form a Target Array](./Daily_Challenge/1526_Minimum_Number_of_Increments_on_Subarrays_to_Form_a_Target_Array.md) | [Python](./Daily_Challenge/1526_Minimum_Number_of_Increments_on_Subarrays_to_Form_a_Target_Array.py) | Hard |
 | 2025-10-29 | [3370](https://www.leetcode.com/problems/smallest-number-with-all-set-bits/) | [Smallest Number With All Set Bits](./Daily_Challenge/3370_Smallest_Number_With_All_Set_Bits.md) | [Python](./Daily_Challenge/3370_Smallest_Number_With_All_Set_Bits.py) | Easy |
 | 2025-10-28 | [3354](https://www.leetcode.com/problems/make-array-elements-equal-to-zero/) | [Make Array Elements Equal to Zero](./Daily_Challenge/3354_Make_Array_Elements_Equal_to_Zero.md) | [Python](./Daily_Challenge/3354_Make_Array_Elements_Equal_to_Zero.py) | Easy |
