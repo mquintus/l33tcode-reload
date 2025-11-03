@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-11-03 | [1578](https://www.leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Minimum Time to Make Rope Colorful](./Daily_Challenge/1578_Minimum_Time_to_Make_Rope_Colorful.md) | [Python](./Daily_Challenge/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
 | 2025-11-02 | [2257](https://www.leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [Count Unguarded Cells in the Grid](./Daily_Challenge/2257_Count_Unguarded_Cells_in_the_Grid.md) | [Python](./Daily_Challenge/2257_Count_Unguarded_Cells_in_the_Grid.py) | Medium |
 | 2025-11-01 | [3217](https://www.leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | [Delete Nodes From Linked List Present in Array](./Daily_Challenge/3217_Delete_Nodes_From_Linked_List_Present_in_Array.md) | [Python](./Daily_Challenge/3217_Delete_Nodes_From_Linked_List_Present_in_Array.py) | Medium |
 | 2025-10-31 | [3289](https://www.leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | [The Two Sneaky Numbers of Digitville](./Daily_Challenge/3289_The_Two_Sneaky_Numbers_of_Digitville.md) | [Python](./Daily_Challenge/3289_The_Two_Sneaky_Numbers_of_Digitville.py) | Easy |
