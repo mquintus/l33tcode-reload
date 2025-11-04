@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-11-04 | [3318](https://www.leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [Find X-Sum of All K-Long Subarrays I](./Daily_Challenge/3318_Find_X-Sum_of_All_K-Long_Subarrays_I.md) | [Python](./Daily_Challenge/3318_Find_X-Sum_of_All_K-Long_Subarrays_I.py) | Easy |
 | 2025-11-03 | [1578](https://www.leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Minimum Time to Make Rope Colorful](./Daily_Challenge/1578_Minimum_Time_to_Make_Rope_Colorful.md) | [Python](./Daily_Challenge/1578_Minimum_Time_to_Make_Rope_Colorful.py) | Medium |
 | 2025-11-02 | [2257](https://www.leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [Count Unguarded Cells in the Grid](./Daily_Challenge/2257_Count_Unguarded_Cells_in_the_Grid.md) | [Python](./Daily_Challenge/2257_Count_Unguarded_Cells_in_the_Grid.py) | Medium |
 | 2025-11-01 | [3217](https://www.leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | [Delete Nodes From Linked List Present in Array](./Daily_Challenge/3217_Delete_Nodes_From_Linked_List_Present_in_Array.md) | [Python](./Daily_Challenge/3217_Delete_Nodes_From_Linked_List_Present_in_Array.py) | Medium |
