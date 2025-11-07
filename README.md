@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-11-07 | [2528](https://www.leetcode.com/problems/maximize-the-minimum-powered-city/) | [Maximize the Minimum Powered City](./Daily_Challenge/2528_Maximize_the_Minimum_Powered_City.md) | [Python](./Daily_Challenge/2528_Maximize_the_Minimum_Powered_City.py) | Hard |
 | 2025-11-06 | [3607](https://www.leetcode.com/problems/power-grid-maintenance/) | [Power Grid Maintenance](./Daily_Challenge/3607_Power_Grid_Maintenance.md) | [Python](./Daily_Challenge/3607_Power_Grid_Maintenance.py) | Medium |
 | 2025-11-05 | [3321](https://www.leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | [Find X-Sum of All K-Long Subarrays II](./Daily_Challenge/3321_Find_X-Sum_of_All_K-Long_Subarrays_II.md) | [Python](./Daily_Challenge/3321_Find_X-Sum_of_All_K-Long_Subarrays_II.py) | Hard |
 | 2025-11-04 | [3318](https://www.leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [Find X-Sum of All K-Long Subarrays I](./Daily_Challenge/3318_Find_X-Sum_of_All_K-Long_Subarrays_I.md) | [Python](./Daily_Challenge/3318_Find_X-Sum_of_All_K-Long_Subarrays_I.py) | Easy |
