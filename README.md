@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-11-08 | [1611](https://www.leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [Minimum One Bit Operations to Make Integers Zero](./Daily_Challenge/1611_Minimum_One_Bit_Operations_to_Make_Integers_Zero.md) | [Python](./Daily_Challenge/1611_Minimum_One_Bit_Operations_to_Make_Integers_Zero.py) | Hard |
 | 2025-11-07 | [2528](https://www.leetcode.com/problems/maximize-the-minimum-powered-city/) | [Maximize the Minimum Powered City](./Daily_Challenge/2528_Maximize_the_Minimum_Powered_City.md) | [Python](./Daily_Challenge/2528_Maximize_the_Minimum_Powered_City.py) | Hard |
 | 2025-11-06 | [3607](https://www.leetcode.com/problems/power-grid-maintenance/) | [Power Grid Maintenance](./Daily_Challenge/3607_Power_Grid_Maintenance.md) | [Python](./Daily_Challenge/3607_Power_Grid_Maintenance.py) | Medium |
 | 2025-11-05 | [3321](https://www.leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | [Find X-Sum of All K-Long Subarrays II](./Daily_Challenge/3321_Find_X-Sum_of_All_K-Long_Subarrays_II.md) | [Python](./Daily_Challenge/3321_Find_X-Sum_of_All_K-Long_Subarrays_II.py) | Hard |
