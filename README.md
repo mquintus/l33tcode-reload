@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-11-10 | [3542](https://www.leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | [Minimum Operations to Convert All Elements to Zero](./Daily_Challenge/3542_Minimum_Operations_to_Convert_All_Elements_to_Zero.md) | [Python](./Daily_Challenge/3542_Minimum_Operations_to_Convert_All_Elements_to_Zero.py) | Medium |
 | 2025-11-09 | [2169](https://www.leetcode.com/problems/count-operations-to-obtain-zero/) | [Count Operations to Obtain Zero](./Daily_Challenge/2169_Count_Operations_to_Obtain_Zero.md) | [Python](./Daily_Challenge/2169_Count_Operations_to_Obtain_Zero.py) | Easy |
 | 2025-11-08 | [1611](https://www.leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [Minimum One Bit Operations to Make Integers Zero](./Daily_Challenge/1611_Minimum_One_Bit_Operations_to_Make_Integers_Zero.md) | [Python](./Daily_Challenge/1611_Minimum_One_Bit_Operations_to_Make_Integers_Zero.py) | Hard |
 | 2025-11-07 | [2528](https://www.leetcode.com/problems/maximize-the-minimum-powered-city/) | [Maximize the Minimum Powered City](./Daily_Challenge/2528_Maximize_the_Minimum_Powered_City.md) | [Python](./Daily_Challenge/2528_Maximize_the_Minimum_Powered_City.py) | Hard |
