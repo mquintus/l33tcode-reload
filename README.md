@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-11-14 | [2536](https://www.leetcode.com/problems/increment-submatrices-by-one/) | [Increment Submatrices by One](./Daily_Challenge/2536_Increment_Submatrices_by_One.md) | [Python](./Daily_Challenge/2536_Increment_Submatrices_by_One.py) | Medium |
 | 2025-11-13 | [3228](https://www.leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | [Maximum Number of Operations to Move Ones to the End](./Daily_Challenge/3228_Maximum_Number_of_Operations_to_Move_Ones_to_the_End.md) | [Python](./Daily_Challenge/3228_Maximum_Number_of_Operations_to_Move_Ones_to_the_End.py) | Medium |
 | 2025-11-12 | [2654](https://www.leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | [Minimum Number of Operations to Make All Array Elements Equal to 1](./Daily_Challenge/2654_Minimum_Number_of_Operations_to_Make_All_Array_Elements_Equal_to_1.md) | [Python](./Daily_Challenge/2654_Minimum_Number_of_Operations_to_Make_All_Array_Elements_Equal_to_1.py) | Medium |
 | 2025-11-11 | [474](https://www.leetcode.com/problems/ones-and-zeroes/) | [Ones and Zeroes](./Daily_Challenge/474_Ones_and_Zeroes.md) | [Python](./Daily_Challenge/474_Ones_and_Zeroes.py) | Medium |
