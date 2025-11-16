@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-11-16 | [1513](https://www.leetcode.com/problems/number-of-substrings-with-only-1s/) | [Number of Substrings With Only 1s](./Daily_Challenge/1513_Number_of_Substrings_With_Only_1s.md) | [Python](./Daily_Challenge/1513_Number_of_Substrings_With_Only_1s.py) | Medium |
 | 2025-11-15 | [3234](https://www.leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | [Count the Number of Substrings With Dominant Ones](./Daily_Challenge/3234_Count_the_Number_of_Substrings_With_Dominant_Ones.md) | [Python](./Daily_Challenge/3234_Count_the_Number_of_Substrings_With_Dominant_Ones.py) | Medium |
 | 2025-11-14 | [2536](https://www.leetcode.com/problems/increment-submatrices-by-one/) | [Increment Submatrices by One](./Daily_Challenge/2536_Increment_Submatrices_by_One.md) | [Python](./Daily_Challenge/2536_Increment_Submatrices_by_One.py) | Medium |
 | 2025-11-13 | [3228](https://www.leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | [Maximum Number of Operations to Move Ones to the End](./Daily_Challenge/3228_Maximum_Number_of_Operations_to_Move_Ones_to_the_End.md) | [Python](./Daily_Challenge/3228_Maximum_Number_of_Operations_to_Move_Ones_to_the_End.py) | Medium |
