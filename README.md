@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-11-18 | [717](https://www.leetcode.com/problems/1-bit-and-2-bit-characters/) | [1-bit and 2-bit Characters](./Daily_Challenge/717_1-bit_and_2-bit_Characters.md) | [Python](./Daily_Challenge/717_1-bit_and_2-bit_Characters.py) | Easy |
 | 2025-11-17 | [1437](https://www.leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Check If All 1's Are at Least Length K Places Away](./Daily_Challenge/1437_Check_If_All_1's_Are_at_Least_Length_K_Places_Away.md) | [Python](./Daily_Challenge/1437_Check_If_All_1's_Are_at_Least_Length_K_Places_Away.py) | Easy |
 | 2025-11-16 | [1513](https://www.leetcode.com/problems/number-of-substrings-with-only-1s/) | [Number of Substrings With Only 1s](./Daily_Challenge/1513_Number_of_Substrings_With_Only_1s.md) | [Python](./Daily_Challenge/1513_Number_of_Substrings_With_Only_1s.py) | Medium |
 | 2025-11-15 | [3234](https://www.leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | [Count the Number of Substrings With Dominant Ones](./Daily_Challenge/3234_Count_the_Number_of_Substrings_With_Dominant_Ones.md) | [Python](./Daily_Challenge/3234_Count_the_Number_of_Substrings_With_Dominant_Ones.py) | Medium |
