@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-11-21 | [1930](https://www.leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Unique Length-3 Palindromic Subsequences](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.md) | [Python](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.py) | Medium |
 | 2025-11-20 | [757](https://www.leetcode.com/problems/set-intersection-size-at-least-two/) | [Set Intersection Size At Least Two](./Daily_Challenge/757_Set_Intersection_Size_At_Least_Two.md) | [Python](./Daily_Challenge/757_Set_Intersection_Size_At_Least_Two.py) | Hard |
 | 2025-11-19 | [2154](https://www.leetcode.com/problems/keep-multiplying-found-values-by-two/) | [Keep Multiplying Found Values by Two](./Daily_Challenge/2154_Keep_Multiplying_Found_Values_by_Two.md) | [Python](./Daily_Challenge/2154_Keep_Multiplying_Found_Values_by_Two.py) | Easy |
 | 2025-11-18 | [717](https://www.leetcode.com/problems/1-bit-and-2-bit-characters/) | [1-bit and 2-bit Characters](./Daily_Challenge/717_1-bit_and_2-bit_Characters.md) | [Python](./Daily_Challenge/717_1-bit_and_2-bit_Characters.py) | Easy |
