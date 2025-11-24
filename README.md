@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-11-24 | [1018](https://www.leetcode.com/problems/binary-prefix-divisible-by-5/) | [Binary Prefix Divisible By 5](./Daily_Challenge/1018_Binary_Prefix_Divisible_By_5.md) | [Python](./Daily_Challenge/1018_Binary_Prefix_Divisible_By_5.py) | Easy |
 | 2025-11-23 | [1262](https://www.leetcode.com/problems/greatest-sum-divisible-by-three/) | [Greatest Sum Divisible by Three](./Daily_Challenge/1262_Greatest_Sum_Divisible_by_Three.md) | [Python](./Daily_Challenge/1262_Greatest_Sum_Divisible_by_Three.py) | Medium |
 | 2025-11-22 | [3190](https://www.leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [Find Minimum Operations to Make All Elements Divisible by Three](./Daily_Challenge/3190_Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.md) | [Python](./Daily_Challenge/3190_Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.py) | Easy |
 | 2025-11-21 | [1930](https://www.leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Unique Length-3 Palindromic Subsequences](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.md) | [Python](./Daily_Challenge/1930_Unique_Length-3_Palindromic_Subsequences.py) | Medium |
