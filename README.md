@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-11-27 | [3381](https://www.leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/) | [Maximum Subarray Sum With Length Divisible by K](./Daily_Challenge/3381_Maximum_Subarray_Sum_With_Length_Divisible_by_K.md) | [Python](./Daily_Challenge/3381_Maximum_Subarray_Sum_With_Length_Divisible_by_K.py) | Medium |
 | 2025-11-26 | [2435](https://www.leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [Paths in Matrix Whose Sum Is Divisible by K](./Daily_Challenge/2435_Paths_in_Matrix_Whose_Sum_Is_Divisible_by_K.md) | [Python](./Daily_Challenge/2435_Paths_in_Matrix_Whose_Sum_Is_Divisible_by_K.py) | Hard |
 | 2025-11-25 | [1015](https://www.leetcode.com/problems/smallest-integer-divisible-by-k/) | [Smallest Integer Divisible by K](./Daily_Challenge/1015_Smallest_Integer_Divisible_by_K.md) | [Python](./Daily_Challenge/1015_Smallest_Integer_Divisible_by_K.py) | Medium |
 | 2025-11-24 | [1018](https://www.leetcode.com/problems/binary-prefix-divisible-by-5/) | [Binary Prefix Divisible By 5](./Daily_Challenge/1018_Binary_Prefix_Divisible_By_5.md) | [Python](./Daily_Challenge/1018_Binary_Prefix_Divisible_By_5.py) | Easy |
