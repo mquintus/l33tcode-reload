@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-11-30 | [1590](https://www.leetcode.com/problems/make-sum-divisible-by-p/) | [Make Sum Divisible by P](./Daily_Challenge/1590_Make_Sum_Divisible_by_P.md) | [Python](./Daily_Challenge/1590_Make_Sum_Divisible_by_P.py) | Medium |
 | 2025-11-29 | [3512](https://www.leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | [Minimum Operations to Make Array Sum Divisible by K](./Daily_Challenge/3512_Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.md) | [Python](./Daily_Challenge/3512_Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.py) | Easy |
 | 2025-11-28 | [2872](https://www.leetcode.com/problems/maximum-number-of-k-divisible-components/) | [Maximum Number of K-Divisible Components](./Daily_Challenge/2872_Maximum_Number_of_K-Divisible_Components.md) | [Python](./Daily_Challenge/2872_Maximum_Number_of_K-Divisible_Components.py) | Hard |
 | 2025-11-27 | [3381](https://www.leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/) | [Maximum Subarray Sum With Length Divisible by K](./Daily_Challenge/3381_Maximum_Subarray_Sum_With_Length_Divisible_by_K.md) | [Python](./Daily_Challenge/3381_Maximum_Subarray_Sum_With_Length_Divisible_by_K.py) | Medium |
