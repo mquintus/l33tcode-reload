@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-12-03 | [3625](https://www.leetcode.com/problems/count-number-of-trapezoids-ii/) | [Count Number of Trapezoids II](./Daily_Challenge/3625_Count_Number_of_Trapezoids_II.md) | [Python](./Daily_Challenge/3625_Count_Number_of_Trapezoids_II.py) | Hard |
 | 2025-12-02 | [3623](https://www.leetcode.com/problems/count-number-of-trapezoids-i/) | [Count Number of Trapezoids I](./Daily_Challenge/3623_Count_Number_of_Trapezoids_I.md) | [Python](./Daily_Challenge/3623_Count_Number_of_Trapezoids_I.py) | Medium |
 | 2025-12-01 | [2141](https://www.leetcode.com/problems/maximum-running-time-of-n-computers/) | [Maximum Running Time of N Computers](./Daily_Challenge/2141_Maximum_Running_Time_of_N_Computers.md) | [Python](./Daily_Challenge/2141_Maximum_Running_Time_of_N_Computers.py) | Hard |
 | 2025-11-30 | [1590](https://www.leetcode.com/problems/make-sum-divisible-by-p/) | [Make Sum Divisible by P](./Daily_Challenge/1590_Make_Sum_Divisible_by_P.md) | [Python](./Daily_Challenge/1590_Make_Sum_Divisible_by_P.py) | Medium |
