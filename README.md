@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-12-05 | [3432](https://www.leetcode.com/problems/count-partitions-with-even-sum-difference/) | [Count Partitions with Even Sum Difference](./Daily_Challenge/3432_Count_Partitions_with_Even_Sum_Difference.md) | [Python](./Daily_Challenge/3432_Count_Partitions_with_Even_Sum_Difference.py) | Easy |
 | 2025-12-04 | [2211](https://www.leetcode.com/problems/count-collisions-on-a-road/) | [Count Collisions on a Road](./Daily_Challenge/2211_Count_Collisions_on_a_Road.md) | [Python](./Daily_Challenge/2211_Count_Collisions_on_a_Road.py) | Medium |
 | 2025-12-03 | [3625](https://www.leetcode.com/problems/count-number-of-trapezoids-ii/) | [Count Number of Trapezoids II](./Daily_Challenge/3625_Count_Number_of_Trapezoids_II.md) | [Python](./Daily_Challenge/3625_Count_Number_of_Trapezoids_II.py) | Hard |
 | 2025-12-02 | [3623](https://www.leetcode.com/problems/count-number-of-trapezoids-i/) | [Count Number of Trapezoids I](./Daily_Challenge/3623_Count_Number_of_Trapezoids_I.md) | [Python](./Daily_Challenge/3623_Count_Number_of_Trapezoids_I.py) | Medium |
