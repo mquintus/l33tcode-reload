@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-12-08 | [1925](https://www.leetcode.com/problems/count-square-sum-triples/) | [Count Square Sum Triples](./Daily_Challenge/1925_Count_Square_Sum_Triples.md) | [Python](./Daily_Challenge/1925_Count_Square_Sum_Triples.py) | Easy |
 | 2025-12-07 | [1523](https://www.leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Count Odd Numbers in an Interval Range](./Daily_Challenge/1523_Count_Odd_Numbers_in_an_Interval_Range.md) | [Python](./Daily_Challenge/1523_Count_Odd_Numbers_in_an_Interval_Range.py) | Easy |
 | 2025-12-06 | [3578](https://www.leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) | [Count Partitions With Max-Min Difference at Most K](./Daily_Challenge/3578_Count_Partitions_With_Max-Min_Difference_at_Most_K.md) | [Python](./Daily_Challenge/3578_Count_Partitions_With_Max-Min_Difference_at_Most_K.py) | Medium |
 | 2025-12-05 | [3432](https://www.leetcode.com/problems/count-partitions-with-even-sum-difference/) | [Count Partitions with Even Sum Difference](./Daily_Challenge/3432_Count_Partitions_with_Even_Sum_Difference.md) | [Python](./Daily_Challenge/3432_Count_Partitions_with_Even_Sum_Difference.py) | Easy |
