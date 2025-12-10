@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-12-10 | [3577](https://www.leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/) | [Count the Number of Computer Unlocking Permutations](./Daily_Challenge/3577_Count_the_Number_of_Computer_Unlocking_Permutations.md) | [Python](./Daily_Challenge/3577_Count_the_Number_of_Computer_Unlocking_Permutations.py) | Medium |
 | 2025-12-09 | [3583](https://www.leetcode.com/problems/count-special-triplets/) | [Count Special Triplets](./Daily_Challenge/3583_Count_Special_Triplets.md) | [Python](./Daily_Challenge/3583_Count_Special_Triplets.py) | Medium |
 | 2025-12-08 | [1925](https://www.leetcode.com/problems/count-square-sum-triples/) | [Count Square Sum Triples](./Daily_Challenge/1925_Count_Square_Sum_Triples.md) | [Python](./Daily_Challenge/1925_Count_Square_Sum_Triples.py) | Easy |
 | 2025-12-07 | [1523](https://www.leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Count Odd Numbers in an Interval Range](./Daily_Challenge/1523_Count_Odd_Numbers_in_an_Interval_Range.md) | [Python](./Daily_Challenge/1523_Count_Odd_Numbers_in_an_Interval_Range.py) | Easy |
