@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-12-12 | [3433](https://www.leetcode.com/problems/count-mentions-per-user/) | [Count Mentions Per User](./Daily_Challenge/3433_Count_Mentions_Per_User.md) | [Python](./Daily_Challenge/3433_Count_Mentions_Per_User.py) | Medium |
 | 2025-12-11 | [3531](https://www.leetcode.com/problems/count-covered-buildings/) | [Count Covered Buildings](./Daily_Challenge/3531_Count_Covered_Buildings.md) | [Python](./Daily_Challenge/3531_Count_Covered_Buildings.py) | Medium |
 | 2025-12-10 | [3577](https://www.leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/) | [Count the Number of Computer Unlocking Permutations](./Daily_Challenge/3577_Count_the_Number_of_Computer_Unlocking_Permutations.md) | [Python](./Daily_Challenge/3577_Count_the_Number_of_Computer_Unlocking_Permutations.py) | Medium |
 | 2025-12-09 | [3583](https://www.leetcode.com/problems/count-special-triplets/) | [Count Special Triplets](./Daily_Challenge/3583_Count_Special_Triplets.md) | [Python](./Daily_Challenge/3583_Count_Special_Triplets.py) | Medium |
