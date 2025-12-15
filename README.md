@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-12-15 | [2110](https://www.leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Number of Smooth Descent Periods of a Stock](./Daily_Challenge/2110_Number_of_Smooth_Descent_Periods_of_a_Stock.md) | [Python](./Daily_Challenge/2110_Number_of_Smooth_Descent_Periods_of_a_Stock.py) | Medium |
 | 2025-12-14 | [2147](https://www.leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | [Number of Ways to Divide a Long Corridor](./Daily_Challenge/2147_Number_of_Ways_to_Divide_a_Long_Corridor.md) | [Python](./Daily_Challenge/2147_Number_of_Ways_to_Divide_a_Long_Corridor.py) | Hard |
 | 2025-12-13 | [3606](https://www.leetcode.com/problems/coupon-code-validator/) | [Coupon Code Validator](./Daily_Challenge/3606_Coupon_Code_Validator.md) | [Python](./Daily_Challenge/3606_Coupon_Code_Validator.py) | Easy |
 | 2025-12-12 | [3433](https://www.leetcode.com/problems/count-mentions-per-user/) | [Count Mentions Per User](./Daily_Challenge/3433_Count_Mentions_Per_User.md) | [Python](./Daily_Challenge/3433_Count_Mentions_Per_User.py) | Medium |
