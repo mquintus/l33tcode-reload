@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-12-18 | [3652](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) | [Best Time to Buy and Sell Stock using Strategy](./Daily_Challenge/3652_Best_Time_to_Buy_and_Sell_Stock_using_Strategy.md) | [Python](./Daily_Challenge/3652_Best_Time_to_Buy_and_Sell_Stock_using_Strategy.py) | Medium |
 | 2025-12-17 | [3573](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | [Best Time to Buy and Sell Stock V](./Daily_Challenge/3573_Best_Time_to_Buy_and_Sell_Stock_V.md) | [Python](./Daily_Challenge/3573_Best_Time_to_Buy_and_Sell_Stock_V.py) | Medium |
 | 2025-12-16 | [3562](https://www.leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | [Maximum Profit from Trading Stocks with Discounts](./Daily_Challenge/3562_Maximum_Profit_from_Trading_Stocks_with_Discounts.md) | [Python](./Daily_Challenge/3562_Maximum_Profit_from_Trading_Stocks_with_Discounts.py) | Hard |
 | 2025-12-15 | [2110](https://www.leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Number of Smooth Descent Periods of a Stock](./Daily_Challenge/2110_Number_of_Smooth_Descent_Periods_of_a_Stock.md) | [Python](./Daily_Challenge/2110_Number_of_Smooth_Descent_Periods_of_a_Stock.py) | Medium |
