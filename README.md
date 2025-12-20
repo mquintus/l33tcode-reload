@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-12-20 | [944](https://www.leetcode.com/problems/delete-columns-to-make-sorted/) | [Delete Columns to Make Sorted](./Daily_Challenge/944_Delete_Columns_to_Make_Sorted.md) | [Python](./Daily_Challenge/944_Delete_Columns_to_Make_Sorted.py) | Easy |
 | 2025-12-19 | [2092](https://www.leetcode.com/problems/find-all-people-with-secret/) | [Find All People With Secret](./Daily_Challenge/2092_Find_All_People_With_Secret.md) | [Python](./Daily_Challenge/2092_Find_All_People_With_Secret.py) | Hard |
 | 2025-12-18 | [3652](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) | [Best Time to Buy and Sell Stock using Strategy](./Daily_Challenge/3652_Best_Time_to_Buy_and_Sell_Stock_using_Strategy.md) | [Python](./Daily_Challenge/3652_Best_Time_to_Buy_and_Sell_Stock_using_Strategy.py) | Medium |
 | 2025-12-17 | [3573](https://www.leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | [Best Time to Buy and Sell Stock V](./Daily_Challenge/3573_Best_Time_to_Buy_and_Sell_Stock_V.md) | [Python](./Daily_Challenge/3573_Best_Time_to_Buy_and_Sell_Stock_V.py) | Medium |
