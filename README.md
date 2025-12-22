@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-12-22 | [960](https://www.leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Delete Columns to Make Sorted III](./Daily_Challenge/960_Delete_Columns_to_Make_Sorted_III.md) | [Python](./Daily_Challenge/960_Delete_Columns_to_Make_Sorted_III.py) | Hard |
 | 2025-12-21 | [955](https://www.leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Delete Columns to Make Sorted II](./Daily_Challenge/955_Delete_Columns_to_Make_Sorted_II.md) | [Python](./Daily_Challenge/955_Delete_Columns_to_Make_Sorted_II.py) | Medium |
 | 2025-12-20 | [944](https://www.leetcode.com/problems/delete-columns-to-make-sorted/) | [Delete Columns to Make Sorted](./Daily_Challenge/944_Delete_Columns_to_Make_Sorted.md) | [Python](./Daily_Challenge/944_Delete_Columns_to_Make_Sorted.py) | Easy |
 | 2025-12-19 | [2092](https://www.leetcode.com/problems/find-all-people-with-secret/) | [Find All People With Secret](./Daily_Challenge/2092_Find_All_People_With_Secret.md) | [Python](./Daily_Challenge/2092_Find_All_People_With_Secret.py) | Hard |
