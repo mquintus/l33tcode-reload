@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-12-24 | [3074](https://www.leetcode.com/problems/apple-redistribution-into-boxes/) | [Apple Redistribution into Boxes](./Daily_Challenge/3074_Apple_Redistribution_into_Boxes.md) | [Python](./Daily_Challenge/3074_Apple_Redistribution_into_Boxes.py) | Easy |
 | 2025-12-23 | [2054](https://www.leetcode.com/problems/two-best-non-overlapping-events/) | [Two Best Non-Overlapping Events](./Daily_Challenge/2054_Two_Best_Non-Overlapping_Events.md) | [Python](./Daily_Challenge/2054_Two_Best_Non-Overlapping_Events.py) | Medium |
 | 2025-12-22 | [960](https://www.leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Delete Columns to Make Sorted III](./Daily_Challenge/960_Delete_Columns_to_Make_Sorted_III.md) | [Python](./Daily_Challenge/960_Delete_Columns_to_Make_Sorted_III.py) | Hard |
 | 2025-12-21 | [955](https://www.leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Delete Columns to Make Sorted II](./Daily_Challenge/955_Delete_Columns_to_Make_Sorted_II.md) | [Python](./Daily_Challenge/955_Delete_Columns_to_Make_Sorted_II.py) | Medium |
