@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-12-26 | [2483](https://www.leetcode.com/problems/minimum-penalty-for-a-shop/) | [Minimum Penalty for a Shop](./Daily_Challenge/2483_Minimum_Penalty_for_a_Shop.md) | [Python](./Daily_Challenge/2483_Minimum_Penalty_for_a_Shop.py) | Medium |
 | 2025-12-25 | [3075](https://www.leetcode.com/problems/maximize-happiness-of-selected-children/) | [Maximize Happiness of Selected Children](./Daily_Challenge/3075_Maximize_Happiness_of_Selected_Children.md) | [Python](./Daily_Challenge/3075_Maximize_Happiness_of_Selected_Children.py) | Medium |
 | 2025-12-24 | [3074](https://www.leetcode.com/problems/apple-redistribution-into-boxes/) | [Apple Redistribution into Boxes](./Daily_Challenge/3074_Apple_Redistribution_into_Boxes.md) | [Python](./Daily_Challenge/3074_Apple_Redistribution_into_Boxes.py) | Easy |
 | 2025-12-23 | [2054](https://www.leetcode.com/problems/two-best-non-overlapping-events/) | [Two Best Non-Overlapping Events](./Daily_Challenge/2054_Two_Best_Non-Overlapping_Events.md) | [Python](./Daily_Challenge/2054_Two_Best_Non-Overlapping_Events.py) | Medium |
