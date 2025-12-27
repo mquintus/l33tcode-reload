@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-12-27 | [2402](https://www.leetcode.com/problems/meeting-rooms-iii/) | [Meeting Rooms III](./Daily_Challenge/2402_Meeting_Rooms_III.md) | [Python](./Daily_Challenge/2402_Meeting_Rooms_III.py) | Hard |
 | 2025-12-26 | [2483](https://www.leetcode.com/problems/minimum-penalty-for-a-shop/) | [Minimum Penalty for a Shop](./Daily_Challenge/2483_Minimum_Penalty_for_a_Shop.md) | [Python](./Daily_Challenge/2483_Minimum_Penalty_for_a_Shop.py) | Medium |
 | 2025-12-25 | [3075](https://www.leetcode.com/problems/maximize-happiness-of-selected-children/) | [Maximize Happiness of Selected Children](./Daily_Challenge/3075_Maximize_Happiness_of_Selected_Children.md) | [Python](./Daily_Challenge/3075_Maximize_Happiness_of_Selected_Children.py) | Medium |
 | 2025-12-24 | [3074](https://www.leetcode.com/problems/apple-redistribution-into-boxes/) | [Apple Redistribution into Boxes](./Daily_Challenge/3074_Apple_Redistribution_into_Boxes.md) | [Python](./Daily_Challenge/3074_Apple_Redistribution_into_Boxes.py) | Easy |
