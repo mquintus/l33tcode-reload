@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-12-30 | [840](https://www.leetcode.com/problems/magic-squares-in-grid/) | [Magic Squares In Grid](./Daily_Challenge/840_Magic_Squares_In_Grid.md) | [Python](./Daily_Challenge/840_Magic_Squares_In_Grid.py) | Medium |
 | 2025-12-29 | [756](https://www.leetcode.com/problems/pyramid-transition-matrix/) | [Pyramid Transition Matrix](./Daily_Challenge/756_Pyramid_Transition_Matrix.md) | [Python](./Daily_Challenge/756_Pyramid_Transition_Matrix.py) | Medium |
 | 2025-12-28 | [1351](https://www.leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Count Negative Numbers in a Sorted Matrix](./Daily_Challenge/1351_Count_Negative_Numbers_in_a_Sorted_Matrix.md) | [Python](./Daily_Challenge/1351_Count_Negative_Numbers_in_a_Sorted_Matrix.py) | Easy |
 | 2025-12-27 | [2402](https://www.leetcode.com/problems/meeting-rooms-iii/) | [Meeting Rooms III](./Daily_Challenge/2402_Meeting_Rooms_III.md) | [Python](./Daily_Challenge/2402_Meeting_Rooms_III.py) | Hard |
