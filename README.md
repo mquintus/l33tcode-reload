@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2025-12-31 | [1970](https://www.leetcode.com/problems/last-day-where-you-can-still-cross/) | [Last Day Where You Can Still Cross](./Daily_Challenge/1970_Last_Day_Where_You_Can_Still_Cross.md) | [Python](./Daily_Challenge/1970_Last_Day_Where_You_Can_Still_Cross.py) | Hard |
 | 2025-12-30 | [840](https://www.leetcode.com/problems/magic-squares-in-grid/) | [Magic Squares In Grid](./Daily_Challenge/840_Magic_Squares_In_Grid.md) | [Python](./Daily_Challenge/840_Magic_Squares_In_Grid.py) | Medium |
 | 2025-12-29 | [756](https://www.leetcode.com/problems/pyramid-transition-matrix/) | [Pyramid Transition Matrix](./Daily_Challenge/756_Pyramid_Transition_Matrix.md) | [Python](./Daily_Challenge/756_Pyramid_Transition_Matrix.py) | Medium |
 | 2025-12-28 | [1351](https://www.leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Count Negative Numbers in a Sorted Matrix](./Daily_Challenge/1351_Count_Negative_Numbers_in_a_Sorted_Matrix.md) | [Python](./Daily_Challenge/1351_Count_Negative_Numbers_in_a_Sorted_Matrix.py) | Easy |
