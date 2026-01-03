@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-01-03 | [1411](https://www.leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | [Number of Ways to Paint N × 3 Grid](./Daily_Challenge/1411_Number_of_Ways_to_Paint_N_×_3_Grid.md) | [Python](./Daily_Challenge/1411_Number_of_Ways_to_Paint_N_×_3_Grid.py) | Hard |
 | 2026-01-02 | [961](https://www.leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [N-Repeated Element in Size 2N Array](./Daily_Challenge/961_N-Repeated_Element_in_Size_2N_Array.md) | [Python](./Daily_Challenge/961_N-Repeated_Element_in_Size_2N_Array.py) | Easy |
 | 2026-01-01 | [66](https://www.leetcode.com/problems/plus-one/) | [Plus One](./Daily_Challenge/66_Plus_One.md) | [Python](./Daily_Challenge/66_Plus_One.py) | Easy |
 | 2025-12-31 | [1970](https://www.leetcode.com/problems/last-day-where-you-can-still-cross/) | [Last Day Where You Can Still Cross](./Daily_Challenge/1970_Last_Day_Where_You_Can_Still_Cross.md) | [Python](./Daily_Challenge/1970_Last_Day_Where_You_Can_Still_Cross.py) | Hard |
