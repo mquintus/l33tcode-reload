@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-01-05 | [1975](https://www.leetcode.com/problems/maximum-matrix-sum/) | [Maximum Matrix Sum](./Daily_Challenge/1975_Maximum_Matrix_Sum.md) | [Python](./Daily_Challenge/1975_Maximum_Matrix_Sum.py) | Medium |
 | 2026-01-04 | [1390](https://www.leetcode.com/problems/four-divisors/) | [Four Divisors](./Daily_Challenge/1390_Four_Divisors.md) | [Python](./Daily_Challenge/1390_Four_Divisors.py) | Medium |
 | 2026-01-03 | [1411](https://www.leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | [Number of Ways to Paint N × 3 Grid](./Daily_Challenge/1411_Number_of_Ways_to_Paint_N_×_3_Grid.md) | [Python](./Daily_Challenge/1411_Number_of_Ways_to_Paint_N_×_3_Grid.py) | Hard |
 | 2026-01-02 | [961](https://www.leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [N-Repeated Element in Size 2N Array](./Daily_Challenge/961_N-Repeated_Element_in_Size_2N_Array.md) | [Python](./Daily_Challenge/961_N-Repeated_Element_in_Size_2N_Array.py) | Easy |
