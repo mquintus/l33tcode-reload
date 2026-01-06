@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-01-06 | [1161](https://www.leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Maximum Level Sum of a Binary Tree](./Daily_Challenge/1161_Maximum_Level_Sum_of_a_Binary_Tree.md) | [Python](./Daily_Challenge/1161_Maximum_Level_Sum_of_a_Binary_Tree.py) | Medium |
 | 2026-01-05 | [1975](https://www.leetcode.com/problems/maximum-matrix-sum/) | [Maximum Matrix Sum](./Daily_Challenge/1975_Maximum_Matrix_Sum.md) | [Python](./Daily_Challenge/1975_Maximum_Matrix_Sum.py) | Medium |
 | 2026-01-04 | [1390](https://www.leetcode.com/problems/four-divisors/) | [Four Divisors](./Daily_Challenge/1390_Four_Divisors.md) | [Python](./Daily_Challenge/1390_Four_Divisors.py) | Medium |
 | 2026-01-03 | [1411](https://www.leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | [Number of Ways to Paint N × 3 Grid](./Daily_Challenge/1411_Number_of_Ways_to_Paint_N_×_3_Grid.md) | [Python](./Daily_Challenge/1411_Number_of_Ways_to_Paint_N_×_3_Grid.py) | Hard |
