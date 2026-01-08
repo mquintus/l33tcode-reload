@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-01-08 | [1458](https://www.leetcode.com/problems/max-dot-product-of-two-subsequences/) | [Max Dot Product of Two Subsequences](./Daily_Challenge/1458_Max_Dot_Product_of_Two_Subsequences.md) | [Python](./Daily_Challenge/1458_Max_Dot_Product_of_Two_Subsequences.py) | Hard |
 | 2026-01-07 | [1339](https://www.leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [Maximum Product of Splitted Binary Tree](./Daily_Challenge/1339_Maximum_Product_of_Splitted_Binary_Tree.md) | [Python](./Daily_Challenge/1339_Maximum_Product_of_Splitted_Binary_Tree.py) | Medium |
 | 2026-01-06 | [1161](https://www.leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Maximum Level Sum of a Binary Tree](./Daily_Challenge/1161_Maximum_Level_Sum_of_a_Binary_Tree.md) | [Python](./Daily_Challenge/1161_Maximum_Level_Sum_of_a_Binary_Tree.py) | Medium |
 | 2026-01-05 | [1975](https://www.leetcode.com/problems/maximum-matrix-sum/) | [Maximum Matrix Sum](./Daily_Challenge/1975_Maximum_Matrix_Sum.md) | [Python](./Daily_Challenge/1975_Maximum_Matrix_Sum.py) | Medium |
