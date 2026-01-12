@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-01-12 | [1266](https://www.leetcode.com/problems/minimum-time-visiting-all-points/) | [Minimum Time Visiting All Points](./Daily_Challenge/1266_Minimum_Time_Visiting_All_Points.md) | [Python](./Daily_Challenge/1266_Minimum_Time_Visiting_All_Points.py) | Easy |
 | 2026-01-11 | [85](https://www.leetcode.com/problems/maximal-rectangle/) | [Maximal Rectangle](./Daily_Challenge/85_Maximal_Rectangle.md) | [Python](./Daily_Challenge/85_Maximal_Rectangle.py) | Hard |
 | 2026-01-10 | [712](https://www.leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Minimum ASCII Delete Sum for Two Strings](./Daily_Challenge/712_Minimum_ASCII_Delete_Sum_for_Two_Strings.md) | [Python](./Daily_Challenge/712_Minimum_ASCII_Delete_Sum_for_Two_Strings.py) | Medium |
 | 2026-01-09 | [865](https://www.leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Smallest Subtree with all the Deepest Nodes](./Daily_Challenge/865_Smallest_Subtree_with_all_the_Deepest_Nodes.md) | [Python](./Daily_Challenge/865_Smallest_Subtree_with_all_the_Deepest_Nodes.py) | Medium |
