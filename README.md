@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-01-15 | [2943](https://www.leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | [Maximize Area of Square Hole in Grid](./Daily_Challenge/2943_Maximize_Area_of_Square_Hole_in_Grid.md) | [Python](./Daily_Challenge/2943_Maximize_Area_of_Square_Hole_in_Grid.py) | Medium |
 | 2026-01-14 | [3454](https://www.leetcode.com/problems/separate-squares-ii/) | [Separate Squares II](./Daily_Challenge/3454_Separate_Squares_II.md) | [Python](./Daily_Challenge/3454_Separate_Squares_II.py) | Hard |
 | 2026-01-13 | [3453](https://www.leetcode.com/problems/separate-squares-i/) | [Separate Squares I](./Daily_Challenge/3453_Separate_Squares_I.md) | [Python](./Daily_Challenge/3453_Separate_Squares_I.py) | Medium |
 | 2026-01-12 | [1266](https://www.leetcode.com/problems/minimum-time-visiting-all-points/) | [Minimum Time Visiting All Points](./Daily_Challenge/1266_Minimum_Time_Visiting_All_Points.md) | [Python](./Daily_Challenge/1266_Minimum_Time_Visiting_All_Points.py) | Easy |
