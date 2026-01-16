@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-01-16 | [2975](https://www.leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | [Maximum Square Area by Removing Fences From a Field](./Daily_Challenge/2975_Maximum_Square_Area_by_Removing_Fences_From_a_Field.md) | [Python](./Daily_Challenge/2975_Maximum_Square_Area_by_Removing_Fences_From_a_Field.py) | Medium |
 | 2026-01-15 | [2943](https://www.leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | [Maximize Area of Square Hole in Grid](./Daily_Challenge/2943_Maximize_Area_of_Square_Hole_in_Grid.md) | [Python](./Daily_Challenge/2943_Maximize_Area_of_Square_Hole_in_Grid.py) | Medium |
 | 2026-01-14 | [3454](https://www.leetcode.com/problems/separate-squares-ii/) | [Separate Squares II](./Daily_Challenge/3454_Separate_Squares_II.md) | [Python](./Daily_Challenge/3454_Separate_Squares_II.py) | Hard |
 | 2026-01-13 | [3453](https://www.leetcode.com/problems/separate-squares-i/) | [Separate Squares I](./Daily_Challenge/3453_Separate_Squares_I.md) | [Python](./Daily_Challenge/3453_Separate_Squares_I.py) | Medium |
