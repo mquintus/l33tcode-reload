@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-01-17 | [3047](https://www.leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/) | [Find the Largest Area of Square Inside Two Rectangles](./Daily_Challenge/3047_Find_the_Largest_Area_of_Square_Inside_Two_Rectangles.md) | [Python](./Daily_Challenge/3047_Find_the_Largest_Area_of_Square_Inside_Two_Rectangles.py) | Medium |
 | 2026-01-16 | [2975](https://www.leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | [Maximum Square Area by Removing Fences From a Field](./Daily_Challenge/2975_Maximum_Square_Area_by_Removing_Fences_From_a_Field.md) | [Python](./Daily_Challenge/2975_Maximum_Square_Area_by_Removing_Fences_From_a_Field.py) | Medium |
 | 2026-01-15 | [2943](https://www.leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | [Maximize Area of Square Hole in Grid](./Daily_Challenge/2943_Maximize_Area_of_Square_Hole_in_Grid.md) | [Python](./Daily_Challenge/2943_Maximize_Area_of_Square_Hole_in_Grid.py) | Medium |
 | 2026-01-14 | [3454](https://www.leetcode.com/problems/separate-squares-ii/) | [Separate Squares II](./Daily_Challenge/3454_Separate_Squares_II.md) | [Python](./Daily_Challenge/3454_Separate_Squares_II.py) | Hard |
