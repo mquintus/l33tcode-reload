@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-01-19 | [1292](https://www.leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](./Daily_Challenge/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold.md) | [Python](./Daily_Challenge/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold.py) | Medium |
 | 2026-01-18 | [1895](https://www.leetcode.com/problems/largest-magic-square/) | [Largest Magic Square](./Daily_Challenge/1895_Largest_Magic_Square.md) | [Python](./Daily_Challenge/1895_Largest_Magic_Square.py) | Medium |
 | 2026-01-17 | [3047](https://www.leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/) | [Find the Largest Area of Square Inside Two Rectangles](./Daily_Challenge/3047_Find_the_Largest_Area_of_Square_Inside_Two_Rectangles.md) | [Python](./Daily_Challenge/3047_Find_the_Largest_Area_of_Square_Inside_Two_Rectangles.py) | Medium |
 | 2026-01-16 | [2975](https://www.leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | [Maximum Square Area by Removing Fences From a Field](./Daily_Challenge/2975_Maximum_Square_Area_by_Removing_Fences_From_a_Field.md) | [Python](./Daily_Challenge/2975_Maximum_Square_Area_by_Removing_Fences_From_a_Field.py) | Medium |
