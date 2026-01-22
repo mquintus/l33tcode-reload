@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-01-22 | [3507](https://www.leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [Minimum Pair Removal to Sort Array I](./Daily_Challenge/3507_Minimum_Pair_Removal_to_Sort_Array_I.md) | [Python](./Daily_Challenge/3507_Minimum_Pair_Removal_to_Sort_Array_I.py) | Easy |
 | 2026-01-21 | [3315](https://www.leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | [Construct the Minimum Bitwise Array II](./Daily_Challenge/3315_Construct_the_Minimum_Bitwise_Array_II.md) | [Python](./Daily_Challenge/3315_Construct_the_Minimum_Bitwise_Array_II.py) | Medium |
 | 2026-01-20 | [3314](https://www.leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Construct the Minimum Bitwise Array I](./Daily_Challenge/3314_Construct_the_Minimum_Bitwise_Array_I.md) | [Python](./Daily_Challenge/3314_Construct_the_Minimum_Bitwise_Array_I.py) | Easy |
 | 2026-01-19 | [1292](https://www.leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](./Daily_Challenge/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold.md) | [Python](./Daily_Challenge/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold.py) | Medium |
