@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-01-23 | [3510](https://www.leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | [Minimum Pair Removal to Sort Array II](./Daily_Challenge/3510_Minimum_Pair_Removal_to_Sort_Array_II.md) | [Python](./Daily_Challenge/3510_Minimum_Pair_Removal_to_Sort_Array_II.py) | Hard |
 | 2026-01-22 | [3507](https://www.leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [Minimum Pair Removal to Sort Array I](./Daily_Challenge/3507_Minimum_Pair_Removal_to_Sort_Array_I.md) | [Python](./Daily_Challenge/3507_Minimum_Pair_Removal_to_Sort_Array_I.py) | Easy |
 | 2026-01-21 | [3315](https://www.leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | [Construct the Minimum Bitwise Array II](./Daily_Challenge/3315_Construct_the_Minimum_Bitwise_Array_II.md) | [Python](./Daily_Challenge/3315_Construct_the_Minimum_Bitwise_Array_II.py) | Medium |
 | 2026-01-20 | [3314](https://www.leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Construct the Minimum Bitwise Array I](./Daily_Challenge/3314_Construct_the_Minimum_Bitwise_Array_I.md) | [Python](./Daily_Challenge/3314_Construct_the_Minimum_Bitwise_Array_I.py) | Easy |
