@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-01-25 | [1984](https://www.leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [Minimum Difference Between Highest and Lowest of K Scores](./Daily_Challenge/1984_Minimum_Difference_Between_Highest_and_Lowest_of_K_Scores.md) | [Python](./Daily_Challenge/1984_Minimum_Difference_Between_Highest_and_Lowest_of_K_Scores.py) | Easy |
 | 2026-01-24 | [1877](https://www.leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [Minimize Maximum Pair Sum in Array](./Daily_Challenge/1877_Minimize_Maximum_Pair_Sum_in_Array.md) | [Python](./Daily_Challenge/1877_Minimize_Maximum_Pair_Sum_in_Array.py) | Medium |
 | 2026-01-23 | [3510](https://www.leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | [Minimum Pair Removal to Sort Array II](./Daily_Challenge/3510_Minimum_Pair_Removal_to_Sort_Array_II.md) | [Python](./Daily_Challenge/3510_Minimum_Pair_Removal_to_Sort_Array_II.py) | Hard |
 | 2026-01-22 | [3507](https://www.leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [Minimum Pair Removal to Sort Array I](./Daily_Challenge/3507_Minimum_Pair_Removal_to_Sort_Array_I.md) | [Python](./Daily_Challenge/3507_Minimum_Pair_Removal_to_Sort_Array_I.py) | Easy |
