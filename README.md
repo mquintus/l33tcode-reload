@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-01-27 | [3650](https://www.leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | [Minimum Cost Path with Edge Reversals](./Daily_Challenge/3650_Minimum_Cost_Path_with_Edge_Reversals.md) | [Python](./Daily_Challenge/3650_Minimum_Cost_Path_with_Edge_Reversals.py) | Medium |
 | 2026-01-26 | [1200](https://www.leetcode.com/problems/minimum-absolute-difference/) | [Minimum Absolute Difference](./Daily_Challenge/1200_Minimum_Absolute_Difference.md) | [Python](./Daily_Challenge/1200_Minimum_Absolute_Difference.py) | Easy |
 | 2026-01-25 | [1984](https://www.leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [Minimum Difference Between Highest and Lowest of K Scores](./Daily_Challenge/1984_Minimum_Difference_Between_Highest_and_Lowest_of_K_Scores.md) | [Python](./Daily_Challenge/1984_Minimum_Difference_Between_Highest_and_Lowest_of_K_Scores.py) | Easy |
 | 2026-01-24 | [1877](https://www.leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [Minimize Maximum Pair Sum in Array](./Daily_Challenge/1877_Minimize_Maximum_Pair_Sum_in_Array.md) | [Python](./Daily_Challenge/1877_Minimize_Maximum_Pair_Sum_in_Array.py) | Medium |
