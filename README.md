@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-01-28 | [3651](https://www.leetcode.com/problems/minimum-cost-path-with-teleportations/) | [Minimum Cost Path with Teleportations](./Daily_Challenge/3651_Minimum_Cost_Path_with_Teleportations.md) | [Python](./Daily_Challenge/3651_Minimum_Cost_Path_with_Teleportations.py) | Hard |
 | 2026-01-27 | [3650](https://www.leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | [Minimum Cost Path with Edge Reversals](./Daily_Challenge/3650_Minimum_Cost_Path_with_Edge_Reversals.md) | [Python](./Daily_Challenge/3650_Minimum_Cost_Path_with_Edge_Reversals.py) | Medium |
 | 2026-01-26 | [1200](https://www.leetcode.com/problems/minimum-absolute-difference/) | [Minimum Absolute Difference](./Daily_Challenge/1200_Minimum_Absolute_Difference.md) | [Python](./Daily_Challenge/1200_Minimum_Absolute_Difference.py) | Easy |
 | 2026-01-25 | [1984](https://www.leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [Minimum Difference Between Highest and Lowest of K Scores](./Daily_Challenge/1984_Minimum_Difference_Between_Highest_and_Lowest_of_K_Scores.md) | [Python](./Daily_Challenge/1984_Minimum_Difference_Between_Highest_and_Lowest_of_K_Scores.py) | Easy |
