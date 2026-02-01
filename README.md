@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-02-01 | [3010](https://www.leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [Divide an Array Into Subarrays With Minimum Cost I](./Daily_Challenge/3010_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I.md) | [Python](./Daily_Challenge/3010_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I.py) | Easy |
 | 2026-01-31 | [744](https://www.leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Find Smallest Letter Greater Than Target](./Daily_Challenge/744_Find_Smallest_Letter_Greater_Than_Target.md) | [Python](./Daily_Challenge/744_Find_Smallest_Letter_Greater_Than_Target.py) | Easy |
 | 2026-01-30 | [2977](https://www.leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Minimum Cost to Convert String II](./Daily_Challenge/2977_Minimum_Cost_to_Convert_String_II.md) | [Python](./Daily_Challenge/2977_Minimum_Cost_to_Convert_String_II.py) | Hard |
 | 2026-01-29 | [2976](https://www.leetcode.com/problems/minimum-cost-to-convert-string-i/) | [Minimum Cost to Convert String I](./Daily_Challenge/2976_Minimum_Cost_to_Convert_String_I.md) | [Python](./Daily_Challenge/2976_Minimum_Cost_to_Convert_String_I.py) | Medium |
