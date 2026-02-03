@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-02-03 | [3637](https://www.leetcode.com/problems/trionic-array-i/) | [Trionic Array I](./Daily_Challenge/3637_Trionic_Array_I.md) | [Python](./Daily_Challenge/3637_Trionic_Array_I.py) | Easy |
 | 2026-02-02 | [3013](https://www.leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | [Divide an Array Into Subarrays With Minimum Cost II](./Daily_Challenge/3013_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_II.md) | [Python](./Daily_Challenge/3013_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_II.py) | Hard |
 | 2026-02-01 | [3010](https://www.leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [Divide an Array Into Subarrays With Minimum Cost I](./Daily_Challenge/3010_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I.md) | [Python](./Daily_Challenge/3010_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I.py) | Easy |
 | 2026-01-31 | [744](https://www.leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Find Smallest Letter Greater Than Target](./Daily_Challenge/744_Find_Smallest_Letter_Greater_Than_Target.md) | [Python](./Daily_Challenge/744_Find_Smallest_Letter_Greater_Than_Target.py) | Easy |
