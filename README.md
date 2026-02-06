@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-02-06 | [3634](https://www.leetcode.com/problems/minimum-removals-to-balance-array/) | [Minimum Removals to Balance Array](./Daily_Challenge/3634_Minimum_Removals_to_Balance_Array.md) | [Python](./Daily_Challenge/3634_Minimum_Removals_to_Balance_Array.py) | Medium |
 | 2026-02-05 | [3379](https://www.leetcode.com/problems/transformed-array/) | [Transformed Array](./Daily_Challenge/3379_Transformed_Array.md) | [Python](./Daily_Challenge/3379_Transformed_Array.py) | Easy |
 | 2026-02-04 | [3640](https://www.leetcode.com/problems/trionic-array-ii/) | [Trionic Array II](./Daily_Challenge/3640_Trionic_Array_II.md) | [Python](./Daily_Challenge/3640_Trionic_Array_II.py) | Hard |
 | 2026-02-03 | [3637](https://www.leetcode.com/problems/trionic-array-i/) | [Trionic Array I](./Daily_Challenge/3637_Trionic_Array_I.md) | [Python](./Daily_Challenge/3637_Trionic_Array_I.py) | Easy |
