@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-02-09 | [1382](https://www.leetcode.com/problems/balance-a-binary-search-tree/) | [Balance a Binary Search Tree](./Daily_Challenge/1382_Balance_a_Binary_Search_Tree.md) | [Python](./Daily_Challenge/1382_Balance_a_Binary_Search_Tree.py) | Medium |
 | 2026-02-08 | [110](https://www.leetcode.com/problems/balanced-binary-tree/) | [Balanced Binary Tree](./Daily_Challenge/110_Balanced_Binary_Tree.md) | [Python](./Daily_Challenge/110_Balanced_Binary_Tree.py) | Easy |
 | 2026-02-07 | [1653](https://www.leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [Minimum Deletions to Make String Balanced](./Daily_Challenge/1653_Minimum_Deletions_to_Make_String_Balanced.md) | [Python](./Daily_Challenge/1653_Minimum_Deletions_to_Make_String_Balanced.py) | Medium |
 | 2026-02-06 | [3634](https://www.leetcode.com/problems/minimum-removals-to-balance-array/) | [Minimum Removals to Balance Array](./Daily_Challenge/3634_Minimum_Removals_to_Balance_Array.md) | [Python](./Daily_Challenge/3634_Minimum_Removals_to_Balance_Array.py) | Medium |
