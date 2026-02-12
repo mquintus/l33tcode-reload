@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-02-12 | [3713](https://www.leetcode.com/problems/longest-balanced-substring-i/) | [Longest Balanced Substring I](./Daily_Challenge/3713_Longest_Balanced_Substring_I.md) | [Python](./Daily_Challenge/3713_Longest_Balanced_Substring_I.py) | Medium |
 | 2026-02-11 | [3721](https://www.leetcode.com/problems/longest-balanced-subarray-ii/) | [Longest Balanced Subarray II](./Daily_Challenge/3721_Longest_Balanced_Subarray_II.md) | [Python](./Daily_Challenge/3721_Longest_Balanced_Subarray_II.py) | Hard |
 | 2026-02-10 | [3719](https://www.leetcode.com/problems/longest-balanced-subarray-i/) | [Longest Balanced Subarray I](./Daily_Challenge/3719_Longest_Balanced_Subarray_I.md) | [Python](./Daily_Challenge/3719_Longest_Balanced_Subarray_I.py) | Medium |
 | 2026-02-09 | [1382](https://www.leetcode.com/problems/balance-a-binary-search-tree/) | [Balance a Binary Search Tree](./Daily_Challenge/1382_Balance_a_Binary_Search_Tree.md) | [Python](./Daily_Challenge/1382_Balance_a_Binary_Search_Tree.py) | Medium |
