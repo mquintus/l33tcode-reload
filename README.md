@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-02-14 | [799](https://www.leetcode.com/problems/champagne-tower/) | [Champagne Tower](./Daily_Challenge/799_Champagne_Tower.md) | [Python](./Daily_Challenge/799_Champagne_Tower.py) | Medium |
 | 2026-02-13 | [3714](https://www.leetcode.com/problems/longest-balanced-substring-ii/) | [Longest Balanced Substring II](./Daily_Challenge/3714_Longest_Balanced_Substring_II.md) | [Python](./Daily_Challenge/3714_Longest_Balanced_Substring_II.py) | Medium |
 | 2026-02-12 | [3713](https://www.leetcode.com/problems/longest-balanced-substring-i/) | [Longest Balanced Substring I](./Daily_Challenge/3713_Longest_Balanced_Substring_I.md) | [Python](./Daily_Challenge/3713_Longest_Balanced_Substring_I.py) | Medium |
 | 2026-02-11 | [3721](https://www.leetcode.com/problems/longest-balanced-subarray-ii/) | [Longest Balanced Subarray II](./Daily_Challenge/3721_Longest_Balanced_Subarray_II.md) | [Python](./Daily_Challenge/3721_Longest_Balanced_Subarray_II.py) | Hard |
