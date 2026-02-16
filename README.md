@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-02-16 | [190](https://www.leetcode.com/problems/reverse-bits/) | [Reverse Bits](./Daily_Challenge/190_Reverse_Bits.md) | [Python](./Daily_Challenge/190_Reverse_Bits.py) | Easy |
 | 2026-02-15 | [67](https://www.leetcode.com/problems/add-binary/) | [Add Binary](./Daily_Challenge/67_Add_Binary.md) | [Python](./Daily_Challenge/67_Add_Binary.py) | Easy |
 | 2026-02-14 | [799](https://www.leetcode.com/problems/champagne-tower/) | [Champagne Tower](./Daily_Challenge/799_Champagne_Tower.md) | [Python](./Daily_Challenge/799_Champagne_Tower.py) | Medium |
 | 2026-02-13 | [3714](https://www.leetcode.com/problems/longest-balanced-substring-ii/) | [Longest Balanced Substring II](./Daily_Challenge/3714_Longest_Balanced_Substring_II.md) | [Python](./Daily_Challenge/3714_Longest_Balanced_Substring_II.py) | Medium |
