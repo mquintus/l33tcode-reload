@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-02-18 | [693](https://www.leetcode.com/problems/binary-number-with-alternating-bits/) | [Binary Number with Alternating Bits](./Daily_Challenge/693_Binary_Number_with_Alternating_Bits.md) | [Python](./Daily_Challenge/693_Binary_Number_with_Alternating_Bits.py) | Easy |
 | 2026-02-17 | [401](https://www.leetcode.com/problems/binary-watch/) | [Binary Watch](./Daily_Challenge/401_Binary_Watch.md) | [Python](./Daily_Challenge/401_Binary_Watch.py) | Easy |
 | 2026-02-16 | [190](https://www.leetcode.com/problems/reverse-bits/) | [Reverse Bits](./Daily_Challenge/190_Reverse_Bits.md) | [Python](./Daily_Challenge/190_Reverse_Bits.py) | Easy |
 | 2026-02-15 | [67](https://www.leetcode.com/problems/add-binary/) | [Add Binary](./Daily_Challenge/67_Add_Binary.md) | [Python](./Daily_Challenge/67_Add_Binary.py) | Easy |
