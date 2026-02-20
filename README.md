@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-02-20 | [761](https://www.leetcode.com/problems/special-binary-string/) | [Special Binary String](./Daily_Challenge/761_Special_Binary_String.md) | [Python](./Daily_Challenge/761_Special_Binary_String.py) | Hard |
 | 2026-02-19 | [696](https://www.leetcode.com/problems/count-binary-substrings/) | [Count Binary Substrings](./Daily_Challenge/696_Count_Binary_Substrings.md) | [Python](./Daily_Challenge/696_Count_Binary_Substrings.py) | Easy |
 | 2026-02-18 | [693](https://www.leetcode.com/problems/binary-number-with-alternating-bits/) | [Binary Number with Alternating Bits](./Daily_Challenge/693_Binary_Number_with_Alternating_Bits.md) | [Python](./Daily_Challenge/693_Binary_Number_with_Alternating_Bits.py) | Easy |
 | 2026-02-17 | [401](https://www.leetcode.com/problems/binary-watch/) | [Binary Watch](./Daily_Challenge/401_Binary_Watch.md) | [Python](./Daily_Challenge/401_Binary_Watch.py) | Easy |
