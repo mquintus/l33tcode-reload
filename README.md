@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-02-22 | [868](https://www.leetcode.com/problems/binary-gap/) | [Binary Gap](./Daily_Challenge/868_Binary_Gap.md) | [Python](./Daily_Challenge/868_Binary_Gap.py) | Easy |
 | 2026-02-21 | [762](https://www.leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Prime Number of Set Bits in Binary Representation](./Daily_Challenge/762_Prime_Number_of_Set_Bits_in_Binary_Representation.md) | [Python](./Daily_Challenge/762_Prime_Number_of_Set_Bits_in_Binary_Representation.py) | Easy |
 | 2026-02-20 | [761](https://www.leetcode.com/problems/special-binary-string/) | [Special Binary String](./Daily_Challenge/761_Special_Binary_String.md) | [Python](./Daily_Challenge/761_Special_Binary_String.py) | Hard |
 | 2026-02-19 | [696](https://www.leetcode.com/problems/count-binary-substrings/) | [Count Binary Substrings](./Daily_Challenge/696_Count_Binary_Substrings.md) | [Python](./Daily_Challenge/696_Count_Binary_Substrings.py) | Easy |
