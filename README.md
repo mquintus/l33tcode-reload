@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-02-24 | [1022](https://www.leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Sum of Root To Leaf Binary Numbers](./Daily_Challenge/1022_Sum_of_Root_To_Leaf_Binary_Numbers.md) | [Python](./Daily_Challenge/1022_Sum_of_Root_To_Leaf_Binary_Numbers.py) | Easy |
 | 2026-02-23 | [1461](https://www.leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [Check If a String Contains All Binary Codes of Size K](./Daily_Challenge/1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K.md) | [Python](./Daily_Challenge/1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K.py) | Medium |
 | 2026-02-22 | [868](https://www.leetcode.com/problems/binary-gap/) | [Binary Gap](./Daily_Challenge/868_Binary_Gap.md) | [Python](./Daily_Challenge/868_Binary_Gap.py) | Easy |
 | 2026-02-21 | [762](https://www.leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Prime Number of Set Bits in Binary Representation](./Daily_Challenge/762_Prime_Number_of_Set_Bits_in_Binary_Representation.md) | [Python](./Daily_Challenge/762_Prime_Number_of_Set_Bits_in_Binary_Representation.py) | Easy |
