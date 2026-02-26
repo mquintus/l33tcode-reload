@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-02-26 | [1404](https://www.leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Number of Steps to Reduce a Number in Binary Representation to One](./Daily_Challenge/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One.md) | [Python](./Daily_Challenge/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One.py) | Medium |
 | 2026-02-25 | [1356](https://www.leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Sort Integers by The Number of 1 Bits](./Daily_Challenge/1356_Sort_Integers_by_The_Number_of_1_Bits.md) | [Python](./Daily_Challenge/1356_Sort_Integers_by_The_Number_of_1_Bits.py) | Easy |
 | 2026-02-24 | [1022](https://www.leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Sum of Root To Leaf Binary Numbers](./Daily_Challenge/1022_Sum_of_Root_To_Leaf_Binary_Numbers.md) | [Python](./Daily_Challenge/1022_Sum_of_Root_To_Leaf_Binary_Numbers.py) | Easy |
 | 2026-02-23 | [1461](https://www.leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [Check If a String Contains All Binary Codes of Size K](./Daily_Challenge/1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K.md) | [Python](./Daily_Challenge/1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K.py) | Medium |
