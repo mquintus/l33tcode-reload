@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-03-01 | [1689](https://www.leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Partitioning Into Minimum Number Of Deci-Binary Numbers](./Daily_Challenge/1689_Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers.md) | [Python](./Daily_Challenge/1689_Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers.py) | Medium |
 | 2026-02-28 | [1680](https://www.leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Concatenation of Consecutive Binary Numbers](./Daily_Challenge/1680_Concatenation_of_Consecutive_Binary_Numbers.md) | [Python](./Daily_Challenge/1680_Concatenation_of_Consecutive_Binary_Numbers.py) | Medium |
 | 2026-02-27 | [3666](https://www.leetcode.com/problems/minimum-operations-to-equalize-binary-string/) | [Minimum Operations to Equalize Binary String](./Daily_Challenge/3666_Minimum_Operations_to_Equalize_Binary_String.md) | [Python](./Daily_Challenge/3666_Minimum_Operations_to_Equalize_Binary_String.py) | Hard |
 | 2026-02-26 | [1404](https://www.leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Number of Steps to Reduce a Number in Binary Representation to One](./Daily_Challenge/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One.md) | [Python](./Daily_Challenge/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One.py) | Medium |
