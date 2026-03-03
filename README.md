@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-03-03 | [1545](https://www.leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Find Kth Bit in Nth Binary String](./Daily_Challenge/1545_Find_Kth_Bit_in_Nth_Binary_String.md) | [Python](./Daily_Challenge/1545_Find_Kth_Bit_in_Nth_Binary_String.py) | Medium |
 | 2026-03-02 | [1536](https://www.leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | [Minimum Swaps to Arrange a Binary Grid](./Daily_Challenge/1536_Minimum_Swaps_to_Arrange_a_Binary_Grid.md) | [Python](./Daily_Challenge/1536_Minimum_Swaps_to_Arrange_a_Binary_Grid.py) | Medium |
 | 2026-03-01 | [1689](https://www.leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Partitioning Into Minimum Number Of Deci-Binary Numbers](./Daily_Challenge/1689_Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers.md) | [Python](./Daily_Challenge/1689_Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers.py) | Medium |
 | 2026-02-28 | [1680](https://www.leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Concatenation of Consecutive Binary Numbers](./Daily_Challenge/1680_Concatenation_of_Consecutive_Binary_Numbers.md) | [Python](./Daily_Challenge/1680_Concatenation_of_Consecutive_Binary_Numbers.py) | Medium |
