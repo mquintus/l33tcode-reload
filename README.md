@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-03-05 | [1758](https://www.leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Minimum Changes To Make Alternating Binary String](./Daily_Challenge/1758_Minimum_Changes_To_Make_Alternating_Binary_String.md) | [Python](./Daily_Challenge/1758_Minimum_Changes_To_Make_Alternating_Binary_String.py) | Easy |
 | 2026-03-04 | [1582](https://www.leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Special Positions in a Binary Matrix](./Daily_Challenge/1582_Special_Positions_in_a_Binary_Matrix.md) | [Python](./Daily_Challenge/1582_Special_Positions_in_a_Binary_Matrix.py) | Easy |
 | 2026-03-03 | [1545](https://www.leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Find Kth Bit in Nth Binary String](./Daily_Challenge/1545_Find_Kth_Bit_in_Nth_Binary_String.md) | [Python](./Daily_Challenge/1545_Find_Kth_Bit_in_Nth_Binary_String.py) | Medium |
 | 2026-03-02 | [1536](https://www.leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | [Minimum Swaps to Arrange a Binary Grid](./Daily_Challenge/1536_Minimum_Swaps_to_Arrange_a_Binary_Grid.md) | [Python](./Daily_Challenge/1536_Minimum_Swaps_to_Arrange_a_Binary_Grid.py) | Medium |
