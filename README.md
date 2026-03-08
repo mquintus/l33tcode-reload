@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-03-08 | [1980](https://www.leetcode.com/problems/find-unique-binary-string/) | [Find Unique Binary String](./Daily_Challenge/1980_Find_Unique_Binary_String.md) | [Python](./Daily_Challenge/1980_Find_Unique_Binary_String.py) | Medium |
 | 2026-03-07 | [1888](https://www.leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [Minimum Number of Flips to Make the Binary String Alternating](./Daily_Challenge/1888_Minimum_Number_of_Flips_to_Make_the_Binary_String_Alternating.md) | [Python](./Daily_Challenge/1888_Minimum_Number_of_Flips_to_Make_the_Binary_String_Alternating.py) | Medium |
 | 2026-03-06 | [1784](https://www.leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Check if Binary String Has at Most One Segment of Ones](./Daily_Challenge/1784_Check_if_Binary_String_Has_at_Most_One_Segment_of_Ones.md) | [Python](./Daily_Challenge/1784_Check_if_Binary_String_Has_at_Most_One_Segment_of_Ones.py) | Easy |
 | 2026-03-05 | [1758](https://www.leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Minimum Changes To Make Alternating Binary String](./Daily_Challenge/1758_Minimum_Changes_To_Make_Alternating_Binary_String.md) | [Python](./Daily_Challenge/1758_Minimum_Changes_To_Make_Alternating_Binary_String.py) | Easy |
