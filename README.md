@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-03-13 | [3296](https://www.leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | [Minimum Number of Seconds to Make Mountain Height Zero](./Daily_Challenge/3296_Minimum_Number_of_Seconds_to_Make_Mountain_Height_Zero.md) | [Python](./Daily_Challenge/3296_Minimum_Number_of_Seconds_to_Make_Mountain_Height_Zero.py) | Medium |
 | 2026-03-12 | [3600](https://www.leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [Maximize Spanning Tree Stability with Upgrades](./Daily_Challenge/3600_Maximize_Spanning_Tree_Stability_with_Upgrades.md) | [Python](./Daily_Challenge/3600_Maximize_Spanning_Tree_Stability_with_Upgrades.py) | Hard |
 | 2026-03-11 | [1009](https://www.leetcode.com/problems/complement-of-base-10-integer/) | [Complement of Base 10 Integer](./Daily_Challenge/1009_Complement_of_Base_10_Integer.md) | [Python](./Daily_Challenge/1009_Complement_of_Base_10_Integer.py) | Easy |
 | 2026-03-10 | [3130](https://www.leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | [Find All Possible Stable Binary Arrays II](./Daily_Challenge/3130_Find_All_Possible_Stable_Binary_Arrays_II.md) | [Python](./Daily_Challenge/3130_Find_All_Possible_Stable_Binary_Arrays_II.py) | Hard |
