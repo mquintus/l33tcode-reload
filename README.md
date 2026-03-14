@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-03-14 | [1415](https://www.leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](./Daily_Challenge/1415_The_k-th_Lexicographical_String_of_All_Happy_Strings_of_Length_n.md) | [Python](./Daily_Challenge/1415_The_k-th_Lexicographical_String_of_All_Happy_Strings_of_Length_n.py) | Medium |
 | 2026-03-13 | [3296](https://www.leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | [Minimum Number of Seconds to Make Mountain Height Zero](./Daily_Challenge/3296_Minimum_Number_of_Seconds_to_Make_Mountain_Height_Zero.md) | [Python](./Daily_Challenge/3296_Minimum_Number_of_Seconds_to_Make_Mountain_Height_Zero.py) | Medium |
 | 2026-03-12 | [3600](https://www.leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [Maximize Spanning Tree Stability with Upgrades](./Daily_Challenge/3600_Maximize_Spanning_Tree_Stability_with_Upgrades.md) | [Python](./Daily_Challenge/3600_Maximize_Spanning_Tree_Stability_with_Upgrades.py) | Hard |
 | 2026-03-11 | [1009](https://www.leetcode.com/problems/complement-of-base-10-integer/) | [Complement of Base 10 Integer](./Daily_Challenge/1009_Complement_of_Base_10_Integer.md) | [Python](./Daily_Challenge/1009_Complement_of_Base_10_Integer.py) | Easy |
