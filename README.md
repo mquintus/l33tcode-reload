@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-03-16 | [1878](https://www.leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [Get Biggest Three Rhombus Sums in a Grid](./Daily_Challenge/1878_Get_Biggest_Three_Rhombus_Sums_in_a_Grid.md) | [Python](./Daily_Challenge/1878_Get_Biggest_Three_Rhombus_Sums_in_a_Grid.py) | Medium |
 | 2026-03-15 | [1622](https://www.leetcode.com/problems/fancy-sequence/) | [Fancy Sequence](./Daily_Challenge/1622_Fancy_Sequence.md) | [Python](./Daily_Challenge/1622_Fancy_Sequence.py) | Hard |
 | 2026-03-14 | [1415](https://www.leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](./Daily_Challenge/1415_The_k-th_Lexicographical_String_of_All_Happy_Strings_of_Length_n.md) | [Python](./Daily_Challenge/1415_The_k-th_Lexicographical_String_of_All_Happy_Strings_of_Length_n.py) | Medium |
 | 2026-03-13 | [3296](https://www.leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | [Minimum Number of Seconds to Make Mountain Height Zero](./Daily_Challenge/3296_Minimum_Number_of_Seconds_to_Make_Mountain_Height_Zero.md) | [Python](./Daily_Challenge/3296_Minimum_Number_of_Seconds_to_Make_Mountain_Height_Zero.py) | Medium |
