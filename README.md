@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-03-19 | [3212](https://www.leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | [Count Submatrices With Equal Frequency of X and Y](./Daily_Challenge/3212_Count_Submatrices_With_Equal_Frequency_of_X_and_Y.md) | [Python](./Daily_Challenge/3212_Count_Submatrices_With_Equal_Frequency_of_X_and_Y.py) | Medium |
 | 2026-03-18 | [3070](https://www.leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/) | [Count Submatrices with Top-Left Element and Sum Less Than k](./Daily_Challenge/3070_Count_Submatrices_with_Top-Left_Element_and_Sum_Less_Than_k.md) | [Python](./Daily_Challenge/3070_Count_Submatrices_with_Top-Left_Element_and_Sum_Less_Than_k.py) | Medium |
 | 2026-03-17 | [1727](https://www.leetcode.com/problems/largest-submatrix-with-rearrangements/) | [Largest Submatrix With Rearrangements](./Daily_Challenge/1727_Largest_Submatrix_With_Rearrangements.md) | [Python](./Daily_Challenge/1727_Largest_Submatrix_With_Rearrangements.py) | Medium |
 | 2026-03-16 | [1878](https://www.leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [Get Biggest Three Rhombus Sums in a Grid](./Daily_Challenge/1878_Get_Biggest_Three_Rhombus_Sums_in_a_Grid.md) | [Python](./Daily_Challenge/1878_Get_Biggest_Three_Rhombus_Sums_in_a_Grid.py) | Medium |
