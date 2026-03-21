@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-03-21 | [3643](https://www.leetcode.com/problems/flip-square-submatrix-vertically/) | [Flip Square Submatrix Vertically](./Daily_Challenge/3643_Flip_Square_Submatrix_Vertically.md) | [Python](./Daily_Challenge/3643_Flip_Square_Submatrix_Vertically.py) | Easy |
 | 2026-03-20 | [3567](https://www.leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | [Minimum Absolute Difference in Sliding Submatrix](./Daily_Challenge/3567_Minimum_Absolute_Difference_in_Sliding_Submatrix.md) | [Python](./Daily_Challenge/3567_Minimum_Absolute_Difference_in_Sliding_Submatrix.py) | Medium |
 | 2026-03-19 | [3212](https://www.leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | [Count Submatrices With Equal Frequency of X and Y](./Daily_Challenge/3212_Count_Submatrices_With_Equal_Frequency_of_X_and_Y.md) | [Python](./Daily_Challenge/3212_Count_Submatrices_With_Equal_Frequency_of_X_and_Y.py) | Medium |
 | 2026-03-18 | [3070](https://www.leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/) | [Count Submatrices with Top-Left Element and Sum Less Than k](./Daily_Challenge/3070_Count_Submatrices_with_Top-Left_Element_and_Sum_Less_Than_k.md) | [Python](./Daily_Challenge/3070_Count_Submatrices_with_Top-Left_Element_and_Sum_Less_Than_k.py) | Medium |
