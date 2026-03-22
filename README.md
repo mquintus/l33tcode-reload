@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-03-22 | [1886](https://www.leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Determine Whether Matrix Can Be Obtained By Rotation](./Daily_Challenge/1886_Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation.md) | [Python](./Daily_Challenge/1886_Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation.py) | Easy |
 | 2026-03-21 | [3643](https://www.leetcode.com/problems/flip-square-submatrix-vertically/) | [Flip Square Submatrix Vertically](./Daily_Challenge/3643_Flip_Square_Submatrix_Vertically.md) | [Python](./Daily_Challenge/3643_Flip_Square_Submatrix_Vertically.py) | Easy |
 | 2026-03-20 | [3567](https://www.leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | [Minimum Absolute Difference in Sliding Submatrix](./Daily_Challenge/3567_Minimum_Absolute_Difference_in_Sliding_Submatrix.md) | [Python](./Daily_Challenge/3567_Minimum_Absolute_Difference_in_Sliding_Submatrix.py) | Medium |
 | 2026-03-19 | [3212](https://www.leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | [Count Submatrices With Equal Frequency of X and Y](./Daily_Challenge/3212_Count_Submatrices_With_Equal_Frequency_of_X_and_Y.md) | [Python](./Daily_Challenge/3212_Count_Submatrices_With_Equal_Frequency_of_X_and_Y.py) | Medium |
