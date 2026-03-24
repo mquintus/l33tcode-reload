@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-03-24 | [2906](https://www.leetcode.com/problems/construct-product-matrix/) | [Construct Product Matrix](./Daily_Challenge/2906_Construct_Product_Matrix.md) | [Python](./Daily_Challenge/2906_Construct_Product_Matrix.py) | Medium |
 | 2026-03-23 | [1594](https://www.leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [Maximum Non Negative Product in a Matrix](./Daily_Challenge/1594_Maximum_Non_Negative_Product_in_a_Matrix.md) | [Python](./Daily_Challenge/1594_Maximum_Non_Negative_Product_in_a_Matrix.py) | Medium |
 | 2026-03-22 | [1886](https://www.leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Determine Whether Matrix Can Be Obtained By Rotation](./Daily_Challenge/1886_Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation.md) | [Python](./Daily_Challenge/1886_Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation.py) | Easy |
 | 2026-03-21 | [3643](https://www.leetcode.com/problems/flip-square-submatrix-vertically/) | [Flip Square Submatrix Vertically](./Daily_Challenge/3643_Flip_Square_Submatrix_Vertically.md) | [Python](./Daily_Challenge/3643_Flip_Square_Submatrix_Vertically.py) | Easy |
