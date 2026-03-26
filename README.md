@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-03-26 | [3548](https://www.leetcode.com/problems/equal-sum-grid-partition-ii/) | [Equal Sum Grid Partition II](./Daily_Challenge/3548_Equal_Sum_Grid_Partition_II.md) | [Python](./Daily_Challenge/3548_Equal_Sum_Grid_Partition_II.py) | Hard |
 | 2026-03-25 | [3546](https://www.leetcode.com/problems/equal-sum-grid-partition-i/) | [Equal Sum Grid Partition I](./Daily_Challenge/3546_Equal_Sum_Grid_Partition_I.md) | [Python](./Daily_Challenge/3546_Equal_Sum_Grid_Partition_I.py) | Medium |
 | 2026-03-24 | [2906](https://www.leetcode.com/problems/construct-product-matrix/) | [Construct Product Matrix](./Daily_Challenge/2906_Construct_Product_Matrix.md) | [Python](./Daily_Challenge/2906_Construct_Product_Matrix.py) | Medium |
 | 2026-03-23 | [1594](https://www.leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [Maximum Non Negative Product in a Matrix](./Daily_Challenge/1594_Maximum_Non_Negative_Product_in_a_Matrix.md) | [Python](./Daily_Challenge/1594_Maximum_Non_Negative_Product_in_a_Matrix.py) | Medium |
