@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-03-27 | [2946](https://www.leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | [Matrix Similarity After Cyclic Shifts](./Daily_Challenge/2946_Matrix_Similarity_After_Cyclic_Shifts.md) | [Python](./Daily_Challenge/2946_Matrix_Similarity_After_Cyclic_Shifts.py) | Easy |
 | 2026-03-26 | [3548](https://www.leetcode.com/problems/equal-sum-grid-partition-ii/) | [Equal Sum Grid Partition II](./Daily_Challenge/3548_Equal_Sum_Grid_Partition_II.md) | [Python](./Daily_Challenge/3548_Equal_Sum_Grid_Partition_II.py) | Hard |
 | 2026-03-25 | [3546](https://www.leetcode.com/problems/equal-sum-grid-partition-i/) | [Equal Sum Grid Partition I](./Daily_Challenge/3546_Equal_Sum_Grid_Partition_I.md) | [Python](./Daily_Challenge/3546_Equal_Sum_Grid_Partition_I.py) | Medium |
 | 2026-03-24 | [2906](https://www.leetcode.com/problems/construct-product-matrix/) | [Construct Product Matrix](./Daily_Challenge/2906_Construct_Product_Matrix.md) | [Python](./Daily_Challenge/2906_Construct_Product_Matrix.py) | Medium |
