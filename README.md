@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-03-29 | [2839](https://www.leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [Check if Strings Can be Made Equal With Operations I](./Daily_Challenge/2839_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.md) | [Python](./Daily_Challenge/2839_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.py) | Easy |
 | 2026-03-28 | [2573](https://www.leetcode.com/problems/find-the-string-with-lcp/) | [Find the String with LCP](./Daily_Challenge/2573_Find_the_String_with_LCP.md) | [Python](./Daily_Challenge/2573_Find_the_String_with_LCP.py) | Hard |
 | 2026-03-27 | [2946](https://www.leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | [Matrix Similarity After Cyclic Shifts](./Daily_Challenge/2946_Matrix_Similarity_After_Cyclic_Shifts.md) | [Python](./Daily_Challenge/2946_Matrix_Similarity_After_Cyclic_Shifts.py) | Easy |
 | 2026-03-26 | [3548](https://www.leetcode.com/problems/equal-sum-grid-partition-ii/) | [Equal Sum Grid Partition II](./Daily_Challenge/3548_Equal_Sum_Grid_Partition_II.md) | [Python](./Daily_Challenge/3548_Equal_Sum_Grid_Partition_II.py) | Hard |
