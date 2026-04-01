@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-04-01 | [2751](https://www.leetcode.com/problems/robot-collisions/) | [Robot Collisions](./Daily_Challenge/2751_Robot_Collisions.md) | [Python](./Daily_Challenge/2751_Robot_Collisions.py) | Hard |
 | 2026-03-31 | [3474](https://www.leetcode.com/problems/lexicographically-smallest-generated-string/) | [Lexicographically Smallest Generated String](./Daily_Challenge/3474_Lexicographically_Smallest_Generated_String.md) | [Python](./Daily_Challenge/3474_Lexicographically_Smallest_Generated_String.py) | Hard |
 | 2026-03-30 | [2840](https://www.leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | [Check if Strings Can be Made Equal With Operations II](./Daily_Challenge/2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II.md) | [Python](./Daily_Challenge/2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II.py) | Medium |
 | 2026-03-29 | [2839](https://www.leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [Check if Strings Can be Made Equal With Operations I](./Daily_Challenge/2839_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.md) | [Python](./Daily_Challenge/2839_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.py) | Easy |
