@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-04-04 | [2075](https://www.leetcode.com/problems/decode-the-slanted-ciphertext/) | [Decode the Slanted Ciphertext](./Daily_Challenge/2075_Decode_the_Slanted_Ciphertext.md) | [Python](./Daily_Challenge/2075_Decode_the_Slanted_Ciphertext.py) | Medium |
 | 2026-04-03 | [3661](https://www.leetcode.com/problems/maximum-walls-destroyed-by-robots/) | [Maximum Walls Destroyed by Robots](./Daily_Challenge/3661_Maximum_Walls_Destroyed_by_Robots.md) | [Python](./Daily_Challenge/3661_Maximum_Walls_Destroyed_by_Robots.py) | Hard |
 | 2026-04-02 | [3418](https://www.leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | [Maximum Amount of Money Robot Can Earn](./Daily_Challenge/3418_Maximum_Amount_of_Money_Robot_Can_Earn.md) | [Python](./Daily_Challenge/3418_Maximum_Amount_of_Money_Robot_Can_Earn.py) | Medium |
 | 2026-04-01 | [2751](https://www.leetcode.com/problems/robot-collisions/) | [Robot Collisions](./Daily_Challenge/2751_Robot_Collisions.md) | [Python](./Daily_Challenge/2751_Robot_Collisions.py) | Hard |
