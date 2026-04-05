@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-04-05 | [657](https://www.leetcode.com/problems/robot-return-to-origin/) | [Robot Return to Origin](./Daily_Challenge/657_Robot_Return_to_Origin.md) | [Python](./Daily_Challenge/657_Robot_Return_to_Origin.py) | Easy |
 | 2026-04-04 | [2075](https://www.leetcode.com/problems/decode-the-slanted-ciphertext/) | [Decode the Slanted Ciphertext](./Daily_Challenge/2075_Decode_the_Slanted_Ciphertext.md) | [Python](./Daily_Challenge/2075_Decode_the_Slanted_Ciphertext.py) | Medium |
 | 2026-04-03 | [3661](https://www.leetcode.com/problems/maximum-walls-destroyed-by-robots/) | [Maximum Walls Destroyed by Robots](./Daily_Challenge/3661_Maximum_Walls_Destroyed_by_Robots.md) | [Python](./Daily_Challenge/3661_Maximum_Walls_Destroyed_by_Robots.py) | Hard |
 | 2026-04-02 | [3418](https://www.leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | [Maximum Amount of Money Robot Can Earn](./Daily_Challenge/3418_Maximum_Amount_of_Money_Robot_Can_Earn.md) | [Python](./Daily_Challenge/3418_Maximum_Amount_of_Money_Robot_Can_Earn.py) | Medium |
