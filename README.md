@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-04-08 | [3653](https://www.leetcode.com/problems/xor-after-range-multiplication-queries-i/) | [XOR After Range Multiplication Queries I](./Daily_Challenge/3653_XOR_After_Range_Multiplication_Queries_I.md) | [Python](./Daily_Challenge/3653_XOR_After_Range_Multiplication_Queries_I.py) | Medium |
 | 2026-04-07 | [2069](https://www.leetcode.com/problems/walking-robot-simulation-ii/) | [Walking Robot Simulation II](./Daily_Challenge/2069_Walking_Robot_Simulation_II.md) | [Python](./Daily_Challenge/2069_Walking_Robot_Simulation_II.py) | Medium |
 | 2026-04-06 | [874](https://www.leetcode.com/problems/walking-robot-simulation/) | [Walking Robot Simulation](./Daily_Challenge/874_Walking_Robot_Simulation.md) | [Python](./Daily_Challenge/874_Walking_Robot_Simulation.py) | Medium |
 | 2026-04-05 | [657](https://www.leetcode.com/problems/robot-return-to-origin/) | [Robot Return to Origin](./Daily_Challenge/657_Robot_Return_to_Origin.md) | [Python](./Daily_Challenge/657_Robot_Return_to_Origin.py) | Easy |
