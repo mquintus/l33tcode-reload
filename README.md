@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-04-10 | [3740](https://www.leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [Minimum Distance Between Three Equal Elements I](./Daily_Challenge/3740_Minimum_Distance_Between_Three_Equal_Elements_I.md) | [Python](./Daily_Challenge/3740_Minimum_Distance_Between_Three_Equal_Elements_I.py) | Easy |
 | 2026-04-09 | [3655](https://www.leetcode.com/problems/xor-after-range-multiplication-queries-ii/) | [XOR After Range Multiplication Queries II](./Daily_Challenge/3655_XOR_After_Range_Multiplication_Queries_II.md) | [Python](./Daily_Challenge/3655_XOR_After_Range_Multiplication_Queries_II.py) | Hard |
 | 2026-04-08 | [3653](https://www.leetcode.com/problems/xor-after-range-multiplication-queries-i/) | [XOR After Range Multiplication Queries I](./Daily_Challenge/3653_XOR_After_Range_Multiplication_Queries_I.md) | [Python](./Daily_Challenge/3653_XOR_After_Range_Multiplication_Queries_I.py) | Medium |
 | 2026-04-07 | [2069](https://www.leetcode.com/problems/walking-robot-simulation-ii/) | [Walking Robot Simulation II](./Daily_Challenge/2069_Walking_Robot_Simulation_II.md) | [Python](./Daily_Challenge/2069_Walking_Robot_Simulation_II.py) | Medium |
