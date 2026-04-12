@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-04-12 | [1320](https://www.leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Minimum Distance to Type a Word Using Two Fingers](./Daily_Challenge/1320_Minimum_Distance_to_Type_a_Word_Using_Two_Fingers.md) | [Python](./Daily_Challenge/1320_Minimum_Distance_to_Type_a_Word_Using_Two_Fingers.py) | Hard |
 | 2026-04-11 | [3741](https://www.leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | [Minimum Distance Between Three Equal Elements II](./Daily_Challenge/3741_Minimum_Distance_Between_Three_Equal_Elements_II.md) | [Python](./Daily_Challenge/3741_Minimum_Distance_Between_Three_Equal_Elements_II.py) | Medium |
 | 2026-04-10 | [3740](https://www.leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [Minimum Distance Between Three Equal Elements I](./Daily_Challenge/3740_Minimum_Distance_Between_Three_Equal_Elements_I.md) | [Python](./Daily_Challenge/3740_Minimum_Distance_Between_Three_Equal_Elements_I.py) | Easy |
 | 2026-04-09 | [3655](https://www.leetcode.com/problems/xor-after-range-multiplication-queries-ii/) | [XOR After Range Multiplication Queries II](./Daily_Challenge/3655_XOR_After_Range_Multiplication_Queries_II.md) | [Python](./Daily_Challenge/3655_XOR_After_Range_Multiplication_Queries_II.py) | Hard |
