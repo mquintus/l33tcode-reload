@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-04-16 | [3488](https://www.leetcode.com/problems/closest-equal-element-queries/) | [Closest Equal Element Queries](./Daily_Challenge/3488_Closest_Equal_Element_Queries.md) | [Python](./Daily_Challenge/3488_Closest_Equal_Element_Queries.py) | Medium |
 | 2026-04-15 | [2515](https://www.leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Shortest Distance to Target String in a Circular Array](./Daily_Challenge/2515_Shortest_Distance_to_Target_String_in_a_Circular_Array.md) | [Python](./Daily_Challenge/2515_Shortest_Distance_to_Target_String_in_a_Circular_Array.py) | Easy |
 | 2026-04-14 | [2463](https://www.leetcode.com/problems/minimum-total-distance-traveled/) | [Minimum Total Distance Traveled](./Daily_Challenge/2463_Minimum_Total_Distance_Traveled.md) | [Python](./Daily_Challenge/2463_Minimum_Total_Distance_Traveled.py) | Hard |
 | 2026-04-13 | [1848](https://www.leetcode.com/problems/minimum-distance-to-the-target-element/) | [Minimum Distance to the Target Element](./Daily_Challenge/1848_Minimum_Distance_to_the_Target_Element.md) | [Python](./Daily_Challenge/1848_Minimum_Distance_to_the_Target_Element.py) | Easy |
