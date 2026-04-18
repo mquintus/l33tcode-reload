@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-04-18 | [3783](https://www.leetcode.com/problems/mirror-distance-of-an-integer/) | [Mirror Distance of an Integer](./Daily_Challenge/3783_Mirror_Distance_of_an_Integer.md) | [Python](./Daily_Challenge/3783_Mirror_Distance_of_an_Integer.py) | Easy |
 | 2026-04-17 | [3761](https://www.leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Minimum Absolute Distance Between Mirror Pairs](./Daily_Challenge/3761_Minimum_Absolute_Distance_Between_Mirror_Pairs.md) | [Python](./Daily_Challenge/3761_Minimum_Absolute_Distance_Between_Mirror_Pairs.py) | Medium |
 | 2026-04-16 | [3488](https://www.leetcode.com/problems/closest-equal-element-queries/) | [Closest Equal Element Queries](./Daily_Challenge/3488_Closest_Equal_Element_Queries.md) | [Python](./Daily_Challenge/3488_Closest_Equal_Element_Queries.py) | Medium |
 | 2026-04-15 | [2515](https://www.leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Shortest Distance to Target String in a Circular Array](./Daily_Challenge/2515_Shortest_Distance_to_Target_String_in_a_Circular_Array.md) | [Python](./Daily_Challenge/2515_Shortest_Distance_to_Target_String_in_a_Circular_Array.py) | Easy |
