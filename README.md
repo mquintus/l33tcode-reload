@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-04-19 | [1855](https://www.leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Maximum Distance Between a Pair of Values](./Daily_Challenge/1855_Maximum_Distance_Between_a_Pair_of_Values.md) | [Python](./Daily_Challenge/1855_Maximum_Distance_Between_a_Pair_of_Values.py) | Medium |
 | 2026-04-18 | [3783](https://www.leetcode.com/problems/mirror-distance-of-an-integer/) | [Mirror Distance of an Integer](./Daily_Challenge/3783_Mirror_Distance_of_an_Integer.md) | [Python](./Daily_Challenge/3783_Mirror_Distance_of_an_Integer.py) | Easy |
 | 2026-04-17 | [3761](https://www.leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Minimum Absolute Distance Between Mirror Pairs](./Daily_Challenge/3761_Minimum_Absolute_Distance_Between_Mirror_Pairs.md) | [Python](./Daily_Challenge/3761_Minimum_Absolute_Distance_Between_Mirror_Pairs.py) | Medium |
 | 2026-04-16 | [3488](https://www.leetcode.com/problems/closest-equal-element-queries/) | [Closest Equal Element Queries](./Daily_Challenge/3488_Closest_Equal_Element_Queries.md) | [Python](./Daily_Challenge/3488_Closest_Equal_Element_Queries.py) | Medium |
