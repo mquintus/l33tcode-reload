@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-04-23 | [2615](https://www.leetcode.com/problems/sum-of-distances/) | [Sum of Distances](./Daily_Challenge/2615_Sum_of_Distances.md) | [Python](./Daily_Challenge/2615_Sum_of_Distances.py) | Medium |
 | 2026-04-22 | [2452](https://www.leetcode.com/problems/words-within-two-edits-of-dictionary/) | [Words Within Two Edits of Dictionary](./Daily_Challenge/2452_Words_Within_Two_Edits_of_Dictionary.md) | [Python](./Daily_Challenge/2452_Words_Within_Two_Edits_of_Dictionary.py) | Medium |
 | 2026-04-21 | [1722](https://www.leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [Minimize Hamming Distance After Swap Operations](./Daily_Challenge/1722_Minimize_Hamming_Distance_After_Swap_Operations.md) | [Python](./Daily_Challenge/1722_Minimize_Hamming_Distance_After_Swap_Operations.py) | Medium |
 | 2026-04-20 | [2078](https://www.leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Two Furthest Houses With Different Colors](./Daily_Challenge/2078_Two_Furthest_Houses_With_Different_Colors.md) | [Python](./Daily_Challenge/2078_Two_Furthest_Houses_With_Different_Colors.py) | Easy |
