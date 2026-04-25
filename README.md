@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-04-25 | [3464](https://www.leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | [Maximize the Distance Between Points on a Square](./Daily_Challenge/3464_Maximize_the_Distance_Between_Points_on_a_Square.md) | [Python](./Daily_Challenge/3464_Maximize_the_Distance_Between_Points_on_a_Square.py) | Hard |
 | 2026-04-24 | [2833](https://www.leetcode.com/problems/furthest-point-from-origin/) | [Furthest Point From Origin](./Daily_Challenge/2833_Furthest_Point_From_Origin.md) | [Python](./Daily_Challenge/2833_Furthest_Point_From_Origin.py) | Easy |
 | 2026-04-23 | [2615](https://www.leetcode.com/problems/sum-of-distances/) | [Sum of Distances](./Daily_Challenge/2615_Sum_of_Distances.md) | [Python](./Daily_Challenge/2615_Sum_of_Distances.py) | Medium |
 | 2026-04-22 | [2452](https://www.leetcode.com/problems/words-within-two-edits-of-dictionary/) | [Words Within Two Edits of Dictionary](./Daily_Challenge/2452_Words_Within_Two_Edits_of_Dictionary.md) | [Python](./Daily_Challenge/2452_Words_Within_Two_Edits_of_Dictionary.py) | Medium |
