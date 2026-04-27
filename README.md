@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-04-27 | [1391](https://www.leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [Check if There is a Valid Path in a Grid](./Daily_Challenge/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.md) | [Python](./Daily_Challenge/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.py) | Medium |
 | 2026-04-26 | [1559](https://www.leetcode.com/problems/detect-cycles-in-2d-grid/) | [Detect Cycles in 2D Grid](./Daily_Challenge/1559_Detect_Cycles_in_2D_Grid.md) | [Python](./Daily_Challenge/1559_Detect_Cycles_in_2D_Grid.py) | Medium |
 | 2026-04-25 | [3464](https://www.leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | [Maximize the Distance Between Points on a Square](./Daily_Challenge/3464_Maximize_the_Distance_Between_Points_on_a_Square.md) | [Python](./Daily_Challenge/3464_Maximize_the_Distance_Between_Points_on_a_Square.py) | Hard |
 | 2026-04-24 | [2833](https://www.leetcode.com/problems/furthest-point-from-origin/) | [Furthest Point From Origin](./Daily_Challenge/2833_Furthest_Point_From_Origin.md) | [Python](./Daily_Challenge/2833_Furthest_Point_From_Origin.py) | Easy |
