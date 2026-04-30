@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-04-30 | [3742](https://www.leetcode.com/problems/maximum-path-score-in-a-grid/) | [Maximum Path Score in a Grid](./Daily_Challenge/3742_Maximum_Path_Score_in_a_Grid.md) | [Python](./Daily_Challenge/3742_Maximum_Path_Score_in_a_Grid.py) | Medium |
 | 2026-04-29 | [3225](https://www.leetcode.com/problems/maximum-score-from-grid-operations/) | [Maximum Score From Grid Operations](./Daily_Challenge/3225_Maximum_Score_From_Grid_Operations.md) | [Python](./Daily_Challenge/3225_Maximum_Score_From_Grid_Operations.py) | Hard |
 | 2026-04-28 | [2033](https://www.leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Minimum Operations to Make a Uni-Value Grid](./Daily_Challenge/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid.md) | [Python](./Daily_Challenge/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid.py) | Medium |
 | 2026-04-27 | [1391](https://www.leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [Check if There is a Valid Path in a Grid](./Daily_Challenge/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.md) | [Python](./Daily_Challenge/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.py) | Medium |
