@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-05-02 | [788](https://www.leetcode.com/problems/rotated-digits/) | [Rotated Digits](./Daily_Challenge/788_Rotated_Digits.md) | [Python](./Daily_Challenge/788_Rotated_Digits.py) | Medium |
 | 2026-05-01 | [396](https://www.leetcode.com/problems/rotate-function/) | [Rotate Function](./Daily_Challenge/396_Rotate_Function.md) | [Python](./Daily_Challenge/396_Rotate_Function.py) | Medium |
 | 2026-04-30 | [3742](https://www.leetcode.com/problems/maximum-path-score-in-a-grid/) | [Maximum Path Score in a Grid](./Daily_Challenge/3742_Maximum_Path_Score_in_a_Grid.md) | [Python](./Daily_Challenge/3742_Maximum_Path_Score_in_a_Grid.py) | Medium |
 | 2026-04-29 | [3225](https://www.leetcode.com/problems/maximum-score-from-grid-operations/) | [Maximum Score From Grid Operations](./Daily_Challenge/3225_Maximum_Score_From_Grid_Operations.md) | [Python](./Daily_Challenge/3225_Maximum_Score_From_Grid_Operations.py) | Hard |
