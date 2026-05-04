@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-05-04 | [48](https://www.leetcode.com/problems/rotate-image/) | [Rotate Image](./Daily_Challenge/48_Rotate_Image.md) | [Python](./Daily_Challenge/48_Rotate_Image.py) | Medium |
 | 2026-05-03 | [796](https://www.leetcode.com/problems/rotate-string/) | [Rotate String](./Daily_Challenge/796_Rotate_String.md) | [Python](./Daily_Challenge/796_Rotate_String.py) | Easy |
 | 2026-05-02 | [788](https://www.leetcode.com/problems/rotated-digits/) | [Rotated Digits](./Daily_Challenge/788_Rotated_Digits.md) | [Python](./Daily_Challenge/788_Rotated_Digits.py) | Medium |
 | 2026-05-01 | [396](https://www.leetcode.com/problems/rotate-function/) | [Rotate Function](./Daily_Challenge/396_Rotate_Function.md) | [Python](./Daily_Challenge/396_Rotate_Function.py) | Medium |
