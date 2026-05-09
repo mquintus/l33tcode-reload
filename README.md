@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-05-09 | [1914](https://www.leetcode.com/problems/cyclically-rotating-a-grid/) | [Cyclically Rotating a Grid](./Daily_Challenge/1914_Cyclically_Rotating_a_Grid.md) | [Python](./Daily_Challenge/1914_Cyclically_Rotating_a_Grid.py) | Medium |
 | 2026-05-08 | [3629](https://www.leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | [Minimum Jumps to Reach End via Prime Teleportation](./Daily_Challenge/3629_Minimum_Jumps_to_Reach_End_via_Prime_Teleportation.md) | [Python](./Daily_Challenge/3629_Minimum_Jumps_to_Reach_End_via_Prime_Teleportation.py) | Medium |
 | 2026-05-07 | [3660](https://www.leetcode.com/problems/jump-game-ix/) | [Jump Game IX](./Daily_Challenge/3660_Jump_Game_IX.md) | [Python](./Daily_Challenge/3660_Jump_Game_IX.py) | Medium |
 | 2026-05-06 | [1861](https://www.leetcode.com/problems/rotating-the-box/) | [Rotating the Box](./Daily_Challenge/1861_Rotating_the_Box.md) | [Python](./Daily_Challenge/1861_Rotating_the_Box.py) | Medium |
