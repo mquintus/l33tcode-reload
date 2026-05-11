@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-05-11 | [2553](https://www.leetcode.com/problems/separate-the-digits-in-an-array/) | [Separate the Digits in an Array](./Daily_Challenge/2553_Separate_the_Digits_in_an_Array.md) | [Python](./Daily_Challenge/2553_Separate_the_Digits_in_an_Array.py) | Easy |
 | 2026-05-10 | [2770](https://www.leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Maximum Number of Jumps to Reach the Last Index](./Daily_Challenge/2770_Maximum_Number_of_Jumps_to_Reach_the_Last_Index.md) | [Python](./Daily_Challenge/2770_Maximum_Number_of_Jumps_to_Reach_the_Last_Index.py) | Medium |
 | 2026-05-09 | [1914](https://www.leetcode.com/problems/cyclically-rotating-a-grid/) | [Cyclically Rotating a Grid](./Daily_Challenge/1914_Cyclically_Rotating_a_Grid.md) | [Python](./Daily_Challenge/1914_Cyclically_Rotating_a_Grid.py) | Medium |
 | 2026-05-08 | [3629](https://www.leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | [Minimum Jumps to Reach End via Prime Teleportation](./Daily_Challenge/3629_Minimum_Jumps_to_Reach_End_via_Prime_Teleportation.md) | [Python](./Daily_Challenge/3629_Minimum_Jumps_to_Reach_End_via_Prime_Teleportation.py) | Medium |
