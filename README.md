@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-05-13 | [1674](https://www.leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Minimum Moves to Make Array Complementary](./Daily_Challenge/1674_Minimum_Moves_to_Make_Array_Complementary.md) | [Python](./Daily_Challenge/1674_Minimum_Moves_to_Make_Array_Complementary.py) | Medium |
 | 2026-05-12 | [1665](https://www.leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Minimum Initial Energy to Finish Tasks](./Daily_Challenge/1665_Minimum_Initial_Energy_to_Finish_Tasks.md) | [Python](./Daily_Challenge/1665_Minimum_Initial_Energy_to_Finish_Tasks.py) | Hard |
 | 2026-05-11 | [2553](https://www.leetcode.com/problems/separate-the-digits-in-an-array/) | [Separate the Digits in an Array](./Daily_Challenge/2553_Separate_the_Digits_in_an_Array.md) | [Python](./Daily_Challenge/2553_Separate_the_Digits_in_an_Array.py) | Easy |
 | 2026-05-10 | [2770](https://www.leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Maximum Number of Jumps to Reach the Last Index](./Daily_Challenge/2770_Maximum_Number_of_Jumps_to_Reach_the_Last_Index.md) | [Python](./Daily_Challenge/2770_Maximum_Number_of_Jumps_to_Reach_the_Last_Index.py) | Medium |
