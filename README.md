@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-05-16 | [154](https://www.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Find Minimum in Rotated Sorted Array II](./Daily_Challenge/154_Find_Minimum_in_Rotated_Sorted_Array_II.md) | [Python](./Daily_Challenge/154_Find_Minimum_in_Rotated_Sorted_Array_II.py) | Hard |
 | 2026-05-15 | [153](https://www.leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](./Daily_Challenge/153_Find_Minimum_in_Rotated_Sorted_Array.md) | [Python](./Daily_Challenge/153_Find_Minimum_in_Rotated_Sorted_Array.py) | Medium |
 | 2026-05-14 | [2784](https://www.leetcode.com/problems/check-if-array-is-good/) | [Check if Array is Good](./Daily_Challenge/2784_Check_if_Array_is_Good.md) | [Python](./Daily_Challenge/2784_Check_if_Array_is_Good.py) | Easy |
 | 2026-05-13 | [1674](https://www.leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Minimum Moves to Make Array Complementary](./Daily_Challenge/1674_Minimum_Moves_to_Make_Array_Complementary.md) | [Python](./Daily_Challenge/1674_Minimum_Moves_to_Make_Array_Complementary.py) | Medium |
