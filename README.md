@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-05-18 | [1345](https://www.leetcode.com/problems/jump-game-iv/) | [Jump Game IV](./Daily_Challenge/1345_Jump_Game_IV.md) | [Python](./Daily_Challenge/1345_Jump_Game_IV.py) | Hard |
 | 2026-05-17 | [1306](https://www.leetcode.com/problems/jump-game-iii/) | [Jump Game III](./Daily_Challenge/1306_Jump_Game_III.md) | [Python](./Daily_Challenge/1306_Jump_Game_III.py) | Medium |
 | 2026-05-16 | [154](https://www.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Find Minimum in Rotated Sorted Array II](./Daily_Challenge/154_Find_Minimum_in_Rotated_Sorted_Array_II.md) | [Python](./Daily_Challenge/154_Find_Minimum_in_Rotated_Sorted_Array_II.py) | Hard |
 | 2026-05-15 | [153](https://www.leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](./Daily_Challenge/153_Find_Minimum_in_Rotated_Sorted_Array.md) | [Python](./Daily_Challenge/153_Find_Minimum_in_Rotated_Sorted_Array.py) | Medium |
