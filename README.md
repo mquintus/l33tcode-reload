@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-05-24 | [1340](https://www.leetcode.com/problems/jump-game-v/) | [Jump Game V](./Daily_Challenge/1340_Jump_Game_V.md) | [Python](./Daily_Challenge/1340_Jump_Game_V.py) | Hard |
 | 2026-05-23 | [1752](https://www.leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Check if Array Is Sorted and Rotated](./Daily_Challenge/1752_Check_if_Array_Is_Sorted_and_Rotated.md) | [Python](./Daily_Challenge/1752_Check_if_Array_Is_Sorted_and_Rotated.py) | Easy |
 | 2026-05-22 | [33](https://www.leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](./Daily_Challenge/33_Search_in_Rotated_Sorted_Array.md) | [Python](./Daily_Challenge/33_Search_in_Rotated_Sorted_Array.py) | Medium |
 | 2026-05-21 | [3043](https://www.leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Find the Length of the Longest Common Prefix](./Daily_Challenge/3043_Find_the_Length_of_the_Longest_Common_Prefix.md) | [Python](./Daily_Challenge/3043_Find_the_Length_of_the_Longest_Common_Prefix.py) | Medium |
