@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-05-26 | [3120](https://www.leetcode.com/problems/count-the-number-of-special-characters-i/) | [Count the Number of Special Characters I](./Daily_Challenge/3120_Count_the_Number_of_Special_Characters_I.md) | [Python](./Daily_Challenge/3120_Count_the_Number_of_Special_Characters_I.py) | Easy |
 | 2026-05-25 | [1871](https://www.leetcode.com/problems/jump-game-vii/) | [Jump Game VII](./Daily_Challenge/1871_Jump_Game_VII.md) | [Python](./Daily_Challenge/1871_Jump_Game_VII.py) | Medium |
 | 2026-05-24 | [1340](https://www.leetcode.com/problems/jump-game-v/) | [Jump Game V](./Daily_Challenge/1340_Jump_Game_V.md) | [Python](./Daily_Challenge/1340_Jump_Game_V.py) | Hard |
 | 2026-05-23 | [1752](https://www.leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Check if Array Is Sorted and Rotated](./Daily_Challenge/1752_Check_if_Array_Is_Sorted_and_Rotated.md) | [Python](./Daily_Challenge/1752_Check_if_Array_Is_Sorted_and_Rotated.py) | Easy |
