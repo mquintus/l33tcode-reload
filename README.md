@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-05-30 | [3161](https://www.leetcode.com/problems/block-placement-queries/) | [Block Placement Queries](./Daily_Challenge/3161_Block_Placement_Queries.md) | [Python](./Daily_Challenge/3161_Block_Placement_Queries.py) | Hard |
 | 2026-05-29 | [3300](https://www.leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [Minimum Element After Replacement With Digit Sum](./Daily_Challenge/3300_Minimum_Element_After_Replacement_With_Digit_Sum.md) | [Python](./Daily_Challenge/3300_Minimum_Element_After_Replacement_With_Digit_Sum.py) | Easy |
 | 2026-05-28 | [3093](https://www.leetcode.com/problems/longest-common-suffix-queries/) | [Longest Common Suffix Queries](./Daily_Challenge/3093_Longest_Common_Suffix_Queries.md) | [Python](./Daily_Challenge/3093_Longest_Common_Suffix_Queries.py) | Hard |
 | 2026-05-27 | [3121](https://www.leetcode.com/problems/count-the-number-of-special-characters-ii/) | [Count the Number of Special Characters II](./Daily_Challenge/3121_Count_the_Number_of_Special_Characters_II.md) | [Python](./Daily_Challenge/3121_Count_the_Number_of_Special_Characters_II.py) | Medium |
