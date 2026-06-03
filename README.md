@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-06-03 | [3635](https://www.leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | [Earliest Finish Time for Land and Water Rides II](./Daily_Challenge/3635_Earliest_Finish_Time_for_Land_and_Water_Rides_II.md) | [Python](./Daily_Challenge/3635_Earliest_Finish_Time_for_Land_and_Water_Rides_II.py) | Medium |
 | 2026-06-02 | [3633](https://www.leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Earliest Finish Time for Land and Water Rides I](./Daily_Challenge/3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.md) | [Python](./Daily_Challenge/3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.py) | Easy |
 | 2026-06-01 | [2144](https://www.leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Minimum Cost of Buying Candies With Discount](./Daily_Challenge/2144_Minimum_Cost_of_Buying_Candies_With_Discount.md) | [Python](./Daily_Challenge/2144_Minimum_Cost_of_Buying_Candies_With_Discount.py) | Easy |
 | 2026-05-31 | [2126](https://www.leetcode.com/problems/destroying-asteroids/) | [Destroying Asteroids](./Daily_Challenge/2126_Destroying_Asteroids.md) | [Python](./Daily_Challenge/2126_Destroying_Asteroids.py) | Medium |
