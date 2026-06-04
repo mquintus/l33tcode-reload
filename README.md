@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-06-04 | [3751](https://www.leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | [Total Waviness of Numbers in Range I](./Daily_Challenge/3751_Total_Waviness_of_Numbers_in_Range_I.md) | [Python](./Daily_Challenge/3751_Total_Waviness_of_Numbers_in_Range_I.py) | Medium |
 | 2026-06-03 | [3635](https://www.leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | [Earliest Finish Time for Land and Water Rides II](./Daily_Challenge/3635_Earliest_Finish_Time_for_Land_and_Water_Rides_II.md) | [Python](./Daily_Challenge/3635_Earliest_Finish_Time_for_Land_and_Water_Rides_II.py) | Medium |
 | 2026-06-02 | [3633](https://www.leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Earliest Finish Time for Land and Water Rides I](./Daily_Challenge/3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.md) | [Python](./Daily_Challenge/3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.py) | Easy |
 | 2026-06-01 | [2144](https://www.leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Minimum Cost of Buying Candies With Discount](./Daily_Challenge/2144_Minimum_Cost_of_Buying_Candies_With_Discount.md) | [Python](./Daily_Challenge/2144_Minimum_Cost_of_Buying_Candies_With_Discount.py) | Easy |
