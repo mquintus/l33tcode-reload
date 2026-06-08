@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-06-08 | [2161](https://www.leetcode.com/problems/partition-array-according-to-given-pivot/) | [Partition Array According to Given Pivot](./Daily_Challenge/2161_Partition_Array_According_to_Given_Pivot.md) | [Python](./Daily_Challenge/2161_Partition_Array_According_to_Given_Pivot.py) | Medium |
 | 2026-06-07 | [2196](https://www.leetcode.com/problems/create-binary-tree-from-descriptions/) | [Create Binary Tree From Descriptions](./Daily_Challenge/2196_Create_Binary_Tree_From_Descriptions.md) | [Python](./Daily_Challenge/2196_Create_Binary_Tree_From_Descriptions.py) | Medium |
 | 2026-06-06 | [2574](https://www.leetcode.com/problems/left-and-right-sum-differences/) | [Left and Right Sum Differences](./Daily_Challenge/2574_Left_and_Right_Sum_Differences.md) | [Python](./Daily_Challenge/2574_Left_and_Right_Sum_Differences.py) | Easy |
 | 2026-06-05 | [3753](https://www.leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | [Total Waviness of Numbers in Range II](./Daily_Challenge/3753_Total_Waviness_of_Numbers_in_Range_II.md) | [Python](./Daily_Challenge/3753_Total_Waviness_of_Numbers_in_Range_II.py) | Hard |
