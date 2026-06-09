@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-06-09 | [3689](https://www.leetcode.com/problems/maximum-total-subarray-value-i/) | [Maximum Total Subarray Value I](./Daily_Challenge/3689_Maximum_Total_Subarray_Value_I.md) | [Python](./Daily_Challenge/3689_Maximum_Total_Subarray_Value_I.py) | Medium |
 | 2026-06-08 | [2161](https://www.leetcode.com/problems/partition-array-according-to-given-pivot/) | [Partition Array According to Given Pivot](./Daily_Challenge/2161_Partition_Array_According_to_Given_Pivot.md) | [Python](./Daily_Challenge/2161_Partition_Array_According_to_Given_Pivot.py) | Medium |
 | 2026-06-07 | [2196](https://www.leetcode.com/problems/create-binary-tree-from-descriptions/) | [Create Binary Tree From Descriptions](./Daily_Challenge/2196_Create_Binary_Tree_From_Descriptions.md) | [Python](./Daily_Challenge/2196_Create_Binary_Tree_From_Descriptions.py) | Medium |
 | 2026-06-06 | [2574](https://www.leetcode.com/problems/left-and-right-sum-differences/) | [Left and Right Sum Differences](./Daily_Challenge/2574_Left_and_Right_Sum_Differences.md) | [Python](./Daily_Challenge/2574_Left_and_Right_Sum_Differences.py) | Easy |
