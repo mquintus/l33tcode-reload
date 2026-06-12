@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-06-12 | [3559](https://www.leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | [Number of Ways to Assign Edge Weights II](./Daily_Challenge/3559_Number_of_Ways_to_Assign_Edge_Weights_II.md) | [Python](./Daily_Challenge/3559_Number_of_Ways_to_Assign_Edge_Weights_II.py) | Hard |
 | 2026-06-11 | [3558](https://www.leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | [Number of Ways to Assign Edge Weights I](./Daily_Challenge/3558_Number_of_Ways_to_Assign_Edge_Weights_I.md) | [Python](./Daily_Challenge/3558_Number_of_Ways_to_Assign_Edge_Weights_I.py) | Medium |
 | 2026-06-10 | [3691](https://www.leetcode.com/problems/maximum-total-subarray-value-ii/) | [Maximum Total Subarray Value II](./Daily_Challenge/3691_Maximum_Total_Subarray_Value_II.md) | [Python](./Daily_Challenge/3691_Maximum_Total_Subarray_Value_II.py) | Hard |
 | 2026-06-09 | [3689](https://www.leetcode.com/problems/maximum-total-subarray-value-i/) | [Maximum Total Subarray Value I](./Daily_Challenge/3689_Maximum_Total_Subarray_Value_I.md) | [Python](./Daily_Challenge/3689_Maximum_Total_Subarray_Value_I.py) | Medium |
