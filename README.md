@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-06-15 | [2095](https://www.leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Delete the Middle Node of a Linked List](./Daily_Challenge/2095_Delete_the_Middle_Node_of_a_Linked_List.md) | [Python](./Daily_Challenge/2095_Delete_the_Middle_Node_of_a_Linked_List.py) | Medium |
 | 2026-06-14 | [2130](https://www.leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Maximum Twin Sum of a Linked List](./Daily_Challenge/2130_Maximum_Twin_Sum_of_a_Linked_List.md) | [Python](./Daily_Challenge/2130_Maximum_Twin_Sum_of_a_Linked_List.py) | Medium |
 | 2026-06-13 | [3838](https://www.leetcode.com/problems/weighted-word-mapping/) | [Weighted Word Mapping](./Daily_Challenge/3838_Weighted_Word_Mapping.md) | [Python](./Daily_Challenge/3838_Weighted_Word_Mapping.py) | Easy |
 | 2026-06-12 | [3559](https://www.leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | [Number of Ways to Assign Edge Weights II](./Daily_Challenge/3559_Number_of_Ways_to_Assign_Edge_Weights_II.md) | [Python](./Daily_Challenge/3559_Number_of_Ways_to_Assign_Edge_Weights_II.py) | Hard |
