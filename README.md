@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-06-20 | [1840](https://www.leetcode.com/problems/maximum-building-height/) | [Maximum Building Height](./Daily_Challenge/1840_Maximum_Building_Height.md) | [Python](./Daily_Challenge/1840_Maximum_Building_Height.py) | Hard |
 | 2026-06-19 | [1732](https://www.leetcode.com/problems/find-the-highest-altitude/) | [Find the Highest Altitude](./Daily_Challenge/1732_Find_the_Highest_Altitude.md) | [Python](./Daily_Challenge/1732_Find_the_Highest_Altitude.py) | Easy |
 | 2026-06-18 | [1344](https://www.leetcode.com/problems/angle-between-hands-of-a-clock/) | [Angle Between Hands of a Clock](./Daily_Challenge/1344_Angle_Between_Hands_of_a_Clock.md) | [Python](./Daily_Challenge/1344_Angle_Between_Hands_of_a_Clock.py) | Medium |
 | 2026-06-17 | [3614](https://www.leetcode.com/problems/process-string-with-special-operations-ii/) | [Process String with Special Operations II](./Daily_Challenge/3614_Process_String_with_Special_Operations_II.md) | [Python](./Daily_Challenge/3614_Process_String_with_Special_Operations_II.py) | Hard |
