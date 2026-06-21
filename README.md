@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-06-21 | [1833](https://www.leetcode.com/problems/maximum-ice-cream-bars/) | [Maximum Ice Cream Bars](./Daily_Challenge/1833_Maximum_Ice_Cream_Bars.md) | [Python](./Daily_Challenge/1833_Maximum_Ice_Cream_Bars.py) | Medium |
 | 2026-06-20 | [1840](https://www.leetcode.com/problems/maximum-building-height/) | [Maximum Building Height](./Daily_Challenge/1840_Maximum_Building_Height.md) | [Python](./Daily_Challenge/1840_Maximum_Building_Height.py) | Hard |
 | 2026-06-19 | [1732](https://www.leetcode.com/problems/find-the-highest-altitude/) | [Find the Highest Altitude](./Daily_Challenge/1732_Find_the_Highest_Altitude.md) | [Python](./Daily_Challenge/1732_Find_the_Highest_Altitude.py) | Easy |
 | 2026-06-18 | [1344](https://www.leetcode.com/problems/angle-between-hands-of-a-clock/) | [Angle Between Hands of a Clock](./Daily_Challenge/1344_Angle_Between_Hands_of_a_Clock.md) | [Python](./Daily_Challenge/1344_Angle_Between_Hands_of_a_Clock.py) | Medium |
