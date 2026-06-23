@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-06-23 | [3699](https://www.leetcode.com/problems/number-of-zigzag-arrays-i/) | [Number of ZigZag Arrays I](./Daily_Challenge/3699_Number_of_ZigZag_Arrays_I.md) | [Python](./Daily_Challenge/3699_Number_of_ZigZag_Arrays_I.py) | Hard |
 | 2026-06-22 | [1189](https://www.leetcode.com/problems/maximum-number-of-balloons/) | [Maximum Number of Balloons](./Daily_Challenge/1189_Maximum_Number_of_Balloons.md) | [Python](./Daily_Challenge/1189_Maximum_Number_of_Balloons.py) | Easy |
 | 2026-06-21 | [1833](https://www.leetcode.com/problems/maximum-ice-cream-bars/) | [Maximum Ice Cream Bars](./Daily_Challenge/1833_Maximum_Ice_Cream_Bars.md) | [Python](./Daily_Challenge/1833_Maximum_Ice_Cream_Bars.py) | Medium |
 | 2026-06-20 | [1840](https://www.leetcode.com/problems/maximum-building-height/) | [Maximum Building Height](./Daily_Challenge/1840_Maximum_Building_Height.md) | [Python](./Daily_Challenge/1840_Maximum_Building_Height.py) | Hard |
