@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-06-25 | [3737](https://www.leetcode.com/problems/count-subarrays-with-majority-element-i/) | [Count Subarrays With Majority Element I](./Daily_Challenge/3737_Count_Subarrays_With_Majority_Element_I.md) | [Python](./Daily_Challenge/3737_Count_Subarrays_With_Majority_Element_I.py) | Medium |
 | 2026-06-24 | [3700](https://www.leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Number of ZigZag Arrays II](./Daily_Challenge/3700_Number_of_ZigZag_Arrays_II.md) | [Python](./Daily_Challenge/3700_Number_of_ZigZag_Arrays_II.py) | Hard |
 | 2026-06-23 | [3699](https://www.leetcode.com/problems/number-of-zigzag-arrays-i/) | [Number of ZigZag Arrays I](./Daily_Challenge/3699_Number_of_ZigZag_Arrays_I.md) | [Python](./Daily_Challenge/3699_Number_of_ZigZag_Arrays_I.py) | Hard |
 | 2026-06-22 | [1189](https://www.leetcode.com/problems/maximum-number-of-balloons/) | [Maximum Number of Balloons](./Daily_Challenge/1189_Maximum_Number_of_Balloons.md) | [Python](./Daily_Challenge/1189_Maximum_Number_of_Balloons.py) | Easy |
