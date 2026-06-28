@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-06-28 | [1846](https://www.leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [Maximum Element After Decreasing and Rearranging](./Daily_Challenge/1846_Maximum_Element_After_Decreasing_and_Rearranging.md) | [Python](./Daily_Challenge/1846_Maximum_Element_After_Decreasing_and_Rearranging.py) | Medium |
 | 2026-06-27 | [3020](https://www.leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | [Find the Maximum Number of Elements in Subset](./Daily_Challenge/3020_Find_the_Maximum_Number_of_Elements_in_Subset.md) | [Python](./Daily_Challenge/3020_Find_the_Maximum_Number_of_Elements_in_Subset.py) | Medium |
 | 2026-06-26 | [3739](https://www.leetcode.com/problems/count-subarrays-with-majority-element-ii/) | [Count Subarrays With Majority Element II](./Daily_Challenge/3739_Count_Subarrays_With_Majority_Element_II.md) | [Python](./Daily_Challenge/3739_Count_Subarrays_With_Majority_Element_II.py) | Hard |
 | 2026-06-25 | [3737](https://www.leetcode.com/problems/count-subarrays-with-majority-element-i/) | [Count Subarrays With Majority Element I](./Daily_Challenge/3737_Count_Subarrays_With_Majority_Element_I.md) | [Python](./Daily_Challenge/3737_Count_Subarrays_With_Majority_Element_I.py) | Medium |
