@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-06-29 | [1967](https://www.leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Number of Strings That Appear as Substrings in Word](./Daily_Challenge/1967_Number_of_Strings_That_Appear_as_Substrings_in_Word.md) | [Python](./Daily_Challenge/1967_Number_of_Strings_That_Appear_as_Substrings_in_Word.py) | Easy |
 | 2026-06-28 | [1846](https://www.leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [Maximum Element After Decreasing and Rearranging](./Daily_Challenge/1846_Maximum_Element_After_Decreasing_and_Rearranging.md) | [Python](./Daily_Challenge/1846_Maximum_Element_After_Decreasing_and_Rearranging.py) | Medium |
 | 2026-06-27 | [3020](https://www.leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | [Find the Maximum Number of Elements in Subset](./Daily_Challenge/3020_Find_the_Maximum_Number_of_Elements_in_Subset.md) | [Python](./Daily_Challenge/3020_Find_the_Maximum_Number_of_Elements_in_Subset.py) | Medium |
 | 2026-06-26 | [3739](https://www.leetcode.com/problems/count-subarrays-with-majority-element-ii/) | [Count Subarrays With Majority Element II](./Daily_Challenge/3739_Count_Subarrays_With_Majority_Element_II.md) | [Python](./Daily_Challenge/3739_Count_Subarrays_With_Majority_Element_II.py) | Hard |
