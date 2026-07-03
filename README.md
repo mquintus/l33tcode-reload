@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-07-03 | [3620](https://www.leetcode.com/problems/network-recovery-pathways/) | [Network Recovery Pathways](./Daily_Challenge/3620_Network_Recovery_Pathways.md) | [Python](./Daily_Challenge/3620_Network_Recovery_Pathways.py) | Hard |
 | 2026-07-02 | [3286](https://www.leetcode.com/problems/find-a-safe-walk-through-a-grid/) | [Find a Safe Walk Through a Grid](./Daily_Challenge/3286_Find_a_Safe_Walk_Through_a_Grid.md) | [Python](./Daily_Challenge/3286_Find_a_Safe_Walk_Through_a_Grid.py) | Medium |
 | 2026-07-01 | [2812](https://www.leetcode.com/problems/find-the-safest-path-in-a-grid/) | [Find the Safest Path in a Grid](./Daily_Challenge/2812_Find_the_Safest_Path_in_a_Grid.md) | [Python](./Daily_Challenge/2812_Find_the_Safest_Path_in_a_Grid.py) | Medium |
 | 2026-06-30 | [1358](https://www.leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Number of Substrings Containing All Three Characters](./Daily_Challenge/1358_Number_of_Substrings_Containing_All_Three_Characters.md) | [Python](./Daily_Challenge/1358_Number_of_Substrings_Containing_All_Three_Characters.py) | Medium |
