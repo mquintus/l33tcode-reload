@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-07-05 | [1301](https://www.leetcode.com/problems/number-of-paths-with-max-score/) | [Number of Paths with Max Score](./Daily_Challenge/1301_Number_of_Paths_with_Max_Score.md) | [Python](./Daily_Challenge/1301_Number_of_Paths_with_Max_Score.py) | Hard |
 | 2026-07-04 | [2492](https://www.leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [Minimum Score of a Path Between Two Cities](./Daily_Challenge/2492_Minimum_Score_of_a_Path_Between_Two_Cities.md) | [Python](./Daily_Challenge/2492_Minimum_Score_of_a_Path_Between_Two_Cities.py) | Medium |
 | 2026-07-03 | [3620](https://www.leetcode.com/problems/network-recovery-pathways/) | [Network Recovery Pathways](./Daily_Challenge/3620_Network_Recovery_Pathways.md) | [Python](./Daily_Challenge/3620_Network_Recovery_Pathways.py) | Hard |
 | 2026-07-02 | [3286](https://www.leetcode.com/problems/find-a-safe-walk-through-a-grid/) | [Find a Safe Walk Through a Grid](./Daily_Challenge/3286_Find_a_Safe_Walk_Through_a_Grid.md) | [Python](./Daily_Challenge/3286_Find_a_Safe_Walk_Through_a_Grid.py) | Medium |
