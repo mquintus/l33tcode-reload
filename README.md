@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-07-07 | [3754](https://www.leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [Concatenate Non-Zero Digits and Multiply by Sum I](./Daily_Challenge/3754_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.md) | [Python](./Daily_Challenge/3754_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.py) | Easy |
 | 2026-07-06 | [1288](https://www.leetcode.com/problems/remove-covered-intervals/) | [Remove Covered Intervals](./Daily_Challenge/1288_Remove_Covered_Intervals.md) | [Python](./Daily_Challenge/1288_Remove_Covered_Intervals.py) | Medium |
 | 2026-07-05 | [1301](https://www.leetcode.com/problems/number-of-paths-with-max-score/) | [Number of Paths with Max Score](./Daily_Challenge/1301_Number_of_Paths_with_Max_Score.md) | [Python](./Daily_Challenge/1301_Number_of_Paths_with_Max_Score.py) | Hard |
 | 2026-07-04 | [2492](https://www.leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [Minimum Score of a Path Between Two Cities](./Daily_Challenge/2492_Minimum_Score_of_a_Path_Between_Two_Cities.md) | [Python](./Daily_Challenge/2492_Minimum_Score_of_a_Path_Between_Two_Cities.py) | Medium |
