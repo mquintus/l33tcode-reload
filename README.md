@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-07-09 | [3532](https://www.leetcode.com/problems/path-existence-queries-in-a-graph-i/) | [Path Existence Queries in a Graph I](./Daily_Challenge/3532_Path_Existence_Queries_in_a_Graph_I.md) | [Python](./Daily_Challenge/3532_Path_Existence_Queries_in_a_Graph_I.py) | Medium |
 | 2026-07-08 | [3756](https://www.leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | [Concatenate Non-Zero Digits and Multiply by Sum II](./Daily_Challenge/3756_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II.md) | [Python](./Daily_Challenge/3756_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_II.py) | Medium |
 | 2026-07-07 | [3754](https://www.leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [Concatenate Non-Zero Digits and Multiply by Sum I](./Daily_Challenge/3754_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.md) | [Python](./Daily_Challenge/3754_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.py) | Easy |
 | 2026-07-06 | [1288](https://www.leetcode.com/problems/remove-covered-intervals/) | [Remove Covered Intervals](./Daily_Challenge/1288_Remove_Covered_Intervals.md) | [Python](./Daily_Challenge/1288_Remove_Covered_Intervals.py) | Medium |
