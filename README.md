@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-07-12 | [1331](https://www.leetcode.com/problems/rank-transform-of-an-array/) | [Rank Transform of an Array](./Daily_Challenge/1331_Rank_Transform_of_an_Array.md) | [Python](./Daily_Challenge/1331_Rank_Transform_of_an_Array.py) | Easy |
 | 2026-07-11 | [2685](https://www.leetcode.com/problems/count-the-number-of-complete-components/) | [Count the Number of Complete Components](./Daily_Challenge/2685_Count_the_Number_of_Complete_Components.md) | [Python](./Daily_Challenge/2685_Count_the_Number_of_Complete_Components.py) | Medium |
 | 2026-07-10 | [3534](https://www.leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Path Existence Queries in a Graph II](./Daily_Challenge/3534_Path_Existence_Queries_in_a_Graph_II.md) | [Python](./Daily_Challenge/3534_Path_Existence_Queries_in_a_Graph_II.py) | Hard |
 | 2026-07-09 | [3532](https://www.leetcode.com/problems/path-existence-queries-in-a-graph-i/) | [Path Existence Queries in a Graph I](./Daily_Challenge/3532_Path_Existence_Queries_in_a_Graph_I.md) | [Python](./Daily_Challenge/3532_Path_Existence_Queries_in_a_Graph_I.py) | Medium |
