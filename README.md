@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-07-14 | [3336](https://www.leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | [Find the Number of Subsequences With Equal GCD](./Daily_Challenge/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.md) | [Python](./Daily_Challenge/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.py) | Hard |
 | 2026-07-13 | [1291](https://www.leetcode.com/problems/sequential-digits/) | [Sequential Digits](./Daily_Challenge/1291_Sequential_Digits.md) | [Python](./Daily_Challenge/1291_Sequential_Digits.py) | Medium |
 | 2026-07-12 | [1331](https://www.leetcode.com/problems/rank-transform-of-an-array/) | [Rank Transform of an Array](./Daily_Challenge/1331_Rank_Transform_of_an_Array.md) | [Python](./Daily_Challenge/1331_Rank_Transform_of_an_Array.py) | Easy |
 | 2026-07-11 | [2685](https://www.leetcode.com/problems/count-the-number-of-complete-components/) | [Count the Number of Complete Components](./Daily_Challenge/2685_Count_the_Number_of_Complete_Components.md) | [Python](./Daily_Challenge/2685_Count_the_Number_of_Complete_Components.py) | Medium |
