@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-07-17 | [3312](https://www.leetcode.com/problems/sorted-gcd-pair-queries/) | [Sorted GCD Pair Queries](./Daily_Challenge/3312_Sorted_GCD_Pair_Queries.md) | [Python](./Daily_Challenge/3312_Sorted_GCD_Pair_Queries.py) | Hard |
 | 2026-07-16 | [3867](https://www.leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Sum of GCD of Formed Pairs](./Daily_Challenge/3867_Sum_of_GCD_of_Formed_Pairs.md) | [Python](./Daily_Challenge/3867_Sum_of_GCD_of_Formed_Pairs.py) | Medium |
 | 2026-07-15 | [3658](https://www.leetcode.com/problems/gcd-of-odd-and-even-sums/) | [GCD of Odd and Even Sums](./Daily_Challenge/3658_GCD_of_Odd_and_Even_Sums.md) | [Python](./Daily_Challenge/3658_GCD_of_Odd_and_Even_Sums.py) | Easy |
 | 2026-07-14 | [3336](https://www.leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | [Find the Number of Subsequences With Equal GCD](./Daily_Challenge/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.md) | [Python](./Daily_Challenge/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.py) | Hard |
