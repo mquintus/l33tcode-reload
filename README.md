@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-07-20 | [1260](https://www.leetcode.com/problems/shift-2d-grid/) | [Shift 2D Grid](./Daily_Challenge/1260_Shift_2D_Grid.md) | [Python](./Daily_Challenge/1260_Shift_2D_Grid.py) | Easy |
 | 2026-07-19 | [1081](https://www.leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Smallest Subsequence of Distinct Characters](./Daily_Challenge/1081_Smallest_Subsequence_of_Distinct_Characters.md) | [Python](./Daily_Challenge/1081_Smallest_Subsequence_of_Distinct_Characters.py) | Medium |
 | 2026-07-18 | [1979](https://www.leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Find Greatest Common Divisor of Array](./Daily_Challenge/1979_Find_Greatest_Common_Divisor_of_Array.md) | [Python](./Daily_Challenge/1979_Find_Greatest_Common_Divisor_of_Array.py) | Easy |
 | 2026-07-17 | [3312](https://www.leetcode.com/problems/sorted-gcd-pair-queries/) | [Sorted GCD Pair Queries](./Daily_Challenge/3312_Sorted_GCD_Pair_Queries.md) | [Python](./Daily_Challenge/3312_Sorted_GCD_Pair_Queries.py) | Hard |
