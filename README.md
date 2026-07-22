@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-07-22 | [3501](https://www.leetcode.com/problems/maximize-active-section-with-trade-ii/) | [Maximize Active Section with Trade II](./Daily_Challenge/3501_Maximize_Active_Section_with_Trade_II.md) | [Python](./Daily_Challenge/3501_Maximize_Active_Section_with_Trade_II.py) | Hard |
 | 2026-07-21 | [3499](https://www.leetcode.com/problems/maximize-active-section-with-trade-i/) | [Maximize Active Section with Trade I](./Daily_Challenge/3499_Maximize_Active_Section_with_Trade_I.md) | [Python](./Daily_Challenge/3499_Maximize_Active_Section_with_Trade_I.py) | Medium |
 | 2026-07-20 | [1260](https://www.leetcode.com/problems/shift-2d-grid/) | [Shift 2D Grid](./Daily_Challenge/1260_Shift_2D_Grid.md) | [Python](./Daily_Challenge/1260_Shift_2D_Grid.py) | Easy |
 | 2026-07-19 | [1081](https://www.leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Smallest Subsequence of Distinct Characters](./Daily_Challenge/1081_Smallest_Subsequence_of_Distinct_Characters.md) | [Python](./Daily_Challenge/1081_Smallest_Subsequence_of_Distinct_Characters.py) | Medium |
