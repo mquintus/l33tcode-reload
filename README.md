@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-07-24 | [3514](https://www.leetcode.com/problems/number-of-unique-xor-triplets-ii/) | [Number of Unique XOR Triplets II](./Daily_Challenge/3514_Number_of_Unique_XOR_Triplets_II.md) | [Python](./Daily_Challenge/3514_Number_of_Unique_XOR_Triplets_II.py) | Medium |
 | 2026-07-23 | [3513](https://www.leetcode.com/problems/number-of-unique-xor-triplets-i/) | [Number of Unique XOR Triplets I](./Daily_Challenge/3513_Number_of_Unique_XOR_Triplets_I.md) | [Python](./Daily_Challenge/3513_Number_of_Unique_XOR_Triplets_I.py) | Medium |
 | 2026-07-22 | [3501](https://www.leetcode.com/problems/maximize-active-section-with-trade-ii/) | [Maximize Active Section with Trade II](./Daily_Challenge/3501_Maximize_Active_Section_with_Trade_II.md) | [Python](./Daily_Challenge/3501_Maximize_Active_Section_with_Trade_II.py) | Hard |
 | 2026-07-21 | [3499](https://www.leetcode.com/problems/maximize-active-section-with-trade-i/) | [Maximize Active Section with Trade I](./Daily_Challenge/3499_Maximize_Active_Section_with_Trade_I.md) | [Python](./Daily_Challenge/3499_Maximize_Active_Section_with_Trade_I.py) | Medium |
