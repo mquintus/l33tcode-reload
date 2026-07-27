@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-07-27 | [1464](https://www.leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Maximum Product of Two Elements in an Array](./Daily_Challenge/1464_Maximum_Product_of_Two_Elements_in_an_Array.md) | [Python](./Daily_Challenge/1464_Maximum_Product_of_Two_Elements_in_an_Array.py) | Easy |
 | 2026-07-26 | [628](https://www.leetcode.com/problems/maximum-product-of-three-numbers/) | [Maximum Product of Three Numbers](./Daily_Challenge/628_Maximum_Product_of_Three_Numbers.md) | [Python](./Daily_Challenge/628_Maximum_Product_of_Three_Numbers.py) | Easy |
 | 2026-07-25 | [3536](https://www.leetcode.com/problems/maximum-product-of-two-digits/) | [Maximum Product of Two Digits](./Daily_Challenge/3536_Maximum_Product_of_Two_Digits.md) | [Python](./Daily_Challenge/3536_Maximum_Product_of_Two_Digits.py) | Easy |
 | 2026-07-24 | [3514](https://www.leetcode.com/problems/number-of-unique-xor-triplets-ii/) | [Number of Unique XOR Triplets II](./Daily_Challenge/3514_Number_of_Unique_XOR_Triplets_II.md) | [Python](./Daily_Challenge/3514_Number_of_Unique_XOR_Triplets_II.py) | Medium |
