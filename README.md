@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-03 | [1406](https://www.leetcode.com/problems/stone-game-iii/) | [Stone Game III](./Daily_Challenge/1406_Stone_Game_III.md) | [Python](./Daily_Challenge/1406_Stone_Game_III.py) | Hard |
 | 2026-08-02 | [877](https://www.leetcode.com/problems/stone-game/) | [Stone Game](./Daily_Challenge/877_Stone_Game.md) | [Python](./Daily_Challenge/877_Stone_Game.py) | Medium |
 | 2026-08-01 | [486](https://www.leetcode.com/problems/predict-the-winner/) | [Predict the Winner](./Daily_Challenge/486_Predict_the_Winner.md) | [Python](./Daily_Challenge/486_Predict_the_Winner.py) | Medium |
 | 2026-07-31 | [3016](https://www.leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Minimum Number of Pushes to Type Word II](./Daily_Challenge/3016_Minimum_Number_of_Pushes_to_Type_Word_II.md) | [Python](./Daily_Challenge/3016_Minimum_Number_of_Pushes_to_Type_Word_II.py) | Medium |
