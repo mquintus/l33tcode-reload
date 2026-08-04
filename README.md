@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-04 | [3731](https://www.leetcode.com/problems/find-missing-elements/) | [Find Missing Elements](./Daily_Challenge/3731_Find_Missing_Elements.md) | [Python](./Daily_Challenge/3731_Find_Missing_Elements.py) | Easy |
 | 2026-08-03 | [1406](https://www.leetcode.com/problems/stone-game-iii/) | [Stone Game III](./Daily_Challenge/1406_Stone_Game_III.md) | [Python](./Daily_Challenge/1406_Stone_Game_III.py) | Hard |
 | 2026-08-02 | [877](https://www.leetcode.com/problems/stone-game/) | [Stone Game](./Daily_Challenge/877_Stone_Game.md) | [Python](./Daily_Challenge/877_Stone_Game.py) | Medium |
 | 2026-08-01 | [486](https://www.leetcode.com/problems/predict-the-winner/) | [Predict the Winner](./Daily_Challenge/486_Predict_the_Winner.md) | [Python](./Daily_Challenge/486_Predict_the_Winner.py) | Medium |
