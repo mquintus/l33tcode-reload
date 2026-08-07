@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-07 | [3348](https://www.leetcode.com/problems/smallest-divisible-digit-product-ii/) | [Smallest Divisible Digit Product II](./Daily_Challenge/3348_Smallest_Divisible_Digit_Product_II.md) | [Python](./Daily_Challenge/3348_Smallest_Divisible_Digit_Product_II.py) | Hard |
 | 2026-08-06 | [3345](https://www.leetcode.com/problems/smallest-divisible-digit-product-i/) | [Smallest Divisible Digit Product I](./Daily_Challenge/3345_Smallest_Divisible_Digit_Product_I.md) | [Python](./Daily_Challenge/3345_Smallest_Divisible_Digit_Product_I.py) | Easy |
 | 2026-08-05 | [3310](https://www.leetcode.com/problems/remove-methods-from-project/) | [Remove Methods From Project](./Daily_Challenge/3310_Remove_Methods_From_Project.md) | [Python](./Daily_Challenge/3310_Remove_Methods_From_Project.py) | Medium |
 | 2026-08-04 | [3731](https://www.leetcode.com/problems/find-missing-elements/) | [Find Missing Elements](./Daily_Challenge/3731_Find_Missing_Elements.md) | [Python](./Daily_Challenge/3731_Find_Missing_Elements.py) | Easy |
