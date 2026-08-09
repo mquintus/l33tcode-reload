@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-09 | [1140](https://www.leetcode.com/problems/stone-game-ii/) | [Stone Game II](./Daily_Challenge/1140_Stone_Game_II.md) | [Python](./Daily_Challenge/1140_Stone_Game_II.py) | Medium |
 | 2026-08-08 | [3302](https://www.leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | [Find the Lexicographically Smallest Valid Sequence](./Daily_Challenge/3302_Find_the_Lexicographically_Smallest_Valid_Sequence.md) | [Python](./Daily_Challenge/3302_Find_the_Lexicographically_Smallest_Valid_Sequence.py) | Medium |
 | 2026-08-07 | [3348](https://www.leetcode.com/problems/smallest-divisible-digit-product-ii/) | [Smallest Divisible Digit Product II](./Daily_Challenge/3348_Smallest_Divisible_Digit_Product_II.md) | [Python](./Daily_Challenge/3348_Smallest_Divisible_Digit_Product_II.py) | Hard |
 | 2026-08-06 | [3345](https://www.leetcode.com/problems/smallest-divisible-digit-product-i/) | [Smallest Divisible Digit Product I](./Daily_Challenge/3345_Smallest_Divisible_Digit_Product_I.md) | [Python](./Daily_Challenge/3345_Smallest_Divisible_Digit_Product_I.py) | Easy |
