@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-11 | [2996](https://www.leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./Daily_Challenge/2996_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.md) | [Python](./Daily_Challenge/2996_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.py) | Easy |
 | 2026-08-10 | [1510](https://www.leetcode.com/problems/stone-game-iv/) | [Stone Game IV](./Daily_Challenge/1510_Stone_Game_IV.md) | [Python](./Daily_Challenge/1510_Stone_Game_IV.py) | Hard |
 | 2026-08-09 | [1140](https://www.leetcode.com/problems/stone-game-ii/) | [Stone Game II](./Daily_Challenge/1140_Stone_Game_II.md) | [Python](./Daily_Challenge/1140_Stone_Game_II.py) | Medium |
 | 2026-08-08 | [3302](https://www.leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | [Find the Lexicographically Smallest Valid Sequence](./Daily_Challenge/3302_Find_the_Lexicographically_Smallest_Valid_Sequence.md) | [Python](./Daily_Challenge/3302_Find_the_Lexicographically_Smallest_Valid_Sequence.py) | Medium |
