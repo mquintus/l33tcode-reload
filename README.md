@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-13 | [2213](https://www.leetcode.com/problems/longest-substring-of-one-repeating-character/) | [Longest Substring of One Repeating Character](./Daily_Challenge/2213_Longest_Substring_of_One_Repeating_Character.md) | [Python](./Daily_Challenge/2213_Longest_Substring_of_One_Repeating_Character.py) | Hard |
 | 2026-08-12 | [2958](https://www.leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Length of Longest Subarray With at Most K Frequency](./Daily_Challenge/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.md) | [Python](./Daily_Challenge/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.py) | Medium |
 | 2026-08-11 | [2996](https://www.leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./Daily_Challenge/2996_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.md) | [Python](./Daily_Challenge/2996_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.py) | Easy |
 | 2026-08-10 | [1510](https://www.leetcode.com/problems/stone-game-iv/) | [Stone Game IV](./Daily_Challenge/1510_Stone_Game_IV.md) | [Python](./Daily_Challenge/1510_Stone_Game_IV.py) | Hard |
