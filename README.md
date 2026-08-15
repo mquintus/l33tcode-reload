@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-15 | [3702](https://www.leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | [Longest Subsequence With Non-Zero Bitwise XOR](./Daily_Challenge/3702_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.md) | [Python](./Daily_Challenge/3702_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.py) | Medium |
 | 2026-08-14 | [3090](https://www.leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | [Maximum Length Substring With Two Occurrences](./Daily_Challenge/3090_Maximum_Length_Substring_With_Two_Occurrences.md) | [Python](./Daily_Challenge/3090_Maximum_Length_Substring_With_Two_Occurrences.py) | Easy |
 | 2026-08-13 | [2213](https://www.leetcode.com/problems/longest-substring-of-one-repeating-character/) | [Longest Substring of One Repeating Character](./Daily_Challenge/2213_Longest_Substring_of_One_Repeating_Character.md) | [Python](./Daily_Challenge/2213_Longest_Substring_of_One_Repeating_Character.py) | Hard |
 | 2026-08-12 | [2958](https://www.leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Length of Longest Subarray With at Most K Frequency](./Daily_Challenge/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.md) | [Python](./Daily_Challenge/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.py) | Medium |
