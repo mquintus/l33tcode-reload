@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-16 | [2029](https://www.leetcode.com/problems/stone-game-ix/) | [Stone Game IX](./Daily_Challenge/2029_Stone_Game_IX.md) | [Python](./Daily_Challenge/2029_Stone_Game_IX.py) | Medium |
 | 2026-08-15 | [3702](https://www.leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | [Longest Subsequence With Non-Zero Bitwise XOR](./Daily_Challenge/3702_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.md) | [Python](./Daily_Challenge/3702_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.py) | Medium |
 | 2026-08-14 | [3090](https://www.leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | [Maximum Length Substring With Two Occurrences](./Daily_Challenge/3090_Maximum_Length_Substring_With_Two_Occurrences.md) | [Python](./Daily_Challenge/3090_Maximum_Length_Substring_With_Two_Occurrences.py) | Easy |
 | 2026-08-13 | [2213](https://www.leetcode.com/problems/longest-substring-of-one-repeating-character/) | [Longest Substring of One Repeating Character](./Daily_Challenge/2213_Longest_Substring_of_One_Repeating_Character.md) | [Python](./Daily_Challenge/2213_Longest_Substring_of_One_Repeating_Character.py) | Hard |
