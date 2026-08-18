@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-18 | [3471](https://www.leetcode.com/problems/find-the-largest-almost-missing-integer/) | [Find the Largest Almost Missing Integer](./Daily_Challenge/3471_Find_the_Largest_Almost_Missing_Integer.md) | [Python](./Daily_Challenge/3471_Find_the_Largest_Almost_Missing_Integer.py) | Easy |
 | 2026-08-17 | [1563](https://www.leetcode.com/problems/stone-game-v/) | [Stone Game V](./Daily_Challenge/1563_Stone_Game_V.md) | [Python](./Daily_Challenge/1563_Stone_Game_V.py) | Hard |
 | 2026-08-16 | [2029](https://www.leetcode.com/problems/stone-game-ix/) | [Stone Game IX](./Daily_Challenge/2029_Stone_Game_IX.md) | [Python](./Daily_Challenge/2029_Stone_Game_IX.py) | Medium |
 | 2026-08-15 | [3702](https://www.leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | [Longest Subsequence With Non-Zero Bitwise XOR](./Daily_Challenge/3702_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.md) | [Python](./Daily_Challenge/3702_Longest_Subsequence_With_Non-Zero_Bitwise_XOR.py) | Medium |
