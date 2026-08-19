@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-19 | [1386](https://www.leetcode.com/problems/cinema-seat-allocation/) | [Cinema Seat Allocation](./Daily_Challenge/1386_Cinema_Seat_Allocation.md) | [Python](./Daily_Challenge/1386_Cinema_Seat_Allocation.py) | Medium |
 | 2026-08-18 | [3471](https://www.leetcode.com/problems/find-the-largest-almost-missing-integer/) | [Find the Largest Almost Missing Integer](./Daily_Challenge/3471_Find_the_Largest_Almost_Missing_Integer.md) | [Python](./Daily_Challenge/3471_Find_the_Largest_Almost_Missing_Integer.py) | Easy |
 | 2026-08-17 | [1563](https://www.leetcode.com/problems/stone-game-v/) | [Stone Game V](./Daily_Challenge/1563_Stone_Game_V.md) | [Python](./Daily_Challenge/1563_Stone_Game_V.py) | Hard |
 | 2026-08-16 | [2029](https://www.leetcode.com/problems/stone-game-ix/) | [Stone Game IX](./Daily_Challenge/2029_Stone_Game_IX.md) | [Python](./Daily_Challenge/2029_Stone_Game_IX.py) | Medium |
