@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-20 | [3069](https://www.leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Distribute Elements Into Two Arrays I](./Daily_Challenge/3069_Distribute_Elements_Into_Two_Arrays_I.md) | [Python](./Daily_Challenge/3069_Distribute_Elements_Into_Two_Arrays_I.py) | Easy |
 | 2026-08-19 | [1386](https://www.leetcode.com/problems/cinema-seat-allocation/) | [Cinema Seat Allocation](./Daily_Challenge/1386_Cinema_Seat_Allocation.md) | [Python](./Daily_Challenge/1386_Cinema_Seat_Allocation.py) | Medium |
 | 2026-08-18 | [3471](https://www.leetcode.com/problems/find-the-largest-almost-missing-integer/) | [Find the Largest Almost Missing Integer](./Daily_Challenge/3471_Find_the_Largest_Almost_Missing_Integer.md) | [Python](./Daily_Challenge/3471_Find_the_Largest_Almost_Missing_Integer.py) | Easy |
 | 2026-08-17 | [1563](https://www.leetcode.com/problems/stone-game-v/) | [Stone Game V](./Daily_Challenge/1563_Stone_Game_V.md) | [Python](./Daily_Challenge/1563_Stone_Game_V.py) | Hard |
