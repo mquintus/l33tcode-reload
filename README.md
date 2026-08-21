@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-21 | [3116](https://www.leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [Kth Smallest Amount With Single Denomination Combination](./Daily_Challenge/3116_Kth_Smallest_Amount_With_Single_Denomination_Combination.md) | [Python](./Daily_Challenge/3116_Kth_Smallest_Amount_With_Single_Denomination_Combination.py) | Hard |
 | 2026-08-20 | [3069](https://www.leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Distribute Elements Into Two Arrays I](./Daily_Challenge/3069_Distribute_Elements_Into_Two_Arrays_I.md) | [Python](./Daily_Challenge/3069_Distribute_Elements_Into_Two_Arrays_I.py) | Easy |
 | 2026-08-19 | [1386](https://www.leetcode.com/problems/cinema-seat-allocation/) | [Cinema Seat Allocation](./Daily_Challenge/1386_Cinema_Seat_Allocation.md) | [Python](./Daily_Challenge/1386_Cinema_Seat_Allocation.py) | Medium |
 | 2026-08-18 | [3471](https://www.leetcode.com/problems/find-the-largest-almost-missing-integer/) | [Find the Largest Almost Missing Integer](./Daily_Challenge/3471_Find_the_Largest_Almost_Missing_Integer.md) | [Python](./Daily_Challenge/3471_Find_the_Largest_Almost_Missing_Integer.py) | Easy |
