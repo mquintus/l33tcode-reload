@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-23 | [1927](https://www.leetcode.com/problems/sum-game/) | [Sum Game](./Daily_Challenge/1927_Sum_Game.md) | [Python](./Daily_Challenge/1927_Sum_Game.py) | Medium |
 | 2026-08-22 | [3622](https://www.leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | [Check Divisibility by Digit Sum and Product](./Daily_Challenge/3622_Check_Divisibility_by_Digit_Sum_and_Product.md) | [Python](./Daily_Challenge/3622_Check_Divisibility_by_Digit_Sum_and_Product.py) | Easy |
 | 2026-08-21 | [3116](https://www.leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [Kth Smallest Amount With Single Denomination Combination](./Daily_Challenge/3116_Kth_Smallest_Amount_With_Single_Denomination_Combination.md) | [Python](./Daily_Challenge/3116_Kth_Smallest_Amount_With_Single_Denomination_Combination.py) | Hard |
 | 2026-08-20 | [3069](https://www.leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Distribute Elements Into Two Arrays I](./Daily_Challenge/3069_Distribute_Elements_Into_Two_Arrays_I.md) | [Python](./Daily_Challenge/3069_Distribute_Elements_Into_Two_Arrays_I.py) | Easy |
