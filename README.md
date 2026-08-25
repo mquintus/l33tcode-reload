@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-25 | [3718](https://www.leetcode.com/problems/smallest-missing-multiple-of-k/) | [Smallest Missing Multiple of K](./Daily_Challenge/3718_Smallest_Missing_Multiple_of_K.md) | [Python](./Daily_Challenge/3718_Smallest_Missing_Multiple_of_K.py) | Easy |
 | 2026-08-24 | [1872](https://www.leetcode.com/problems/stone-game-viii/) | [Stone Game VIII](./Daily_Challenge/1872_Stone_Game_VIII.md) | [Python](./Daily_Challenge/1872_Stone_Game_VIII.py) | Hard |
 | 2026-08-23 | [1927](https://www.leetcode.com/problems/sum-game/) | [Sum Game](./Daily_Challenge/1927_Sum_Game.md) | [Python](./Daily_Challenge/1927_Sum_Game.py) | Medium |
 | 2026-08-22 | [3622](https://www.leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | [Check Divisibility by Digit Sum and Product](./Daily_Challenge/3622_Check_Divisibility_by_Digit_Sum_and_Product.md) | [Python](./Daily_Challenge/3622_Check_Divisibility_by_Digit_Sum_and_Product.py) | Easy |
