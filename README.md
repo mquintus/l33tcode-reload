@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-08-26 | [2904](https://www.leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Shortest and Lexicographically Smallest Beautiful String](./Daily_Challenge/2904_Shortest_and_Lexicographically_Smallest_Beautiful_String.md) | [Python](./Daily_Challenge/2904_Shortest_and_Lexicographically_Smallest_Beautiful_String.py) | Medium |
 | 2026-08-25 | [3718](https://www.leetcode.com/problems/smallest-missing-multiple-of-k/) | [Smallest Missing Multiple of K](./Daily_Challenge/3718_Smallest_Missing_Multiple_of_K.md) | [Python](./Daily_Challenge/3718_Smallest_Missing_Multiple_of_K.py) | Easy |
 | 2026-08-24 | [1872](https://www.leetcode.com/problems/stone-game-viii/) | [Stone Game VIII](./Daily_Challenge/1872_Stone_Game_VIII.md) | [Python](./Daily_Challenge/1872_Stone_Game_VIII.py) | Hard |
 | 2026-08-23 | [1927](https://www.leetcode.com/problems/sum-game/) | [Sum Game](./Daily_Challenge/1927_Sum_Game.md) | [Python](./Daily_Challenge/1927_Sum_Game.py) | Medium |
