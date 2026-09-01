@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-09-01 | [3568](https://www.leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Minimum Moves to Clean the Classroom](./Daily_Challenge/3568_Minimum_Moves_to_Clean_the_Classroom.md) | [Python](./Daily_Challenge/3568_Minimum_Moves_to_Clean_the_Classroom.py) | Medium |
 | 2026-08-31 | [2058](https://www.leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./Daily_Challenge/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.md) | [Python](./Daily_Challenge/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.py) | Medium |
 | 2026-08-30 | [2091](https://www.leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [Removing Minimum and Maximum From Array](./Daily_Challenge/2091_Removing_Minimum_and_Maximum_From_Array.md) | [Python](./Daily_Challenge/2091_Removing_Minimum_and_Maximum_From_Array.py) | Medium |
 | 2026-08-29 | [2948](https://www.leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Make Lexicographically Smallest Array by Swapping Elements](./Daily_Challenge/2948_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.md) | [Python](./Daily_Challenge/2948_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.py) | Medium |
