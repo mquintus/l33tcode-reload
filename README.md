@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-09-04 | [3903](https://www.leetcode.com/problems/smallest-stable-index-i/) | [Smallest Stable Index I](./Daily_Challenge/3903_Smallest_Stable_Index_I.md) | [Python](./Daily_Challenge/3903_Smallest_Stable_Index_I.py) | Easy |
 | 2026-09-03 | [3876](https://www.leetcode.com/problems/construct-uniform-parity-array-ii/) | [Construct Uniform Parity Array II](./Daily_Challenge/3876_Construct_Uniform_Parity_Array_II.md) | [Python](./Daily_Challenge/3876_Construct_Uniform_Parity_Array_II.py) | Medium |
 | 2026-09-02 | [3875](https://www.leetcode.com/problems/construct-uniform-parity-array-i/) | [Construct Uniform Parity Array I](./Daily_Challenge/3875_Construct_Uniform_Parity_Array_I.md) | [Python](./Daily_Challenge/3875_Construct_Uniform_Parity_Array_I.py) | Easy |
 | 2026-09-01 | [3568](https://www.leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Minimum Moves to Clean the Classroom](./Daily_Challenge/3568_Minimum_Moves_to_Clean_the_Classroom.md) | [Python](./Daily_Challenge/3568_Minimum_Moves_to_Clean_the_Classroom.py) | Medium |
