@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-09-06 | [115](https://www.leetcode.com/problems/distinct-subsequences/) | [Distinct Subsequences](./Daily_Challenge/115_Distinct_Subsequences.md) | [Python](./Daily_Challenge/115_Distinct_Subsequences.py) | Hard |
 | 2026-09-05 | [3904](https://www.leetcode.com/problems/smallest-stable-index-ii/) | [Smallest Stable Index II](./Daily_Challenge/3904_Smallest_Stable_Index_II.md) | [Python](./Daily_Challenge/3904_Smallest_Stable_Index_II.py) | Medium |
 | 2026-09-04 | [3903](https://www.leetcode.com/problems/smallest-stable-index-i/) | [Smallest Stable Index I](./Daily_Challenge/3903_Smallest_Stable_Index_I.md) | [Python](./Daily_Challenge/3903_Smallest_Stable_Index_I.py) | Easy |
 | 2026-09-03 | [3876](https://www.leetcode.com/problems/construct-uniform-parity-array-ii/) | [Construct Uniform Parity Array II](./Daily_Challenge/3876_Construct_Uniform_Parity_Array_II.md) | [Python](./Daily_Challenge/3876_Construct_Uniform_Parity_Array_II.py) | Medium |
