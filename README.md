@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-09-09 | [3871](https://www.leetcode.com/problems/count-commas-in-range-ii/) | [Count Commas in Range II](./Daily_Challenge/3871_Count_Commas_in_Range_II.md) | [Python](./Daily_Challenge/3871_Count_Commas_in_Range_II.py) | Medium |
 | 2026-09-08 | [3870](https://www.leetcode.com/problems/count-commas-in-range/) | [Count Commas in Range](./Daily_Challenge/3870_Count_Commas_in_Range.md) | [Python](./Daily_Challenge/3870_Count_Commas_in_Range.py) | Easy |
 | 2026-09-07 | [940](https://www.leetcode.com/problems/distinct-subsequences-ii/) | [Distinct Subsequences II](./Daily_Challenge/940_Distinct_Subsequences_II.md) | [Python](./Daily_Challenge/940_Distinct_Subsequences_II.py) | Hard |
 | 2026-09-06 | [115](https://www.leetcode.com/problems/distinct-subsequences/) | [Distinct Subsequences](./Daily_Challenge/115_Distinct_Subsequences.md) | [Python](./Daily_Challenge/115_Distinct_Subsequences.py) | Hard |
