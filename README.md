@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-09-12 | [3414](https://www.leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Maximum Score of Non-overlapping Intervals](./Daily_Challenge/3414_Maximum_Score_of_Non-overlapping_Intervals.md) | [Python](./Daily_Challenge/3414_Maximum_Score_of_Non-overlapping_Intervals.py) | Hard |
 | 2026-09-11 | [3483](https://www.leetcode.com/problems/unique-3-digit-even-numbers/) | [Unique 3-Digit Even Numbers](./Daily_Challenge/3483_Unique_3-Digit_Even_Numbers.md) | [Python](./Daily_Challenge/3483_Unique_3-Digit_Even_Numbers.py) | Easy |
 | 2026-09-10 | [2265](https://www.leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Count Nodes Equal to Average of Subtree](./Daily_Challenge/2265_Count_Nodes_Equal_to_Average_of_Subtree.md) | [Python](./Daily_Challenge/2265_Count_Nodes_Equal_to_Average_of_Subtree.py) | Medium |
 | 2026-09-09 | [3871](https://www.leetcode.com/problems/count-commas-in-range-ii/) | [Count Commas in Range II](./Daily_Challenge/3871_Count_Commas_in_Range_II.md) | [Python](./Daily_Challenge/3871_Count_Commas_in_Range_II.py) | Medium |
