@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-09-14 | [836](https://www.leetcode.com/problems/rectangle-overlap/) | [Rectangle Overlap](./Daily_Challenge/836_Rectangle_Overlap.md) | [Python](./Daily_Challenge/836_Rectangle_Overlap.py) | Easy |
 | 2026-09-13 | [835](https://www.leetcode.com/problems/image-overlap/) | [Image Overlap](./Daily_Challenge/835_Image_Overlap.md) | [Python](./Daily_Challenge/835_Image_Overlap.py) | Medium |
 | 2026-09-12 | [3414](https://www.leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Maximum Score of Non-overlapping Intervals](./Daily_Challenge/3414_Maximum_Score_of_Non-overlapping_Intervals.md) | [Python](./Daily_Challenge/3414_Maximum_Score_of_Non-overlapping_Intervals.py) | Hard |
 | 2026-09-11 | [3483](https://www.leetcode.com/problems/unique-3-digit-even-numbers/) | [Unique 3-Digit Even Numbers](./Daily_Challenge/3483_Unique_3-Digit_Even_Numbers.md) | [Python](./Daily_Challenge/3483_Unique_3-Digit_Even_Numbers.py) | Easy |
