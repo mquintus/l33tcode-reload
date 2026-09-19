@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-09-19 | [1401](https://www.leetcode.com/problems/circle-and-rectangle-overlapping/) | [Circle and Rectangle Overlapping](./Daily_Challenge/1401_Circle_and_Rectangle_Overlapping.md) | [Python](./Daily_Challenge/1401_Circle_and_Rectangle_Overlapping.py) | Medium |
 | 2026-09-18 | [1520](https://www.leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Maximum Number of Non-Overlapping Substrings](./Daily_Challenge/1520_Maximum_Number_of_Non-Overlapping_Substrings.md) | [Python](./Daily_Challenge/1520_Maximum_Number_of_Non-Overlapping_Substrings.py) | Hard |
 | 2026-09-17 | [1477](https://www.leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./Daily_Challenge/1477_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum.md) | [Python](./Daily_Challenge/1477_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum.py) | Medium |
 | 2026-09-16 | [1621](https://www.leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Number of Sets of K Non-Overlapping Line Segments](./Daily_Challenge/1621_Number_of_Sets_of_K_Non-Overlapping_Line_Segments.md) | [Python](./Daily_Challenge/1621_Number_of_Sets_of_K_Non-Overlapping_Line_Segments.py) | Medium |
