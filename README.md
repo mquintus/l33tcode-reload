@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-09-21 | [3524](https://www.leetcode.com/problems/find-x-value-of-array-i/) | [Find X Value of Array I](./Daily_Challenge/3524_Find_X_Value_of_Array_I.md) | [Python](./Daily_Challenge/3524_Find_X_Value_of_Array_I.py) | Medium |
 | 2026-09-20 | [3498](https://www.leetcode.com/problems/reverse-degree-of-a-string/) | [Reverse Degree of a String](./Daily_Challenge/3498_Reverse_Degree_of_a_String.md) | [Python](./Daily_Challenge/3498_Reverse_Degree_of_a_String.py) | Easy |
 | 2026-09-19 | [1401](https://www.leetcode.com/problems/circle-and-rectangle-overlapping/) | [Circle and Rectangle Overlapping](./Daily_Challenge/1401_Circle_and_Rectangle_Overlapping.md) | [Python](./Daily_Challenge/1401_Circle_and_Rectangle_Overlapping.py) | Medium |
 | 2026-09-18 | [1520](https://www.leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Maximum Number of Non-Overlapping Substrings](./Daily_Challenge/1520_Maximum_Number_of_Non-Overlapping_Substrings.md) | [Python](./Daily_Challenge/1520_Maximum_Number_of_Non-Overlapping_Substrings.py) | Hard |
