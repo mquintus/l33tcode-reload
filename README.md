@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-09-22 | [3525](https://www.leetcode.com/problems/find-x-value-of-array-ii/) | [Find X Value of Array II](./Daily_Challenge/3525_Find_X_Value_of_Array_II.md) | [Python](./Daily_Challenge/3525_Find_X_Value_of_Array_II.py) | Hard |
 | 2026-09-21 | [3524](https://www.leetcode.com/problems/find-x-value-of-array-i/) | [Find X Value of Array I](./Daily_Challenge/3524_Find_X_Value_of_Array_I.md) | [Python](./Daily_Challenge/3524_Find_X_Value_of_Array_I.py) | Medium |
 | 2026-09-20 | [3498](https://www.leetcode.com/problems/reverse-degree-of-a-string/) | [Reverse Degree of a String](./Daily_Challenge/3498_Reverse_Degree_of_a_String.md) | [Python](./Daily_Challenge/3498_Reverse_Degree_of_a_String.py) | Easy |
 | 2026-09-19 | [1401](https://www.leetcode.com/problems/circle-and-rectangle-overlapping/) | [Circle and Rectangle Overlapping](./Daily_Challenge/1401_Circle_and_Rectangle_Overlapping.md) | [Python](./Daily_Challenge/1401_Circle_and_Rectangle_Overlapping.py) | Medium |
