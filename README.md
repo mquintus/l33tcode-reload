@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-09-25 | [1096](https://www.leetcode.com/problems/brace-expansion-ii/) | [Brace Expansion II](./Daily_Challenge/1096_Brace_Expansion_II.md) | [Python](./Daily_Challenge/1096_Brace_Expansion_II.py) | Hard |
 | 2026-09-24 | [3550](https://www.leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Smallest Index With Digit Sum Equal to Index](./Daily_Challenge/3550_Smallest_Index_With_Digit_Sum_Equal_to_Index.md) | [Python](./Daily_Challenge/3550_Smallest_Index_With_Digit_Sum_Equal_to_Index.py) | Easy |
 | 2026-09-23 | [1658](https://www.leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Minimum Operations to Reduce X to Zero](./Daily_Challenge/1658_Minimum_Operations_to_Reduce_X_to_Zero.md) | [Python](./Daily_Challenge/1658_Minimum_Operations_to_Reduce_X_to_Zero.py) | Medium |
 | 2026-09-22 | [3525](https://www.leetcode.com/problems/find-x-value-of-array-ii/) | [Find X Value of Array II](./Daily_Challenge/3525_Find_X_Value_of_Array_II.md) | [Python](./Daily_Challenge/3525_Find_X_Value_of_Array_II.py) | Hard |
