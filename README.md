@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-09-27 | [1190](https://www.leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Reverse Substrings Between Each Pair of Parentheses](./Daily_Challenge/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.md) | [Python](./Daily_Challenge/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.py) | Medium |
 | 2026-09-26 | [1807](https://www.leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Evaluate the Bracket Pairs of a String](./Daily_Challenge/1807_Evaluate_the_Bracket_Pairs_of_a_String.md) | [Python](./Daily_Challenge/1807_Evaluate_the_Bracket_Pairs_of_a_String.py) | Medium |
 | 2026-09-25 | [1096](https://www.leetcode.com/problems/brace-expansion-ii/) | [Brace Expansion II](./Daily_Challenge/1096_Brace_Expansion_II.md) | [Python](./Daily_Challenge/1096_Brace_Expansion_II.py) | Hard |
 | 2026-09-24 | [3550](https://www.leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Smallest Index With Digit Sum Equal to Index](./Daily_Challenge/3550_Smallest_Index_With_Digit_Sum_Equal_to_Index.md) | [Python](./Daily_Challenge/3550_Smallest_Index_With_Digit_Sum_Equal_to_Index.py) | Easy |
