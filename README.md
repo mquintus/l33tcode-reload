@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-09-28 | [1614](https://www.leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Maximum Nesting Depth of the Parentheses](./Daily_Challenge/1614_Maximum_Nesting_Depth_of_the_Parentheses.md) | [Python](./Daily_Challenge/1614_Maximum_Nesting_Depth_of_the_Parentheses.py) | Easy |
 | 2026-09-27 | [1190](https://www.leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Reverse Substrings Between Each Pair of Parentheses](./Daily_Challenge/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.md) | [Python](./Daily_Challenge/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.py) | Medium |
 | 2026-09-26 | [1807](https://www.leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Evaluate the Bracket Pairs of a String](./Daily_Challenge/1807_Evaluate_the_Bracket_Pairs_of_a_String.md) | [Python](./Daily_Challenge/1807_Evaluate_the_Bracket_Pairs_of_a_String.py) | Medium |
 | 2026-09-25 | [1096](https://www.leetcode.com/problems/brace-expansion-ii/) | [Brace Expansion II](./Daily_Challenge/1096_Brace_Expansion_II.md) | [Python](./Daily_Challenge/1096_Brace_Expansion_II.py) | Hard |
