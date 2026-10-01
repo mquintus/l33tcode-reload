@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-10-01 | [20](https://www.leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](./Daily_Challenge/20_Valid_Parentheses.md) | [Python](./Daily_Challenge/20_Valid_Parentheses.py) | Easy |
 | 2026-09-30 | [1111](https://www.leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Maximum Nesting Depth of Two Valid Parentheses Strings](./Daily_Challenge/1111_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings.md) | [Python](./Daily_Challenge/1111_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings.py) | Medium |
 | 2026-09-29 | [2267](https://www.leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [ Check if There Is a Valid Parentheses String Path](./Daily_Challenge/2267__Check_if_There_Is_a_Valid_Parentheses_String_Path.md) | [Python](./Daily_Challenge/2267__Check_if_There_Is_a_Valid_Parentheses_String_Path.py) | Hard |
 | 2026-09-28 | [1614](https://www.leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Maximum Nesting Depth of the Parentheses](./Daily_Challenge/1614_Maximum_Nesting_Depth_of_the_Parentheses.md) | [Python](./Daily_Challenge/1614_Maximum_Nesting_Depth_of_the_Parentheses.py) | Easy |
