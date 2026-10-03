@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-10-03 | [32](https://www.leetcode.com/problems/longest-valid-parentheses/) | [Longest Valid Parentheses](./Daily_Challenge/32_Longest_Valid_Parentheses.md) | [Python](./Daily_Challenge/32_Longest_Valid_Parentheses.py) | Hard |
 | 2026-10-02 | [22](https://www.leetcode.com/problems/generate-parentheses/) | [Generate Parentheses](./Daily_Challenge/22_Generate_Parentheses.md) | [Python](./Daily_Challenge/22_Generate_Parentheses.py) | Medium |
 | 2026-10-01 | [20](https://www.leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](./Daily_Challenge/20_Valid_Parentheses.md) | [Python](./Daily_Challenge/20_Valid_Parentheses.py) | Easy |
 | 2026-09-30 | [1111](https://www.leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Maximum Nesting Depth of Two Valid Parentheses Strings](./Daily_Challenge/1111_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings.md) | [Python](./Daily_Challenge/1111_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings.py) | Medium |
