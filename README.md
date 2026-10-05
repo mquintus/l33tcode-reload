@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-10-05 | [856](https://www.leetcode.com/problems/score-of-parentheses/) | [Score of Parentheses](./Daily_Challenge/856_Score_of_Parentheses.md) | [Python](./Daily_Challenge/856_Score_of_Parentheses.py) | Medium |
 | 2026-10-04 | [678](https://www.leetcode.com/problems/valid-parenthesis-string/) | [Valid Parenthesis String](./Daily_Challenge/678_Valid_Parenthesis_String.md) | [Python](./Daily_Challenge/678_Valid_Parenthesis_String.py) | Medium |
 | 2026-10-03 | [32](https://www.leetcode.com/problems/longest-valid-parentheses/) | [Longest Valid Parentheses](./Daily_Challenge/32_Longest_Valid_Parentheses.md) | [Python](./Daily_Challenge/32_Longest_Valid_Parentheses.py) | Hard |
 | 2026-10-02 | [22](https://www.leetcode.com/problems/generate-parentheses/) | [Generate Parentheses](./Daily_Challenge/22_Generate_Parentheses.md) | [Python](./Daily_Challenge/22_Generate_Parentheses.py) | Medium |
