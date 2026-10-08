@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-10-08 | [1021](https://www.leetcode.com/problems/remove-outermost-parentheses/) | [Remove Outermost Parentheses](./Daily_Challenge/1021_Remove_Outermost_Parentheses.md) | [Python](./Daily_Challenge/1021_Remove_Outermost_Parentheses.py) | Easy |
 | 2026-10-07 | [301](https://www.leetcode.com/problems/remove-invalid-parentheses/) | [Remove Invalid Parentheses](./Daily_Challenge/301_Remove_Invalid_Parentheses.md) | [Python](./Daily_Challenge/301_Remove_Invalid_Parentheses.py) | Hard |
 | 2026-10-06 | [921](https://www.leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Minimum Add to Make Parentheses Valid](./Daily_Challenge/921_Minimum_Add_to_Make_Parentheses_Valid.md) | [Python](./Daily_Challenge/921_Minimum_Add_to_Make_Parentheses_Valid.py) | Medium |
 | 2026-10-05 | [856](https://www.leetcode.com/problems/score-of-parentheses/) | [Score of Parentheses](./Daily_Challenge/856_Score_of_Parentheses.md) | [Python](./Daily_Challenge/856_Score_of_Parentheses.py) | Medium |
