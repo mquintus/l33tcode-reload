@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-10-11 | [2778](https://www.leetcode.com/problems/sum-of-squares-of-special-elements/) | [Sum of Squares of Special Elements ](./Daily_Challenge/2778_Sum_of_Squares_of_Special_Elements_.md) | [Python](./Daily_Challenge/2778_Sum_of_Squares_of_Special_Elements_.py) | Easy |
 | 2026-10-10 | [2333](https://www.leetcode.com/problems/minimum-sum-of-squared-difference/) | [Minimum Sum of Squared Difference](./Daily_Challenge/2333_Minimum_Sum_of_Squared_Difference.md) | [Python](./Daily_Challenge/2333_Minimum_Sum_of_Squared_Difference.py) | Medium |
 | 2026-10-09 | [1541](https://www.leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Minimum Insertions to Balance a Parentheses String](./Daily_Challenge/1541_Minimum_Insertions_to_Balance_a_Parentheses_String.md) | [Python](./Daily_Challenge/1541_Minimum_Insertions_to_Balance_a_Parentheses_String.py) | Medium |
 | 2026-10-08 | [1021](https://www.leetcode.com/problems/remove-outermost-parentheses/) | [Remove Outermost Parentheses](./Daily_Challenge/1021_Remove_Outermost_Parentheses.md) | [Python](./Daily_Challenge/1021_Remove_Outermost_Parentheses.py) | Easy |
