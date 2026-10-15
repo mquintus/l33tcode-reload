@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-10-15 | [2913](https://www.leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Subarrays Distinct Element Sum of Squares I](./Daily_Challenge/2913_Subarrays_Distinct_Element_Sum_of_Squares_I.md) | [Python](./Daily_Challenge/2913_Subarrays_Distinct_Element_Sum_of_Squares_I.py) | Easy |
 | 2026-10-14 | [3723](https://www.leetcode.com/problems/maximize-sum-of-squares-of-digits/) | [Maximize Sum of Squares of Digits](./Daily_Challenge/3723_Maximize_Sum_of_Squares_of_Digits.md) | [Python](./Daily_Challenge/3723_Maximize_Sum_of_Squares_of_Digits.py) | Medium |
 | 2026-10-13 | [3727](https://www.leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Maximum Alternating Sum of Squares](./Daily_Challenge/3727_Maximum_Alternating_Sum_of_Squares.md) | [Python](./Daily_Challenge/3727_Maximum_Alternating_Sum_of_Squares.py) | Medium |
 | 2026-10-12 | [2897](https://www.leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Apply Operations on Array to Maximize Sum of Squares](./Daily_Challenge/2897_Apply_Operations_on_Array_to_Maximize_Sum_of_Squares.md) | [Python](./Daily_Challenge/2897_Apply_Operations_on_Array_to_Maximize_Sum_of_Squares.py) | Hard |
