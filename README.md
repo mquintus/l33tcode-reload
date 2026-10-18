@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-10-18 | [1569](https://www.leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Number of Ways to Reorder Array to Get Same BST](./Daily_Challenge/1569_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.md) | [Python](./Daily_Challenge/1569_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.py) | Hard |
 | 2026-10-17 | [3551](https://www.leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [Minimum Swaps to Sort by Digit Sum](./Daily_Challenge/3551_Minimum_Swaps_to_Sort_by_Digit_Sum.md) | [Python](./Daily_Challenge/3551_Minimum_Swaps_to_Sort_by_Digit_Sum.py) | Medium |
 | 2026-10-16 | [2916](https://www.leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | [Subarrays Distinct Element Sum of Squares II](./Daily_Challenge/2916_Subarrays_Distinct_Element_Sum_of_Squares_II.md) | [Python](./Daily_Challenge/2916_Subarrays_Distinct_Element_Sum_of_Squares_II.py) | Hard |
 | 2026-10-15 | [2913](https://www.leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Subarrays Distinct Element Sum of Squares I](./Daily_Challenge/2913_Subarrays_Distinct_Element_Sum_of_Squares_I.md) | [Python](./Daily_Challenge/2913_Subarrays_Distinct_Element_Sum_of_Squares_I.py) | Easy |
