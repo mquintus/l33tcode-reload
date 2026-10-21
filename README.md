@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-10-21 | [3863](https://www.leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Minimum Operations to Sort a String](./Daily_Challenge/3863_Minimum_Operations_to_Sort_a_String.md) | [Python](./Daily_Challenge/3863_Minimum_Operations_to_Sort_a_String.py) | Medium |
 | 2026-10-20 | [3886](https://www.leetcode.com/problems/sum-of-sortable-integers/) | [Sum of Sortable Integers](./Daily_Challenge/3886_Sum_of_Sortable_Integers.md) | [Python](./Daily_Challenge/3886_Sum_of_Sortable_Integers.py) | Hard |
 | 2026-10-19 | [2089](https://www.leetcode.com/problems/find-target-indices-after-sorting-array/) | [Find Target Indices After Sorting Array](./Daily_Challenge/2089_Find_Target_Indices_After_Sorting_Array.md) | [Python](./Daily_Challenge/2089_Find_Target_Indices_After_Sorting_Array.py) | Easy |
 | 2026-10-18 | [1569](https://www.leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Number of Ways to Reorder Array to Get Same BST](./Daily_Challenge/1569_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.md) | [Python](./Daily_Challenge/1569_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.py) | Hard |
