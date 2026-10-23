@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-10-23 | [3644](https://www.leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [Maximum K to Sort a Permutation](./Daily_Challenge/3644_Maximum_K_to_Sort_a_Permutation.md) | [Python](./Daily_Challenge/3644_Maximum_K_to_Sort_a_Permutation.py) | Medium |
 | 2026-10-22 | [3942](https://www.leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Minimum Operations to Sort a Permutation](./Daily_Challenge/3942_Minimum_Operations_to_Sort_a_Permutation.md) | [Python](./Daily_Challenge/3942_Minimum_Operations_to_Sort_a_Permutation.py) | Medium |
 | 2026-10-21 | [3863](https://www.leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Minimum Operations to Sort a String](./Daily_Challenge/3863_Minimum_Operations_to_Sort_a_String.md) | [Python](./Daily_Challenge/3863_Minimum_Operations_to_Sort_a_String.py) | Medium |
 | 2026-10-20 | [3886](https://www.leetcode.com/problems/sum-of-sortable-integers/) | [Sum of Sortable Integers](./Daily_Challenge/3886_Sum_of_Sortable_Integers.md) | [Python](./Daily_Challenge/3886_Sum_of_Sortable_Integers.py) | Hard |
