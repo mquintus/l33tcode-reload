@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-10-29 | [3841](https://www.leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Palindromic Path Queries in a Tree](./Daily_Challenge/3841_Palindromic_Path_Queries_in_a_Tree.md) | [Python](./Daily_Challenge/3841_Palindromic_Path_Queries_in_a_Tree.py) | Hard |
 | 2026-10-28 | [3882](https://www.leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Minimum XOR Path in a Grid](./Daily_Challenge/3882_Minimum_XOR_Path_in_a_Grid.md) | [Python](./Daily_Challenge/3882_Minimum_XOR_Path_in_a_Grid.py) | Medium |
 | 2026-10-26 | [3619](https://www.leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Count Islands With Total Value Divisible by K](./Daily_Challenge/3619_Count_Islands_With_Total_Value_Divisible_by_K.md) | [Python](./Daily_Challenge/3619_Count_Islands_With_Total_Value_Divisible_by_K.py) | Medium |
 | 2026-10-25 | [1254](https://www.leetcode.com/problems/number-of-closed-islands/) | [Number of Closed Islands](./Daily_Challenge/1254_Number_of_Closed_Islands.md) | [Python](./Daily_Challenge/1254_Number_of_Closed_Islands.py) | Medium |
