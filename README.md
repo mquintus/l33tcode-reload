@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-11-01 | [453](https://www.leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Minimum Moves to Equal Array Elements](./Daily_Challenge/453_Minimum_Moves_to_Equal_Array_Elements.md) | [Python](./Daily_Challenge/453_Minimum_Moves_to_Equal_Array_Elements.py) | Medium |
 | 2026-10-31 | [3665](https://www.leetcode.com/problems/twisted-mirror-path-count/) | [Twisted Mirror Path Count](./Daily_Challenge/3665_Twisted_Mirror_Path_Count.md) | [Python](./Daily_Challenge/3665_Twisted_Mirror_Path_Count.py) | Medium |
 | 2026-10-30 | [3970](https://www.leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [Shortest Path With At Most K Consecutive Identical Characters](./Daily_Challenge/3970_Shortest_Path_With_At_Most_K_Consecutive_Identical_Characters.md) | [Python](./Daily_Challenge/3970_Shortest_Path_With_At_Most_K_Consecutive_Identical_Characters.py) | Medium |
 | 2026-10-29 | [3841](https://www.leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Palindromic Path Queries in a Tree](./Daily_Challenge/3841_Palindromic_Path_Queries_in_a_Tree.md) | [Python](./Daily_Challenge/3841_Palindromic_Path_Queries_in_a_Tree.py) | Hard |
