@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-11-05 | [1385](https://www.leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Find the Distance Value Between Two Arrays](./Daily_Challenge/1385_Find_the_Distance_Value_Between_Two_Arrays.md) | [Python](./Daily_Challenge/1385_Find_the_Distance_Value_Between_Two_Arrays.py) | Easy |
 | 2026-11-04 | [3505](https://www.leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | [Minimum Operations to Make Elements Within K Subarrays Equal](./Daily_Challenge/3505_Minimum_Operations_to_Make_Elements_Within_K_Subarrays_Equal.md) | [Python](./Daily_Challenge/3505_Minimum_Operations_to_Make_Elements_Within_K_Subarrays_Equal.py) | Hard |
 | 2026-11-03 | [3736](https://www.leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [Minimum Moves to Equal Array Elements III](./Daily_Challenge/3736_Minimum_Moves_to_Equal_Array_Elements_III.md) | [Python](./Daily_Challenge/3736_Minimum_Moves_to_Equal_Array_Elements_III.py) | Easy |
 | 2026-11-02 | [462](https://www.leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Minimum Moves to Equal Array Elements II](./Daily_Challenge/462_Minimum_Moves_to_Equal_Array_Elements_II.md) | [Python](./Daily_Challenge/462_Minimum_Moves_to_Equal_Array_Elements_II.py) | Medium |
