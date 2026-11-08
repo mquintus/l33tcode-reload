@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-11-08 | [1267](https://www.leetcode.com/problems/count-servers-that-communicate/) | [Count Servers that Communicate](./Daily_Challenge/1267_Count_Servers_that_Communicate.md) | [Python](./Daily_Challenge/1267_Count_Servers_that_Communicate.py) | Medium |
 | 2026-11-07 | [1882](https://www.leetcode.com/problems/process-tasks-using-servers/) | [Process Tasks Using Servers](./Daily_Challenge/1882_Process_Tasks_Using_Servers.md) | [Python](./Daily_Challenge/1882_Process_Tasks_Using_Servers.py) | Medium |
 | 2026-11-06 | [2747](https://www.leetcode.com/problems/count-zero-request-servers/) | [Count Zero Request Servers](./Daily_Challenge/2747_Count_Zero_Request_Servers.md) | [Python](./Daily_Challenge/2747_Count_Zero_Request_Servers.py) | Medium |
 | 2026-11-05 | [1385](https://www.leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Find the Distance Value Between Two Arrays](./Daily_Challenge/1385_Find_the_Distance_Value_Between_Two_Arrays.md) | [Python](./Daily_Challenge/1385_Find_the_Distance_Value_Between_Two_Arrays.py) | Easy |
