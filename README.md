@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-11-10 | [3693](https://www.leetcode.com/problems/climbing-stairs-ii/) | [Climbing Stairs II](./Daily_Challenge/3693_Climbing_Stairs_II.md) | [Python](./Daily_Challenge/3693_Climbing_Stairs_II.py) | Medium |
 | 2026-11-09 | [1606](https://www.leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [Find Servers That Handled Most Number of Requests](./Daily_Challenge/1606_Find_Servers_That_Handled_Most_Number_of_Requests.md) | [Python](./Daily_Challenge/1606_Find_Servers_That_Handled_Most_Number_of_Requests.py) | Hard |
 | 2026-11-08 | [1267](https://www.leetcode.com/problems/count-servers-that-communicate/) | [Count Servers that Communicate](./Daily_Challenge/1267_Count_Servers_that_Communicate.md) | [Python](./Daily_Challenge/1267_Count_Servers_that_Communicate.py) | Medium |
 | 2026-11-07 | [1882](https://www.leetcode.com/problems/process-tasks-using-servers/) | [Process Tasks Using Servers](./Daily_Challenge/1882_Process_Tasks_Using_Servers.md) | [Python](./Daily_Challenge/1882_Process_Tasks_Using_Servers.py) | Medium |
