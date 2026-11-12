@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-11-12 | [3105](https://www.leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Longest Strictly Increasing or Strictly Decreasing Subarray](./Daily_Challenge/3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.md) | [Python](./Daily_Challenge/3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.py) | Easy |
 | 2026-11-11 | [3789](https://www.leetcode.com/problems/minimum-cost-to-acquire-required-items/) | [Minimum Cost to Acquire Required Items](./Daily_Challenge/3789_Minimum_Cost_to_Acquire_Required_Items.md) | [Python](./Daily_Challenge/3789_Minimum_Cost_to_Acquire_Required_Items.py) | Medium |
 | 2026-11-10 | [3693](https://www.leetcode.com/problems/climbing-stairs-ii/) | [Climbing Stairs II](./Daily_Challenge/3693_Climbing_Stairs_II.md) | [Python](./Daily_Challenge/3693_Climbing_Stairs_II.py) | Medium |
 | 2026-11-09 | [1606](https://www.leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [Find Servers That Handled Most Number of Requests](./Daily_Challenge/1606_Find_Servers_That_Handled_Most_Number_of_Requests.md) | [Python](./Daily_Challenge/1606_Find_Servers_That_Handled_Most_Number_of_Requests.py) | Hard |
