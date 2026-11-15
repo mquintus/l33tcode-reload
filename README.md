@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-11-15 | [1524](https://www.leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [Number of Sub-arrays With Odd Sum](./Daily_Challenge/1524_Number_of_Sub-arrays_With_Odd_Sum.md) | [Python](./Daily_Challenge/1524_Number_of_Sub-arrays_With_Odd_Sum.py) | Medium |
 | 2026-11-14 | [3364](https://www.leetcode.com/problems/minimum-positive-sum-subarray/) | [Minimum Positive Sum Subarray ](./Daily_Challenge/3364_Minimum_Positive_Sum_Subarray_.md) | [Python](./Daily_Challenge/3364_Minimum_Positive_Sum_Subarray_.py) | Easy |
 | 2026-11-13 | [3420](https://www.leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [Count Non-Decreasing Subarrays After K Operations](./Daily_Challenge/3420_Count_Non-Decreasing_Subarrays_After_K_Operations.md) | [Python](./Daily_Challenge/3420_Count_Non-Decreasing_Subarrays_After_K_Operations.py) | Hard |
 | 2026-11-12 | [3105](https://www.leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Longest Strictly Increasing or Strictly Decreasing Subarray](./Daily_Challenge/3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.md) | [Python](./Daily_Challenge/3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.py) | Easy |
