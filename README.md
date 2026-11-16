@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-11-16 | [2243](https://www.leetcode.com/problems/calculate-digit-sum-of-a-string/) | [Calculate Digit Sum of a String](./Daily_Challenge/2243_Calculate_Digit_Sum_of_a_String.md) | [Python](./Daily_Challenge/2243_Calculate_Digit_Sum_of_a_String.py) | Easy |
 | 2026-11-15 | [1524](https://www.leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [Number of Sub-arrays With Odd Sum](./Daily_Challenge/1524_Number_of_Sub-arrays_With_Odd_Sum.md) | [Python](./Daily_Challenge/1524_Number_of_Sub-arrays_With_Odd_Sum.py) | Medium |
 | 2026-11-14 | [3364](https://www.leetcode.com/problems/minimum-positive-sum-subarray/) | [Minimum Positive Sum Subarray ](./Daily_Challenge/3364_Minimum_Positive_Sum_Subarray_.md) | [Python](./Daily_Challenge/3364_Minimum_Positive_Sum_Subarray_.py) | Easy |
 | 2026-11-13 | [3420](https://www.leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [Count Non-Decreasing Subarrays After K Operations](./Daily_Challenge/3420_Count_Non-Decreasing_Subarrays_After_K_Operations.md) | [Python](./Daily_Challenge/3420_Count_Non-Decreasing_Subarrays_After_K_Operations.py) | Hard |
