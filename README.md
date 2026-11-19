@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-11-19 | [2567](https://www.leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Minimum Score by Changing Two Elements](./Daily_Challenge/2567_Minimum_Score_by_Changing_Two_Elements.md) | [Python](./Daily_Challenge/2567_Minimum_Score_by_Changing_Two_Elements.py) | Medium |
 | 2026-11-18 | [2914](https://www.leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [Minimum Number of Changes to Make Binary String Beautiful](./Daily_Challenge/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.md) | [Python](./Daily_Challenge/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.py) | Medium |
 | 2026-11-17 | [2911](https://www.leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | [Minimum Changes to Make K Semi-palindromes](./Daily_Challenge/2911_Minimum_Changes_to_Make_K_Semi-palindromes.md) | [Python](./Daily_Challenge/2911_Minimum_Changes_to_Make_K_Semi-palindromes.py) | Hard |
 | 2026-11-16 | [2243](https://www.leetcode.com/problems/calculate-digit-sum-of-a-string/) | [Calculate Digit Sum of a String](./Daily_Challenge/2243_Calculate_Digit_Sum_of_a_String.md) | [Python](./Daily_Challenge/2243_Calculate_Digit_Sum_of_a_String.py) | Easy |
