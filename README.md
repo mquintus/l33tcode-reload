@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-11-21 | [3331](https://www.leetcode.com/problems/find-subtree-sizes-after-changes/) | [Find Subtree Sizes After Changes](./Daily_Challenge/3331_Find_Subtree_Sizes_After_Changes.md) | [Python](./Daily_Challenge/3331_Find_Subtree_Sizes_After_Changes.py) | Medium |
 | 2026-11-20 | [3041](https://www.leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [Maximize Consecutive Elements in an Array After Modification](./Daily_Challenge/3041_Maximize_Consecutive_Elements_in_an_Array_After_Modification.md) | [Python](./Daily_Challenge/3041_Maximize_Consecutive_Elements_in_an_Array_After_Modification.py) | Hard |
 | 2026-11-19 | [2567](https://www.leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Minimum Score by Changing Two Elements](./Daily_Challenge/2567_Minimum_Score_by_Changing_Two_Elements.md) | [Python](./Daily_Challenge/2567_Minimum_Score_by_Changing_Two_Elements.py) | Medium |
 | 2026-11-18 | [2914](https://www.leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [Minimum Number of Changes to Make Binary String Beautiful](./Daily_Challenge/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.md) | [Python](./Daily_Challenge/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.py) | Medium |
