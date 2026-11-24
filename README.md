@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-11-24 | [3411](https://www.leetcode.com/problems/maximum-subarray-with-equal-products/) | [Maximum Subarray With Equal Products](./Daily_Challenge/3411_Maximum_Subarray_With_Equal_Products.md) | [Python](./Daily_Challenge/3411_Maximum_Subarray_With_Equal_Products.py) | Easy |
 | 2026-11-23 | [1352](https://www.leetcode.com/problems/product-of-the-last-k-numbers/) | [Product of the Last K Numbers](./Daily_Challenge/1352_Product_of_the_Last_K_Numbers.md) | [Python](./Daily_Challenge/1352_Product_of_the_Last_K_Numbers.py) | Medium |
 | 2026-11-22 | [2124](https://www.leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | [Check if All A's Appears Before All B's](./Daily_Challenge/2124_Check_if_All_A's_Appears_Before_All_B's.md) | [Python](./Daily_Challenge/2124_Check_if_All_A's_Appears_Before_All_B's.py) | Easy |
 | 2026-11-21 | [3331](https://www.leetcode.com/problems/find-subtree-sizes-after-changes/) | [Find Subtree Sizes After Changes](./Daily_Challenge/3331_Find_Subtree_Sizes_After_Changes.md) | [Python](./Daily_Challenge/3331_Find_Subtree_Sizes_After_Changes.py) | Medium |
