@@ -10,6 +10,7 @@ Approaches:
 
 | Date       |   #  | Title                         | Solution | Difficulty |
 |------------|------| ----------------------------- | -------- | ---------- | 
+| 2026-11-28 | [3947](https://www.leetcode.com/problems/maximum-number-of-items-from-sale-ii/) | [Maximum Number of Items From Sale II](./Daily_Challenge/3947_Maximum_Number_of_Items_From_Sale_II.md) | [Python](./Daily_Challenge/3947_Maximum_Number_of_Items_From_Sale_II.py) | Medium |
 | 2026-11-27 | [3946](https://www.leetcode.com/problems/maximum-number-of-items-from-sale-i/) | [Maximum Number of Items From Sale I](./Daily_Challenge/3946_Maximum_Number_of_Items_From_Sale_I.md) | [Python](./Daily_Challenge/3946_Maximum_Number_of_Items_From_Sale_I.py) | Medium |
 | 2026-11-26 | [3360](https://www.leetcode.com/problems/stone-removal-game/) | [Stone Removal Game](./Daily_Challenge/3360_Stone_Removal_Game.md) | [Python](./Daily_Challenge/3360_Stone_Removal_Game.py) | Easy |
 | 2026-11-25 | [3934](https://www.leetcode.com/problems/smallest-unique-subarray/) | [Smallest Unique Subarray](./Daily_Challenge/3934_Smallest_Unique_Subarray.md) | [Python](./Daily_Challenge/3934_Smallest_Unique_Subarray.py) | Hard |
